@@ -1,7 +1,7 @@
 import feedparser
 import json
 
-FEED_URL = "https://example.com/rss"  # Replace with actual feed
+FEED_URL = "https://feeds.feedburner.com/TheHackersNews"  # Add new feeds here
 
 feed = feedparser.parse(FEED_URL)
 entries = []
