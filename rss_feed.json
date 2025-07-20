@@ -1,0 +1,62 @@
+[
+  {
+    "title": "China's Massistant Tool Secretly Extracts SMS, GPS Data, and Images From Confiscated Phones",
+    "link": "https://thehackernews.com/2025/07/chinas-massistant-tool-secretly.html",
+    "published": "Sat, 19 Jul 2025 00:12:00 +0530",
+    "summary": "Cybersecurity researchers have shed light on a mobile forensics tool called Massistant that's used by law enforcement authorities in China to gather information from seized mobile devices.\nThe hacking tool, believed to be a successor of MFSocket, is developed by a Chinese company named SDIC Intelligence Xiamen Information Co., Ltd., which was formerly known as Meiya Pico. It specializes in the"
+  },
+  {
+    "title": "UNG0002 Group Hits China, Hong Kong, Pakistan Using LNK Files and RATs in Twin Campaigns",
+    "link": "https://thehackernews.com/2025/07/ung0002-group-hits-china-hong-kong.html",
+    "published": "Fri, 18 Jul 2025 23:53:00 +0530",
+    "summary": "Multiple sectors in China, Hong Kong, and Pakistan have become the target of a threat activity cluster tracked as UNG0002 (aka Unknown Group 0002) as part of a broader cyber espionage campaign.\n\"This threat entity demonstrates a strong preference for using shortcut files (LNK), VBScript, and post-exploitation tools such as Cobalt Strike and Metasploit, while consistently deploying CV-themed"
+  },
+  {
+    "title": "Ivanti Zero-Days Exploited to Drop MDifyLoader and Launch In-Memory Cobalt Strike Attacks",
+    "link": "https://thehackernews.com/2025/07/ivanti-zero-days-exploited-to-drop.html",
+    "published": "Fri, 18 Jul 2025 23:43:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new malware called MDifyLoader that has been observed in conjunction with cyber attacks exploiting security flaws in Ivanti Connect Secure (ICS) appliances.\nAccording to a report published by JPCERT/CC today, the threat actors behind the exploitation of CVE-2025-0282 and CVE-2025-22457 in intrusions observed between December 2024 and July"
+  },
+  {
+    "title": "Critical NVIDIA Container Toolkit Flaw Allows Privilege Escalation on AI Cloud Services",
+    "link": "https://thehackernews.com/2025/07/critical-nvidia-container-toolkit-flaw.html",
+    "published": "Fri, 18 Jul 2025 17:02:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed a critical container escape vulnerability in the NVIDIA Container Toolkit that could pose a severe threat to managed AI cloud services.\nThe vulnerability, tracked as CVE-2025-23266, carries a CVSS score of 9.0 out of 10.0. It has been codenamed NVIDIAScape by Google-owned cloud security company Wiz.\n\"NVIDIA Container Toolkit for all platforms contains a"
+  },
+  {
+    "title": "CERT-UA Discovers LAMEHUG Malware Linked to APT28, Using LLM for Phishing Campaign",
+    "link": "https://thehackernews.com/2025/07/cert-ua-discovers-lamehug-malware.html",
+    "published": "Fri, 18 Jul 2025 17:02:00 +0530",
+    "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a phishing campaign that's designed to deliver a malware codenamed LAMEHUG.\n\"An obvious feature of LAMEHUG is the use of LLM (large language model), used to generate commands based on their textual representation (description),\" CERT-UA said in a Thursday advisory.\nThe activity has been attributed with medium"
+  },
+  {
+    "title": "Google Sues 25 Chinese Entities Over BADBOX 2.0 Botnet Affecting 10M Android Devices",
+    "link": "https://thehackernews.com/2025/07/google-sues-25-chinese-entities-over.html",
+    "published": "Fri, 18 Jul 2025 16:33:00 +0530",
+    "summary": "Google on Thursday revealed it's pursuing legal action in New York federal court against 25 unnamed individuals or entities in China for allegedly operating BADBOX 2.0 botnet and residential proxy infrastructure.\n\"The BADBOX 2.0 botnet compromised over 10 million uncertified devices running Android's open-source software (Android Open Source Project), which lacks Google's security protections,\""
+  },
+  {
+    "title": "From Backup to Cyber Resilience: Why IT Leaders Must Rethink Backup in the Age of Ransomware",
+    "link": "https://thehackernews.com/2025/07/how-cyber-resilience-helps-it-defend-against-ransomwa.html",
+    "published": "Fri, 18 Jul 2025 16:00:00 +0530",
+    "summary": "With IT outages and disruptions escalating, IT teams are shifting their focus beyond simply backing up data to maintaining operations during an incident. One of the key drivers behind this shift is the growing threat of ransomware, which continues to evolve in both frequency and complexity. Ransomware-as-a-Service (RaaS) platforms have made it possible for even inexperienced threat actors with"
+  },
+  {
+    "title": "Hackers Use GitHub Repositories to Host Amadey Malware and Data Stealers, Bypassing Filters",
+    "link": "https://thehackernews.com/2025/07/hackers-use-github-repositories-to-host.html",
+    "published": "Thu, 17 Jul 2025 23:10:00 +0530",
+    "summary": "Threat actors are leveraging public GitHub repositories to host malicious payloads and distribute them via Amadey as part of a campaign observed in April 2025.\n\"The MaaS [malware-as-a-service] operators used fake GitHub accounts to host payloads, tools, and Amadey plug-ins, likely as an attempt to bypass web filtering and for ease of use,\" Cisco Talos researchers Chris Neal and Craig Jackson"
+  },
+  {
+    "title": "Hackers Exploit Apache HTTP Server Flaw to Deploy Linuxsys Cryptocurrency Miner",
+    "link": "https://thehackernews.com/2025/07/hackers-exploit-apache-http-server-flaw.html",
+    "published": "Thu, 17 Jul 2025 19:41:00 +0530",
+    "summary": "Cybersecurity researchers have discovered a new campaign that exploits a known security flaw impacting Apache HTTP Server to deliver a cryptocurrency miner called Linuxsys.\nThe vulnerability in question is CVE-2021-41773 (CVSS score: 7.5), a high-severity path traversal vulnerability in Apache HTTP Server version 2.4.49 that could result in remote code execution.\n\"The attacker leverages"
+  },
+  {
+    "title": "Europol Disrupts NoName057(16) Hacktivist Group Linked to DDoS Attacks Against Ukraine",
+    "link": "https://thehackernews.com/2025/07/europol-disrupts-noname05716-hacktivist.html",
+    "published": "Thu, 17 Jul 2025 17:00:00 +0530",
+    "summary": "An international operation coordinated by Europol has disrupted the infrastructure of a pro-Russian hacktivist group known as NoName057(16) that has been linked to a string of distributed denial-of-service (DDoS) attacks against Ukraine and its allies.\nThe actions have led to the dismantling of a major part of the group's central server infrastructure and more than 100 systems across the world."
+  }
+]
