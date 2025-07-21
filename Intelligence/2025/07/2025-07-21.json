@@ -1,0 +1,62 @@
+[
+  {
+    "title": "EncryptHub Targets Web3 Developers Using Fake AI Platforms to Deploy Fickle Stealer Malware",
+    "link": "https://thehackernews.com/2025/07/encrypthub-targets-web3-developers.html",
+    "published": "Sun, 20 Jul 2025 21:43:00 +0530",
+    "summary": "The financially motivated threat actor known as EncryptHub (aka LARVA-208 and Water Gamayun) has been attributed to a new campaign that's targeting Web3 developers to infect them with information stealer malware.\n\"LARVA-208 has evolved its tactics, using fake AI platforms (e.g., Norlax AI, mimicking Teampilot) to lure victims with job offers or portfolio review requests,\" Swiss cybersecurity"
+  },
+  {
+    "title": "Critical Unpatched SharePoint Zero-Day Actively Exploited, Breaches 75+ Company Servers",
+    "link": "https://thehackernews.com/2025/07/critical-microsoft-sharepoint-flaw.html",
+    "published": "Sun, 20 Jul 2025 15:22:00 +0530",
+    "summary": "A critical security vulnerability in Microsoft SharePoint Server has been weaponized as part of an \"active, large-scale\" exploitation campaign.\nThe zero-day flaw, tracked as CVE-2025-53770 (CVSS score: 9.8), has been described as a variant of CVE-2025-49706 (CVSS score: 6.3), a spoofing bug in Microsoft SharePoint Server that was addressed by the tech giant as part of its July 2025 Patch Tuesday"
+  },
+  {
+    "title": "Malware Injected into 5 npm Packages After Maintainer Tokens Stolen in Phishing Attack",
+    "link": "https://thehackernews.com/2025/07/malware-injected-into-6-npm-packages.html",
+    "published": "Sun, 20 Jul 2025 15:10:00 +0530",
+    "summary": "Cybersecurity researchers have alerted to a supply chain attack that has targeted popular npm packages via a phishing campaign designed to steal the project maintainers' npm tokens.\nThe captured tokens were then used to publish malicious versions of the packages directly to the registry without any source code commits or pull requests on their respective GitHub repositories.\nThe list of affected"
+  },
+  {
+    "title": "Hackers Exploit Critical CrushFTP Flaw to Gain Admin Access on Unpatched Servers",
+    "link": "https://thehackernews.com/2025/07/hackers-exploit-critical-crushftp-flaw.html",
+    "published": "Sun, 20 Jul 2025 13:05:00 +0530",
+    "summary": "A newly disclosed critical security flaw in CrushFTP has come under active exploitation in the wild. Assigned the CVE identifier CVE-2025-54309, the vulnerability carries a CVSS score of 9.0.\n\"CrushFTP 10 before 10.8.5 and 11 before 11.3.4_23, when the DMZ proxy feature is not used, mishandles AS2 validation and consequently allows remote attackers to obtain admin access via HTTPS,\" according to"
+  },
+  {
+    "title": "China's Massistant Tool Secretly Extracts SMS, GPS Data, and Images From Confiscated Phones",
+    "link": "https://thehackernews.com/2025/07/chinas-massistant-tool-secretly.html",
+    "published": "Sat, 19 Jul 2025 00:12:00 +0530",
+    "summary": "Cybersecurity researchers have shed light on a mobile forensics tool called Massistant that's used by law enforcement authorities in China to gather information from seized mobile devices.\nThe hacking tool, believed to be a successor of MFSocket, is developed by a Chinese company named SDIC Intelligence Xiamen Information Co., Ltd., which was formerly known as Meiya Pico. It specializes in the"
+  },
+  {
+    "title": "UNG0002 Group Hits China, Hong Kong, Pakistan Using LNK Files and RATs in Twin Campaigns",
+    "link": "https://thehackernews.com/2025/07/ung0002-group-hits-china-hong-kong.html",
+    "published": "Fri, 18 Jul 2025 23:53:00 +0530",
+    "summary": "Multiple sectors in China, Hong Kong, and Pakistan have become the target of a threat activity cluster tracked as UNG0002 (aka Unknown Group 0002) as part of a broader cyber espionage campaign.\n\"This threat entity demonstrates a strong preference for using shortcut files (LNK), VBScript, and post-exploitation tools such as Cobalt Strike and Metasploit, while consistently deploying CV-themed"
+  },
+  {
+    "title": "Ivanti Zero-Days Exploited to Drop MDifyLoader and Launch In-Memory Cobalt Strike Attacks",
+    "link": "https://thehackernews.com/2025/07/ivanti-zero-days-exploited-to-drop.html",
+    "published": "Fri, 18 Jul 2025 23:43:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new malware called MDifyLoader that has been observed in conjunction with cyber attacks exploiting security flaws in Ivanti Connect Secure (ICS) appliances.\nAccording to a report published by JPCERT/CC today, the threat actors behind the exploitation of CVE-2025-0282 and CVE-2025-22457 in intrusions observed between December 2024 and July"
+  },
+  {
+    "title": "CERT-UA Discovers LAMEHUG Malware Linked to APT28, Using LLM for Phishing Campaign",
+    "link": "https://thehackernews.com/2025/07/cert-ua-discovers-lamehug-malware.html",
+    "published": "Fri, 18 Jul 2025 17:02:00 +0530",
+    "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a phishing campaign that's designed to deliver a malware codenamed LAMEHUG.\n\"An obvious feature of LAMEHUG is the use of LLM (large language model), used to generate commands based on their textual representation (description),\" CERT-UA said in a Thursday advisory.\nThe activity has been attributed with medium"
+  },
+  {
+    "title": "Critical NVIDIA Container Toolkit Flaw Allows Privilege Escalation on AI Cloud Services",
+    "link": "https://thehackernews.com/2025/07/critical-nvidia-container-toolkit-flaw.html",
+    "published": "Fri, 18 Jul 2025 17:02:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed a critical container escape vulnerability in the NVIDIA Container Toolkit that could pose a severe threat to managed AI cloud services.\nThe vulnerability, tracked as CVE-2025-23266, carries a CVSS score of 9.0 out of 10.0. It has been codenamed NVIDIAScape by Google-owned cloud security company Wiz.\n\"NVIDIA Container Toolkit for all platforms contains a"
+  },
+  {
+    "title": "Google Sues 25 Chinese Entities Over BADBOX 2.0 Botnet Affecting 10M Android Devices",
+    "link": "https://thehackernews.com/2025/07/google-sues-25-chinese-entities-over.html",
+    "published": "Fri, 18 Jul 2025 16:33:00 +0530",
+    "summary": "Google on Thursday revealed it's pursuing legal action in New York federal court against 25 unnamed individuals or entities in China for allegedly operating BADBOX 2.0 botnet and residential proxy infrastructure.\n\"The BADBOX 2.0 botnet compromised over 10 million uncertified devices running Android's open-source software (Android Open Source Project), which lacks Google's security protections,\""
+  }
+]
