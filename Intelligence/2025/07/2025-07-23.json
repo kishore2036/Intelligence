@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Microsoft Links Ongoing SharePoint Exploits to Three Chinese Hacker Groups",
+    "link": "https://thehackernews.com/2025/07/microsoft-links-ongoing-sharepoint.html",
+    "published": "Tue, 22 Jul 2025 21:15:00 +0530",
+    "summary": "Microsoft has formally tied the exploitation of security flaws in internet-facing SharePoint Server instances to two Chinese hacking groups called Linen Typhoon and Violet Typhoon as early as July 7, 2025, corroborating earlier reports.\nThe tech giant said it also observed a third China-based threat actor, which it tracks as Storm-2603, weaponizing the flaws as well to obtain initial access to"
+  },
+  {
+    "title": "Cisco Confirms Active Exploits Targeting ISE Flaws Enabling Unauthenticated Root Access",
+    "link": "https://thehackernews.com/2025/07/cisco-confirms-active-exploits.html",
+    "published": "Tue, 22 Jul 2025 18:38:00 +0530",
+    "summary": "Cisco on Monday updated its advisory of a set of recently disclosed security flaws in Identity Services Engine (ISE) and ISE Passive Identity Connector (ISE-PIC) to acknowledge active exploitation.\n\"In July 2025, the Cisco PSIRT [Product Security Incident Response Team], became aware of attempted exploitation of some of these vulnerabilities in the wild,\" the company said in an alert.\nThe"
+  },
+  {
+    "title": "Credential Theft and Remote Access Surge as AllaKore, PureRAT, and Hijack Loader Proliferate",
+    "link": "https://thehackernews.com/2025/07/credential-theft-and-remote-access.html",
+    "published": "Tue, 22 Jul 2025 18:30:00 +0530",
+    "summary": "Mexican organizations are still being targeted by threat actors to deliver a modified version of AllaKore RAT and SystemBC as part of a long-running campaign.&nbsp;\nThe activity has been attributed by Arctic Wolf Labs to a financially motivated hacking group called Greedy Sponge. It's believed to be active since early 2021, indiscriminately targeting a wide range of sectors, such as retail,"
+  },
+  {
+    "title": "How to Advance from SOC Manager to CISO?",
+    "link": "https://thehackernews.com/2025/07/how-to-advance-from-soc-manager-to-ciso.html",
+    "published": "Tue, 22 Jul 2025 16:30:00 +0530",
+    "summary": "Making the move from managing a security operations center (SOC) to being a chief information security officer (CISO) is a significant career leap. Not only do you need a solid foundation of tech knowledge but also leadership skills and business smarts.&nbsp;\nThis article will guide you through the practical steps and skills you’ll need to nab an executive cybersecurity job and make the"
+  },
+  {
+    "title": "Hackers Exploit SharePoint Zero-Day Since July 7 to Steal Keys, Maintain Persistent Access",
+    "link": "https://thehackernews.com/2025/07/hackers-exploit-sharepoint-zero-day.html",
+    "published": "Tue, 22 Jul 2025 13:29:00 +0530",
+    "summary": "The recently disclosed critical Microsoft SharePoint vulnerability has been under exploitation as early as July 7, 2025, according to findings from Check Point Research.\nThe cybersecurity company said it observed first exploitation attempts targeting an unnamed major Western government, with the activity intensifying on July 18 and 19, spanning government, telecommunications, and software"
+  },
+  {
+    "title": "Iran-Linked DCHSpy Android Malware Masquerades as VPN Apps to Spy on Dissidents",
+    "link": "https://thehackernews.com/2025/07/iran-linked-dchspy-android-malware.html",
+    "published": "Mon, 21 Jul 2025 22:48:00 +0530",
+    "summary": "Cybersecurity researchers have unearthed new Android spyware artifacts that are likely affiliated with the Iranian Ministry of Intelligence and Security (MOIS) and have been distributed to targets by masquerading as VPN apps and Starlink, a satellite internet connection service offered by SpaceX.\nMobile security vendor Lookout said it discovered four samples of a surveillanceware tool it tracks"
+  },
+  {
+    "title": "China-Linked Hackers Launch Targeted Espionage Campaign on African IT Infrastructure",
+    "link": "https://thehackernews.com/2025/07/china-linked-hackers-launch-targeted.html",
+    "published": "Mon, 21 Jul 2025 21:57:00 +0530",
+    "summary": "The China-linked cyber espionage group tracked as APT41 has been attributed to a new campaign targeting government IT services in the African region.\n\"The attackers used hardcoded names of internal services, IP addresses, and proxy servers embedded within their malware,\" Kaspersky researchers Denis Kulik and Daniil Pogorelov said. \"One of the C2s [command-and-control servers] was a captive"
+  },
+  {
+    "title": "⚡ Weekly Recap: SharePoint 0-Day, Chrome Exploit, macOS Spyware, NVIDIA Toolkit RCE and More",
+    "link": "https://thehackernews.com/2025/07/weekly-recap-sharepoint-0-day-chrome.html",
+    "published": "Mon, 21 Jul 2025 17:08:00 +0530",
+    "summary": "Even in well-secured environments, attackers are getting in—not with flashy exploits, but by quietly taking advantage of weak settings, outdated encryption, and trusted tools left unprotected.\nThese attacks don’t depend on zero-days. They work by staying unnoticed—slipping through the cracks in what we monitor and what we assume is safe. What once looked suspicious now blends in, thanks to"
+  },
+  {
+    "title": "Assessing the Role of AI in Zero Trust",
+    "link": "https://thehackernews.com/2025/07/assessing-role-of-ai-in-zero-trust.html",
+    "published": "Mon, 21 Jul 2025 16:55:00 +0530",
+    "summary": "By 2025, Zero Trust has evolved from a conceptual framework into an essential pillar of modern security. No longer merely theoretical, it’s now a requirement that organizations must adopt. A robust, defensible architecture built on Zero Trust principles does more than satisfy baseline regulatory mandates. It underpins cyber resilience, secures third-party partnerships, and ensures uninterrupted"
+  },
+  {
+    "title": "PoisonSeed Hackers Bypass FIDO Keys Using QR Phishing and Cross-Device Sign-In Abuse",
+    "link": "https://thehackernews.com/2025/07/poisonseed-hackers-bypass-fido-keys.html",
+    "published": "Mon, 21 Jul 2025 11:43:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed a novel attack technique that allows threat actors to downgrade Fast IDentity Online (FIDO) key protections by deceiving users into approving authentication requests from spoofed company login portals.FIDO keys are hardware- or software-based authenticators designed to eliminate phishing by binding logins to specific domains using public-private key"
+  }
+]
