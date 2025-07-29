@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Hackers Breach Toptal GitHub, Publish 10 Malicious npm Packages With 5,000 Downloads",
+    "link": "https://thehackernews.com/2025/07/hackers-breach-toptal-github-publish-10.html",
+    "published": "Mon, 28 Jul 2025 23:01:00 +0530",
+    "summary": "In what's the latest instance of a software supply chain attack, unknown threat actors managed to compromise Toptal's GitHub organization account and leveraged that access to publish 10 malicious packages to the npm registry.\nThe packages contained code to exfiltrate GitHub authentication tokens and destroy victim systems, Socket said in a report published last week. In addition, 73 repositories"
+  },
+  {
+    "title": "⚡ Weekly Recap — SharePoint Breach, Spyware, IoT Hijacks, DPRK Fraud, Crypto Drains and More",
+    "link": "https://thehackernews.com/2025/07/weekly-recap-sharepoint-breach-spyware.html",
+    "published": "Mon, 28 Jul 2025 17:43:00 +0530",
+    "summary": "Some risks don’t breach the perimeter—they arrive through signed software, clean resumes, or sanctioned vendors still hiding in plain sight.\nThis week, the clearest threats weren’t the loudest—they were the most legitimate-looking. In an environment where identity, trust, and tooling are all interlinked, the strongest attack path is often the one that looks like it belongs. Security teams are"
+  },
+  {
+    "title": "Email Security Is Stuck in the Antivirus Era: Why It Needs a Modern Approach",
+    "link": "https://thehackernews.com/2025/07/email-security-is-stuck-in-antivirus.html",
+    "published": "Mon, 28 Jul 2025 16:55:00 +0530",
+    "summary": "Picture this: you’ve hardened every laptop in your fleet with real‑time telemetry, rapid isolation, and automated rollback. But the corporate mailbox—the front door for most attackers—is still guarded by what is effectively a 1990s-era filter.\nThis isn't a balanced approach. Email remains a primary vector for breaches, yet we often treat it as a static stream of messages instead of a dynamic,"
+  },
+  {
+    "title": "Scattered Spider Hijacks VMware ESXi to Deploy Ransomware on Critical U.S. Infrastructure",
+    "link": "https://thehackernews.com/2025/07/scattered-spider-hijacks-vmware-esxi-to.html",
+    "published": "Mon, 28 Jul 2025 11:49:00 +0530",
+    "summary": "The notorious cybercrime group known as Scattered Spider is targeting VMware ESXi hypervisors in attacks targeting retail, airline, and transportation sectors in North America.\n\"The group's core tactics have remained consistent and do not rely on software exploits. Instead, they use a proven playbook centered on phone calls to an IT help desk,\" Google's Mandiant team said in an extensive"
+  },
+  {
+    "title": "Critical Flaws in Niagara Framework Threaten Smart Buildings and Industrial Systems Worldwide",
+    "link": "https://thehackernews.com/2025/07/critical-flaws-in-niagara-framework.html",
+    "published": "Mon, 28 Jul 2025 09:42:00 +0530",
+    "summary": "Cybersecurity researchers have discovered over a dozen security vulnerabilities impacting Tridium's Niagara Framework that could allow an attacker on the same network to compromise the system under certain circumstances.\n\"These vulnerabilities are fully exploitable if a Niagara system is misconfigured, thereby disabling encryption on a specific network device,\" Nozomi Networks Labs said in a"
+  },
+  {
+    "title": "U.S. Sanctions Firm Behind N. Korean IT Scheme; Arizona Woman Jailed for Running Laptop Farm",
+    "link": "https://thehackernews.com/2025/07/us-sanctions-firm-behind-n-korean-it.html",
+    "published": "Fri, 25 Jul 2025 20:35:00 +0530",
+    "summary": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) sanctioned a North Korean front company and three associated individuals for their involvement in the fraudulent remote information technology (IT) worker scheme designed to generate illicit revenues for Pyongyang.\nThe sanctions target Korea Sobaeksu Trading Company (aka Sobaeksu United Corporation), and Kim Se Un, Jo"
+  },
+  {
+    "title": "Patchwork Targets Turkish Defense Firms with Spear-Phishing Using Malicious LNK Files",
+    "link": "https://thehackernews.com/2025/07/patchwork-targets-turkish-defense-firms.html",
+    "published": "Fri, 25 Jul 2025 19:45:00 +0530",
+    "summary": "The threat actor known as Patchwork has been attributed to a new spear-phishing campaign targeting Turkish defense contractors with the goal of gathering strategic intelligence.\n\"The campaign employs a five-stage execution chain delivered via malicious LNK files disguised as conference invitations sent to targets interested in learning more about unmanned vehicle systems,\" Arctic Wolf Labs said"
+  },
+  {
+    "title": "Cyber Espionage Campaign Hits Russian Aerospace Sector Using EAGLET Backdoor",
+    "link": "https://thehackernews.com/2025/07/cyber-espionage-campaign-hits-russian.html",
+    "published": "Fri, 25 Jul 2025 18:44:00 +0530",
+    "summary": "Russian aerospace and defense industries have become the target of a cyber espionage campaign that delivers a backdoor called EAGLET to facilitate data exfiltration.\nThe activity, dubbed Operation CargoTalon, has been assigned to a threat cluster tracked as UNG0901 (short for Unknown Group 901).\n\"The campaign is aimed at targeting employees of Voronezh Aircraft Production Association (VASO), one"
+  },
+  {
+    "title": "Soco404 and Koske Malware Target Cloud Services with Cross-Platform Cryptomining Attacks",
+    "link": "https://thehackernews.com/2025/07/soco404-and-koske-malware-target-cloud.html",
+    "published": "Fri, 25 Jul 2025 16:03:00 +0530",
+    "summary": "Threat hunters have disclosed two different malware campaigns that have targeted vulnerabilities and misconfigurations across cloud environments to deliver cryptocurrency miners.\nThe threat activity clusters have been codenamed Soco404 and Koske by cloud security firms Wiz and Aqua, respectively.\nSoco404 \"targets both Linux and Windows systems, deploying platform-specific malware,\" Wiz"
+  },
+  {
+    "title": "Overcoming Risks from Chinese GenAI Tool Usage",
+    "link": "https://thehackernews.com/2025/07/overcoming-risks-from-chinese-genai.html",
+    "published": "Fri, 25 Jul 2025 15:55:00 +0530",
+    "summary": "A recent analysis of enterprise data suggests that generative AI tools developed in China are being used extensively by employees in the US and UK, often without oversight or approval from security teams. The study, conducted by Harmonic Security, also identifies hundreds of instances in which sensitive data was uploaded to platforms hosted in China, raising concerns over compliance, data"
+  }
+]
