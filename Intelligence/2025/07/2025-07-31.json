@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Hackers Use Facebook Ads to Spread JSCEAL Malware via Fake Cryptocurrency Trading Apps",
+    "link": "https://thehackernews.com/2025/07/hackers-use-facebook-ads-to-spread.html",
+    "published": "Wed, 30 Jul 2025 21:51:00 +0530",
+    "summary": "Cybersecurity researchers are calling attention to an ongoing campaign that distributes fake cryptocurrency trading apps to deploy a compiled V8 JavaScript (JSC) malware called JSCEAL that can capture data from credentials and wallets.\nThe activity leverages thousands of malicious advertisements posted on Facebook in an attempt to redirect unsuspecting victims to counterfeit sites that instruct"
+  },
+  {
+    "title": "FunkSec Ransomware Decryptor Released Free to Public After Group Goes Dormant",
+    "link": "https://thehackernews.com/2025/07/funksec-ransomware-decryptor-released.html",
+    "published": "Wed, 30 Jul 2025 21:41:00 +0530",
+    "summary": "Cybersecurity experts have released a decryptor for a ransomware strain called FunkSec, allowing victims to recover access to their files for free.\n\"Because the ransomware is now considered dead, we released the decryptor for public download,\" Gen Digital researcher Ladislav Zezula said.\nFunkSec, which emerged towards the end of 2024, has claimed 172 victims, according to data from"
+  },
+  {
+    "title": "Product Walkthrough: A Look Inside Pillar's AI Security Platform",
+    "link": "https://thehackernews.com/2025/07/product-walkthrough-look-inside-pillars.html",
+    "published": "Wed, 30 Jul 2025 18:33:00 +0530",
+    "summary": "In this article, we will provide a brief overview of Pillar Security's platform to better understand how they are tackling AI security challenges. \nPillar Security is building a platform to cover the entire software development and deployment lifecycle with the goal of providing trust in AI systems. Using its holistic approach, the platform introduces new ways of detecting AI threats, beginning"
+  },
+  {
+    "title": "Apple Patches Safari Vulnerability Also Exploited as Zero-Day in Google Chrome",
+    "link": "https://thehackernews.com/2025/07/apple-patches-safari-vulnerability-also.html",
+    "published": "Wed, 30 Jul 2025 18:32:00 +0530",
+    "summary": "Apple on Tuesday released security updates for its entire software portfolio, including a fix for a vulnerability that Google said was exploited as a zero-day in the Chrome web browser earlier this month.\nThe vulnerability, tracked as CVE-2025-6558 (CVSS score: 8.8), is an incorrect validation of untrusted input in the browser's ANGLE and GPU components that could result in a sandbox escape via"
+  },
+  {
+    "title": "Critical Dahua Camera Flaws Enable Remote Hijack via ONVIF and File Upload Exploits",
+    "link": "https://thehackernews.com/2025/07/critical-dahua-camera-flaws-enable.html",
+    "published": "Wed, 30 Jul 2025 18:31:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed now-patched critical security flaws in the firmware of Dahua smart cameras that, if left unaddressed, could allow attackers to hijack control of susceptible devices.\n\"The flaws, affecting the device's ONVIF protocol and file upload handlers, allow unauthenticated attackers to execute arbitrary commands remotely, effectively taking over the device,\""
+  },
+  {
+    "title": "Chinese Firms Linked to Silk Typhoon Filed 15+ Patents for Cyber Espionage Tools",
+    "link": "https://thehackernews.com/2025/07/chinese-firms-linked-to-silk-typhoon.html",
+    "published": "Wed, 30 Jul 2025 17:09:00 +0530",
+    "summary": "Chinese companies linked to the state-sponsored hacking group known as Silk Typhoon (aka Hafnium) have been identified as behind over a dozen technology patents, shedding light on the shadowy cyber contracting ecosystem and its offensive capabilities.\nThe patents cover forensics and intrusion tools that enable encrypted endpoint data collection, Apple device forensics, and remote access to"
+  },
+  {
+    "title": "Google Launches DBSC Open Beta in Chrome and Enhances Patch Transparency via Project Zero",
+    "link": "https://thehackernews.com/2025/07/google-launches-dbsc-open-beta-in.html",
+    "published": "Wed, 30 Jul 2025 14:51:00 +0530",
+    "summary": "Google has announced that it's making a security feature called Device Bound Session Credentials (DBSC) in open beta to ensure that users are safeguarded against session cookie theft attacks.\nDBSC, first introduced as a prototype in April 2024, is designed to bind authentication sessions to a device so as to prevent threat actors from using stolen cookies to sign-in to victims' accounts and gain"
+  },
+  {
+    "title": "Hackers Exploit SAP Vulnerability to Breach Linux Systems and Deploy Auto-Color Malware",
+    "link": "https://thehackernews.com/2025/07/hackers-exploit-sap-vulnerability-to.html",
+    "published": "Wed, 30 Jul 2025 13:20:00 +0530",
+    "summary": "Threat actors have been observed exploiting a now-patched critical SAP NetWeaver flaw to deliver the Auto-Color backdoor in an attack targeting a U.S.-based chemicals company in April 2025.\n\"Over the course of three days, a threat actor gained access to the customer's network, attempted to download several suspicious files and communicated with malicious infrastructure linked to Auto-Color"
+  },
+  {
+    "title": "Scattered Spider Hacker Arrests Halt Attacks, But Copycat Threats Sustain Security Pressure",
+    "link": "https://thehackernews.com/2025/07/scattered-spider-hacker-arrests-halt.html",
+    "published": "Wed, 30 Jul 2025 11:45:00 +0530",
+    "summary": "Google Cloud's Mandiant Consulting has revealed that it has witnessed a drop in activity from the notorious Scattered Spider group, but emphasized the need for organizations to take advantage of the lull to shore up their defenses.\n\"Since the recent arrests tied to the alleged Scattered Spider (UNC3944) members in the U.K., Mandiant Consulting hasn't observed any new intrusions directly"
+  },
+  {
+    "title": "Wiz Uncovers Critical Access Bypass Flaw in AI-Powered Vibe Coding Platform Base44",
+    "link": "https://thehackernews.com/2025/07/wiz-uncovers-critical-access-bypass.html",
+    "published": "Tue, 29 Jul 2025 21:08:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed a now-patched critical security flaw in a popular vibe coding platform called Base44 that could allow unauthorized access to private applications built by its users.\n\"The vulnerability we discovered was remarkably simple to exploit -- by providing only a non-secret 'app_id' value to undocumented registration and email verification endpoints, an attacker"
+  }
+]
