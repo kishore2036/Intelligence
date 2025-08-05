@@ -1,0 +1,62 @@
+[
+  {
+    "title": "NVIDIA Triton Bugs Let Unauthenticated Attackers Execute Code and Hijack AI Servers",
+    "link": "https://thehackernews.com/2025/08/nvidia-triton-bugs-let-unauthenticated.html",
+    "published": "Mon, 04 Aug 2025 21:36:00 +0530",
+    "summary": "A newly disclosed set of security flaws in NVIDIA's Triton Inference Server for Windows and Linux, an open-source platform for running artificial intelligence (AI) models at scale, could be exploited to take over susceptible servers.\n\"When chained together, these flaws can potentially allow a remote, unauthenticated attacker to gain complete control of the server, achieving remote code execution"
+  },
+  {
+    "title": "Vietnamese Hackers Use PXA Stealer, Hit 4,000 IPs and Steal 200,000 Passwords Globally",
+    "link": "https://thehackernews.com/2025/08/vietnamese-hackers-use-pxa-stealer-hit.html",
+    "published": "Mon, 04 Aug 2025 19:28:00 +0530",
+    "summary": "Cybersecurity researchers are calling attention to a new wave of campaigns distributing a Python-based information stealer called PXA Stealer.\nThe malicious activity has been assessed to be the work of Vietnamese-speaking cybercriminals who monetize the stolen data through a subscription-based underground ecosystem that automates the resale and reuse via Telegram APIs, according to a joint"
+  },
+  {
+    "title": "⚡ Weekly Recap: VPN 0-Day, Encryption Backdoor, AI Malware, macOS Flaw, ATM Hack & More",
+    "link": "https://thehackernews.com/2025/08/weekly-recap-vpn-0-day-encryption.html",
+    "published": "Mon, 04 Aug 2025 17:25:00 +0530",
+    "summary": "Malware isn’t just trying to hide anymore—it’s trying to belong. We’re seeing code that talks like us, logs like us, even documents itself like a helpful teammate. Some threats now look more like developer tools than exploits. Others borrow trust from open-source platforms, or quietly build themselves out of AI-written snippets. It’s not just about being malicious—it’s about being believable."
+  },
+  {
+    "title": "Man-in-the-Middle Attack Prevention Guide",
+    "link": "https://thehackernews.com/2025/08/man-in-middle-attack-prevention-guide.html",
+    "published": "Mon, 04 Aug 2025 16:30:00 +0530",
+    "summary": "Some of the most devastating cyberattacks don&rsquo;t rely on brute force, but instead succeed through stealth. These quiet intrusions often go unnoticed until long after the attacker has disappeared. Among the most insidious are man-in-the-middle (MITM) attacks, where criminals exploit weaknesses in communication protocols to silently position themselves between two unsuspecting parties"
+  },
+  {
+    "title": "New ‘Plague’ PAM Backdoor Exposes Critical Linux Systems to Silent Credential Theft",
+    "link": "https://thehackernews.com/2025/08/new-plague-pam-backdoor-exposes.html",
+    "published": "Mon, 04 Aug 2025 16:21:00 +0530",
+    "summary": "Cybersecurity researchers have flagged a previously undocumented Linux backdoor dubbed Plague that has managed to evade detection for a year.\n\"The implant is built as a malicious PAM (Pluggable Authentication Module), enabling attackers to silently bypass system authentication and gain persistent SSH access,\" Nextron Systems researcher Pierre-Henri Pezier said.\nPluggable Authentication Modules"
+  },
+  {
+    "title": "The Wild West of Shadow IT",
+    "link": "https://thehackernews.com/2025/08/the-wild-west-of-shadow-it.html",
+    "published": "Mon, 04 Aug 2025 15:00:00 +0530",
+    "summary": "Everyone’s an IT decision-maker now. The employees in your organization can install a plugin with just one click, and they don’t need to clear it with your team first. It’s great for productivity, but it’s a serious problem for your security posture.\nWhen the floodgates of SaaS and AI opened, IT didn’t just get democratized, its security got outpaced. Employees are onboarding apps faster than"
+  },
+  {
+    "title": "PlayPraetor Android Trojan Infects 11,000+ Devices via Fake Google Play Pages and Meta Ads",
+    "link": "https://thehackernews.com/2025/08/playpraetor-android-trojan-infects.html",
+    "published": "Mon, 04 Aug 2025 11:49:00 +0530",
+    "summary": "Cybersecurity researchers have discovered a nascent Android remote access trojan (RAT) called PlayPraetor that has infected more than 11,000 devices, primarily across Portugal, Spain, France, Morocco, Peru, and Hong Kong.\n\"The botnet's rapid growth, which now exceeds 2,000 new infections per week, is driven by aggressive campaigns focusing on Spanish and French speakers, indicating a strategic"
+  },
+  {
+    "title": "CL-STA-0969 Installs Covert Malware in Telecom Networks During 10-Month Espionage Campaign",
+    "link": "https://thehackernews.com/2025/08/cl-sta-0969-installs-covert-malware-in.html",
+    "published": "Sat, 02 Aug 2025 22:00:00 +0530",
+    "summary": "Telecommunications organizations in Southeast Asia have been targeted by a state-sponsored threat actor known as CL-STA-0969 to facilitate remote control over compromised networks.\nPalo Alto Networks Unit 42 said it observed multiple incidents in the region, including one aimed at critical telecommunications infrastructure between February and November 2024.\nThe attacks are characterized by the"
+  },
+  {
+    "title": "Akira Ransomware Exploits SonicWall VPNs in Likely Zero-Day Attack on Fully-Patched Devices",
+    "link": "https://thehackernews.com/2025/08/akira-ransomware-exploits-sonicwall.html",
+    "published": "Sat, 02 Aug 2025 12:26:00 +0530",
+    "summary": "SonicWall SSL VPN devices have become the target of Akira ransomware attacks as part of a newfound surge in activity observed in late July 2025.\n\"In the intrusions reviewed, multiple pre-ransomware intrusions were observed within a short period of time, each involving VPN access through SonicWall SSL VPNs,\" Arctic Wolf Labs researcher Julian Tuin said in a report.\nThe cybersecurity company"
+  },
+  {
+    "title": "Cursor AI Code Editor Fixed Flaw Allowing Attackers to Run Commands via Prompt Injection",
+    "link": "https://thehackernews.com/2025/08/cursor-ai-code-editor-fixed-flaw.html",
+    "published": "Fri, 01 Aug 2025 21:01:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed a now-patched, high-severity security flaw in Cursor, a popular artificial intelligence (AI) code editor, that could result in remote code execution (RCE).\nThe vulnerability, tracked as CVE-2025-54135 (CVSS score: 8.6), has been addressed in version 1.3 released on July 29, 2025. It has been codenamed CurXecute by Aim Labs, which previously disclosed"
+  }
+]
