@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Researchers Uncover ECScape Flaw in Amazon ECS Enabling Cross-Task Credential Theft",
+    "link": "https://thehackernews.com/2025/08/researchers-uncover-ecscape-flaw-in.html",
+    "published": "Thu, 07 Aug 2025 02:00:00 +0530",
+    "summary": "Cybersecurity researchers have demonstrated an \"end-to-end privilege escalation chain\" in Amazon Elastic Container Service (ECS) that could be exploited by an attacker to conduct lateral movement, access sensitive data, and seize control of the cloud environment.\nThe attack technique has been codenamed ECScape by Sweet Security researcher Naor Haziz, who presented the findings today at the"
+  },
+  {
+    "title": "Fake VPN and Spam Blocker Apps Tied to VexTrio Used in Ad Fraud, Subscription Scams",
+    "link": "https://thehackernews.com/2025/08/fake-vpn-and-spam-blocker-apps-tied-to.html",
+    "published": "Thu, 07 Aug 2025 01:30:00 +0530",
+    "summary": "The malicious ad tech purveyor known as VexTrio Viper has been observed developing several malicious apps that have been published on Apple and Google's official app storefronts under the guise of seemingly useful applications.\nThese apps masquerade as VPNs, device \"monitoring\" apps, RAM cleaners, dating services, and spam blockers, DNS threat intelligence firm Infoblox said in an exhaustive"
+  },
+  {
+    "title": "AI Slashes Workloads for vCISOs by 68% as SMBs Demand More – New Report Reveals",
+    "link": "https://thehackernews.com/2025/08/ai-slashes-workloads-for-vcisos-by-68.html",
+    "published": "Wed, 06 Aug 2025 16:30:00 +0530",
+    "summary": "As the volume and sophistication of cyber threats and risks grow, cybersecurity has become mission-critical for businesses of all sizes. To address this shift, SMBs have been urgently turning to vCISO services to keep up with escalating threats and compliance demands. A recent report by Cynomi has found that a full 79% of MSPs and MSSPs see high demand for vCISO services among SMBs.\nHow are"
+  },
+  {
+    "title": "Microsoft Launches Project Ire to Autonomously Classify Malware Using AI Tools",
+    "link": "https://thehackernews.com/2025/08/microsoft-launches-project-ire-to.html",
+    "published": "Wed, 06 Aug 2025 16:06:00 +0530",
+    "summary": "Microsoft on Tuesday announced an autonomous artificial intelligence (AI) agent that can analyze and classify software without assistance in an effort to advance malware detection efforts.\nThe large language model (LLM)-powered autonomous malware classification system, currently a prototype, has been codenamed Project Ire by the tech giant.\nThe system \"automates what is considered the gold"
+  },
+  {
+    "title": "Trend Micro Confirms Active Exploitation of Critical Apex One Flaws in On-Premise Systems",
+    "link": "https://thehackernews.com/2025/08/trend-micro-confirms-active.html",
+    "published": "Wed, 06 Aug 2025 14:27:00 +0530",
+    "summary": "Trend Micro has released mitigations to address critical security flaws in on-premise versions of Apex One Management Console that it said have been exploited in the wild.\nThe vulnerabilities (CVE-2025-54948 and CVE-2025-54987), both rated 9.4 on the CVSS scoring system, have been described as management console command injection and remote code execution flaws.\n\"A vulnerability in Trend Micro"
+  },
+  {
+    "title": "CERT-UA Warns of HTA-Delivered C# Malware Attacks Using Court Summons Lures",
+    "link": "https://thehackernews.com/2025/08/cert-ua-warns-of-hta-delivered-c.html",
+    "published": "Wed, 06 Aug 2025 12:55:00 +0530",
+    "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of cyber attacks carried out by a threat actor called UAC-0099 targeting government agencies, the defense forces, and enterprises of the defense-industrial complex in the country.\nThe attacks, which leverage phishing emails as an initial compromise vector, are used to deliver malware families like MATCHBOIL, MATCHWOK, and"
+  },
+  {
+    "title": "AI Is Transforming Cybersecurity Adversarial Testing - Pentera Founder’s Vision",
+    "link": "https://thehackernews.com/2025/08/ai-is-transforming-cybersecurity.html",
+    "published": "Wed, 06 Aug 2025 11:20:00 +0530",
+    "summary": "When Technology Resets the Playing Field\nIn 2015 I founded a cybersecurity testing software company with the belief that automated penetration testing was not only possible, but necessary. At the time, the idea was often met with skepticism, but today, with 1200+ of enterprise customers and thousands of users, that vision has proven itself. But I also know that what we’ve built so far is only"
+  },
+  {
+    "title": "CISA Adds 3 D-Link Vulnerabilities to KEV Catalog Amid Active Exploitation Evidence",
+    "link": "https://thehackernews.com/2025/08/cisa-adds-3-d-link-router-flaws-to-kev.html",
+    "published": "Wed, 06 Aug 2025 10:19:00 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added three old security flaws impacting D-Link Wi-Fi cameras and video recorders to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation in the wild.\nThe high-severity vulnerabilities, which are from 2020 and 2022, are listed below -\n\nCVE-2020-25078 (CVSS score: 7.5) - An"
+  },
+  {
+    "title": "ClickFix Malware Campaign Exploits CAPTCHAs to Spread Cross-Platform Infections",
+    "link": "https://thehackernews.com/2025/08/clickfix-malware-campaign-exploits.html",
+    "published": "Tue, 05 Aug 2025 21:56:00 +0530",
+    "summary": "A combination of propagation methods, narrative sophistication, and evasion techniques enabled the social engineering tactic known as ClickFix to take off the way it did over the past year, according to new findings from Guardio Labs.\n\"Like a real-world virus variant, this new 'ClickFix' strain quickly outpaced and ultimately wiped out the infamous fake browser update scam that plagued the web"
+  },
+  {
+    "title": "Google’s August Patch Fixes Two Qualcomm Vulnerabilities Exploited in the Wild",
+    "link": "https://thehackernews.com/2025/08/google-fixes-3-android-vulnerabilities.html",
+    "published": "Tue, 05 Aug 2025 19:29:00 +0530",
+    "summary": "Google has released security updates to address multiple security flaws in Android, including fixes for two Qualcomm bugs that were flagged as actively exploited in the wild.\nThe vulnerabilities include CVE-2025-21479 (CVSS score: 8.6) and CVE-2025-27038 (CVSS score: 7.5), both of which were disclosed alongside CVE-2025-21480 (CVSS score: 8.6), by the chipmaker back in June 2025.\nCVE-2025-21479"
+  }
+]
