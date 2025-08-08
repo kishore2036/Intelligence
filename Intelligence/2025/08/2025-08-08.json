@@ -1,0 +1,62 @@
+[
+  {
+    "title": "SocGholish Malware Spread via Ad Tools; Delivers Access to LockBit, Evil Corp, and Others",
+    "link": "https://thehackernews.com/2025/08/socgholish-malware-spread-via-ad-tools.html",
+    "published": "Thu, 07 Aug 2025 23:56:00 +0530",
+    "summary": "The threat actors behind the SocGholish malware have been observed leveraging Traffic Distribution Systems (TDSs) like Parrot TDS and Keitaro TDS to filter and redirect unsuspecting users to sketchy content.\n\"The core of their operation is a sophisticated Malware-as-a-Service (MaaS) model, where infected systems are sold as initial access points to other cybercriminal organizations,\" Silent Push"
+  },
+  {
+    "title": "Webinar: How to Stop Python Supply Chain Attacks—and the Expert Tools You Need",
+    "link": "https://thehackernews.com/2025/08/webinar-how-to-stop-python-supply-chain.html",
+    "published": "Thu, 07 Aug 2025 21:03:00 +0530",
+    "summary": "Python is everywhere in modern software. From machine learning models to production microservices, chances are your code—and your business—depends on Python packages you didn’t write.\nBut in 2025, that trust comes with a serious risk.\nEvery few weeks, we’re seeing fresh headlines about malicious packages uploaded to the Python Package Index (PyPI)—many going undetected until after they’ve caused"
+  },
+  {
+    "title": "Malicious Go, npm Packages Deliver Cross-Platform Malware, Trigger Remote Data Wipes",
+    "link": "https://thehackernews.com/2025/08/malicious-go-npm-packages-deliver-cross.html",
+    "published": "Thu, 07 Aug 2025 18:49:00 +0530",
+    "summary": "Cybersecurity researchers have discovered a set of 11 malicious Go packages that are designed to download additional payloads from remote servers and execute them on both Windows and Linux systems.\n\"At runtime the code silently spawns a shell, pulls a second-stage payload from an interchangeable set of .icu and .tech command-and-control (C2) endpoints, and executes it in memory,\" Socket security"
+  },
+  {
+    "title": "The AI-Powered Security Shift: What 2025 Is Teaching Us About Cloud Defense",
+    "link": "https://thehackernews.com/2025/08/the-ai-powered-security-shift-what-2025.html",
+    "published": "Thu, 07 Aug 2025 16:15:00 +0530",
+    "summary": "Now that we are well into 2025, cloud attacks are evolving faster than ever and artificial intelligence (AI) is both a weapon and a shield. As AI rapidly changes how enterprises innovate, security teams are now tasked with a triple burden:\n\nSecure AI embedded in every part of the business.\nUse AI to defend faster and smarter.\nFight AI-powered threats that execute in minutes—or seconds.\n\nSecurity"
+  },
+  {
+    "title": "Microsoft Discloses Exchange Server Flaw Enabling Silent Cloud Access in Hybrid Setups",
+    "link": "https://thehackernews.com/2025/08/microsoft-discloses-exchange-server.html",
+    "published": "Thu, 07 Aug 2025 16:12:00 +0530",
+    "summary": "Microsoft has released an advisory for a high-severity security flaw affecting on-premise versions of Exchange Server that could allow an attacker to gain elevated privileges under certain conditions.\nThe vulnerability, tracked as CVE-2025-53786, carries a CVSS score of 8.0. Dirk-jan Mollema with Outsider Security has been acknowledged for reporting the bug.\n\"In an Exchange hybrid deployment, an"
+  },
+  {
+    "title": "6,500 Axis Servers Expose Remoting Protocol; 4,000 in U.S. Vulnerable to Exploits",
+    "link": "https://thehackernews.com/2025/08/6500-axis-servers-expose-remoting.html",
+    "published": "Thu, 07 Aug 2025 16:10:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed multiple security flaws in video surveillance products from Axis Communications that, if successfully exploited, could expose them to takeover attacks.\n\"The attack results in pre-authentication remote code execution on Axis Device Manager, a server used to configure and manage fleets of cameras, and the Axis Camera Station, client software used to view"
+  },
+  {
+    "title": "SonicWall Confirms Patched Vulnerability Behind Recent VPN Attacks, Not a Zero-Day",
+    "link": "https://thehackernews.com/2025/08/sonicwall-confirms-patched.html",
+    "published": "Thu, 07 Aug 2025 16:02:00 +0530",
+    "summary": "SonicWall has revealed that the recent spike in activity targeting its Gen 7 and newer firewalls with SSL VPN enabled is related to an older, now-patched bug and password reuse.\n\"We now have high confidence that the recent SSL VPN activity is not connected to a zero-day vulnerability,\" the company said. \"Instead, there is a significant correlation with threat activity related to CVE-2024-40766.\""
+  },
+  {
+    "title": "Researchers Uncover ECScape Flaw in Amazon ECS Enabling Cross-Task Credential Theft",
+    "link": "https://thehackernews.com/2025/08/researchers-uncover-ecscape-flaw-in.html",
+    "published": "Thu, 07 Aug 2025 02:00:00 +0530",
+    "summary": "Cybersecurity researchers have demonstrated an \"end-to-end privilege escalation chain\" in Amazon Elastic Container Service (ECS) that could be exploited by an attacker to conduct lateral movement, access sensitive data, and seize control of the cloud environment.\nThe attack technique has been codenamed ECScape by Sweet Security researcher Naor Haziz, who presented the findings today at the"
+  },
+  {
+    "title": "Fake VPN and Spam Blocker Apps Tied to VexTrio Used in Ad Fraud, Subscription Scams",
+    "link": "https://thehackernews.com/2025/08/fake-vpn-and-spam-blocker-apps-tied-to.html",
+    "published": "Thu, 07 Aug 2025 01:30:00 +0530",
+    "summary": "The malicious ad tech purveyor known as VexTrio Viper has been observed developing several malicious apps that have been published on Apple and Google's official app storefronts under the guise of seemingly useful applications.\nThese apps masquerade as VPNs, device \"monitoring\" apps, RAM cleaners, dating services, and spam blockers, DNS threat intelligence firm Infoblox said in an exhaustive"
+  },
+  {
+    "title": "AI Slashes Workloads for vCISOs by 68% as SMBs Demand More – New Report Reveals",
+    "link": "https://thehackernews.com/2025/08/ai-slashes-workloads-for-vcisos-by-68.html",
+    "published": "Wed, 06 Aug 2025 16:30:00 +0530",
+    "summary": "As the volume and sophistication of cyber threats and risks grow, cybersecurity has become mission-critical for businesses of all sizes. To address this shift, SMBs have been urgently turning to vCISO services to keep up with escalating threats and compliance demands. A recent report by Cynomi has found that a full 79% of MSPs and MSSPs see high demand for vCISO services among SMBs.\nHow are"
+  }
+]
