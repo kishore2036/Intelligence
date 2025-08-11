@@ -1,0 +1,62 @@
+[
+  {
+    "title": "New Win-DDoS Flaws Let Attackers Turn Public Domain Controllers into DDoS Botnet via RPC, LDAP",
+    "link": "https://thehackernews.com/2025/08/new-win-ddos-flaws-let-attackers-turn.html",
+    "published": "Mon, 11 Aug 2025 01:00:00 +0530",
+    "summary": "A novel attack technique could be weaponized to rope thousands of public domain controllers (DCs) around the world to create a malicious botnet and use it to conduct power distributed denial-of-service (DDoS) attacks.\nThe approach has been codenamed Win-DDoS by SafeBreach researchers Or Yair and Shahak Morag, who presented their findings at the DEF CON 33 security conference today.\n\"As we"
+  },
+  {
+    "title": "Researchers Detail Windows EPM Poisoning Exploit Chain Leading to Domain Privilege Escalation",
+    "link": "https://thehackernews.com/2025/08/researchers-detail-windows-epm.html",
+    "published": "Sun, 10 Aug 2025 18:01:00 +0530",
+    "summary": "Cybersecurity researchers have presented new findings related to a now-patched security issue in Microsoft's Windows Remote Procedure Call (RPC) communication protocol that could be abused by an attacker to conduct spoofing attacks and impersonate a known server.\nThe vulnerability, tracked as CVE-2025-49760 (CVSS score: 3.5), has been described by the tech giant as a Windows Storage spoofing bug"
+  },
+  {
+    "title": "Linux-Based Lenovo Webcams’ Flaw Can Be Remotely Exploited for BadUSB Attacks",
+    "link": "https://thehackernews.com/2025/08/linux-based-lenovo-webcams-flaw-can-be.html",
+    "published": "Sun, 10 Aug 2025 00:30:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed vulnerabilities in select model webcams from Lenovo that could turn them into BadUSB attack devices.\n\"This allows remote attackers to inject keystrokes covertly and launch attacks independent of the host operating system,\" Eclypsium researchers Paul Asadoorian, Mickey Shkatov, and Jesse Michael said in a report shared with The Hacker News.\nThe"
+  },
+  {
+    "title": "Researchers Reveal ReVault Attack Targeting Dell ControlVault3 Firmware in 100+ Laptop Models",
+    "link": "https://thehackernews.com/2025/08/researchers-reveal-revault-attack.html",
+    "published": "Sun, 10 Aug 2025 00:25:00 +0530",
+    "summary": "Cybersecurity researchers have uncovered multiple security flaws in Dell's ControlVault3 firmware and its associated Windows APIs that could have been abused by attackers to bypass Windows login, extract cryptographic keys, as well as maintain access even after a fresh operating system install by deploying undetectable malicious implants into the firmware.\nThe vulnerabilities have been codenamed"
+  },
+  {
+    "title": "Researchers Uncover GPT-5 Jailbreak and Zero-Click AI Agent Attacks Exposing Cloud and IoT Systems",
+    "link": "https://thehackernews.com/2025/08/researchers-uncover-gpt-5-jailbreak-and.html",
+    "published": "Sat, 09 Aug 2025 20:36:00 +0530",
+    "summary": "Cybersecurity researchers have uncovered a jailbreak technique to bypass ethical guardrails erected by OpenAI in its latest large language model (LLM) GPT-5 and produce illicit instructions.\nGenerative artificial intelligence (AI) security platform NeuralTrust said it combined a known technique called Echo Chamber with narrative-driven steering to trick the model into producing undesirable"
+  },
+  {
+    "title": "CyberArk and HashiCorp Flaws Enable Remote Vault Takeover Without Credentials",
+    "link": "https://thehackernews.com/2025/08/cyberark-and-hashicorp-flaws-enable.html",
+    "published": "Sat, 09 Aug 2025 10:45:00 +0530",
+    "summary": "Cybersecurity researchers have discovered over a dozen vulnerabilities in enterprise secure vaults from CyberArk and HashiCorp that, if successfully exploited, can allow remote attackers to crack open corporate identity systems and extract enterprise secrets and tokens from them.&nbsp;\nThe 14 vulnerabilities, collectively named Vault Fault, affect CyberArk Secrets Manager, Self-Hosted, and"
+  },
+  {
+    "title": "AI Tools Fuel Brazilian Phishing Scam While Efimer Trojan Steals Crypto from 5,000 Victims",
+    "link": "https://thehackernews.com/2025/08/ai-tools-fuel-brazilian-phishing-scam.html",
+    "published": "Fri, 08 Aug 2025 21:44:00 +0530",
+    "summary": "Cybersecurity researchers are drawing attention to a new campaign that's using legitimate generative artificial intelligence (AI)-powered website building tools like DeepSite AI and BlackBox AI to create replica phishing pages mimicking Brazilian government agencies as part of a financially motivated campaign.\nThe activity involves the creation of lookalike sites imitating Brazil's State"
+  },
+  {
+    "title": "Leaked Credentials Up 160%: What Attackers Are Doing With Them",
+    "link": "https://thehackernews.com/2025/08/leaked-credentials-up-160-what.html",
+    "published": "Fri, 08 Aug 2025 16:30:00 +0530",
+    "summary": "When an organization’s credentials are leaked, the immediate consequences are rarely visible—but the long-term impact is far-reaching. Far from the cloak-and-dagger tactics seen in fiction, many real-world cyber breaches begin with something deceptively simple: a username and password.\nAccording to Verizon’s 2025 Data Breach Investigations Report, leaked credentials accounted for 22% of breaches"
+  },
+  {
+    "title": "RubyGems, PyPI Hit by Malicious Packages Stealing Credentials, Crypto, Forcing Security Changes",
+    "link": "https://thehackernews.com/2025/08/rubygems-pypi-hit-by-malicious-packages.html",
+    "published": "Fri, 08 Aug 2025 16:28:00 +0530",
+    "summary": "A fresh set of 60 malicious packages has been uncovered targeting the RubyGems ecosystem by posing as seemingly innocuous automation tools for social media, blogging, or messaging services to steal credentials from unsuspecting users and likely resell them on dark web forums like Russian Market.\nThe activity is assessed to be active since at least March 2023, according to the software supply"
+  },
+  {
+    "title": "GreedyBear Steals $1M in Crypto Using 150+ Malicious Firefox Wallet Extensions",
+    "link": "https://thehackernews.com/2025/08/greedybear-steals-1m-in-crypto-using.html",
+    "published": "Fri, 08 Aug 2025 12:46:00 +0530",
+    "summary": "A newly discovered campaign dubbed GreedyBear has leveraged over 150 malicious extensions to the Firefox marketplace that are designed to impersonate popular cryptocurrency wallets and steal more than $1 million in digital assets.\nThe published browser add-ons masquerade as MetaMask, TronLink, Exodus, and Rabby Wallet, among others, Koi Security researcher Tuval Admoni said.\nWhat makes the"
+  }
+]
