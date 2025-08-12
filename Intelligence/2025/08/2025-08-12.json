@@ -1,0 +1,62 @@
+[
+  {
+    "title": "New TETRA Radio Encryption Flaws Expose Law Enforcement Communications",
+    "link": "https://thehackernews.com/2025/08/new-tetra-radio-encryption-flaws-expose.html",
+    "published": "Mon, 11 Aug 2025 22:02:00 +0530",
+    "summary": "Cybersecurity researchers have discovered a fresh set of security issues in the Terrestrial Trunked Radio (TETRA) communications protocol, including in its proprietary end-to-end encryption (E2EE) mechanism that exposes the system to replay and brute-force attacks, and even decrypt encrypted traffic.\nDetails of the vulnerabilities – dubbed 2TETRA:2BURST – were presented at the Black Hat USA"
+  },
+  {
+    "title": "Researchers Spot Surge in Erlang/OTP SSH RCE Exploits, 70% Target OT Firewalls",
+    "link": "https://thehackernews.com/2025/08/researchers-spot-surge-in-erlangotp-ssh.html",
+    "published": "Mon, 11 Aug 2025 20:38:00 +0530",
+    "summary": "Malicious actors have been observed exploiting a now-patched critical security flaw impacting Erlang/Open Telecom Platform (OTP) SSH as early as beginning of May 2025, with about 70% of detections originating from firewalls protecting operational technology (OT) networks.\nThe vulnerability in question is CVE-2025-32433 (CVSS score: 10.0), a missing authentication issue that could be abused by an"
+  },
+  {
+    "title": "⚡ Weekly Recap: BadCam Attack, WinRAR 0-Day, EDR Killer, NVIDIA Flaws, Ransomware Attacks & More",
+    "link": "https://thehackernews.com/2025/08/weekly-recap-badcam-attack-winrar-0-day.html",
+    "published": "Mon, 11 Aug 2025 17:23:00 +0530",
+    "summary": "This week, cyber attackers are moving quickly, and businesses need to stay alert. They’re finding new weaknesses in popular software and coming up with clever ways to get around security. Even one unpatched flaw could let attackers in, leading to data theft or even taking control of your systems. The clock is ticking—if defenses aren’t updated regularly, it could lead to serious damage. The"
+  },
+  {
+    "title": "6 Lessons Learned: Focusing Security Where Business Value Lives",
+    "link": "https://thehackernews.com/2025/08/6-lessons-learned-focusing-security.html",
+    "published": "Mon, 11 Aug 2025 16:55:00 +0530",
+    "summary": "The Evolution of Exposure Management\nMost security teams have a good sense of what’s critical in their environment. What’s harder to pin down is what’s business-critical. These are the assets that support the processes the business can’t function without. They’re not always the loudest or most exposed. They’re the ones tied to revenue, operations, and delivery. If one goes down, it’s more than a"
+  },
+  {
+    "title": "WinRAR Zero-Day Under Active Exploitation – Update to Latest Version Immediately",
+    "link": "https://thehackernews.com/2025/08/winrar-zero-day-under-active.html",
+    "published": "Mon, 11 Aug 2025 11:24:00 +0530",
+    "summary": "The maintainers of the WinRAR file archiving utility have released an update to address an actively exploited zero-day vulnerability.\nTracked as CVE-2025-8088 (CVSS score: 8.8), the issue has been described as a case of path traversal affecting the Windows version of the tool that could be exploited to obtain arbitrary code execution by crafting malicious archive files.\n\"When extracting a file,"
+  },
+  {
+    "title": "New Win-DDoS Flaws Let Attackers Turn Public Domain Controllers into DDoS Botnet via RPC, LDAP",
+    "link": "https://thehackernews.com/2025/08/new-win-ddos-flaws-let-attackers-turn.html",
+    "published": "Mon, 11 Aug 2025 01:00:00 +0530",
+    "summary": "A novel attack technique could be weaponized to rope thousands of public domain controllers (DCs) around the world to create a malicious botnet and use it to conduct powerful distributed denial-of-service (DDoS) attacks.\nThe approach has been codenamed Win-DDoS by SafeBreach researchers Or Yair and Shahak Morag, who presented their findings at the DEF CON 33 security conference today.\n\"As we"
+  },
+  {
+    "title": "Researchers Detail Windows EPM Poisoning Exploit Chain Leading to Domain Privilege Escalation",
+    "link": "https://thehackernews.com/2025/08/researchers-detail-windows-epm.html",
+    "published": "Sun, 10 Aug 2025 18:01:00 +0530",
+    "summary": "Cybersecurity researchers have presented new findings related to a now-patched security issue in Microsoft's Windows Remote Procedure Call (RPC) communication protocol that could be abused by an attacker to conduct spoofing attacks and impersonate a known server.\nThe vulnerability, tracked as CVE-2025-49760 (CVSS score: 3.5), has been described by the tech giant as a Windows Storage spoofing bug"
+  },
+  {
+    "title": "Linux-Based Lenovo Webcams’ Flaw Can Be Remotely Exploited for BadUSB Attacks",
+    "link": "https://thehackernews.com/2025/08/linux-based-lenovo-webcams-flaw-can-be.html",
+    "published": "Sun, 10 Aug 2025 00:30:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed vulnerabilities in select model webcams from Lenovo that could turn them into BadUSB attack devices.\n\"This allows remote attackers to inject keystrokes covertly and launch attacks independent of the host operating system,\" Eclypsium researchers Paul Asadoorian, Mickey Shkatov, and Jesse Michael said in a report shared with The Hacker News.\nThe"
+  },
+  {
+    "title": "Researchers Reveal ReVault Attack Targeting Dell ControlVault3 Firmware in 100+ Laptop Models",
+    "link": "https://thehackernews.com/2025/08/researchers-reveal-revault-attack.html",
+    "published": "Sun, 10 Aug 2025 00:25:00 +0530",
+    "summary": "Cybersecurity researchers have uncovered multiple security flaws in Dell's ControlVault3 firmware and its associated Windows APIs that could have been abused by attackers to bypass Windows login, extract cryptographic keys, as well as maintain access even after a fresh operating system install by deploying undetectable malicious implants into the firmware.\nThe vulnerabilities have been codenamed"
+  },
+  {
+    "title": "Researchers Uncover GPT-5 Jailbreak and Zero-Click AI Agent Attacks Exposing Cloud and IoT Systems",
+    "link": "https://thehackernews.com/2025/08/researchers-uncover-gpt-5-jailbreak-and.html",
+    "published": "Sat, 09 Aug 2025 20:36:00 +0530",
+    "summary": "Cybersecurity researchers have uncovered a jailbreak technique to bypass ethical guardrails erected by OpenAI in its latest large language model (LLM) GPT-5 and produce illicit instructions.\nGenerative artificial intelligence (AI) security platform NeuralTrust said it combined a known technique called Echo Chamber with narrative-driven steering to trick the model into producing undesirable"
+  }
+]
