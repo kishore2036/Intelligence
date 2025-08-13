@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Researchers Spot XZ Utils Backdoor in Dozens of Docker Hub Images, Fueling Supply Chain Risks",
+    "link": "https://thehackernews.com/2025/08/researchers-spot-xz-utils-backdoor-in.html",
+    "published": "Tue, 12 Aug 2025 23:47:00 +0530",
+    "summary": "New research has uncovered Docker images on Docker Hub that contain the infamous XZ Utils backdoor, more than a year after the discovery of the incident.\nMore troubling is the fact that other images have been built on top of these infected base images, effectively propagating the infection further in a transitive manner, Binarly REsearch said in a report shared with The Hacker News.\nThe firmware"
+  },
+  {
+    "title": "Fortinet SSL VPNs Hit by Global Brute-Force Wave Before Attackers Shift to FortiManager",
+    "link": "https://thehackernews.com/2025/08/fortinet-ssl-vpns-hit-by-global-brute.html",
+    "published": "Tue, 12 Aug 2025 22:35:00 +0530",
+    "summary": "Cybersecurity researchers are warning of a \"significant spike\" in brute-force traffic aimed at Fortinet SSL VPN devices.\nThe coordinated activity, per threat intelligence firm GreyNoise, was observed on August 3, 2025, with over 780 unique IP addresses participating in the effort.\nAs many as 56 unique IP addresses have been detected over the past 24 hours. All the IP addresses have been"
+  },
+  {
+    "title": "Cybercrime Groups ShinyHunters, Scattered Spider Join Forces in Extortion Attacks on Businesses",
+    "link": "https://thehackernews.com/2025/08/cybercrime-groups-shinyhunters.html",
+    "published": "Tue, 12 Aug 2025 21:50:00 +0530",
+    "summary": "An ongoing data extortion campaign targeting Salesforce customers may soon turn its attention to financial services and technology service providers, as ShinyHunters and Scattered Spider appear to be working hand in hand, new findings show.\n\"This latest wave of ShinyHunters-attributed attacks reveals a dramatic shift in tactics, moving beyond the group's previous credential theft and database"
+  },
+  {
+    "title": "New ‘Curly COMrades’ APT Using NGEN COM Hijacking in Georgia, Moldova Attacks",
+    "link": "https://thehackernews.com/2025/08/new-curly-comrades-apt-using-ngen-com.html",
+    "published": "Tue, 12 Aug 2025 18:30:00 +0530",
+    "summary": "A previously undocumented threat actor dubbed Curly COMrades has been observed targeting entities in Georgia and Moldova as part of a cyber espionage campaign designed to facilitate long-term access to target networks.\n\"They repeatedly tried to extract the NTDS database from domain controllers -- the primary repository for user password hashes and authentication data in a Windows network,\""
+  },
+  {
+    "title": "The Ultimate Battle: Enterprise Browsers vs. Secure Browser Extensions",
+    "link": "https://thehackernews.com/2025/08/the-ultimate-battle-enterprise-browsers.html",
+    "published": "Tue, 12 Aug 2025 16:30:00 +0530",
+    "summary": "Most security tools can’t see what happens inside the browser, but that’s where the majority of work, and risk, now lives. Security leaders deciding how to close that gap often face a choice: deploy a dedicated Enterprise Browser or add an enterprise-grade control layer to the browsers employees already use and trust.\nThe Ultimate Battle: Enterprise Browsers vs. Enterprise Browser Extensions"
+  },
+  {
+    "title": "Dutch NCSC Confirms Active Exploitation of Citrix NetScaler CVE-2025-6543 in Critical Sectors",
+    "link": "https://thehackernews.com/2025/08/dutch-ncsc-confirms-active-exploitation.html",
+    "published": "Tue, 12 Aug 2025 14:06:00 +0530",
+    "summary": "The Dutch National Cyber Security Centre (NCSC-NL) has warned of cyber attacks exploiting a recently disclosed critical security flaw impacting Citrix NetScaler ADC products to breach organizations in the country.\nThe NCSC-NL said it discovered the exploitation of CVE-2025-6543 targeting several critical organizations within the Netherlands, and that investigations are ongoing to determine the"
+  },
+  {
+    "title": "New TETRA Radio Encryption Flaws Expose Law Enforcement Communications",
+    "link": "https://thehackernews.com/2025/08/new-tetra-radio-encryption-flaws-expose.html",
+    "published": "Mon, 11 Aug 2025 22:02:00 +0530",
+    "summary": "Cybersecurity researchers have discovered a fresh set of security issues in the Terrestrial Trunked Radio (TETRA) communications protocol, including in its proprietary end-to-end encryption (E2EE) mechanism that exposes the system to replay and brute-force attacks, and even decrypt encrypted traffic.\nDetails of the vulnerabilities – dubbed 2TETRA:2BURST – were presented at the Black Hat USA"
+  },
+  {
+    "title": "Researchers Spot Surge in Erlang/OTP SSH RCE Exploits, 70% Target OT Firewalls",
+    "link": "https://thehackernews.com/2025/08/researchers-spot-surge-in-erlangotp-ssh.html",
+    "published": "Mon, 11 Aug 2025 20:38:00 +0530",
+    "summary": "Malicious actors have been observed exploiting a now-patched critical security flaw impacting Erlang/Open Telecom Platform (OTP) SSH as early as beginning of May 2025, with about 70% of detections originating from firewalls protecting operational technology (OT) networks.\nThe vulnerability in question is CVE-2025-32433 (CVSS score: 10.0), a missing authentication issue that could be abused by an"
+  },
+  {
+    "title": "⚡ Weekly Recap: BadCam Attack, WinRAR 0-Day, EDR Killer, NVIDIA Flaws, Ransomware Attacks & More",
+    "link": "https://thehackernews.com/2025/08/weekly-recap-badcam-attack-winrar-0-day.html",
+    "published": "Mon, 11 Aug 2025 17:23:00 +0530",
+    "summary": "This week, cyber attackers are moving quickly, and businesses need to stay alert. They’re finding new weaknesses in popular software and coming up with clever ways to get around security. Even one unpatched flaw could let attackers in, leading to data theft or even taking control of your systems. The clock is ticking—if defenses aren’t updated regularly, it could lead to serious damage. The"
+  },
+  {
+    "title": "6 Lessons Learned: Focusing Security Where Business Value Lives",
+    "link": "https://thehackernews.com/2025/08/6-lessons-learned-focusing-security.html",
+    "published": "Mon, 11 Aug 2025 16:55:00 +0530",
+    "summary": "The Evolution of Exposure Management\nMost security teams have a good sense of what’s critical in their environment. What’s harder to pin down is what’s business-critical. These are the assets that support the processes the business can’t function without. They’re not always the loudest or most exposed. They’re the ones tied to revenue, operations, and delivery. If one goes down, it’s more than a"
+  }
+]
