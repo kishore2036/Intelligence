@@ -1,0 +1,62 @@
+[
+  {
+    "title": "ERMAC V3.0 Banking Trojan Source Code Leak Exposes Full Malware Infrastructure",
+    "link": "https://thehackernews.com/2025/08/ermac-v30-banking-trojan-source-code.html",
+    "published": "Sat, 16 Aug 2025 16:11:00 +0530",
+    "summary": "Cybersecurity researchers have detailed the inner workings of an Android banking trojan called ERMAC 3.0, uncovering serious shortcomings in the operators' infrastructure.\n\"The newly uncovered version 3.0 reveals a significant evolution of the malware, expanding its form injection and data theft capabilities to target more than 700 banking, shopping, and cryptocurrency applications,\" Hunt.io"
+  },
+  {
+    "title": "Russian Group EncryptHub Exploits MSC EvilTwin Vulnerability to Deploy Fickle Stealer Malware",
+    "link": "https://thehackernews.com/2025/08/russian-group-encrypthub-exploits-msc.html",
+    "published": "Sat, 16 Aug 2025 11:04:00 +0530",
+    "summary": "The threat actor known as EncryptHub is continuing to exploit a now-patched security flaw impacting Microsoft Windows to deliver malicious payloads.\nTrustwave SpiderLabs said it recently observed an EncryptHub campaign that brings together social engineering and the exploitation of a vulnerability in the Microsoft Management Console (MMC) framework (CVE-2025-26633, aka MSC EvilTwin) to trigger"
+  },
+  {
+    "title": "Taiwan Web Servers Breached by UAT-7237 Using Customized Open-Source Hacking Tools",
+    "link": "https://thehackernews.com/2025/08/taiwan-web-servers-breached-by-uat-7237.html",
+    "published": "Fri, 15 Aug 2025 21:50:00 +0530",
+    "summary": "A Chinese-speaking advanced persistent threat (APT) actor has been observed targeting web infrastructure entities in Taiwan using customized versions of open-sourced tools with an aim to establish long-term access within high-value victim environments.\nThe activity has been attributed by Cisco Talos to an activity cluster it tracks as UAT-7237, which is believed to be active since at least 2022."
+  },
+  {
+    "title": "U.S. Sanctions Garantex and Grinex Over $100M in Ransomware-Linked Illicit Crypto Transactions",
+    "link": "https://thehackernews.com/2025/08/us-sanctions-garantex-and-grinex-over.html",
+    "published": "Fri, 15 Aug 2025 16:57:00 +0530",
+    "summary": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) on Thursday renewed sanctions against Russian cryptocurrency exchange platform Garantex for facilitating ransomware actors and other cybercriminals by processing more than $100 million in transactions linked to illicit activities since 2019.\nThe Treasury said it's also imposing sanctions on Garantex's successor, Grinex"
+  },
+  {
+    "title": "Zero Trust + AI: Privacy in the Age of Agentic AI",
+    "link": "https://thehackernews.com/2025/08/zero-trust-ai-privacy-in-age-of-agentic.html",
+    "published": "Fri, 15 Aug 2025 16:30:00 +0530",
+    "summary": "We used to think of privacy as a perimeter problem: about walls and locks, permissions, and policies. But in a world where artificial agents are becoming autonomous actors — interacting with data, systems, and humans without constant oversight — privacy is no longer about control. It’s about trust. And trust, by definition, is about what happens when you’re not looking.\nAgentic AI — AI that"
+  },
+  {
+    "title": "Cisco Warns of CVSS 10.0 FMC RADIUS Flaw Allowing Remote Code Execution",
+    "link": "https://thehackernews.com/2025/08/cisco-warns-of-cvss-100-fmc-radius-flaw.html",
+    "published": "Fri, 15 Aug 2025 12:19:00 +0530",
+    "summary": "Cisco has released security updates to address a maximum-severity security flaw in Secure Firewall Management Center (FMC) Software that could allow an attacker to execute arbitrary code on affected systems.\nThe vulnerability, assigned the CVE identifier CVE-2025-20265 (CVSS score: 10.0), affects the RADIUS subsystem implementation that could permit an unauthenticated, remote attacker to inject"
+  },
+  {
+    "title": "New HTTP/2 'MadeYouReset' Vulnerability Enables Large-Scale DoS Attacks",
+    "link": "https://thehackernews.com/2025/08/new-http2-madeyoureset-vulnerability.html",
+    "published": "Thu, 14 Aug 2025 20:50:00 +0530",
+    "summary": "Multiple HTTP/2 implementations have been found susceptible to a new attack technique called MadeYouReset that could be explored to conduct powerful denial-of-service (DoS) attacks.\n\"MadeYouReset bypasses the typical server-imposed limit of 100 concurrent HTTP/2 requests per TCP connection from a client. This limit is intended to mitigate DoS attacks by restricting the number of simultaneous"
+  },
+  {
+    "title": "Hackers Found Using CrossC2 to Expand Cobalt Strike Beacon’s Reach to Linux and macOS",
+    "link": "https://thehackernews.com/2025/08/researchers-warn-crossc2-expands-cobalt.html",
+    "published": "Thu, 14 Aug 2025 18:46:00 +0530",
+    "summary": "Japan's CERT coordination center (JPCERT/CC) on Thursday revealed it observed incidents that involved the use of a command-and-control (C2) framework called CrossC2, which is designed to extend the functionality of Cobalt Strike to other platforms like Linux and Apple macOS for cross-platform system control.\nThe agency said the activity was detected between September and December 2024, targeting"
+  },
+  {
+    "title": "Have You Turned Off Your Virtual Oven?",
+    "link": "https://thehackernews.com/2025/08/have-you-turned-off-your-virtual-oven.html",
+    "published": "Thu, 14 Aug 2025 16:55:00 +0530",
+    "summary": "You check that the windows are shut before leaving home. Return to the kitchen to verify that the oven and stove were definitely turned off. Maybe even circle back again to confirm the front door was properly closed. These automatic safety checks give you peace of mind because you know the unlikely but potentially dangerous consequences of forgetting – a break-in, fire, or worse.\nYour"
+  },
+  {
+    "title": "New Android Malware Wave Hits Banking via NFC Relay Fraud, Call Hijacking, and Root Exploits",
+    "link": "https://thehackernews.com/2025/08/new-android-malware-wave-hits-banking.html",
+    "published": "Thu, 14 Aug 2025 16:36:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed a new Android trojan called PhantomCard that abuses near-field communication (NFC) to conduct relay attacks for facilitating fraudulent transactions in attacks targeting banking customers in Brazil.\n\"PhantomCard relays NFC data from a victim's banking card to the fraudster's device,\" ThreatFabric said in a report. \"PhantomCard is based on"
+  }
+]
