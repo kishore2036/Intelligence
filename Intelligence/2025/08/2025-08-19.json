@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Noodlophile Malware Campaign Expands Global Reach with Copyright Phishing Lures",
+    "link": "https://thehackernews.com/2025/08/noodlophile-malware-campaign-expands.html",
+    "published": "Tue, 19 Aug 2025 00:54:00 +0530",
+    "summary": "The threat actors behind the Noodlophile malware are leveraging spear-phishing emails and updated delivery mechanisms to deploy the information stealer in attacks aimed at enterprises located in the U.S., Europe, Baltic countries, and the Asia-Pacific (APAC) region.\n\"The Noodlophile campaign, active for over a year, now leverages advanced spear-phishing emails posing as copyright infringement"
+  },
+  {
+    "title": "Microsoft Windows Vulnerability Exploited to Deploy PipeMagic RansomExx Malware",
+    "link": "https://thehackernews.com/2025/08/microsoft-windows-vulnerability.html",
+    "published": "Mon, 18 Aug 2025 21:33:00 +0530",
+    "summary": "Cybersecurity researchers have lifted the lid on the threat actors' exploitation of a now-patched security flaw in Microsoft Windows to deploy the PipeMagic malware in RansomExx ransomware attacks.\nThe attacks involve the exploitation of CVE-2025-29824, a privilege escalation vulnerability impacting the Windows Common Log File System (CLFS) that was addressed by Microsoft in April 2025,"
+  },
+  {
+    "title": "⚡ Weekly Recap: NFC Fraud, Curly COMrades, N-able Exploits, Docker Backdoors & More",
+    "link": "https://thehackernews.com/2025/08/weekly-recap-nfc-fraud-curly-comrades-n.html",
+    "published": "Mon, 18 Aug 2025 18:17:00 +0530",
+    "summary": "Power doesn’t just disappear in one big breach. It slips away in the small stuff—a patch that’s missed, a setting that’s wrong, a system no one is watching. Security usually doesn’t fail all at once; it breaks slowly, then suddenly. Staying safe isn’t about knowing everything—it’s about acting fast and clear before problems pile up. Clarity keeps control. Hesitation creates risk.\nHere are this"
+  },
+  {
+    "title": "Malicious PyPI and npm Packages Discovered Exploiting Dependencies in Supply Chain Attacks",
+    "link": "https://thehackernews.com/2025/08/malicious-pypi-and-npm-packages.html",
+    "published": "Mon, 18 Aug 2025 16:26:00 +0530",
+    "summary": "Cybersecurity researchers have discovered a malicious package in the Python Package Index (PyPI) repository that introduces malicious behavior through a dependency that allows it to establish persistence and achieve code execution.\nThe package, named termncolor, realizes its nefarious functionality through a dependency package called colorinal by means of a multi-stage malware operation, Zscaler"
+  },
+  {
+    "title": "Wazuh for Regulatory Compliance",
+    "link": "https://thehackernews.com/2025/08/wazuh-for-regulatory-compliance.html",
+    "published": "Mon, 18 Aug 2025 15:45:00 +0530",
+    "summary": "Organizations handling various forms of sensitive data or personally identifiable information (PII) require adherence to regulatory compliance standards and frameworks. These compliance standards also apply to organizations operating in regulated sectors such as healthcare, finance, government contracting, or education. Some of these standards and frameworks include, but are not limited to:"
+  },
+  {
+    "title": "ERMAC V3.0 Banking Trojan Source Code Leak Exposes Full Malware Infrastructure",
+    "link": "https://thehackernews.com/2025/08/ermac-v30-banking-trojan-source-code.html",
+    "published": "Sat, 16 Aug 2025 16:11:00 +0530",
+    "summary": "Cybersecurity researchers have detailed the inner workings of an Android banking trojan called ERMAC 3.0, uncovering serious shortcomings in the operators' infrastructure.\n\"The newly uncovered version 3.0 reveals a significant evolution of the malware, expanding its form injection and data theft capabilities to target more than 700 banking, shopping, and cryptocurrency applications,\" Hunt.io"
+  },
+  {
+    "title": "Russian Group EncryptHub Exploits MSC EvilTwin Vulnerability to Deploy Fickle Stealer Malware",
+    "link": "https://thehackernews.com/2025/08/russian-group-encrypthub-exploits-msc.html",
+    "published": "Sat, 16 Aug 2025 11:04:00 +0530",
+    "summary": "The threat actor known as EncryptHub is continuing to exploit a now-patched security flaw impacting Microsoft Windows to deliver malicious payloads.\nTrustwave SpiderLabs said it recently observed an EncryptHub campaign that brings together social engineering and the exploitation of a vulnerability in the Microsoft Management Console (MMC) framework (CVE-2025-26633, aka MSC EvilTwin) to trigger"
+  },
+  {
+    "title": "Taiwan Web Servers Breached by UAT-7237 Using Customized Open-Source Hacking Tools",
+    "link": "https://thehackernews.com/2025/08/taiwan-web-servers-breached-by-uat-7237.html",
+    "published": "Fri, 15 Aug 2025 21:50:00 +0530",
+    "summary": "A Chinese-speaking advanced persistent threat (APT) actor has been observed targeting web infrastructure entities in Taiwan using customized versions of open-sourced tools with an aim to establish long-term access within high-value victim environments.\nThe activity has been attributed by Cisco Talos to an activity cluster it tracks as UAT-7237, which is believed to be active since at least 2022."
+  },
+  {
+    "title": "U.S. Sanctions Garantex and Grinex Over $100M in Ransomware-Linked Illicit Crypto Transactions",
+    "link": "https://thehackernews.com/2025/08/us-sanctions-garantex-and-grinex-over.html",
+    "published": "Fri, 15 Aug 2025 16:57:00 +0530",
+    "summary": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) on Thursday renewed sanctions against Russian cryptocurrency exchange platform Garantex for facilitating ransomware actors and other cybercriminals by processing more than $100 million in transactions linked to illicit activities since 2019.\nThe Treasury said it's also imposing sanctions on Garantex's successor, Grinex"
+  },
+  {
+    "title": "Zero Trust + AI: Privacy in the Age of Agentic AI",
+    "link": "https://thehackernews.com/2025/08/zero-trust-ai-privacy-in-age-of-agentic.html",
+    "published": "Fri, 15 Aug 2025 16:30:00 +0530",
+    "summary": "We used to think of privacy as a perimeter problem: about walls and locks, permissions, and policies. But in a world where artificial agents are becoming autonomous actors — interacting with data, systems, and humans without constant oversight — privacy is no longer about control. It’s about trust. And trust, by definition, is about what happens when you’re not looking.\nAgentic AI — AI that"
+  }
+]
