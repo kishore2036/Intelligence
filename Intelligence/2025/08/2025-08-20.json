@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Apache ActiveMQ Flaw Exploited to Deploy DripDropper Malware on Cloud Linux Systems",
+    "link": "https://thehackernews.com/2025/08/apache-activemq-flaw-exploited-to.html",
+    "published": "Tue, 19 Aug 2025 23:07:00 +0530",
+    "summary": "Threat actors are exploiting a nearly two-year-old security flaw in Apache ActiveMQ to gain persistent access to cloud Linux systems and deploy malware called DripDropper.\nBut in an unusual twist, the unknown attackers have been observed patching the exploited vulnerability after securing initial access to prevent further exploitation by other adversaries and evade detection, Red Canary said in"
+  },
+  {
+    "title": "New GodRAT Trojan Targets Trading Firms Using Steganography and Gh0st RAT Code",
+    "link": "https://thehackernews.com/2025/08/new-godrat-trojan-targets-trading-firms.html",
+    "published": "Tue, 19 Aug 2025 20:03:00 +0530",
+    "summary": "Financial institutions like trading and brokerage firms are the target of a new campaign that delivers a previously unreported remote access trojan called GodRAT.\nThe malicious activity involves the \"distribution of malicious .SCR (screen saver) files disguised as financial documents via Skype messenger,\" Kaspersky researcher Saurabh Sharma said in a technical analysis published today.\nThe"
+  },
+  {
+    "title": "Public Exploit for Chained SAP Flaws Exposes Unpatched Systems to Remote Code Execution",
+    "link": "https://thehackernews.com/2025/08/public-exploit-for-chained-sap-flaws.html",
+    "published": "Tue, 19 Aug 2025 18:30:00 +0530",
+    "summary": "A new exploit combining two critical, now-patched security flaws in SAP NetWeaver has emerged in the wild, putting organizations at risk of system compromise and data theft.\nThe exploit in question chains together CVE-2025-31324 and CVE-2025-42999 to bypass authentication and achieve remote code execution, SAP security company Onapsis said.\n\nCVE-2025-31324 (CVSS score: 10.0) - Missing"
+  },
+  {
+    "title": "U.K. Government Drops Apple Encryption Backdoor Order After U.S. Civil Liberties Pushback",
+    "link": "https://thehackernews.com/2025/08/uk-government-drops-apple-encryption.html",
+    "published": "Tue, 19 Aug 2025 16:54:00 +0530",
+    "summary": "The U.K. government has apparently abandoned its plans to force Apple to weaken encryption protections and include a backdoor that would have enabled access to the protected data of U.S. citizens.\nU.S. Director of National Intelligence (DNI) Tulsi Gabbard, in a statement posted on X, said the U.S. government had been working with its partners with the U.K. over the past few months to ensure that"
+  },
+  {
+    "title": "Why Your Security Culture is Critical to Mitigating Cyber Risk",
+    "link": "https://thehackernews.com/2025/08/why-your-security-culture-is-critical.html",
+    "published": "Tue, 19 Aug 2025 16:45:00 +0530",
+    "summary": "After two decades of developing increasingly mature security architectures, organizations are running up against a hard truth: tools and technologies alone are not enough to mitigate cyber risk. As tech stacks have grown more sophisticated and capable, attackers have shifted their focus. They are no longer focusing on infrastructure vulnerabilities alone. Instead, they are increasingly"
+  },
+  {
+    "title": "PyPI Blocks 1,800 Expired-Domain Emails to Prevent Account Takeovers and Supply Chain Attacks",
+    "link": "https://thehackernews.com/2025/08/pypi-blocks-1800-expired-domain-emails.html",
+    "published": "Tue, 19 Aug 2025 12:06:00 +0530",
+    "summary": "The maintainers of the Python Package Index (PyPI) repository have announced that the package manager now checks for expired domains to prevent supply chain attacks.\n\"These changes improve PyPI's overall account security posture, making it harder for attackers to exploit expired domain names to gain unauthorized access to accounts,\" Mike Fiedler, PyPI safety and security engineer at the Python"
+  },
+  {
+    "title": "Noodlophile Malware Campaign Expands Global Reach with Copyright Phishing Lures",
+    "link": "https://thehackernews.com/2025/08/noodlophile-malware-campaign-expands.html",
+    "published": "Tue, 19 Aug 2025 00:54:00 +0530",
+    "summary": "The threat actors behind the Noodlophile malware are leveraging spear-phishing emails and updated delivery mechanisms to deploy the information stealer in attacks aimed at enterprises located in the U.S., Europe, Baltic countries, and the Asia-Pacific (APAC) region.\n\"The Noodlophile campaign, active for over a year, now leverages advanced spear-phishing emails posing as copyright infringement"
+  },
+  {
+    "title": "Microsoft Windows Vulnerability Exploited to Deploy PipeMagic RansomExx Malware",
+    "link": "https://thehackernews.com/2025/08/microsoft-windows-vulnerability.html",
+    "published": "Mon, 18 Aug 2025 21:33:00 +0530",
+    "summary": "Cybersecurity researchers have lifted the lid on the threat actors' exploitation of a now-patched security flaw in Microsoft Windows to deploy the PipeMagic malware in RansomExx ransomware attacks.\nThe attacks involve the exploitation of CVE-2025-29824, a privilege escalation vulnerability impacting the Windows Common Log File System (CLFS) that was addressed by Microsoft in April 2025,"
+  },
+  {
+    "title": "⚡ Weekly Recap: NFC Fraud, Curly COMrades, N-able Exploits, Docker Backdoors & More",
+    "link": "https://thehackernews.com/2025/08/weekly-recap-nfc-fraud-curly-comrades-n.html",
+    "published": "Mon, 18 Aug 2025 18:17:00 +0530",
+    "summary": "Power doesn’t just disappear in one big breach. It slips away in the small stuff—a patch that’s missed, a setting that’s wrong, a system no one is watching. Security usually doesn’t fail all at once; it breaks slowly, then suddenly. Staying safe isn’t about knowing everything—it’s about acting fast and clear before problems pile up. Clarity keeps control. Hesitation creates risk.\nHere are this"
+  },
+  {
+    "title": "Malicious PyPI and npm Packages Discovered Exploiting Dependencies in Supply Chain Attacks",
+    "link": "https://thehackernews.com/2025/08/malicious-pypi-and-npm-packages.html",
+    "published": "Mon, 18 Aug 2025 16:26:00 +0530",
+    "summary": "Cybersecurity researchers have discovered a malicious package in the Python Package Index (PyPI) repository that introduces malicious behavior through a dependency that allows it to establish persistence and achieve code execution.\nThe package, named termncolor, realizes its nefarious functionality through a dependency package called colorinal by means of a multi-stage malware operation, Zscaler"
+  }
+]
