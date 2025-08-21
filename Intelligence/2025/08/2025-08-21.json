@@ -1,0 +1,62 @@
+[
+  {
+    "title": "DOM-Based Extension Clickjacking Exposes Popular Password Managers to Credential and Data Theft",
+    "link": "https://thehackernews.com/2025/08/dom-based-extension-clickjacking.html",
+    "published": "Wed, 20 Aug 2025 23:24:00 +0530",
+    "summary": "Popular password manager plugins for web browsers have been found susceptible to clickjacking security vulnerabilities that could be exploited to steal account credentials, two-factor authentication (2FA) codes, and credit card details under certain conditions.\nThe technique has been dubbed Document Object Model (DOM)-based extension clickjacking by independent security researcher Marek Tóth,"
+  },
+  {
+    "title": "🕵️ Webinar: Discover and Control Shadow AI Agents in Your Enterprise Before Hackers Do",
+    "link": "https://thehackernews.com/2025/08/webinar-discover-and-control-shadow-ai.html",
+    "published": "Wed, 20 Aug 2025 22:55:00 +0530",
+    "summary": "Do you know how many AI agents are running inside your business right now?\nIf the answer is “not sure,” you’re not alone—and that’s exactly the concern.\nAcross industries, AI agents are being set up every day. Sometimes by IT, but often by business units moving fast to get results. That means agents are running quietly in the background—without proper IDs, without owners, and without logs of"
+  },
+  {
+    "title": "FBI Warns FSB-Linked Hackers Exploiting Unpatched Cisco Devices for Cyber Espionage",
+    "link": "https://thehackernews.com/2025/08/fbi-warns-russian-fsb-linked-hackers.html",
+    "published": "Wed, 20 Aug 2025 21:29:00 +0530",
+    "summary": "A Russian state-sponsored cyber espionage group known as Static Tundra has been observed actively exploiting a seven-year-old security flaw in Cisco IOS and Cisco IOS XE software as a means to establish persistent access to target networks.\nCisco Talos, which disclosed details of the activity, said the attacks single out organizations in telecommunications, higher education and manufacturing"
+  },
+  {
+    "title": "Experts Find AI Browsers Can Be Tricked by PromptFix Exploit to Run Malicious Hidden Prompts",
+    "link": "https://thehackernews.com/2025/08/experts-find-ai-browsers-can-be-tricked.html",
+    "published": "Wed, 20 Aug 2025 18:31:00 +0530",
+    "summary": "Cybersecurity researchers have demonstrated a new prompt injection technique called PromptFix that tricks a generative artificial intelligence (GenAI) model into carrying out intended actions by embedding the malicious instruction inside a fake CAPTCHA check on a web page.\nDescribed by Guardio Labs an \"AI-era take on the ClickFix scam,\" the attack technique demonstrates how AI-driven browsers,"
+  },
+  {
+    "title": "From Impact to Action: Turning BIA Insights Into Resilient Recovery",
+    "link": "https://thehackernews.com/2025/08/turning-bia-insights-into-resilient-recovery.html",
+    "published": "Wed, 20 Aug 2025 16:00:00 +0530",
+    "summary": "Modern businesses face a rapidly evolving and expanding threat landscape, but what does this mean for your business? It means a growing number of risks, along with an increase in their frequency, variety, complexity, severity, and potential business impact.\nThe real question is, “How do you tackle these rising threats?” The answer lies in having a robust BCDR strategy. However, to build a"
+  },
+  {
+    "title": "North Korea Uses GitHub in Diplomat Cyber Attacks as IT Worker Scheme Hits 320+ Firms",
+    "link": "https://thehackernews.com/2025/08/north-korea-uses-github-in-diplomat.html",
+    "published": "Wed, 20 Aug 2025 14:48:00 +0530",
+    "summary": "North Korean threat actors have been attributed to a coordinated cyber espionage campaign targeting diplomatic missions in their southern counterpart between March and July 2025.\nThe activity manifested in the form of at least 19 spear-phishing emails that impersonated trusted diplomatic contacts with the goal of luring embassy staff and foreign ministry personnel with convincing meeting invites"
+  },
+  {
+    "title": "DOJ Charges 22-Year-Old for Running RapperBot Botnet Behind 370,000 DDoS Attacks",
+    "link": "https://thehackernews.com/2025/08/doj-charges-22-year-old-for-running.html",
+    "published": "Wed, 20 Aug 2025 09:49:00 +0530",
+    "summary": "A 22-year-old man from the U.S. state of Oregon has been charged with allegedly developing and overseeing a distributed denial-of-service (DDoS)-for-hire botnet called RapperBot.\nEthan Foltz of Eugene, Oregon, has been identified as the administrator of the service, the U.S. Department of Justice (DoJ) said. The botnet has been used to carry out large-scale DDoS-for-hire attacks targeting"
+  },
+  {
+    "title": "Apache ActiveMQ Flaw Exploited to Deploy DripDropper Malware on Cloud Linux Systems",
+    "link": "https://thehackernews.com/2025/08/apache-activemq-flaw-exploited-to.html",
+    "published": "Tue, 19 Aug 2025 23:07:00 +0530",
+    "summary": "Threat actors are exploiting a nearly two-year-old security flaw in Apache ActiveMQ to gain persistent access to cloud Linux systems and deploy malware called DripDropper.\nBut in an unusual twist, the unknown attackers have been observed patching the exploited vulnerability after securing initial access to prevent further exploitation by other adversaries and evade detection, Red Canary said in"
+  },
+  {
+    "title": "New GodRAT Trojan Targets Trading Firms Using Steganography and Gh0st RAT Code",
+    "link": "https://thehackernews.com/2025/08/new-godrat-trojan-targets-trading-firms.html",
+    "published": "Tue, 19 Aug 2025 20:03:00 +0530",
+    "summary": "Financial institutions like trading and brokerage firms are the target of a new campaign that delivers a previously unreported remote access trojan called GodRAT.\nThe malicious activity involves the \"distribution of malicious .SCR (screen saver) files disguised as financial documents via Skype messenger,\" Kaspersky researcher Saurabh Sharma said in a technical analysis published today.\nThe"
+  },
+  {
+    "title": "Public Exploit for Chained SAP Flaws Exposes Unpatched Systems to Remote Code Execution",
+    "link": "https://thehackernews.com/2025/08/public-exploit-for-chained-sap-flaws.html",
+    "published": "Tue, 19 Aug 2025 18:30:00 +0530",
+    "summary": "A new exploit combining two critical, now-patched security flaws in SAP NetWeaver has emerged in the wild, putting organizations at risk of system compromise and data theft.\nThe exploit in question chains together CVE-2025-31324 and CVE-2025-42999 to bypass authentication and achieve remote code execution, SAP security company Onapsis said.\n\nCVE-2025-31324 (CVSS score: 10.0) - Missing"
+  }
+]
