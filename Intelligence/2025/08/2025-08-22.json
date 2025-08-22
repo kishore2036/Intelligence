@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Pre-Auth Exploit Chains Found in Commvault Could Enable Remote Code Execution Attacks",
+    "link": "https://thehackernews.com/2025/08/pre-auth-exploit-chains-found-in.html",
+    "published": "Thu, 21 Aug 2025 22:08:00 +0530",
+    "summary": "Commvault has released updates to address four security gaps that could be exploited to achieve remote code execution on susceptible instances.\nThe list of vulnerabilities, identified in Commvault versions before 11.36.60, is as follows -\n\nCVE-2025-57788 (CVSS score: 6.9) - A vulnerability in a known login mechanism allows unauthenticated attackers to execute API calls without requiring user"
+  },
+  {
+    "title": "Cybercriminals Deploy CORNFLAKE.V3 Backdoor via ClickFix Tactic and Fake CAPTCHA Pages",
+    "link": "https://thehackernews.com/2025/08/cybercriminals-deploy-cornflakev3.html",
+    "published": "Thu, 21 Aug 2025 21:55:00 +0530",
+    "summary": "Threat actors have been observed leveraging the deceptive social engineering tactic known as ClickFix to deploy a versatile backdoor codenamed CORNFLAKE.V3.\nGoogle-owned Mandiant described the activity, which it tracks as UNC5518, as part of an access-as-a-service scheme that employs fake CAPTCHA pages as lures to trick users into providing initial access to their systems, which is then"
+  },
+  {
+    "title": "Weak Passwords and Compromised Accounts: Key Findings from the Blue Report 2025",
+    "link": "https://thehackernews.com/2025/08/weak-passwords-and-compromised-accounts.html",
+    "published": "Thu, 21 Aug 2025 16:20:00 +0530",
+    "summary": "As security professionals, it's easy to get caught up in a race to counter the latest advanced adversary techniques. Yet the most impactful attacks often aren't from cutting-edge exploits, but from cracked credentials and compromised accounts. Despite widespread awareness of this threat vector, Picus Security's Blue Report 2025 shows that organizations continue to struggle with preventing"
+  },
+  {
+    "title": "Hackers Using New QuirkyLoader Malware to Spread Agent Tesla, AsyncRAT and Snake Keylogger",
+    "link": "https://thehackernews.com/2025/08/hackers-using-new-quirkyloader-malware.html",
+    "published": "Thu, 21 Aug 2025 16:11:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new malware loader called QuirkyLoader that's being used to deliver via email spam campaigns an array of next-stage payloads ranging from information stealers to remote access trojans since November 2024.\nSome of the notable malware families distributed using QuirkyLoader include Agent Tesla, AsyncRAT, Formbook, Masslogger, Remcos RAT,"
+  },
+  {
+    "title": "Scattered Spider Hacker Gets 10 Years, $13M Restitution for SIM Swapping Crypto Theft",
+    "link": "https://thehackernews.com/2025/08/scattered-spider-hacker-gets-10-years.html",
+    "published": "Thu, 21 Aug 2025 12:15:00 +0530",
+    "summary": "A 20-year-old member of the notorious cybercrime gang known as Scattered Spider has been sentenced to ten years in prison in the U.S. in connection with a series of major hacks and cryptocurrency thefts.\nNoah Michael Urban pleaded guilty to charges related to wire fraud and aggravated identity theft back in April 2025. News of Urban's sentencing was reported by Bloomberg and Jacksonville news"
+  },
+  {
+    "title": "Apple Patches CVE-2025-43300 Zero-Day in iOS, iPadOS, and macOS Exploited in Targeted Attacks",
+    "link": "https://thehackernews.com/2025/08/apple-patches-cve-2025-43300-zero-day.html",
+    "published": "Thu, 21 Aug 2025 10:17:00 +0530",
+    "summary": "Apple has released security updates to address a security flaw impacting iOS, iPadOS, and macOS that it said has come under active exploitation in the wild.\nThe zero-day out-of-bounds write vulnerability, tracked as CVE-2025-43300, resides in the ImageIO framework that could result in memory corruption when processing a malicious image.\n\"Apple is aware of a report that this issue may have been"
+  },
+  {
+    "title": "DOM-Based Extension Clickjacking Exposes Popular Password Managers to Credential and Data Theft",
+    "link": "https://thehackernews.com/2025/08/dom-based-extension-clickjacking.html",
+    "published": "Wed, 20 Aug 2025 23:24:00 +0530",
+    "summary": "Popular password manager plugins for web browsers have been found susceptible to clickjacking security vulnerabilities that could be exploited to steal account credentials, two-factor authentication (2FA) codes, and credit card details under certain conditions.\nThe technique has been dubbed Document Object Model (DOM)-based extension clickjacking by independent security researcher Marek Tóth,"
+  },
+  {
+    "title": "🕵️ Webinar: Discover and Control Shadow AI Agents in Your Enterprise Before Hackers Do",
+    "link": "https://thehackernews.com/2025/08/webinar-discover-and-control-shadow-ai.html",
+    "published": "Wed, 20 Aug 2025 22:55:00 +0530",
+    "summary": "Do you know how many AI agents are running inside your business right now?\nIf the answer is “not sure,” you’re not alone—and that’s exactly the concern.\nAcross industries, AI agents are being set up every day. Sometimes by IT, but often by business units moving fast to get results. That means agents are running quietly in the background—without proper IDs, without owners, and without logs of"
+  },
+  {
+    "title": "FBI Warns FSB-Linked Hackers Exploiting Unpatched Cisco Devices for Cyber Espionage",
+    "link": "https://thehackernews.com/2025/08/fbi-warns-russian-fsb-linked-hackers.html",
+    "published": "Wed, 20 Aug 2025 21:29:00 +0530",
+    "summary": "A Russian state-sponsored cyber espionage group known as Static Tundra has been observed actively exploiting a seven-year-old security flaw in Cisco IOS and Cisco IOS XE software as a means to establish persistent access to target networks.\nCisco Talos, which disclosed details of the activity, said the attacks single out organizations in telecommunications, higher education and manufacturing"
+  },
+  {
+    "title": "Experts Find AI Browsers Can Be Tricked by PromptFix Exploit to Run Malicious Hidden Prompts",
+    "link": "https://thehackernews.com/2025/08/experts-find-ai-browsers-can-be-tricked.html",
+    "published": "Wed, 20 Aug 2025 18:31:00 +0530",
+    "summary": "Cybersecurity researchers have demonstrated a new prompt injection technique called PromptFix that tricks a generative artificial intelligence (GenAI) model into carrying out intended actions by embedding the malicious instruction inside a fake CAPTCHA check on a web page.\nDescribed by Guardio Labs an \"AI-era take on the ClickFix scam,\" the attack technique demonstrates how AI-driven browsers,"
+  }
+]
