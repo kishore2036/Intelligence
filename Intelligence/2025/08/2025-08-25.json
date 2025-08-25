@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Malicious Go Module Poses as SSH Brute-Force Tool, Steals Credentials via Telegram Bot",
+    "link": "https://thehackernews.com/2025/08/malicious-go-module-poses-as-ssh-brute.html",
+    "published": "Sun, 24 Aug 2025 19:08:00 +0530",
+    "summary": "Cybersecurity researchers have discovered a malicious Go module that presents itself as a brute-force tool for SSH but actually contains functionality to discreetly exfiltrate credentials to its creator.\n\"On the first successful login, the package sends the target IP address, username, and password to a hard-coded Telegram bot controlled by the threat actor,\" Socket researcher Kirill Boychenko"
+  },
+  {
+    "title": "GeoServer Exploits, PolarEdge, and Gayfemboy Push Cybercrime Beyond Traditional Botnets",
+    "link": "https://thehackernews.com/2025/08/geoserver-exploits-polaredge-and.html",
+    "published": "Sat, 23 Aug 2025 13:08:00 +0530",
+    "summary": "Cybersecurity researchers are calling attention to multiple campaigns that are taking advantage of known security vulnerabilities and exposed Redis servers to various malicious activities, including leveraging the compromised devices as IoT botnets, residential proxies, or cryptocurrency mining infrastructure.\nThe first set of attacks entails the exploitation of CVE-2024-36401 (CVSS score: 9.8),"
+  },
+  {
+    "title": "Linux Malware Delivered via Malicious RAR Filenames Evades Antivirus Detection",
+    "link": "https://thehackernews.com/2025/08/linux-malware-delivered-via-malicious.html",
+    "published": "Fri, 22 Aug 2025 20:01:00 +0530",
+    "summary": "Cybersecurity researchers have shed light on a novel attack chain that employs phishing emails to deliver an open-source backdoor called VShell.\nThe \"Linux-specific malware infection chain that starts with a spam email with a malicious RAR archive file,\" Trellix researcher Sagar Bade said in a technical write-up.\n\"The payload isn't hidden inside the file content or a macro, it's encoded directly"
+  },
+  {
+    "title": "Chinese Hackers Murky, Genesis, and Glacial Panda Escalate Cloud and Telecom Espionage",
+    "link": "https://thehackernews.com/2025/08/chinese-hackers-murky-genesis-and.html",
+    "published": "Fri, 22 Aug 2025 16:36:00 +0530",
+    "summary": "Cybersecurity researchers are calling attention to malicious activity orchestrated by a China-nexus cyber espionage group known as Murky Panda that involves abusing trusted relationships in the cloud to breach enterprise networks.\n\"The adversary has also shown considerable ability to quickly weaponize N-day and zero-day vulnerabilities and frequently achieves initial access to their targets by"
+  },
+  {
+    "title": "Automation Is Redefining Pentest Delivery",
+    "link": "https://thehackernews.com/2025/08/automation-is-redefining-pentest.html",
+    "published": "Fri, 22 Aug 2025 16:36:00 +0530",
+    "summary": "Pentesting remains one of the most effective ways to identify real-world security weaknesses before adversaries do. But as the threat landscape has evolved, the way we deliver pentest results hasn't kept pace.\nMost organizations still rely on traditional reporting methods—static PDFs, emailed documents, and spreadsheet-based tracking. The problem? These outdated workflows introduce delays,"
+  },
+  {
+    "title": "INTERPOL Arrests 1,209 Cybercriminals Across 18 African Nations in Global Crackdown",
+    "link": "https://thehackernews.com/2025/08/interpol-arrests-1209-cybercriminals.html",
+    "published": "Fri, 22 Aug 2025 16:35:00 +0530",
+    "summary": "INTERPOL on Friday announced that authorities from 18 countries across Africa have arrested 1,209 cybercriminals who targeted 88,000 victims.\n\"The crackdown recovered $97.4 million and dismantled 11,432 malicious infrastructures, underscoring the global reach of cybercrime and the urgent need for cross-border cooperation,\" the agency said.\nThe effort is the second phase of an ongoing law"
+  },
+  {
+    "title": "Ex-Developer Jailed Four Years for Sabotaging Ohio Employer with Kill-Switch Malware",
+    "link": "https://thehackernews.com/2025/08/ex-developer-jailed-four-years-for.html",
+    "published": "Fri, 22 Aug 2025 11:34:00 +0530",
+    "summary": "A 55-year-old Chinese national has been sentenced to four years in prison and three years of supervised release for sabotaging his former employer's network with custom malware and deploying a kill switch that locked out employees when his account was disabled.\nDavis Lu, 55, of Houston, Texas, was convicted of causing intentional damage to protected computers in March 2025. He was arrested and"
+  },
+  {
+    "title": "Pre-Auth Exploit Chains Found in Commvault Could Enable Remote Code Execution Attacks",
+    "link": "https://thehackernews.com/2025/08/pre-auth-exploit-chains-found-in.html",
+    "published": "Thu, 21 Aug 2025 22:08:00 +0530",
+    "summary": "Commvault has released updates to address four security gaps that could be exploited to achieve remote code execution on susceptible instances.\nThe list of vulnerabilities, identified in Commvault versions before 11.36.60, is as follows -\n\nCVE-2025-57788 (CVSS score: 6.9) - A vulnerability in a known login mechanism allows unauthenticated attackers to execute API calls without requiring user"
+  },
+  {
+    "title": "Cybercriminals Deploy CORNFLAKE.V3 Backdoor via ClickFix Tactic and Fake CAPTCHA Pages",
+    "link": "https://thehackernews.com/2025/08/cybercriminals-deploy-cornflakev3.html",
+    "published": "Thu, 21 Aug 2025 21:55:00 +0530",
+    "summary": "Threat actors have been observed leveraging the deceptive social engineering tactic known as ClickFix to deploy a versatile backdoor codenamed CORNFLAKE.V3.\nGoogle-owned Mandiant described the activity, which it tracks as UNC5518, as part of an access-as-a-service scheme that employs fake CAPTCHA pages as lures to trick users into providing initial access to their systems, which is then"
+  },
+  {
+    "title": "Weak Passwords and Compromised Accounts: Key Findings from the Blue Report 2025",
+    "link": "https://thehackernews.com/2025/08/weak-passwords-and-compromised-accounts.html",
+    "published": "Thu, 21 Aug 2025 16:20:00 +0530",
+    "summary": "As security professionals, it's easy to get caught up in a race to counter the latest advanced adversary techniques. Yet the most impactful attacks often aren't from cutting-edge exploits, but from cracked credentials and compromised accounts. Despite widespread awareness of this threat vector, Picus Security's Blue Report 2025 shows that organizations continue to struggle with preventing"
+  }
+]
