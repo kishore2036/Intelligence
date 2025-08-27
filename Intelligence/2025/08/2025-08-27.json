@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Citrix Patches Three NetScaler Flaws, Confirms Active Exploitation of CVE-2025-7775",
+    "link": "https://thehackernews.com/2025/08/citrix-patches-three-netscaler-flaws.html",
+    "published": "Tue, 26 Aug 2025 22:59:00 +0530",
+    "summary": "Citrix has released fixes to address three security flaws in NetScaler ADC and NetScaler Gateway, including one that it said has been actively exploited in the wild.\nThe vulnerabilities in question are listed below -\n\nCVE-2025-7775 (CVSS score: 9.2) - Memory overflow vulnerability leading to Remote Code Execution and/or Denial-of-Service\nCVE-2025-7776 (CVSS score: 8.8) - Memory overflow"
+  },
+  {
+    "title": "New Sni5Gect Attack Crashes Phones and Downgrades 5G to 4G without Rogue Base Station",
+    "link": "https://thehackernews.com/2025/08/new-sni5gect-attack-crashes-phones-and.html",
+    "published": "Tue, 26 Aug 2025 22:53:00 +0530",
+    "summary": "A team of academics has devised a novel attack that can be used to downgrade a 5G connection to a lower generation without relying on a rogue base station (gNB).\nThe attack, per the ASSET (Automated Systems SEcuriTy) Research Group at the Singapore University of Technology and Design (SUTD), relies on a new open-source software toolkit named Sni5Gect (short for \"Sniffing 5G Inject\") that's"
+  },
+  {
+    "title": "MixShell Malware Delivered via Contact Forms Targets U.S. Supply Chain Manufacturers",
+    "link": "https://thehackernews.com/2025/08/mixshell-malware-delivered-via-contact.html",
+    "published": "Tue, 26 Aug 2025 19:00:00 +0530",
+    "summary": "Cybersecurity researchers are calling attention to a sophisticated social engineering campaign that's targeting supply chain-critical manufacturing companies with an in-memory malware dubbed MixShell.\nThe activity has been codenamed ZipLine by Check Point Research.\n\"Instead of sending unsolicited phishing emails, attackers initiate contact through a company's public 'Contact Us' form, tricking"
+  },
+  {
+    "title": "AI-Driven Trends in Endpoint Security: What the 2025 Gartner® Magic Quadrant™ Reveals",
+    "link": "https://thehackernews.com/2025/07/ai-driven-trends-in-endpoint-security.html",
+    "published": "Tue, 26 Aug 2025 16:17:00 +0530",
+    "summary": "Cyber threats and attacks like ransomware continue to increase in volume and complexity with the endpoint typically being the most sought after and valued target. With the rapid expansion and adoption of AI, it is more critical than ever to ensure the endpoint is adequately secured by a platform capable of not just keeping pace, but staying ahead of an ever-evolving threat landscape."
+  },
+  {
+    "title": "ShadowCaptcha Exploits WordPress Sites to Spread Ransomware, Info Stealers, and Crypto Miners",
+    "link": "https://thehackernews.com/2025/08/shadowcaptcha-exploits-wordpress-sites.html",
+    "published": "Tue, 26 Aug 2025 16:15:00 +0530",
+    "summary": "A new large-scale campaign has been observed exploiting over 100 compromised WordPress sites to direct site visitors to fake CAPTCHA verification pages that employ the ClickFix social engineering tactic to deliver information stealers, ransomware, and cryptocurrency miners.\nThe large-scale cybercrime campaign, first detected in August 2025, has been codenamed ShadowCaptcha by the Israel National"
+  },
+  {
+    "title": "HOOK Android Trojan Adds Ransomware Overlays, Expands to 107 Remote Commands",
+    "link": "https://thehackernews.com/2025/08/hook-android-trojan-adds-ransomware.html",
+    "published": "Tue, 26 Aug 2025 14:31:00 +0530",
+    "summary": "Cybersecurity researchers have discovered a new variant of an Android banking trojan called HOOK that features ransomware-style overlay screens to display extortion messages.\n\"A prominent characteristic of the latest variant is its capacity to deploy a full-screen ransomware overlay, which aims to coerce the victim into remitting a ransom payment,\" Zimperium zLabs researcher Vishnu Pratapagiri"
+  },
+  {
+    "title": "Google to Verify All Android Developers in 4 Countries to Block Malicious Apps",
+    "link": "https://thehackernews.com/2025/08/google-to-verify-all-android-developers.html",
+    "published": "Tue, 26 Aug 2025 11:57:00 +0530",
+    "summary": "Google has announced plans to begin verifying the identity of all developers who distribute apps on Android, even for those who distribute their software outside the Play Store.\n\"Android will require all apps to be registered by verified developers in order to be installed by users on certified Android devices,\" the company said. \"This creates crucial accountability, making it much harder for"
+  },
+  {
+    "title": "CISA Adds Three Exploited Vulnerabilities to KEV Catalog Affecting Citrix and Git",
+    "link": "https://thehackernews.com/2025/08/cisa-adds-three-exploited.html",
+    "published": "Tue, 26 Aug 2025 11:25:00 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added three security flaws impacting Citrix Session Recording and Git to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe list of vulnerabilities is as follows -\n\nCVE-2024-8068 (CVSS score: 5.1) - An improper privilege management vulnerability in Citrix Session Recording"
+  },
+  {
+    "title": "UNC6384 Deploys PlugX via Captive Portal Hijacks and Valid Certificates Targeting Diplomats",
+    "link": "https://thehackernews.com/2025/08/unc6384-deploys-plugx-via-captive.html",
+    "published": "Mon, 25 Aug 2025 23:41:00 +0530",
+    "summary": "A China-nexus threat actor known as UNC6384 has been attributed to a set of attacks targeting diplomats in Southeast Asia and other entities across the globe to advance Beijing's strategic interests.\n\"This multi-stage attack chain leverages advanced social engineering including valid code signing certificates, an adversary-in-the-middle (AitM) attack, and indirect execution techniques to evade"
+  },
+  {
+    "title": "Docker Fixes CVE-2025-9074, Critical Container Escape Vulnerability With CVSS Score 9.3",
+    "link": "https://thehackernews.com/2025/08/docker-fixes-cve-2025-9074-critical.html",
+    "published": "Mon, 25 Aug 2025 23:23:00 +0530",
+    "summary": "Docker has released fixes to address a critical security flaw affecting the Docker Desktop app for Windows and macOS that could potentially allow an attacker to break out of the confines of a container.\nThe vulnerability, tracked as CVE-2025-9074, carries a CVSS score of 9.3 out of 10.0. It has been addressed in version 4.44.3.\n\"A malicious container running on Docker Desktop could access the"
+  }
+]
