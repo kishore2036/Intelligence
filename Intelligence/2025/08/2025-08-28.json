@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Storm-0501 Exploits Entra ID to Exfiltrate and Delete Azure Data in Hybrid Cloud Attacks",
+    "link": "https://thehackernews.com/2025/08/storm-0501-exploits-entra-id-to.html",
+    "published": "Thu, 28 Aug 2025 00:34:00 +0530",
+    "summary": "The financially motivated threat actor known as Storm-0501 has been observed refining its tactics to conduct data exfiltration and extortion attacks targeting cloud environments.\n\"Unlike traditional on-premises ransomware, where the threat actor typically deploys malware to encrypt critical files across endpoints within the compromised network and then negotiates for a decryption key,"
+  },
+  {
+    "title": "Someone Created First AI-Powered Ransomware Using OpenAI's gpt-oss:20b Model",
+    "link": "https://thehackernews.com/2025/08/someone-created-first-ai-powered.html",
+    "published": "Wed, 27 Aug 2025 22:37:00 +0530",
+    "summary": "Cybersecurity company ESET has disclosed that it discovered an artificial intelligence (AI)-powered ransomware variant codenamed PromptLock.\nWritten in Golang, the newly identified strain uses the gpt-oss:20b model from OpenAI locally via the Ollama API to generate malicious Lua scripts in real-time. The open-weight language model was released by OpenAI earlier this month.\n\"PromptLock"
+  },
+  {
+    "title": "Anthropic Disrupts AI-Powered Cyberattacks Automating Theft and Extortion Across Critical Sectors",
+    "link": "https://thehackernews.com/2025/08/anthropic-disrupts-ai-powered.html",
+    "published": "Wed, 27 Aug 2025 20:40:00 +0530",
+    "summary": "Anthropic on Wednesday revealed that it disrupted a sophisticated operation that weaponized its artificial intelligence (AI)-powered chatbot Claude to conduct large-scale theft and extortion of personal data in July 2025.\n\"The actor targeted at least 17 distinct organizations, including in healthcare, the emergency services, and government, and religious institutions,\" the company said. \""
+  },
+  {
+    "title": "ShadowSilk Hits 35 Organizations in Central Asia and APAC Using Telegram Bots",
+    "link": "https://thehackernews.com/2025/08/shadowsilk-hits-36-government-targets.html",
+    "published": "Wed, 27 Aug 2025 19:17:00 +0530",
+    "summary": "A threat activity cluster known as ShadowSilk has been attributed to a fresh set of attacks targeting government entities within Central Asia and Asia-Pacific (APAC).\nAccording to Group-IB, nearly three dozen victims have been identified, with the intrusions mainly geared towards data exfiltration. The hacking group shares toolset and infrastructural overlaps with campaigns undertaken by threat"
+  },
+  {
+    "title": "The 5 Golden Rules of Safe AI Adoption",
+    "link": "https://thehackernews.com/2025/08/the-5-golden-rules-of-safe-ai-adoption.html",
+    "published": "Wed, 27 Aug 2025 17:00:00 +0530",
+    "summary": "Employees are experimenting with AI at record speed. They are drafting emails, analyzing data, and transforming the workplace. The problem is not the pace of AI adoption, but the lack of control and safeguards in place.\nFor CISOs and security leaders like you, the challenge is clear: you don’t want to slow AI adoption down, but you must make it safe. A policy sent company-wide will not cut it."
+  },
+  {
+    "title": "Salesloft OAuth Breach via Drift AI Chat Agent Exposes Salesforce Customer Data",
+    "link": "https://thehackernews.com/2025/08/salesloft-oauth-breach-via-drift-ai.html",
+    "published": "Wed, 27 Aug 2025 15:09:00 +0530",
+    "summary": "A widespread data theft campaign has allowed hackers to breach sales automation platform Salesloft to steal OAuth and refresh tokens associated with the Drift artificial intelligence (AI) chat agent.\nThe activity, assessed to be opportunistic in nature, has been attributed to a threat actor tracked by Google Threat Intelligence Group and Mandiant, tracked as UNC6395.\n\"Beginning as early as"
+  },
+  {
+    "title": "Blind Eagle’s Five Clusters Target Colombia Using RATs, Phishing Lures, and Dynamic DNS Infra",
+    "link": "https://thehackernews.com/2025/08/blind-eagles-five-clusters-target.html",
+    "published": "Wed, 27 Aug 2025 14:58:00 +0530",
+    "summary": "Cybersecurity researchers have discovered five distinct activity clusters linked to a persistent threat actor known as Blind Eagle between May 2024 and July 2025.\nThese attacks, observed by Recorded Future Insikt Group, targeted various victims, but primarily within the Colombian government across local, municipal, and federal levels. The threat intelligence firm is tracking the activity under"
+  },
+  {
+    "title": "Citrix Patches Three NetScaler Flaws, Confirms Active Exploitation of CVE-2025-7775",
+    "link": "https://thehackernews.com/2025/08/citrix-patches-three-netscaler-flaws.html",
+    "published": "Tue, 26 Aug 2025 22:59:00 +0530",
+    "summary": "Citrix has released fixes to address three security flaws in NetScaler ADC and NetScaler Gateway, including one that it said has been actively exploited in the wild.\nThe vulnerabilities in question are listed below -\n\nCVE-2025-7775 (CVSS score: 9.2) - Memory overflow vulnerability leading to Remote Code Execution and/or Denial-of-Service\nCVE-2025-7776 (CVSS score: 8.8) - Memory overflow"
+  },
+  {
+    "title": "New Sni5Gect Attack Crashes Phones and Downgrades 5G to 4G without Rogue Base Station",
+    "link": "https://thehackernews.com/2025/08/new-sni5gect-attack-crashes-phones-and.html",
+    "published": "Tue, 26 Aug 2025 22:53:00 +0530",
+    "summary": "A team of academics has devised a novel attack that can be used to downgrade a 5G connection to a lower generation without relying on a rogue base station (gNB).\nThe attack, per the ASSET (Automated Systems SEcuriTy) Research Group at the Singapore University of Technology and Design (SUTD), relies on a new open-source software toolkit named Sni5Gect (short for \"Sniffing 5G Inject\") that's"
+  },
+  {
+    "title": "MixShell Malware Delivered via Contact Forms Targets U.S. Supply Chain Manufacturers",
+    "link": "https://thehackernews.com/2025/08/mixshell-malware-delivered-via-contact.html",
+    "published": "Tue, 26 Aug 2025 19:00:00 +0530",
+    "summary": "Cybersecurity researchers are calling attention to a sophisticated social engineering campaign that's targeting supply chain-critical manufacturing companies with an in-memory malware dubbed MixShell.\nThe activity has been codenamed ZipLine by Check Point Research.\n\"Instead of sending unsolicited phishing emails, attackers initiate contact through a company's public 'Contact Us' form, tricking"
+  }
+]
