@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Researchers Find VS Code Flaw Allowing Attackers to Republish Deleted Extensions Under Same Names",
+    "link": "https://thehackernews.com/2025/08/researchers-find-vs-code-flaw-allowing.html",
+    "published": "Thu, 28 Aug 2025 22:40:00 +0530",
+    "summary": "Cybersecurity researchers have discovered a loophole in the Visual Studio Code Marketplace that allows threat actors to reuse names of previously removed extensions.\nSoftware supply chain security outfit ReversingLabs said it made the discovery after it identified a malicious extension named \"ahbanC.shiba\" that functioned similarly to two other extensions – ahban.shiba and ahban.cychelloworld –"
+  },
+  {
+    "title": "Salt Typhoon Exploits Cisco, Ivanti, Palo Alto Flaws to Breach 600 Organizations Worldwide",
+    "link": "https://thehackernews.com/2025/08/salt-typhoon-exploits-cisco-ivanti-palo.html",
+    "published": "Thu, 28 Aug 2025 19:34:00 +0530",
+    "summary": "The China-linked advanced persistent threat (APT) actor known as Salt Typhoon has continued its attacks targeting networks across the world, including organizations in the telecommunications, government, transportation, lodging, and military infrastructure sectors.\n\"While these actors focus on large backbone routers of major telecommunications providers, as well as provider edge (PE) and"
+  },
+  {
+    "title": "Webinar: Why Top Teams Are Prioritizing Code-to-Cloud Mapping in Our 2025 AppSec",
+    "link": "https://thehackernews.com/2025/08/webinar-why-top-teams-are-prioritizing.html",
+    "published": "Thu, 28 Aug 2025 17:20:00 +0530",
+    "summary": "Picture this: Your team rolls out some new code, thinking everything's fine. But hidden in there is a tiny flaw that explodes into a huge problem once it hits the cloud. Next thing you know, hackers are in, and your company is dealing with a mess that costs millions.\nScary, right? In 2025, the average data breach hits businesses with a whopping $4.44 million bill globally. And guess what? A big"
+  },
+  {
+    "title": "Hidden Vulnerabilities of Project Management Tools & How FluentPro Backup Secures Them",
+    "link": "https://thehackernews.com/2025/08/hidden-vulnerabilities-of-project.html",
+    "published": "Thu, 28 Aug 2025 16:30:00 +0530",
+    "summary": "Every day, businesses, teams, and project managers trust platforms like Trello, Asana, etc., to collaborate and manage tasks. But what happens when that trust is broken? According to a recent report by Statista, the average cost of a data breach worldwide was about $4.88 million. Also, in 2024, the private data of over 15 million Trello user profiles was shared on a popular hacker forum. Yet,"
+  },
+  {
+    "title": "Malicious Nx Packages in ‘s1ngularity’ Attack Leaked 2,349 GitHub, Cloud, and AI Credentials",
+    "link": "https://thehackernews.com/2025/08/malicious-nx-packages-in-s1ngularity.html",
+    "published": "Thu, 28 Aug 2025 16:06:00 +0530",
+    "summary": "The maintainers of the nx build system have alerted users to a supply chain attack that allowed attackers to publish malicious versions of the popular npm package and other auxiliary plugins with data-gathering capabilities.\n\"Malicious versions of the nx package, as well as some supporting plugin packages, were published to npm, containing code that scans the file system, collects credentials,"
+  },
+  {
+    "title": "U.S. Treasury Sanctions DPRK IT-Worker Scheme, Exposing $600K Crypto Transfers and $1M+ Profits",
+    "link": "https://thehackernews.com/2025/08/us-treasury-sanctions-dprk-it-worker.html",
+    "published": "Thu, 28 Aug 2025 14:23:00 +0530",
+    "summary": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) announced a fresh round of sanctions against two individuals and two entities for their role in the North Korean remote information technology (IT) worker scheme to generate illicit revenue for the regime's weapons of mass destruction and ballistic missile programs.\n\"The North Korean regime continues to target American"
+  },
+  {
+    "title": "Storm-0501 Exploits Entra ID to Exfiltrate and Delete Azure Data in Hybrid Cloud Attacks",
+    "link": "https://thehackernews.com/2025/08/storm-0501-exploits-entra-id-to.html",
+    "published": "Thu, 28 Aug 2025 00:34:00 +0530",
+    "summary": "The financially motivated threat actor known as Storm-0501 has been observed refining its tactics to conduct data exfiltration and extortion attacks targeting cloud environments.\n\"Unlike traditional on-premises ransomware, where the threat actor typically deploys malware to encrypt critical files across endpoints within the compromised network and then negotiates for a decryption key,"
+  },
+  {
+    "title": "Someone Created the First AI-Powered Ransomware Using OpenAI's gpt-oss:20b Model",
+    "link": "https://thehackernews.com/2025/08/someone-created-first-ai-powered.html",
+    "published": "Wed, 27 Aug 2025 22:37:00 +0530",
+    "summary": "Cybersecurity company ESET has disclosed that it discovered an artificial intelligence (AI)-powered ransomware variant codenamed PromptLock.\nWritten in Golang, the newly identified strain uses the gpt-oss:20b model from OpenAI locally via the Ollama API to generate malicious Lua scripts in real-time. The open-weight language model was released by OpenAI earlier this month.\n\"PromptLock"
+  },
+  {
+    "title": "Anthropic Disrupts AI-Powered Cyberattacks Automating Theft and Extortion Across Critical Sectors",
+    "link": "https://thehackernews.com/2025/08/anthropic-disrupts-ai-powered.html",
+    "published": "Wed, 27 Aug 2025 20:40:00 +0530",
+    "summary": "Anthropic on Wednesday revealed that it disrupted a sophisticated operation that weaponized its artificial intelligence (AI)-powered chatbot Claude to conduct large-scale theft and extortion of personal data in July 2025.\n\"The actor targeted at least 17 distinct organizations, including in healthcare, the emergency services, and government, and religious institutions,\" the company said. \""
+  },
+  {
+    "title": "ShadowSilk Hits 35 Organizations in Central Asia and APAC Using Telegram Bots",
+    "link": "https://thehackernews.com/2025/08/shadowsilk-hits-36-government-targets.html",
+    "published": "Wed, 27 Aug 2025 19:17:00 +0530",
+    "summary": "A threat activity cluster known as ShadowSilk has been attributed to a fresh set of attacks targeting government entities within Central Asia and Asia-Pacific (APAC).\nAccording to Group-IB, nearly three dozen victims have been identified, with the intrusions mainly geared towards data exfiltration. The hacking group shares toolset and infrastructural overlaps with campaigns undertaken by threat"
+  }
+]
