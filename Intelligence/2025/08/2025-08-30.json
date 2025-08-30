@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Researchers Warn of Sitecore Exploit Chain Linking Cache Poisoning and Remote Code Execution",
+    "link": "https://thehackernews.com/2025/08/researchers-warn-of-sitecore-exploit.html",
+    "published": "Fri, 29 Aug 2025 22:52:00 +0530",
+    "summary": "Three new security vulnerabilities have been disclosed in the Sitecore Experience Platform that could be exploited to achieve information disclosure and remote code execution.&nbsp;\nThe flaws, per watchTowr Labs, are listed below -\n\nCVE-2025-53693 - HTML cache poisoning through unsafe reflections\nCVE-2025-53691 - Remote code execution (RCE) through insecure deserialization\nCVE-2025-53694 -"
+  },
+  {
+    "title": "Webinar: Learn How to Unite Dev, Sec, and Ops Teams With One Shared Playbook",
+    "link": "https://thehackernews.com/2025/08/webinar-why-top-teams-are-prioritizing.html",
+    "published": "Fri, 29 Aug 2025 21:12:00 +0530",
+    "summary": "Picture this: Your team rolls out some new code, thinking everything's fine. But hidden in there is a tiny flaw that explodes into a huge problem once it hits the cloud. Next thing you know, hackers are in, and your company is dealing with a mess that costs millions.\nScary, right? In 2025, the average data breach hits businesses with a whopping $4.44 million bill globally. And guess what? A big"
+  },
+  {
+    "title": "Amazon Disrupts APT29 Watering Hole Campaign Abusing Microsoft Device Code Authentication",
+    "link": "https://thehackernews.com/2025/08/amazon-disrupts-apt29-watering-hole.html",
+    "published": "Fri, 29 Aug 2025 18:52:00 +0530",
+    "summary": "Amazon on Friday said it flagged and disrupted what it described as an opportunistic watering hole campaign orchestrated by the Russia-linked APT29 actors as part of their intelligence gathering efforts.\nThe campaign used \"compromised websites to redirect visitors to malicious infrastructure designed to trick users into authorizing attacker-controlled devices through Microsoft's device code"
+  },
+  {
+    "title": "Abandoned Sogou Zhuyin Update Server Hijacked, Weaponized in Taiwan Espionage Campaign",
+    "link": "https://thehackernews.com/2025/08/abandoned-sogou-zhuyin-update-server.html",
+    "published": "Fri, 29 Aug 2025 18:42:00 +0530",
+    "summary": "An abandoned update server associated with input method editor (IME) software Sogou Zhuyin was leveraged by threat actors as part of an espionage campaign to deliver several malware families, including C6DOOR and GTELAM, in attacks primarily targeting users across Eastern Asia.\n\"Attackers employed sophisticated infection chains, such as hijacked software updates and fake cloud storage or login"
+  },
+  {
+    "title": "Can Your Security Stack See ChatGPT? Why Network Visibility Matters",
+    "link": "https://thehackernews.com/2025/08/can-your-security-stack-see-chatgpt-why.html",
+    "published": "Fri, 29 Aug 2025 16:00:00 +0530",
+    "summary": "Generative AI platforms like ChatGPT, Gemini, Copilot, and Claude are increasingly common in organizations. While these solutions improve efficiency across tasks, they also present new data leak prevention for generative AI challenges. Sensitive information may be shared through chat prompts, files uploaded for AI-driven summarization, or browser plugins that bypass familiar security controls."
+  },
+  {
+    "title": "Click Studios Patches Passwordstate Authentication Bypass Vulnerability in Emergency Access Page",
+    "link": "https://thehackernews.com/2025/08/click-studios-patches-passwordstate.html",
+    "published": "Fri, 29 Aug 2025 15:28:00 +0530",
+    "summary": "Click Studios, the developer of enterprise-focused password management solution Passwordstate, said it has released security updates to address an authentication bypass vulnerability in its software.\nThe high-severity issue, which is yet to be assigned a CVE identifier, has been addressed in Passwordstate 9.9 (Build 9972), released August 28, 2025.\nThe Australian company said it fixed a \""
+  },
+  {
+    "title": "FreePBX Servers Targeted by Zero-Day Flaw, Emergency Patch Now Available",
+    "link": "https://thehackernews.com/2025/08/freepbx-servers-targeted-by-zero-day.html",
+    "published": "Fri, 29 Aug 2025 15:14:00 +0530",
+    "summary": "The Sangoma FreePBX Security Team has issued an advisory warning about an actively exploited FreePBX zero-day vulnerability that impacts systems with an administrator control panel (ACP) exposed to the public internet.\nFreePBX is an open-source private branch exchange (PBX) platform widely used by businesses, call centers, and service providers to manage voice communications. It's built on top"
+  },
+  {
+    "title": "Feds Seize $6.4M VerifTools Fake-ID Marketplace, but Operators Relaunch on New Domain",
+    "link": "https://thehackernews.com/2025/08/feds-seize-64m-veriftools-fake-id.html",
+    "published": "Fri, 29 Aug 2025 14:35:00 +0530",
+    "summary": "Authorities from the Netherlands and the United States have announced the dismantling of an illicit marketplace called VerifTools that peddled fraudulent identity documents to cybercriminals across the world.\nTo that end, two marketplace domains (verif[.]tools and veriftools[.]net) and one blog have been taken down, redirecting site visitors to a splash page stating the action was undertaken by"
+  },
+  {
+    "title": "Google Warns Salesloft OAuth Breach Extends Beyond Salesforce, Impacting All Integrations",
+    "link": "https://thehackernews.com/2025/08/google-warns-salesloft-oauth-breach.html",
+    "published": "Fri, 29 Aug 2025 12:54:00 +0530",
+    "summary": "Google has revealed that the recent wave of attacks targeting Salesforce instances via Salesloft Drift is much broader in scope than previously thought, stating it impacts all integrations.\n\"We now advise all Salesloft Drift customers to treat any and all authentication tokens stored in or connected to the Drift platform as potentially compromised,\" Google Threat Intelligence Group (GTIG) and"
+  },
+  {
+    "title": "TamperedChef Malware Disguised as Fake PDF Editors Steals Credentials and Cookies",
+    "link": "https://thehackernews.com/2025/08/tamperedchef-malware-disguised-as-fake.html",
+    "published": "Fri, 29 Aug 2025 09:47:00 +0530",
+    "summary": "Cybersecurity researchers have discovered a cybercrime campaign that's using malvertising tricks to direct victims to fraudulent sites to deliver a new information stealer called TamperedChef.\n\"The objective is to lure victims into downloading and installing a trojanized PDF editor, which includes an information-stealing malware dubbed TamperedChef,\" Truesec researchers Mattias Wåhlén, Nicklas"
+  }
+]
