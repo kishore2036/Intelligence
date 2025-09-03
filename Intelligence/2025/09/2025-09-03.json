@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Lazarus Group Expands Malware Arsenal With PondRAT, ThemeForestRAT, and RemotePE",
+    "link": "https://thehackernews.com/2025/09/lazarus-group-expands-malware-arsenal.html",
+    "published": "Tue, 02 Sep 2025 22:09:00 +0530",
+    "summary": "The North Korea-linked threat actor known as the Lazarus Group has been attributed to a social engineering campaign that distributes three different pieces of cross-platform malware called PondRAT, ThemeForestRAT, and RemotePE.\nThe attack, observed by NCC Group's Fox-IT in 2024, targeted an organization in the decentralized finance (DeFi) sector, ultimately leading to the compromise of an"
+  },
+  {
+    "title": "Researchers Warn of MystRodX Backdoor Using DNS and ICMP Triggers for Stealthy Control",
+    "link": "https://thehackernews.com/2025/09/researchers-warn-of-mystrodx-backdoor.html",
+    "published": "Tue, 02 Sep 2025 20:26:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed a stealthy new backdoor called MystRodX that comes with a variety of features to capture sensitive data from compromised systems.\n\"MystRodX is a typical backdoor implemented in C++, supporting features like file management, port forwarding, reverse shell, and socket management,\" QiAnXin XLab said in a report published last week. \"Compared to typical"
+  },
+  {
+    "title": "Shadow AI Discovery: A Critical Part of Enterprise AI Governance",
+    "link": "https://thehackernews.com/2025/09/shadow-ai-discovery-critical-part-of.html",
+    "published": "Tue, 02 Sep 2025 17:00:00 +0530",
+    "summary": "The Harsh Truths of AI Adoption\nMITs State of AI in Business report revealed that while 40% of organizations have purchased enterprise LLM subscriptions, over 90% of employees are actively using AI tools in their daily work. Similarly, research from Harmonic Security found that 45.4% of sensitive AI interactions are coming from personal email accounts, where employees are bypassing corporate"
+  },
+  {
+    "title": "Ukrainian Network FDN3 Launches Massive Brute-Force Attacks on SSL VPN and RDP Devices",
+    "link": "https://thehackernews.com/2025/09/ukrainian-network-fdn3-launches-massive.html",
+    "published": "Tue, 02 Sep 2025 16:08:00 +0530",
+    "summary": "Cybersecurity researchers have flagged a Ukrainian IP network for engaging in massive brute-force and password spraying campaigns targeting SSL VPN and RDP devices between June and July 2025.\nThe activity originated from a Ukraine-based autonomous system FDN3 (AS211736), per French cybersecurity company Intrinsec.\n\"We believe with a high level of confidence that FDN3 is part of a wider abusive"
+  },
+  {
+    "title": "Silver Fox Exploits Microsoft-Signed WatchDog Driver to Deploy ValleyRAT Malware",
+    "link": "https://thehackernews.com/2025/09/silver-fox-exploits-microsoft-signed.html",
+    "published": "Tue, 02 Sep 2025 14:09:00 +0530",
+    "summary": "The threat actor known as Silver Fox has been attributed to abuse of a previously unknown vulnerable driver associated with WatchDog Anti-malware as part of a Bring Your Own Vulnerable Driver (BYOVD) attack aimed at disarming security solutions installed on compromised hosts.\nThe vulnerable driver in question is \"amsdk.sys\" (version 1.0.600), a 64-bit, validly signed Windows kernel device driver"
+  },
+  {
+    "title": "Malicious npm Package nodejs-smtp Mimics Nodemailer, Targets Atomic and Exodus Wallets",
+    "link": "https://thehackernews.com/2025/09/malicious-npm-package-nodejs-smtp.html",
+    "published": "Tue, 02 Sep 2025 10:10:00 +0530",
+    "summary": "Cybersecurity researchers have discovered a malicious npm package that comes with stealthy features to inject malicious code into desktop apps for cryptocurrency wallets like Atomic and Exodus on Windows systems.\nThe package, named nodejs-smtp, impersonates the legitimate email library nodemailer with an identical tagline, page styling, and README descriptions, attracting a total of 347"
+  },
+  {
+    "title": "Android Droppers Now Deliver SMS Stealers and Spyware, Not Just Banking Trojans",
+    "link": "https://thehackernews.com/2025/09/android-droppers-now-deliver-sms.html",
+    "published": "Mon, 01 Sep 2025 22:58:00 +0530",
+    "summary": "Cybersecurity researchers are calling attention to a new shift in the Android malware landscape where dropper apps, which are typically used to deliver banking trojans, to also distribute simpler malware such as SMS stealers and basic spyware.\nThese campaigns are propagated via dropper apps masquerading as government or banking apps in India and other parts of Asia, ThreatFabric said in a report"
+  },
+  {
+    "title": "⚡ Weekly Recap: WhatsApp 0-Day, Docker Bug, Salesforce Breach, Fake CAPTCHAs, Spyware App & More",
+    "link": "https://thehackernews.com/2025/09/weekly-recap-whatsapp-0-day-docker-bug.html",
+    "published": "Mon, 01 Sep 2025 18:32:00 +0530",
+    "summary": "Cybersecurity today is less about single attacks and more about chains of small weaknesses that connect into big risks. One overlooked update, one misused account, or one hidden tool in the wrong hands can be enough to open the door.\nThe news this week shows how attackers are mixing methods—combining stolen access, unpatched software, and clever tricks to move from small entry points to large"
+  },
+  {
+    "title": "When Browsers Become the Attack Surface: Rethinking Security for Scattered Spider",
+    "link": "https://thehackernews.com/2025/09/when-browsers-become-attack-surface.html",
+    "published": "Mon, 01 Sep 2025 17:25:00 +0530",
+    "summary": "As enterprises continue to shift their operations to the browser, security teams face a growing set of cyber challenges. In fact, over 80% of security incidents now originate from web applications accessed via Chrome, Edge, Firefox, and other browsers. One particularly fast-evolving adversary, Scattered Spider, has made it their mission to wreak havoc on enterprises by specifically targeting"
+  },
+  {
+    "title": "ScarCruft Uses RokRAT Malware in Operation HanKook Phantom Targeting South Korean Academics",
+    "link": "https://thehackernews.com/2025/09/scarcruft-uses-rokrat-malware-in.html",
+    "published": "Mon, 01 Sep 2025 13:56:00 +0530",
+    "summary": "Cybersecurity researchers have discovered a new phishing campaign undertaken by the North Korea-linked hacking group called ScarCruft (aka APT37) to deliver a malware known as RokRAT.\nThe activity has been codenamed Operation HanKook Phantom by Seqrite Labs, stating the attacks appear to target individuals associated with the National Intelligence Research Association, including academic figures"
+  }
+]
