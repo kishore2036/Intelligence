@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Malicious npm Packages Exploit Ethereum Smart Contracts to Target Crypto Developers",
+    "link": "https://thehackernews.com/2025/09/malicious-npm-packages-exploit-ethereum.html",
+    "published": "Thu, 04 Sep 2025 01:29:00 +0530",
+    "summary": "Cybersecurity researchers have discovered two new malicious packages on the npm registry that make use of smart contracts for the Ethereum blockchain to carry out malicious actions on compromised systems, signaling the trend of threat actors constantly on the lookout for new ways to distribute malware and fly under the radar.\n\"The two npm packages abused smart contracts to conceal malicious"
+  },
+  {
+    "title": "Threat Actors Weaponize HexStrike AI to Exploit Citrix Flaws Within a Week of Disclosure",
+    "link": "https://thehackernews.com/2025/09/threat-actors-weaponize-hexstrike-ai-to.html",
+    "published": "Wed, 03 Sep 2025 17:50:00 +0530",
+    "summary": "Threat actors are attempting to leverage a newly released artificial intelligence (AI) offensive security tool called HexStrike AI to exploit recently disclosed security flaws.\nHexStrike AI, according to its website, is pitched as an AI‑driven security platform to automate reconnaissance and vulnerability discovery with an aim to accelerate authorized red teaming operations, bug bounty hunting,"
+  },
+  {
+    "title": "Detecting Data Leaks Before Disaster",
+    "link": "https://thehackernews.com/2025/09/detecting-data-leaks-before-disaster.html",
+    "published": "Wed, 03 Sep 2025 17:15:00 +0530",
+    "summary": "In January 2025, cybersecurity experts at Wiz Research found that Chinese AI specialist DeepSeek had suffered a data leak, putting more than 1 million sensitive log streams at risk. \nAccording to the Wiz Research team, they identified a publicly accessible ClickHouse database belonging to DeepSeek. This allowed &ldquo;full control over database operations, including the ability to access"
+  },
+  {
+    "title": "Android Security Alert: Google Patches 120 Flaws, Including Two Zero-Days Under Attack",
+    "link": "https://thehackernews.com/2025/09/android-security-alert-google-patches.html",
+    "published": "Wed, 03 Sep 2025 16:35:00 +0530",
+    "summary": "Google has shipped security updates to address 120 security flaws in its Android operating system as part of its monthly fixes for September 2025, including two issues that it said have been exploited in targeted attacks.\nThe vulnerabilities are listed below -\n\nCVE-2025-38352 (CVSS score: 7.4) - A privilege escalation flaw in the Linux Kernel component&nbsp;\nCVE-2025-48543 (CVSS score: N/A) - A"
+  },
+  {
+    "title": "Iranian Hackers Exploit 100+ Embassy Email Accounts in Global Phishing Targeting Diplomats",
+    "link": "https://thehackernews.com/2025/09/iranian-hackers-exploit-100-embassy.html",
+    "published": "Wed, 03 Sep 2025 16:00:00 +0530",
+    "summary": "An Iran-nexus group has been linked to a \"coordinated\" and \"multi-wave\" spear-phishing campaign targeting the embassies and consulates in Europe and other regions across the world.\nThe activity has been attributed by Israeli cybersecurity company Dream to Iranian-aligned operators connected to broader offensive cyber activity undertaken by a group known as Homeland Justice.\n\"Emails were sent to"
+  },
+  {
+    "title": "AI-Driven Trends in Endpoint Security: What the 2025 Gartner® Magic Quadrant™ Reveals",
+    "link": "https://thehackernews.com/2025/07/ai-driven-trends-in-endpoint-security.html",
+    "published": "Wed, 03 Sep 2025 15:46:00 +0530",
+    "summary": "Cyber threats and attacks like ransomware continue to increase in volume and complexity with the endpoint typically being the most sought after and valued target. With the rapid expansion and adoption of AI, it is more critical than ever to ensure the endpoint is adequately secured by a platform capable of not just keeping pace, but staying ahead of an ever-evolving threat landscape."
+  },
+  {
+    "title": "Cloudflare Blocks Record-Breaking 11.5 Tbps DDoS Attack",
+    "link": "https://thehackernews.com/2025/09/cloudflare-blocks-record-breaking-115.html",
+    "published": "Wed, 03 Sep 2025 13:19:00 +0530",
+    "summary": "Cloudflare on Tuesday said it automatically mitigated a record-setting volumetric distributed denial-of-service (DDoS) attack that peaked at 11.5 terabits per second (Tbps).\n\"Over the past few weeks, we've autonomously blocked hundreds of hyper-volumetric DDoS attacks, with the largest reaching peaks of 5.1 Bpps and 11.5 Tbps,\" the web infrastructure and security company said in a post on X. \""
+  },
+  {
+    "title": "CISA Adds TP-Link and WhatsApp Flaws to KEV Catalog Amid Active Exploitation",
+    "link": "https://thehackernews.com/2025/09/cisa-adds-tp-link-and-whatsapp-flaws-to.html",
+    "published": "Wed, 03 Sep 2025 10:39:00 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a high-severity security flaw impacting TP-Link TL-WA855RE Wi-Fi Ranger Extender products to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerability, CVE-2020-24363 (CVSS score: 8.8), concerns a case of missing authentication that could be abused to obtain"
+  },
+  {
+    "title": "Salesloft Takes Drift Offline After OAuth Token Theft Hits Hundreds of Organizations",
+    "link": "https://thehackernews.com/2025/09/salesloft-takes-drift-offline-after.html",
+    "published": "Wed, 03 Sep 2025 09:23:00 +0530",
+    "summary": "Salesloft on Tuesday announced that it's taking Drift temporarily offline \"in the very near future,\" as multiple companies have been ensnared in a far-reaching supply chain attack spree targeting the marketing software-as-a-service product, resulting in the mass theft of authentication tokens.\n\"This will provide the fastest path forward to comprehensively review the application and build"
+  },
+  {
+    "title": "Lazarus Group Expands Malware Arsenal With PondRAT, ThemeForestRAT, and RemotePE",
+    "link": "https://thehackernews.com/2025/09/lazarus-group-expands-malware-arsenal.html",
+    "published": "Tue, 02 Sep 2025 22:09:00 +0530",
+    "summary": "The North Korea-linked threat actor known as the Lazarus Group has been attributed to a social engineering campaign that distributes three different pieces of cross-platform malware called PondRAT, ThemeForestRAT, and RemotePE.\nThe attack, observed by NCC Group's Fox-IT in 2024, targeted an organization in the decentralized finance (DeFi) sector, ultimately leading to the compromise of an"
+  }
+]
