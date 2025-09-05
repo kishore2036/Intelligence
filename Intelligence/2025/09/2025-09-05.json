@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Russian APT28 Deploys “NotDoor” Outlook Backdoor Against Companies in NATO Countries",
+    "link": "https://thehackernews.com/2025/09/russian-apt28-deploys-notdoor-outlook.html",
+    "published": "Thu, 04 Sep 2025 23:40:00 +0530",
+    "summary": "The Russian state-sponsored hacking group tracked as APT28 has been attributed to a new Microsoft Outlook backdoor called NotDoor in attacks targeting multiple companies from different sectors in NATO member countries.\nNotDoor \"is a VBA macro for Outlook designed to monitor incoming emails for a specific trigger word,\" S2 Grupo's LAB52 threat intelligence team said. \"When such an email is"
+  },
+  {
+    "title": "GhostRedirector Hacks 65 Windows Servers Using Rungan Backdoor and Gamshen IIS Module",
+    "link": "https://thehackernews.com/2025/09/ghostredirector-hacks-65-windows.html",
+    "published": "Thu, 04 Sep 2025 23:28:00 +0530",
+    "summary": "Cybersecurity researchers have lifted the lid on a previously undocumented threat cluster dubbed GhostRedirector that has managed to compromise at least 65 Windows servers primarily located in Brazil, Thailand, and Vietnam.\nThe attacks, per Slovak cybersecurity company ESET, led to the deployment of a passive C++ backdoor called Rungan and a native Internet Information Services (IIS) module"
+  },
+  {
+    "title": "Cybercriminals Exploit X’s Grok AI to Bypass Ad Protections and Spread Malware to Millions",
+    "link": "https://thehackernews.com/2025/09/cybercriminals-exploit-xs-grok-ai-to.html",
+    "published": "Thu, 04 Sep 2025 15:51:00 +0530",
+    "summary": "Cybersecurity researchers have flagged a new technique that cybercriminals have adopted to bypass social media platform X's malvertising protections and propagate malicious links using its artificial intelligence (AI) assistant Grok.\nThe findings were highlighted by Nati Tal, head of Guardio Labs, in a series of posts on X. The technique has been codenamed Grokking.\nThe approach is designed to"
+  },
+  {
+    "title": "Simple Steps for Attack Surface Reduction",
+    "link": "https://thehackernews.com/2025/08/simple-steps-for-attack-surface.html",
+    "published": "Thu, 04 Sep 2025 15:40:00 +0530",
+    "summary": "Story teaser text: Cybersecurity leaders face mounting pressure to stop attacks before they start, and the best defense may come down to the settings you choose on day one. In this piece, Yuriy Tsibere explores how default policies like deny-by-default, MFA enforcement, and application Ringfencing ™ can eliminate entire categories of risk. From disabling Office macros to blocking outbound server"
+  },
+  {
+    "title": "Google Fined $379 Million by French Regulator for Cookie Consent Violations",
+    "link": "https://thehackernews.com/2025/09/google-fined-379-million-by-french.html",
+    "published": "Thu, 04 Sep 2025 15:39:00 +0530",
+    "summary": "The French data protection authority has fined Google and Chinese e-commerce giant Shein $379 million (€325 million) and $175 million (€150 million), respectively, for violating cookie rules.\nBoth companies set advertising cookies on users' browsers without securing their consent, the National Commission on Informatics and Liberty (CNIL) said. Shein has since updated its systems to comply with"
+  },
+  {
+    "title": "CISA Flags TP-Link Router Flaws CVE-2023-50224 and CVE-2025-9377 as Actively Exploited",
+    "link": "https://thehackernews.com/2025/09/cisa-flags-tp-link-router-flaws-cve.html",
+    "published": "Thu, 04 Sep 2025 15:33:00 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added two security flaws impacting TP-Link wireless routers to its Known Exploited Vulnerabilities (KEV) catalog, noting that there is evidence of them being exploited in the wild.\nThe vulnerabilities in question are listed below -\n\nCVE-2023-50224 (CVSS score: 6.5) - An authentication bypass by spoofing vulnerability"
+  },
+  {
+    "title": "Malicious npm Packages Exploit Ethereum Smart Contracts to Target Crypto Developers",
+    "link": "https://thehackernews.com/2025/09/malicious-npm-packages-exploit-ethereum.html",
+    "published": "Thu, 04 Sep 2025 01:29:00 +0530",
+    "summary": "Cybersecurity researchers have discovered two new malicious packages on the npm registry that make use of smart contracts for the Ethereum blockchain to carry out malicious actions on compromised systems, signaling the trend of threat actors constantly on the lookout for new ways to distribute malware and fly under the radar.\n\"The two npm packages abused smart contracts to conceal malicious"
+  },
+  {
+    "title": "Threat Actors Weaponize HexStrike AI to Exploit Citrix Flaws Within a Week of Disclosure",
+    "link": "https://thehackernews.com/2025/09/threat-actors-weaponize-hexstrike-ai-to.html",
+    "published": "Wed, 03 Sep 2025 17:50:00 +0530",
+    "summary": "Threat actors are attempting to leverage a newly released artificial intelligence (AI) offensive security tool called HexStrike AI to exploit recently disclosed security flaws.\nHexStrike AI, according to its website, is pitched as an AI‑driven security platform to automate reconnaissance and vulnerability discovery with an aim to accelerate authorized red teaming operations, bug bounty hunting,"
+  },
+  {
+    "title": "Detecting Data Leaks Before Disaster",
+    "link": "https://thehackernews.com/2025/09/detecting-data-leaks-before-disaster.html",
+    "published": "Wed, 03 Sep 2025 17:15:00 +0530",
+    "summary": "In January 2025, cybersecurity experts at Wiz Research found that Chinese AI specialist DeepSeek had suffered a data leak, putting more than 1 million sensitive log streams at risk. \nAccording to the Wiz Research team, they identified a publicly accessible ClickHouse database belonging to DeepSeek. This allowed &ldquo;full control over database operations, including the ability to access"
+  },
+  {
+    "title": "Android Security Alert: Google Patches 120 Flaws, Including Two Zero-Days Under Attack",
+    "link": "https://thehackernews.com/2025/09/android-security-alert-google-patches.html",
+    "published": "Wed, 03 Sep 2025 16:35:00 +0530",
+    "summary": "Google has shipped security updates to address 120 security flaws in its Android operating system as part of its monthly fixes for September 2025, including two issues that it said have been exploited in targeted attacks.\nThe vulnerabilities are listed below -\n\nCVE-2025-38352 (CVSS score: 7.4) - A privilege escalation flaw in the Linux Kernel component&nbsp;\nCVE-2025-48543 (CVSS score: N/A) - A"
+  }
+]
