@@ -1,0 +1,62 @@
+[
+  {
+    "title": "45 Previously Unreported Domains Expose Longstanding Salt Typhoon Cyber Espionage",
+    "link": "https://thehackernews.com/2025/09/45-previously-unreported-domains-expose.html",
+    "published": "Tue, 09 Sep 2025 05:57:00 +0530",
+    "summary": "Threat hunters have discovered a set of previously unreported domains, some going back to May 2020, that are associated with China-linked threat actors Salt Typhoon and UNC4841.\n\"The domains date back several years, with the oldest registration activity occurring in May 2020, further confirming that the 2024 Salt Typhoon attacks were not the first activity carried out by this group,\" Silent Push"
+  },
+  {
+    "title": "GitHub Account Compromise Led to Salesloft Drift Breach Affecting 22 Companies",
+    "link": "https://thehackernews.com/2025/09/github-account-compromise-led-to.html",
+    "published": "Mon, 08 Sep 2025 20:56:00 +0530",
+    "summary": "Salesloft has revealed that the data breach linked to its Drift application started with the compromise of its GitHub account.\nGoogle-owned Mandiant, which began an investigation into the incident, said the threat actor, tracked as UNC6395, accessed the Salesloft GitHub account from March through June 2025. So far, 22 companies have confirmed they were impacted by a supply chain breach.\n\"With"
+  },
+  {
+    "title": "GPUGate Malware Uses Google Ads and Fake GitHub Commits to Target IT Firms",
+    "link": "https://thehackernews.com/2025/09/gpugate-malware-uses-google-ads-and.html",
+    "published": "Mon, 08 Sep 2025 20:32:00 +0530",
+    "summary": "Cybersecurity researchers have detailed a new sophisticated malware campaign that leverages paid ads on search engines like Google to deliver malware to unsuspecting users looking for popular tools like GitHub Desktop.\nWhile malvertising campaigns have become commonplace in recent years, the latest activity gives it a little twist of its own: Embedding a GitHub commit into a page URL containing"
+  },
+  {
+    "title": "⚡ Weekly Recap: Drift Breach Chaos, Zero-Days Active, Patch Warnings, Smarter Threats & More",
+    "link": "https://thehackernews.com/2025/09/weekly-recap-drift-breach-chaos-zero.html",
+    "published": "Mon, 08 Sep 2025 15:32:00 +0530",
+    "summary": "Cybersecurity never slows down. Every week brings new threats, new vulnerabilities, and new lessons for defenders. For security and IT teams, the challenge is not just keeping up with the news—it’s knowing which risks matter most right now. That’s what this digest is here for: a clear, simple briefing to help you focus where it counts.\nThis week, one story stands out above the rest: the"
+  },
+  {
+    "title": "You Didn’t Get Phished — You Onboarded the Attacker",
+    "link": "https://thehackernews.com/2025/09/you-didnt-get-phished-you-onboarded.html",
+    "published": "Mon, 08 Sep 2025 14:50:00 +0530",
+    "summary": "When Attackers Get Hired: Today’s New Identity Crisis\nWhat if the star engineer you just hired isn’t actually an employee, but an attacker in disguise? This isn’t phishing; it’s infiltration by onboarding.\nMeet “Jordan from Colorado,” who has a strong resume, convincing references, a clean background check, even a digital footprint that checks out.\nOn day one, Jordan logs into email and attends"
+  },
+  {
+    "title": "Noisy Bear Campaign Targeting Kazakhstan Energy Sector Outed as a Planned Phishing Test",
+    "link": "https://thehackernews.com/2025/09/noisy-bear-targets-kazakhstan-energy.html",
+    "published": "Sat, 06 Sep 2025 20:43:00 +0530",
+    "summary": "A threat actor possibly of Russian origin has been attributed to a new set of attacks targeting the energy sector in Kazakhstan.\nThe activity, codenamed Operation BarrelFire, is tied to a new threat group tracked by Seqrite Labs as Noisy Bear. The threat actor has been active since at least April 2025.\n\"The campaign is targeted towards employees of KazMunaiGas or KMG where the threat entity"
+  },
+  {
+    "title": "Malicious npm Packages Impersonate Flashbots, Steal Ethereum Wallet Keys",
+    "link": "https://thehackernews.com/2025/09/malicious-npm-packages-impersonate.html",
+    "published": "Sat, 06 Sep 2025 12:12:00 +0530",
+    "summary": "A new set of four malicious packages have been discovered in the npm package registry with capabilities to steal cryptocurrency wallet credentials from Ethereum developers.\n\"The packages masquerade as legitimate cryptographic utilities and Flashbots MEV infrastructure while secretly exfiltrating private keys and mnemonic seeds to a Telegram bot controlled by the threat actor,\" Socket researcher"
+  },
+  {
+    "title": "CISA Orders Immediate Patch of Critical Sitecore Vulnerability Under Active Exploitation",
+    "link": "https://thehackernews.com/2025/09/cisa-orders-immediate-patch-of-critical.html",
+    "published": "Fri, 05 Sep 2025 21:38:00 +0530",
+    "summary": "Federal Civilian Executive Branch (FCEB) agencies are being advised to update their Sitecore instances by September 25, 2025, following the discovery of a security flaw that has come under active exploitation in the wild.\nThe vulnerability, tracked as CVE-2025-53690, carries a CVSS score of 9.0 out of a maximum of 10.0, indicating critical severity.\n\"Sitecore Experience Manager (XM), Experience"
+  },
+  {
+    "title": "TAG-150 Develops CastleRAT in Python and C, Expanding CastleLoader Malware Operations",
+    "link": "https://thehackernews.com/2025/09/tag-150-develops-castlerat-in-python.html",
+    "published": "Fri, 05 Sep 2025 19:37:00 +0530",
+    "summary": "The threat actor behind the malware-as-a-service (MaaS) framework and loader called CastleLoader has also developed a remote access trojan known as CastleRAT.\n\"Available in both Python and C variants, CastleRAT's core functionality consists of collecting system information, downloading and executing additional payloads, and executing commands via CMD and PowerShell,\" Recorded Future Insikt Group"
+  },
+  {
+    "title": "SAP S/4HANA Critical Vulnerability CVE-2025-42957 Exploited in the Wild",
+    "link": "https://thehackernews.com/2025/09/sap-s4hana-critical-vulnerability-cve.html",
+    "published": "Fri, 05 Sep 2025 16:29:00 +0530",
+    "summary": "A critical security vulnerability impacting SAP S/4HANA, an Enterprise Resource Planning (ERP) software, has come under active exploitation in the wild.\nThe command injection vulnerability, tracked as CVE-2025-42957 (CVSS score: 9.9), was fixed by SAP as part of its monthly updates last month.\n\"SAP S/4HANA allows an attacker with user privileges to exploit a vulnerability in the function module"
+  }
+]
