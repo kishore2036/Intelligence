@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Adobe Commerce Flaw CVE-2025-54236 Lets Hackers Take Over Customer Accounts",
+    "link": "https://thehackernews.com/2025/09/adobe-commerce-flaw-cve-2025-54236-lets.html",
+    "published": "Wed, 10 Sep 2025 06:38:00 +0530",
+    "summary": "Adobe has warned of a critical security flaw in its Commerce and Magento Open Source platforms that, if successfully exploited, could allow attackers to take control of customer accounts.\nThe vulnerability, tracked as CVE-2025-54236 (aka SessionReaper), carries a CVSS score of 9.1 out of a maximum of 10.0. It has been described as an improper input validation flaw. Adobe said it's not aware of"
+  },
+  {
+    "title": "SAP Patches Critical NetWeaver (CVSS Up to 10.0) and Previously Exploited S/4HANA Flaws",
+    "link": "https://thehackernews.com/2025/09/sap-patches-critical-netweaver-cvss-up.html",
+    "published": "Wed, 10 Sep 2025 06:33:00 +0530",
+    "summary": "SAP on Tuesday released security updates to address multiple security flaws, including three critical vulnerabilities in SAP Netweaver that could result in code execution and the upload arbitrary files.\nThe vulnerabilities are listed below -\n\nCVE-2025-42944 (CVSS score: 10.0) - A deserialization vulnerability in SAP NetWeaver that could allow an unauthenticated attacker to submit a malicious"
+  },
+  {
+    "title": "Axios Abuse and Salty 2FA Kits Fuel Advanced Microsoft 365 Phishing Attacks",
+    "link": "https://thehackernews.com/2025/09/axios-abuse-and-salty-2fa-kits-fuel.html",
+    "published": "Tue, 09 Sep 2025 19:44:00 +0530",
+    "summary": "Threat actors are abusing HTTP client tools like Axios in conjunction with Microsoft's Direct Send feature to form a \"highly efficient attack pipeline\" in recent phishing campaigns, according to new findings from ReliaQuest.\n\"Axios user agent activity surged 241% from June to August 2025, dwarfing the 85% growth of all other flagged user agents combined,\" the cybersecurity company said in a"
+  },
+  {
+    "title": "RatOn Android Malware Detected With NFC Relay and ATS Banking Fraud Capabilities",
+    "link": "https://thehackernews.com/2025/09/raton-android-malware-detected-with-nfc.html",
+    "published": "Tue, 09 Sep 2025 17:23:00 +0530",
+    "summary": "A new Android malware called RatOn&nbsp;has evolved from a basic tool capable of conducting Near Field Communication (NFC) relay attacks&nbsp;to a sophisticated remote access trojan with Automated Transfer System (ATS) capabilities to conduct device fraud.\n\"RatOn merges traditional overlay attacks with automatic money transfers and NFC relay functionality – making it a uniquely powerful threat,\""
+  },
+  {
+    "title": "[Webinar] Shadow AI Agents Multiply Fast —  Learn How to Detect and Control Them",
+    "link": "https://thehackernews.com/2025/09/webinar-shadow-ai-agents-multiply-fast.html",
+    "published": "Tue, 09 Sep 2025 16:07:00 +0530",
+    "summary": "⚠️ One click is all it takes.\nAn engineer spins up an “experimental” AI Agent to test a workflow. A business unit connects to automate reporting. A cloud platform quietly enables a new agent behind the scenes.\nIndividually, they look harmless. But together, they form an invisible swarm of Shadow AI Agents—operating outside security’s line of sight, tied to identities you don’t even know exist."
+  },
+  {
+    "title": "From MostereRAT to ClickFix: New Malware Campaigns Highlight Rising AI and Phishing Risks",
+    "link": "https://thehackernews.com/2025/09/from-mostererat-to-clickfix-new-malware.html",
+    "published": "Tue, 09 Sep 2025 15:57:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a phishing campaign that delivers a stealthy banking malware-turned-remote access trojan called MostereRAT.\nThe phishing attack incorporates a number of advanced evasion techniques to gain complete control over compromised systems, siphon sensitive data, and extend its functionality by serving secondary plugins, Fortinet FortiGuard Labs said.\n\""
+  },
+  {
+    "title": "How Leading CISOs are Getting Budget Approval",
+    "link": "https://thehackernews.com/2025/09/how-leading-cisos-are-getting-budget.html",
+    "published": "Tue, 09 Sep 2025 15:56:00 +0530",
+    "summary": "It’s budget season. Once again, security is being questioned, scrutinized, or deprioritized.\nIf you're a CISO or security leader, you've likely found yourself explaining why your program matters, why a given tool or headcount is essential, and how the next breach is one blind spot away. But these arguments often fall short unless they're framed in a way the board can understand and appreciate."
+  },
+  {
+    "title": "TOR-Based Cryptojacking Attack Expands Through Misconfigured Docker APIs",
+    "link": "https://thehackernews.com/2025/09/tor-based-cryptojacking-attack-expands.html",
+    "published": "Tue, 09 Sep 2025 15:32:00 +0530",
+    "summary": "Cybersecurity researchers have discovered a variant of a recently disclosed campaign that abuses the TOR network for cryptojacking attacks targeting exposed Docker APIs.\nAkamai, which discovered the latest activity last month, said it's designed to block other actors from accessing the Docker API from the internet.\nThe findings build on a prior report from Trend Micro in late June 2025, which"
+  },
+  {
+    "title": "20 Popular npm Packages With 2 Billion Weekly Downloads Compromised in Supply Chain Attack",
+    "link": "https://thehackernews.com/2025/09/20-popular-npm-packages-with-2-billion.html",
+    "published": "Tue, 09 Sep 2025 11:43:00 +0530",
+    "summary": "Multiple npm packages have been compromised as part of a software supply chain attack after a maintainer's account was compromised in a phishing attack.\n\nThe attack targeted Josh Junon (aka Qix), who received an email message that mimicked npm (\"support@npmjs[.]help\"), urging them to update their update their two-factor authentication (2FA) credentials before September 10, 2025, by clicking on"
+  },
+  {
+    "title": "45 Previously Unreported Domains Expose Longstanding Salt Typhoon Cyber Espionage",
+    "link": "https://thehackernews.com/2025/09/45-previously-unreported-domains-expose.html",
+    "published": "Tue, 09 Sep 2025 05:57:00 +0530",
+    "summary": "Threat hunters have discovered a set of previously unreported domains, some going back to May 2020, that are associated with China-linked threat actors Salt Typhoon and UNC4841.\n\"The domains date back several years, with the oldest registration activity occurring in May 2020, further confirming that the 2024 Salt Typhoon attacks were not the first activity carried out by this group,\" Silent Push"
+  }
+]
