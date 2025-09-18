@@ -1,0 +1,62 @@
+[
+  {
+    "title": "TA558 Uses AI-Generated Scripts to Deploy Venom RAT in Brazil Hotel Attacks",
+    "link": "https://thehackernews.com/2025/09/ta558-uses-ai-generated-scripts-to.html",
+    "published": "Thu, 18 Sep 2025 00:00:00 +0530",
+    "summary": "The threat actor known as TA558 has been attributed to a fresh set of attacks delivering various remote access trojans (RATs) like Venom RAT to breach hotels in Brazil and Spanish-speaking markets.\nRussian cybersecurity vendor Kaspersky is tracking the activity, observed in summer 2025, to a cluster it tracks as RevengeHotels.\n\"The threat actors continue to employ phishing emails with invoice"
+  },
+  {
+    "title": "Chinese TA415 Uses VS Code Remote Tunnels to Spy on U.S. Economic Policy Experts",
+    "link": "https://thehackernews.com/2025/09/chinese-ta415-uses-vs-code-remote.html",
+    "published": "Wed, 17 Sep 2025 18:26:00 +0530",
+    "summary": "A China-aligned threat actor known as TA415 has been attributed to spear-phishing campaigns targeting the U.S. government, think tanks, and academic organizations utilizing U.S.-China economic-themed lures.\n\"In this activity, the group masqueraded as the current Chair of the Select Committee on Strategic Competition between the United States and the Chinese Communist Party (CCP), as well as the"
+  },
+  {
+    "title": "From Quantum Hacks to AI Defenses – Expert Guide to Building Unbreakable Cyber Resilience",
+    "link": "https://thehackernews.com/2025/09/from-quantum-hacks-to-ai-defenses.html",
+    "published": "Wed, 17 Sep 2025 18:26:00 +0530",
+    "summary": "Quantum computing and AI working together will bring incredible opportunities. Together, the technologies will help us extend innovation further and faster than ever before. But, imagine the flip side, waking up to news that hackers have used a quantum computer to crack your company's encryption overnight, exposing your most sensitive data, rendering much of it untrustworthy.\nAnd with your"
+  },
+  {
+    "title": "Rethinking AI Data Security: A Buyer's Guide",
+    "link": "https://thehackernews.com/2025/09/rethinking-ai-data-security-buyers-guide.html",
+    "published": "Wed, 17 Sep 2025 16:33:00 +0530",
+    "summary": "Generative AI has gone from a curiosity to a cornerstone of enterprise productivity in just a few short years. From copilots embedded in office suites to dedicated large language model (LLM) platforms, employees now rely on these tools to code, analyze, draft, and decide. But for CISOs and security architects, the very speed of adoption has created a paradox: the more powerful the tools, the"
+  },
+  {
+    "title": "Scattered Spider Resurfaces With Financial Sector Attacks Despite Retirement Claims",
+    "link": "https://thehackernews.com/2025/09/scattered-spider-resurfaces-with.html",
+    "published": "Wed, 17 Sep 2025 14:19:00 +0530",
+    "summary": "Cybersecurity researchers have tied a fresh round of cyber attacks targeting financial services to the notorious cybercrime group known as Scattered Spider, casting doubt on their claims of going \"dark.\"\nThreat intelligence firm ReliaQuest said it has observed indications that the threat actor has shifted their focus to the financial sector. This is supported by an increase in lookalike domains"
+  },
+  {
+    "title": "DOJ Resentences BreachForums Founder to 3 Years for Cybercrime and Possession of CSAM",
+    "link": "https://thehackernews.com/2025/09/doj-resentences-breachforums-founder-to.html",
+    "published": "Wed, 17 Sep 2025 11:50:00 +0530",
+    "summary": "The U.S. Department of Justice (DoJ) on Tuesday resentenced the former administrator of BreachForums to three years in prison in connection with his role in running the cybercrime forum and possessing child sexual abuse material (CSAM).\nConor Brian Fitzpatrick (aka Pompompurin), 22, of Peekskill, New York, pleaded guilty to one count of access device conspiracy, one count of access device"
+  },
+  {
+    "title": "RaccoonO365 Phishing Network Dismantled as Microsoft, Cloudflare Take Down 338 Domains",
+    "link": "https://thehackernews.com/2025/09/raccoono365-phishing-network-shut-down.html",
+    "published": "Wed, 17 Sep 2025 10:01:00 +0530",
+    "summary": "Microsoft's Digital Crimes Unit said it teamed up with Cloudflare to coordinate the seizure of 338 domains used by RaccoonO365, a financially motivated threat group that was behind a phishing-as-a-service (Phaas) toolkit used to steal more than 5,000 Microsoft 365 credentials from 94 countries since July 2024.\n\"Using a court order granted by the Southern District of New York, the DCU seized 338"
+  },
+  {
+    "title": "Chaos Mesh Critical GraphQL Flaws Enable RCE and Full Kubernetes Cluster Takeover",
+    "link": "https://thehackernews.com/2025/09/chaos-mesh-critical-graphql-flaws.html",
+    "published": "Tue, 16 Sep 2025 21:53:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed multiple critical security vulnerabilities in Chaos Mesh that, if successfully exploited, could lead to cluster takeover in Kubernetes environments.\n\"Attackers need only minimal in-cluster network access to exploit these vulnerabilities, execute the platform's fault injections (such as shutting down pods or disrupting network communications), and perform"
+  },
+  {
+    "title": "SlopAds Fraud Ring Exploits 224 Android Apps to Drive 2.3 Billion Daily Ad Bids",
+    "link": "https://thehackernews.com/2025/09/slopads-fraud-ring-exploits-224-android.html",
+    "published": "Tue, 16 Sep 2025 19:49:00 +0530",
+    "summary": "A massive ad fraud and click fraud operation dubbed SlopAds ran a cluster of 224 apps, collectively attracting 38 million downloads across 228 countries and territories.\n\"These apps deliver their fraud payload using steganography and create hidden WebViews to navigate to threat actor-owned cashout sites, generating fraudulent ad impressions and clicks,\" HUMAN’s Satori Threat Intelligence and"
+  },
+  {
+    "title": "New FileFix Variant Delivers StealC Malware Through Multilingual Phishing Site",
+    "link": "https://thehackernews.com/2025/09/new-filefix-variant-delivers-stealc.html",
+    "published": "Tue, 16 Sep 2025 18:03:00 +0530",
+    "summary": "Cybersecurity researchers have warned of a new campaign that's leveraging a variant of the FileFix social engineering tactic to deliver the StealC information stealer malware.\n\"The observed campaign uses a highly convincing, multilingual phishing site (e.g., fake Facebook Security page), with anti-analysis techniques and advanced obfuscation to evade detection,\" Acronis security researcher Eliad"
+  }
+]
