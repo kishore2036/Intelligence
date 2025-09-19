@@ -1,0 +1,62 @@
+[
+  {
+    "title": "SonicWall Urges Password Resets After Cloud Backup Breach Affecting Under 5% of Customers",
+    "link": "https://thehackernews.com/2025/09/sonicwall-urges-password-resets-after.html",
+    "published": "Thu, 18 Sep 2025 19:42:00 +0530",
+    "summary": "SonicWall is urging customers to reset credentials after their firewall configuration backup files were exposed in a security breach impacting MySonicWall accounts.\nThe company said it recently detected suspicious activity targeting the cloud backup service for firewalls, and that unknown threat actors accessed backup firewall preference files stored in the cloud for less than 5% of its"
+  },
+  {
+    "title": "CountLoader Broadens Russian Ransomware Operations With Multi-Version Malware Loader",
+    "link": "https://thehackernews.com/2025/09/countloader-broadens-russian-ransomware.html",
+    "published": "Thu, 18 Sep 2025 18:26:00 +0530",
+    "summary": "Cybersecurity researchers have discovered a new malware loader codenamed CountLoader that has been put to use by Russian ransomware gangs to deliver post-exploitation tools like Cobalt Strike and AdaptixC2, and a remote access trojan known as PureHVNC RAT.\n\"CountLoader is being used either as part of an Initial Access Broker's (IAB) toolset or by a ransomware affiliate with ties to the LockBit,"
+  },
+  {
+    "title": "SilentSync RAT Delivered via Two Malicious PyPI Packages Targeting Python Developers",
+    "link": "https://thehackernews.com/2025/09/silentsync-rat-delivered-via-two.html",
+    "published": "Thu, 18 Sep 2025 17:08:00 +0530",
+    "summary": "Cybersecurity researchers have discovered two new malicious packages in the Python Package Index (PyPI) repository that are designed to deliver a remote access trojan called SilentSync on Windows systems.\n\"SilentSync is capable of remote command execution, file exfiltration, and screen capturing,\" Zscaler ThreatLabz's Manisha Ramcharan Prajapati and Satyam Singh said. \"SilentSync also extracts"
+  },
+  {
+    "title": "How CISOs Can Drive Effective AI Governance",
+    "link": "https://thehackernews.com/2025/09/how-cisos-can-drive-effective-ai.html",
+    "published": "Thu, 18 Sep 2025 17:00:00 +0530",
+    "summary": "AI’s growing role in enterprise environments has heightened the urgency for Chief Information Security Officers (CISOs) to drive effective AI governance. When it comes to any emerging technology, governance is hard – but effective governance is even harder. The first instinct for most organizations is to respond with rigid policies. Write a policy document, circulate a set of restrictions, and"
+  },
+  {
+    "title": "Google Patches Chrome Zero-Day CVE-2025-10585 as Active V8 Exploit Threatens Millions",
+    "link": "https://thehackernews.com/2025/09/google-patches-chrome-zero-day-cve-2025.html",
+    "published": "Thu, 18 Sep 2025 11:19:00 +0530",
+    "summary": "Google on Wednesday released security updates for the Chrome web browser to address four vulnerabilities, including one that it said has been exploited in the wild.\nThe zero-day vulnerability in question is CVE-2025-10585, which has been described as a type confusion issue in the V8 JavaScript and WebAssembly engine.\nType confusion vulnerabilities can have severe consequences as they can be"
+  },
+  {
+    "title": "TA558 Uses AI-Generated Scripts to Deploy Venom RAT in Brazil Hotel Attacks",
+    "link": "https://thehackernews.com/2025/09/ta558-uses-ai-generated-scripts-to.html",
+    "published": "Thu, 18 Sep 2025 00:00:00 +0530",
+    "summary": "The threat actor known as TA558 has been attributed to a fresh set of attacks delivering various remote access trojans (RATs) like Venom RAT to breach hotels in Brazil and Spanish-speaking markets.\nRussian cybersecurity vendor Kaspersky is tracking the activity, observed in summer 2025, to a cluster it tracks as RevengeHotels.\n\"The threat actors continue to employ phishing emails with invoice"
+  },
+  {
+    "title": "Chinese TA415 Uses VS Code Remote Tunnels to Spy on U.S. Economic Policy Experts",
+    "link": "https://thehackernews.com/2025/09/chinese-ta415-uses-vs-code-remote.html",
+    "published": "Wed, 17 Sep 2025 18:26:00 +0530",
+    "summary": "A China-aligned threat actor known as TA415 has been attributed to spear-phishing campaigns targeting the U.S. government, think tanks, and academic organizations utilizing U.S.-China economic-themed lures.\n\"In this activity, the group masqueraded as the current Chair of the Select Committee on Strategic Competition between the United States and the Chinese Communist Party (CCP), as well as the"
+  },
+  {
+    "title": "From Quantum Hacks to AI Defenses – Expert Guide to Building Unbreakable Cyber Resilience",
+    "link": "https://thehackernews.com/2025/09/from-quantum-hacks-to-ai-defenses.html",
+    "published": "Wed, 17 Sep 2025 18:26:00 +0530",
+    "summary": "Quantum computing and AI working together will bring incredible opportunities. Together, the technologies will help us extend innovation further and faster than ever before. But, imagine the flip side, waking up to news that hackers have used a quantum computer to crack your company's encryption overnight, exposing your most sensitive data, rendering much of it untrustworthy.\nAnd with your"
+  },
+  {
+    "title": "Rethinking AI Data Security: A Buyer's Guide",
+    "link": "https://thehackernews.com/2025/09/rethinking-ai-data-security-buyers-guide.html",
+    "published": "Wed, 17 Sep 2025 16:33:00 +0530",
+    "summary": "Generative AI has gone from a curiosity to a cornerstone of enterprise productivity in just a few short years. From copilots embedded in office suites to dedicated large language model (LLM) platforms, employees now rely on these tools to code, analyze, draft, and decide. But for CISOs and security architects, the very speed of adoption has created a paradox: the more powerful the tools, the"
+  },
+  {
+    "title": "Scattered Spider Resurfaces With Financial Sector Attacks Despite Retirement Claims",
+    "link": "https://thehackernews.com/2025/09/scattered-spider-resurfaces-with.html",
+    "published": "Wed, 17 Sep 2025 14:19:00 +0530",
+    "summary": "Cybersecurity researchers have tied a fresh round of cyber attacks targeting financial services to the notorious cybercrime group known as Scattered Spider, casting doubt on their claims of going \"dark.\"\nThreat intelligence firm ReliaQuest said it has observed indications that the threat actor has shifted their focus to the financial sector. This is supported by an increase in lookalike domains"
+  }
+]
