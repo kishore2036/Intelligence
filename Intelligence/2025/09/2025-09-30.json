@@ -1,0 +1,62 @@
+[
+  {
+    "title": "EvilAI Malware Masquerades as AI Tools to Infiltrate Global Organizations",
+    "link": "https://thehackernews.com/2025/09/evilai-malware-masquerades-as-ai-tools.html",
+    "published": "Mon, 29 Sep 2025 22:06:00 +0530",
+    "summary": "Threat actors have been observed using seemingly legitimate artificial intelligence (AI) tools and software to sneakily slip malware for future attacks on organizations worldwide.\nAccording to Trend Micro, the campaign is using productivity or AI-enhanced tools to deliver malware targeting various regions, including Europe, the Americas, and the Asia, Middle East, and Africa (AMEA) region."
+  },
+  {
+    "title": "⚡ Weekly Recap: Cisco 0-Day, Record DDoS, LockBit 5.0, BMC Bugs, ShadowV2 Botnet & More",
+    "link": "https://thehackernews.com/2025/09/weekly-recap-cisco-0-day-record-ddos.html",
+    "published": "Mon, 29 Sep 2025 18:06:00 +0530",
+    "summary": "Cybersecurity never stops—and neither do hackers. While you wrapped up last week, new attacks were already underway.\nFrom hidden software bugs to massive DDoS attacks and new ransomware tricks, this week’s roundup gives you the biggest security moves to know. Whether you’re protecting key systems or locking down cloud apps, these are the updates you need before making your next security"
+  },
+  {
+    "title": "The State of AI in the SOC 2025 - Insights from Recent Study",
+    "link": "https://thehackernews.com/2025/09/the-state-of-ai-in-soc-2025-insights.html",
+    "published": "Mon, 29 Sep 2025 17:00:00 +0530",
+    "summary": "Security leaders are embracing AI for triage, detection engineering, and threat hunting as alert volumes and burnout hit breaking points.\nA comprehensive survey of 282 security leaders at companies across industries reveals a stark reality facing modern Security Operations Centers: alert volumes have reached unsustainable levels, forcing teams to leave critical threats uninvestigated. You can"
+  },
+  {
+    "title": "Microsoft Flags AI-Driven Phishing: LLM-Crafted SVG Files Outsmart Email Security",
+    "link": "https://thehackernews.com/2025/09/microsoft-flags-ai-driven-phishing-llm.html",
+    "published": "Mon, 29 Sep 2025 14:22:00 +0530",
+    "summary": "Microsoft is calling attention to a new phishing campaign primarily aimed at U.S.-based organizations that has likely utilized code generated using large language models (LLMs) to obfuscate payloads and evade security defenses.\n\"Appearing to be aided by a large language model (LLM), the activity obfuscated its behavior within an SVG file, leveraging business terminology and a synthetic structure"
+  },
+  {
+    "title": "First Malicious MCP Server Found Stealing Emails in Rogue Postmark-MCP Package",
+    "link": "https://thehackernews.com/2025/09/first-malicious-mcp-server-found.html",
+    "published": "Mon, 29 Sep 2025 14:06:00 +0530",
+    "summary": "Cybersecurity researchers have discovered what has been described as the first-ever instance of a malicious Model Context Protocol (MCP) server spotted in the wild, raising software supply chain risks.\nAccording to Koi Security, a legitimate-looking developer managed to slip in rogue code within an npm package called \"postmark-mcp\" that copied an official Postmark Labs library of the same name."
+  },
+  {
+    "title": "China-Linked PlugX and Bookworm Malware Attacks Target Asian Telecom and ASEAN Networks",
+    "link": "https://thehackernews.com/2025/09/china-linked-plugx-and-bookworm-malware.html",
+    "published": "Sat, 27 Sep 2025 17:36:00 +0530",
+    "summary": "Telecommunications and manufacturing sectors in Central and South Asian countries have emerged as the target of an ongoing campaign distributing a new variant of a known malware called PlugX (aka Korplug or SOGU).\n\"The new variant's features overlap with both the RainyDay and Turian backdoors, including abuse of the same legitimate applications for DLL side-loading, the"
+  },
+  {
+    "title": "Researchers Expose Phishing Threats Distributing CountLoader and PureRAT",
+    "link": "https://thehackernews.com/2025/09/researchers-expose-svg-and-purerat.html",
+    "published": "Fri, 26 Sep 2025 22:10:00 +0530",
+    "summary": "A new campaign has been observed impersonating Ukrainian government agencies in phishing attacks to deliver CountLoader, which is then used to drop Amatera Stealer and PureMiner.\n\"The phishing emails contain malicious Scalable Vector Graphics (SVG) files designed to trick recipients into opening harmful attachments,\" Fortinet FortiGuard Labs researcher Yurren Wan said in a report shared with The"
+  },
+  {
+    "title": "New COLDRIVER Malware Campaign Joins BO Team and Bearlyfy in Russia-Focused Cyberattacks",
+    "link": "https://thehackernews.com/2025/09/new-coldriver-malware-campaign-joins-bo.html",
+    "published": "Fri, 26 Sep 2025 18:15:00 +0530",
+    "summary": "The Russian advanced persistent threat (APT) group known as COLDRIVER has been attributed to a fresh round of ClickFix-style attacks designed to deliver two new \"lightweight\" malware families tracked as BAITSWITCH and SIMPLEFIX.\nZscaler ThreatLabz, which detected the new multi-stage ClickFix campaign earlier this month, described BAITSWITCH as a downloader that ultimately drops SIMPLEFIX, a"
+  },
+  {
+    "title": "Crash Tests for Security: Why BAS Is Proof of Defense, Not Assumptions",
+    "link": "https://thehackernews.com/2025/09/crash-tests-for-security-why-bas-is.html",
+    "published": "Fri, 26 Sep 2025 16:52:00 +0530",
+    "summary": "Car makers don’t trust blueprints. They smash prototypes into walls. Again and again. In controlled conditions.\nBecause design specs don’t prove survival. Crash tests do. They separate theory from reality. Cybersecurity is no different. Dashboards overflow with “critical” exposure alerts. Compliance reports tick every box.&nbsp;\nBut none of that proves what matters most to a CISO:\n\nThe"
+  },
+  {
+    "title": "Fortra GoAnywhere CVSS 10 Flaw Exploited as 0-Day a Week Before Public Disclosure",
+    "link": "https://thehackernews.com/2025/09/fortra-goanywhere-cvss-10-flaw.html",
+    "published": "Fri, 26 Sep 2025 14:52:00 +0530",
+    "summary": "Cybersecurity company watchTowr Labs has disclosed that it has \"credible evidence\" of active exploitation of the recently disclosed security flaw in Fortra GoAnywhere Managed File Transfer (MFT) software as early as September 10, 2025, a whole week before it was publicly disclosed.\n\"This is not 'just' a CVSS 10.0 flaw in a solution long favored by APT groups and ransomware operators – it is a"
+  }
+]
