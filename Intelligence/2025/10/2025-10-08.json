@@ -1,0 +1,62 @@
+[
+  {
+    "title": "BatShadow Group Uses New Go-Based 'Vampire Bot' Malware to Hunt Job Seekers",
+    "link": "https://thehackernews.com/2025/10/batshadow-group-uses-new-go-based.html",
+    "published": "Tue, 07 Oct 2025 22:34:00 +0530",
+    "summary": "A Vietnamese threat actor named BatShadow has been attributed to a new campaign that leverages social engineering tactics to deceive job seekers and digital marketing professionals to deliver a previously undocumented malware called Vampire Bot.\n\"The attackers pose as recruiters, distributing malicious files disguised as job descriptions and corporate documents,\" Aryaka Threat Research Labs"
+  },
+  {
+    "title": "Google's New AI Doesn't Just Find Vulnerabilities — It Rewrites Code to Patch Them",
+    "link": "https://thehackernews.com/2025/10/googles-new-ai-doesnt-just-find.html",
+    "published": "Tue, 07 Oct 2025 20:48:00 +0530",
+    "summary": "Google's DeepMind division on Monday announced an artificial intelligence (AI)-powered agent called CodeMender that automatically detects, patches, and rewrites vulnerable code to prevent future exploits.\nThe efforts add to the company's ongoing efforts to improve AI-powered vulnerability discovery, such as Big Sleep and OSS-Fuzz.\nDeepMind said the AI agent is designed to be both reactive and"
+  },
+  {
+    "title": "New Research: AI Is Already the #1 Data Exfiltration Channel in the Enterprise",
+    "link": "https://thehackernews.com/2025/10/new-research-ai-is-already-1-data.html",
+    "published": "Tue, 07 Oct 2025 16:30:00 +0530",
+    "summary": "For years, security leaders have treated artificial intelligence as an “emerging” technology, something to keep an eye on but not yet mission-critical. A new Enterprise AI and SaaS Data Security Report by AI &amp; Browser Security company LayerX proves just how outdated that mindset has become. Far from a future concern, AI is already the single largest uncontrolled channel for corporate data"
+  },
+  {
+    "title": "XWorm 6.0 Returns with 35+ Plugins and Enhanced Data Theft Capabilities",
+    "link": "https://thehackernews.com/2025/10/xworm-60-returns-with-35-plugins-and.html",
+    "published": "Tue, 07 Oct 2025 16:06:00 +0530",
+    "summary": "Cybersecurity researchers have charted the evolution of XWorm malware, turning it into a versatile tool for supporting a wide range of malicious actions on compromised hosts.\n\"XWorm's modular design is built around a core client and an array of specialized components known as plugins,\" Trellix researchers Niranjan Hegde and Sijo Jacob said in an analysis published last week. \"These plugins are"
+  },
+  {
+    "title": "13-Year-Old Redis Flaw Exposed: CVSS 10.0 Vulnerability Lets Attackers Run Code Remotely",
+    "link": "https://thehackernews.com/2025/10/13-year-redis-flaw-exposed-cvss-100.html",
+    "published": "Tue, 07 Oct 2025 14:03:00 +0530",
+    "summary": "Redis has disclosed details of a maximum-severity security flaw in its in-memory database software that could result in remote code execution under certain circumstances.\nThe vulnerability, tracked as CVE-2025-49844 (aka RediShell), has been assigned a CVSS score of 10.0.\n\"An authenticated user may use a specially crafted Lua script to manipulate the garbage collector, trigger a use-after-free,"
+  },
+  {
+    "title": "Microsoft Links Storm-1175 to GoAnywhere Exploit Deploying Medusa Ransomware",
+    "link": "https://thehackernews.com/2025/10/microsoft-links-storm-1175-to.html",
+    "published": "Tue, 07 Oct 2025 13:45:00 +0530",
+    "summary": "Microsoft on Monday attributed a threat actor it tracks as Storm-1175 to the exploitation of a critical security flaw in Fortra GoAnywhere software to facilitate the deployment of Medusa ransomware.\nThe vulnerability is CVE-2025-10035 (CVSS score: 10.0), a critical deserialization bug that could result in command injection without authentication. It was addressed in version 7.8.4, or the Sustain"
+  },
+  {
+    "title": "Oracle EBS Under Fire as Cl0p Exploits CVE-2025-61882 in Real-World Attacks",
+    "link": "https://thehackernews.com/2025/10/oracle-ebs-under-fire-as-cl0p-exploits.html",
+    "published": "Tue, 07 Oct 2025 10:42:00 +0530",
+    "summary": "CrowdStrike on Monday said it's attributing the exploitation of a recently disclosed security flaw in Oracle E-Business Suite with moderate confidence to a threat actor it tracks as Graceful Spider (aka Cl0p), and that the first known exploitation occurred on August 9, 2025.\nThe malicious activity involves the exploitation of CVE-2025-61882 (CVSS score: 9.8), a critical vulnerability that"
+  },
+  {
+    "title": "New Report Links Research Firms BIETA and CIII to China’s MSS Cyber Operations",
+    "link": "https://thehackernews.com/2025/10/new-report-links-research-firms-bieta.html",
+    "published": "Mon, 06 Oct 2025 19:30:00 +0530",
+    "summary": "A Chinese company named the Beijing Institute of Electronics Technology and Application (BIETA) has been assessed to be likely led by the Ministry of State Security (MSS).\nThe assessment comes from evidence that at least four BIETA personnel have clear or possible links to MSS officers and their relationship with the University of International Relations, which is known to share links with the"
+  },
+  {
+    "title": "⚡ Weekly Recap: Oracle 0-Day, BitLocker Bypass, VMScape, WhatsApp Worm & More",
+    "link": "https://thehackernews.com/2025/10/weekly-recap-oracle-0-day-bitlocker.html",
+    "published": "Mon, 06 Oct 2025 17:08:00 +0530",
+    "summary": "The cyber world never hits pause, and staying alert matters more than ever. Every week brings new tricks, smarter attacks, and fresh lessons from the field.\nThis recap cuts through the noise to share what really matters—key trends, warning signs, and stories shaping today’s security landscape. Whether you’re defending systems or just keeping up, these highlights help you spot what’s coming"
+  },
+  {
+    "title": "5 Critical Questions For Adopting an AI Security Solution",
+    "link": "https://thehackernews.com/2025/10/5-critical-questions-for-adopting-ai.html",
+    "published": "Mon, 06 Oct 2025 17:08:00 +0530",
+    "summary": "In the era of rapidly advancing artificial intelligence (AI) and cloud technologies, organizations are increasingly implementing security measures to protect sensitive data and ensure regulatory compliance. Among these measures, AI-SPM (AI Security Posture Management) solutions have gained traction to secure AI pipelines, sensitive data assets, and the overall AI ecosystem. These solutions help"
+  }
+]
