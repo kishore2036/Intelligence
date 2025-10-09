@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Hackers Exploit WordPress Sites to Power Next-Gen ClickFix Phishing Attacks",
+    "link": "https://thehackernews.com/2025/10/hackers-exploit-wordpress-themes-to.html",
+    "published": "Wed, 08 Oct 2025 22:13:00 +0530",
+    "summary": "Cybersecurity researchers are calling attention to a nefarious campaign targeting WordPress sites to make malicious JavaScript injections that are designed to redirect users to sketchy sites.\n\"Site visitors get injected content that was drive-by malware like fake Cloudflare verification,\" Sucuri researcher Puja Srivastava said in an analysis published last week.\nThe website security company"
+  },
+  {
+    "title": "Chinese Hackers Weaponize Open-Source Nezha Tool in New Attack Wave",
+    "link": "https://thehackernews.com/2025/10/chinese-hackers-weaponize-open-source.html",
+    "published": "Wed, 08 Oct 2025 19:26:00 +0530",
+    "summary": "Threat actors with suspected ties to China have turned a legitimate open-source monitoring tool called Nezha into an attack weapon, using it to deliver a known malware called Gh0st RAT to targets.\nThe activity, observed by cybersecurity company Huntress in August 2025, is characterized by the use of an unusual technique called log poisoning (aka log injection) to plant a web shell on a web"
+  },
+  {
+    "title": "Step Into the Password Graveyard… If You Dare (and Join the Live Session)",
+    "link": "https://thehackernews.com/2025/10/step-into-password-graveyard-if-you.html",
+    "published": "Wed, 08 Oct 2025 17:38:00 +0530",
+    "summary": "Every year, weak passwords lead to millions in losses — and many of those breaches could have been stopped.\nAttackers don’t need advanced tools; they just need one careless login.\nFor IT teams, that means endless resets, compliance struggles, and sleepless nights worrying about the next credential leak.\nThis Halloween, The Hacker News and Specops Software invite you to a live webinar: “"
+  },
+  {
+    "title": "LockBit, Qilin, and DragonForce Join Forces to Dominate the Ransomware Ecosystem",
+    "link": "https://thehackernews.com/2025/10/lockbit-qilin-and-dragonforce-join.html",
+    "published": "Wed, 08 Oct 2025 17:34:00 +0530",
+    "summary": "Three prominent ransomware groups DragonForce, LockBit, and Qilin have announced a new strategic ransomware alliance, once underscoring continued shifts in the cyber threat landscape.\nThe coalition is seen as an attempt on the part of the financially motivated threat actors to conduct more effective ransomware attacks, ReliaQuest said in a report shared with The Hacker News.\n\"Announced shortly"
+  },
+  {
+    "title": "Severe Figma MCP Vulnerability Lets Hackers Execute Code Remotely — Patch Now",
+    "link": "https://thehackernews.com/2025/10/severe-figma-mcp-vulnerability-lets.html",
+    "published": "Wed, 08 Oct 2025 16:28:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a now-patched vulnerability in the popular figma-developer-mcp Model Context Protocol (MCP) server that could allow attackers to achieve code execution.\nThe vulnerability, tracked as CVE-2025-53967 (CVSS score: 7.5), is a command injection bug stemming from the unsanitized use of user input, opening the door to a scenario where an attacker can"
+  },
+  {
+    "title": "No Time to Waste: Embedding AI to Cut Noise and Reduce Risk",
+    "link": "https://thehackernews.com/2025/09/automation-is-redefining-pentest.html",
+    "published": "Wed, 08 Oct 2025 14:27:00 +0530",
+    "summary": "Artificial intelligence is reshaping cybersecurity on both sides of the battlefield. Cybercriminals are using AI-powered tools to accelerate and automate attacks at a scale defenders have never faced before. Security teams are overwhelmed by an explosion of vulnerability data, tool outputs, and alerts, all while operating with finite human resources. The irony is that while AI has become a"
+  },
+  {
+    "title": "OpenAI Disrupts Russian, North Korean, and Chinese Hackers Misusing ChatGPT for Cyberattacks",
+    "link": "https://thehackernews.com/2025/10/openai-disrupts-russian-north-korean.html",
+    "published": "Wed, 08 Oct 2025 12:46:00 +0530",
+    "summary": "OpenAI on Tuesday said it disrupted three activity clusters for misusing its ChatGPT artificial intelligence (AI) tool to facilitate malware development.\nThis includes a Russian‑language threat actor, who is said to have used the chatbot to help develop and refine a remote access trojan (RAT), a credential stealer with an aim to evade detection. The operator also used several ChatGPT accounts to"
+  },
+  {
+    "title": "BatShadow Group Uses New Go-Based 'Vampire Bot' Malware to Hunt Job Seekers",
+    "link": "https://thehackernews.com/2025/10/batshadow-group-uses-new-go-based.html",
+    "published": "Tue, 07 Oct 2025 22:34:00 +0530",
+    "summary": "A Vietnamese threat actor named BatShadow has been attributed to a new campaign that leverages social engineering tactics to deceive job seekers and digital marketing professionals to deliver a previously undocumented malware called Vampire Bot.\n\"The attackers pose as recruiters, distributing malicious files disguised as job descriptions and corporate documents,\" Aryaka Threat Research Labs"
+  },
+  {
+    "title": "Google's New AI Doesn't Just Find Vulnerabilities — It Rewrites Code to Patch Them",
+    "link": "https://thehackernews.com/2025/10/googles-new-ai-doesnt-just-find.html",
+    "published": "Tue, 07 Oct 2025 20:48:00 +0530",
+    "summary": "Google's DeepMind division on Monday announced an artificial intelligence (AI)-powered agent called CodeMender that automatically detects, patches, and rewrites vulnerable code to prevent future exploits.\nThe efforts add to the company's ongoing efforts to improve AI-powered vulnerability discovery, such as Big Sleep and OSS-Fuzz.\nDeepMind said the AI agent is designed to be both reactive and"
+  },
+  {
+    "title": "New Research: AI Is Already the #1 Data Exfiltration Channel in the Enterprise",
+    "link": "https://thehackernews.com/2025/10/new-research-ai-is-already-1-data.html",
+    "published": "Tue, 07 Oct 2025 16:30:00 +0530",
+    "summary": "For years, security leaders have treated artificial intelligence as an “emerging” technology, something to keep an eye on but not yet mission-critical. A new Enterprise AI and SaaS Data Security Report by AI &amp; Browser Security company LayerX proves just how outdated that mindset has become. Far from a future concern, AI is already the single largest uncontrolled channel for corporate data"
+  }
+]
