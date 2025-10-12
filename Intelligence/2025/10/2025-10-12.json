@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Experts Warn of Widespread SonicWall VPN Compromise Impacting Over 100 Accounts",
+    "link": "https://thehackernews.com/2025/10/experts-warn-of-widespread-sonicwall.html",
+    "published": "Sat, 11 Oct 2025 19:00:00 +0530",
+    "summary": "Cybersecurity company Huntress on Friday warned of \"widespread compromise\" of SonicWall SSL VPN devices to access multiple customer environments.\n\"Threat actors are authenticating into multiple accounts rapidly across compromised devices,\" it said. \"The speed and scale of these attacks imply that the attackers appear to control valid credentials rather than brute-forcing.\"\nA significant chunk of"
+  },
+  {
+    "title": "Hackers Turn Velociraptor DFIR Tool Into Weapon in LockBit Ransomware Attacks",
+    "link": "https://thehackernews.com/2025/10/hackers-turn-velociraptor-dfir-tool.html",
+    "published": "Sat, 11 Oct 2025 18:34:00 +0530",
+    "summary": "Threat actors are abusing Velociraptor, an open-source digital forensics and incident response (DFIR) tool, in connection with ransomware attacks likely orchestrated by Storm-2603 (aka CL-CRI-1040 or Gold Salem), which is known for deploying the Warlock and LockBit ransomware.\nThe threat actor's use of the security utility was documented by Sophos last month. It's assessed that the attackers"
+  },
+  {
+    "title": "Stealit Malware Abuses Node.js Single Executable Feature via Game and VPN Installers",
+    "link": "https://thehackernews.com/2025/10/stealit-malware-abuses-nodejs-single.html",
+    "published": "Fri, 10 Oct 2025 19:55:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of an active malware campaign called Stealit that has leveraged Node.js' Single Executable Application (SEA) feature as a way to distribute its payloads.\nAccording to Fortinet FortiGuard Labs, select iterations have also employed the open-source Electron framework to deliver the malware. It's assessed that the malware is being propagated through"
+  },
+  {
+    "title": "Microsoft Warns of ‘Payroll Pirates’ Hijacking HR SaaS Accounts to Steal Employee Salaries",
+    "link": "https://thehackernews.com/2025/10/microsoft-warns-of-payroll-pirates.html",
+    "published": "Fri, 10 Oct 2025 19:01:00 +0530",
+    "summary": "A threat actor known as Storm-2657 has been observed hijacking employee accounts with the end goal of diverting salary payments to attacker-controlled accounts.\n\"Storm-2657 is actively targeting a range of U.S.-based organizations, particularly employees in sectors like higher education, to gain access to third-party human resources (HR) software as a service (SaaS) platforms like Workday,\" the"
+  },
+  {
+    "title": "From Detection to Patch: Fortra Reveals Full Timeline of CVE-2025-10035 Exploitation",
+    "link": "https://thehackernews.com/2025/10/from-detection-to-patch-fortra-reveals.html",
+    "published": "Fri, 10 Oct 2025 17:12:00 +0530",
+    "summary": "Fortra on Thursday revealed the results of its investigation into CVE-2025-10035, a critical security flaw in GoAnywhere Managed File Transfer (MFT) that's assessed to have come under active exploitation since at least September 11, 2025.\nThe company said it began its investigation on September 11 following a \"potential vulnerability\" reported by a customer, uncovering \"potentially suspicious"
+  },
+  {
+    "title": "The AI SOC Stack of 2026: What Sets Top-Tier Platforms Apart?",
+    "link": "https://thehackernews.com/2025/10/the-ai-soc-stack-of-2026-what-sets-top.html",
+    "published": "Fri, 10 Oct 2025 16:30:00 +0530",
+    "summary": "The SOC of 2026 will no longer be a human-only battlefield. As organizations scale and threats evolve in sophistication and velocity, a new generation of AI-powered agents is reshaping how Security Operations Centers (SOCs) detect, respond, and adapt.\nBut not all AI SOC platforms are created equal.\nFrom prompt-dependent copilots to autonomous, multi-agent systems, the current market offers"
+  },
+  {
+    "title": "175 Malicious npm Packages with 26,000 Downloads Used in Credential Phishing Campaign",
+    "link": "https://thehackernews.com/2025/10/175-malicious-npm-packages-with-26000.html",
+    "published": "Fri, 10 Oct 2025 16:15:00 +0530",
+    "summary": "Cybersecurity researchers have flagged a new set of 175 malicious packages on the npm registry that have been used to facilitate credential harvesting attacks as part of an unusual campaign.\nThe packages have been collectively downloaded 26,000 times, acting as an infrastructure for a widespread phishing campaign codenamed Beamglea targeting more than 135 industrial, technology, and energy"
+  },
+  {
+    "title": "From LFI to RCE: Active Exploitation Detected in Gladinet and TrioFox Vulnerability",
+    "link": "https://thehackernews.com/2025/10/from-lfi-to-rce-active-exploitation.html",
+    "published": "Fri, 10 Oct 2025 15:04:00 +0530",
+    "summary": "Cybersecurity company Huntress said it has observed active in-the-wild exploitation of an unpatched security flaw impacting Gladinet CentreStack and TrioFox products.\nThe zero-day vulnerability, tracked as CVE-2025-11371 (CVSS score: 6.1), is an unauthenticated local file inclusion bug that allows unintended disclosure of system files. It impacts all versions of the software prior to and"
+  },
+  {
+    "title": "CL0P-Linked Hackers Breach Dozens of Organizations Through Oracle Software Flaw",
+    "link": "https://thehackernews.com/2025/10/cl0p-linked-hackers-breach-dozens-of.html",
+    "published": "Fri, 10 Oct 2025 12:11:00 +0530",
+    "summary": "Dozens of organizations may have been impacted following the zero-day exploitation of a security flaw in Oracle's E-Business Suite (EBS) software since August 9, 2025, Google Threat Intelligence Group (GTIG) and Mandiant said in a new report released Thursday.\n\"We're still assessing the scope of this incident, but we believe it affected dozens of organizations,\" John Hultquist, chief analyst of"
+  },
+  {
+    "title": "From HealthKick to GOVERSHELL: The Evolution of UTA0388's Espionage Malware",
+    "link": "https://thehackernews.com/2025/10/from-healthkick-to-govershell-evolution.html",
+    "published": "Thu, 09 Oct 2025 22:49:00 +0530",
+    "summary": "A China-aligned threat actor codenamed UTA0388 has been attributed to a series of spear-phishing campaigns targeting North America, Asia, and Europe that are designed to deliver a Go-based implant known as GOVERSHELL.\n\"The initially observed campaigns were tailored to the targets, and the messages purported to be sent by senior researchers and analysts from legitimate-sounding, completely"
+  }
+]
