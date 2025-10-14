@@ -1,0 +1,62 @@
+[
+  {
+    "title": "⚡ Weekly Recap: WhatsApp Worm, Critical CVEs, Oracle 0-Day, Ransomware Cartel & More",
+    "link": "https://thehackernews.com/2025/10/weekly-recap-whatsapp-worm-critical.html",
+    "published": "Mon, 13 Oct 2025 18:48:00 +0530",
+    "summary": "Every week, the cyber world reminds us that silence doesn’t mean safety. Attacks often begin quietly — one unpatched flaw, one overlooked credential, one backup left unencrypted. By the time alarms sound, the damage is done.\nThis week’s edition looks at how attackers are changing the game — linking different flaws, working together across borders, and even turning trusted tools into weapons."
+  },
+  {
+    "title": "Why Unmonitored JavaScript Is Your Biggest Holiday Security Risk",
+    "link": "https://thehackernews.com/2025/10/why-unmonitored-javascript-is-your.html",
+    "published": "Mon, 13 Oct 2025 17:20:00 +0530",
+    "summary": "Think your WAF has you covered? Think again. This holiday season, unmonitored JavaScript is a critical oversight allowing attackers to steal payment data while your WAF and intrusion detection systems see nothing. With the 2025 shopping season weeks away, visibility gaps must close now.\nGet the complete Holiday Season Security Playbook here.\nBottom Line Up Front\nThe 2024 holiday season saw major"
+  },
+  {
+    "title": "Researchers Warn RondoDox Botnet is Weaponizing Over 50 Flaws Across 30+ Vendors",
+    "link": "https://thehackernews.com/2025/10/researchers-warn-rondodox-botnet-is.html",
+    "published": "Mon, 13 Oct 2025 15:42:00 +0530",
+    "summary": "Malware campaigns distributing the RondoDox botnet have expanded their targeting focus to exploit more than 50 vulnerabilities across over 30 vendors.\nThe activity, described as akin to an \"exploit shotgun\" approach, has singled out a wide range of internet-exposed infrastructure, including routers, digital video recorders (DVRs), network video recorders (NVRs), CCTV systems, web servers, and"
+  },
+  {
+    "title": "Microsoft Locks Down IE Mode After Hackers Turned Legacy Feature Into Backdoor",
+    "link": "https://thehackernews.com/2025/10/microsoft-locks-down-ie-mode-after.html",
+    "published": "Mon, 13 Oct 2025 15:24:00 +0530",
+    "summary": "Microsoft said it has revamped the Internet Explorer (IE) mode in its Edge browser after receiving \"credible reports\" in August 2025 that unknown threat actors were abusing the backward compatibility feature to gain unauthorized access to users' devices.\n\"Threat actors were leveraging basic social engineering techniques alongside unpatched (0-day) exploits in Internet Explorer's JavaScript"
+  },
+  {
+    "title": "Astaroth Banking Trojan Abuses GitHub to Remain Operational After Takedowns",
+    "link": "https://thehackernews.com/2025/10/astaroth-banking-trojan-abuses-github.html",
+    "published": "Mon, 13 Oct 2025 12:22:00 +0530",
+    "summary": "Cybersecurity researchers are calling attention to a new campaign that delivers the Astaroth banking trojan that employs GitHub as a backbone for its operations to stay resilient in the face of infrastructure takedowns.\n\"Instead of relying solely on traditional command-and-control (C2) servers that can be taken down, these attackers are leveraging GitHub repositories to host malware"
+  },
+  {
+    "title": "New Rust-Based Malware \"ChaosBot\" Uses Discord Channels to Control Victims' PCs",
+    "link": "https://thehackernews.com/2025/10/new-rust-based-malware-chaosbot-hijacks.html",
+    "published": "Mon, 13 Oct 2025 10:42:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new Rust-based backdoor called ChaosBot that can allow operators to conduct reconnaissance and execute arbitrary commands on compromised hosts.\n\"Threat actors leveraged compromised credentials that mapped to both Cisco VPN and an over-privileged Active Directory account named, 'serviceaccount,'\" eSentire said in a technical report published"
+  },
+  {
+    "title": "New Oracle E-Business Suite Bug Could Let Hackers Access Data Without Login",
+    "link": "https://thehackernews.com/2025/10/new-oracle-e-business-suite-bug-could.html",
+    "published": "Sun, 12 Oct 2025 22:54:00 +0530",
+    "summary": "Oracle on Saturday issued a security alert warning of a fresh security flaw impacting its E-Business Suite that it said could allow unauthorized access to sensitive data.\nThe vulnerability, tracked as CVE-2025-61884, carries a CVSS score of 7.5, indicating high severity. It affects versions from 12.2.3 through 12.2.14.\n\"Easily exploitable vulnerability allows an unauthenticated attacker with"
+  },
+  {
+    "title": "Experts Warn of Widespread SonicWall VPN Compromise Impacting Over 100 Accounts",
+    "link": "https://thehackernews.com/2025/10/experts-warn-of-widespread-sonicwall.html",
+    "published": "Sat, 11 Oct 2025 19:00:00 +0530",
+    "summary": "Cybersecurity company Huntress on Friday warned of \"widespread compromise\" of SonicWall SSL VPN devices to access multiple customer environments.\n\"Threat actors are authenticating into multiple accounts rapidly across compromised devices,\" it said. \"The speed and scale of these attacks imply that the attackers appear to control valid credentials rather than brute-forcing.\"\nA significant chunk of"
+  },
+  {
+    "title": "Hackers Turn Velociraptor DFIR Tool Into Weapon in LockBit Ransomware Attacks",
+    "link": "https://thehackernews.com/2025/10/hackers-turn-velociraptor-dfir-tool.html",
+    "published": "Sat, 11 Oct 2025 18:34:00 +0530",
+    "summary": "Threat actors are abusing Velociraptor, an open-source digital forensics and incident response (DFIR) tool, in connection with ransomware attacks likely orchestrated by Storm-2603 (aka CL-CRI-1040 or Gold Salem), which is known for deploying the Warlock and LockBit ransomware.\nThe threat actor's use of the security utility was documented by Sophos last month. It's assessed that the attackers"
+  },
+  {
+    "title": "Stealit Malware Abuses Node.js Single Executable Feature via Game and VPN Installers",
+    "link": "https://thehackernews.com/2025/10/stealit-malware-abuses-nodejs-single.html",
+    "published": "Fri, 10 Oct 2025 19:55:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of an active malware campaign called Stealit that has leveraged Node.js' Single Executable Application (SEA) feature as a way to distribute its payloads.\nAccording to Fortinet FortiGuard Labs, select iterations have also employed the open-source Electron framework to deliver the malware. It's assessed that the malware is being propagated through"
+  }
+]
