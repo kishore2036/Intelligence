@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Chinese Hackers Exploit ArcGIS Server as Backdoor for Over a Year",
+    "link": "https://thehackernews.com/2025/10/chinese-hackers-exploit-arcgis-server.html",
+    "published": "Tue, 14 Oct 2025 22:25:00 +0530",
+    "summary": "Threat actors with ties to China have been attributed to a novel campaign that compromised an ArcGIS system and turned it into a backdoor for more than a year.\nThe activity, per ReliaQuest, is the handiwork of a Chinese state-sponsored hacking group called Flax Typhoon, which is also tracked as Ethereal Panda and RedJuliett. According to the U.S. government, it's assessed to be a publicly-traded"
+  },
+  {
+    "title": "Moving Beyond Awareness: How Threat Hunting Builds Readiness",
+    "link": "https://thehackernews.com/2025/10/moving-beyond-awareness-how-threat.html",
+    "published": "Tue, 14 Oct 2025 17:25:00 +0530",
+    "summary": "Every October brings a familiar rhythm - pumpkin-spice everything in stores and cafés, alongside a wave of reminders, webinars, and checklists in my inbox. Halloween may be just around the corner, yet for those of us in cybersecurity, Security Awareness Month is the true seasonal milestone.\nMake no mistake, as a security professional, I love this month. Launched by CISA and the National"
+  },
+  {
+    "title": "RMPocalypse: Single 8-Byte Write Shatters AMD’s SEV-SNP Confidential Computing",
+    "link": "https://thehackernews.com/2025/10/rmpocalypse-single-8-byte-write.html",
+    "published": "Tue, 14 Oct 2025 17:15:00 +0530",
+    "summary": "Chipmaker AMD has released fixes to address a security flaw dubbed RMPocalypse that could be exploited to undermine confidential computing guarantees provided by Secure Encrypted Virtualization with Secure Nested Paging (SEV-SNP).\nThe attack, per ETH Zürich researchers Benedict Schlüter and Shweta Shinde, exploits AMD's incomplete protections that make it possible to perform a single memory"
+  },
+  {
+    "title": "New Pixnapping Android Flaw Lets Rogue Apps Steal 2FA Codes Without Permissions",
+    "link": "https://thehackernews.com/2025/10/new-pixnapping-android-flaw-lets-rogue.html",
+    "published": "Tue, 14 Oct 2025 16:48:00 +0530",
+    "summary": "Android devices from Google and Samsung have been found vulnerable to a side-channel attack that could be exploited to covertly steal two-factor authentication (2FA) codes, Google Maps timelines, and other sensitive data without the users' knowledge pixel-by-pixel.\nThe attack has been codenamed Pixnapping by a group of academics from the University of California (Berkeley), University of"
+  },
+  {
+    "title": "What AI Reveals About Web Applications— and Why It Matters",
+    "link": "https://thehackernews.com/2025/10/what-ai-reveals-about-web-applications.html",
+    "published": "Tue, 14 Oct 2025 16:30:00 +0530",
+    "summary": "Before an attacker ever sends a payload, they’ve already done the work of understanding how your environment is built. They look at your login flows, your JavaScript files, your error messages, your API documentation, your GitHub repos. These are all clues that help them understand how your systems behave. AI is significantly accelerating reconnaissance and enabling attackers to map your"
+  },
+  {
+    "title": "npm, PyPI, and RubyGems Packages Found Sending Developer Data to Discord Channels",
+    "link": "https://thehackernews.com/2025/10/npm-pypi-and-rubygems-packages-found.html",
+    "published": "Tue, 14 Oct 2025 12:39:00 +0530",
+    "summary": "Cybersecurity researchers have identified several malicious packages across npm, Python, and Ruby ecosystems that leverage Discord as a command-and-control (C2) channel to transmit stolen data to actor-controlled webhooks.\nWebhooks on Discord are a way to post messages to channels in the platform without requiring a bot user or authentication, making them an attractive mechanism for attackers to"
+  },
+  {
+    "title": "Researchers Expose TA585’s MonsterV2 Malware Capabilities and Attack Chain",
+    "link": "https://thehackernews.com/2025/10/researchers-expose-ta585s-monsterv2.html",
+    "published": "Tue, 14 Oct 2025 10:58:00 +0530",
+    "summary": "Cybersecurity researchers have shed light on a previously undocumented threat actor called TA585 that has been observed delivering an off-the-shelf malware called MonsterV2 via phishing campaigns.\nThe Proofpoint Threat Research Team described the threat activity cluster as sophisticated, leveraging web injections and filtering checks as part of its attack chains.\n\"TA585 is notable because it"
+  },
+  {
+    "title": "⚡ Weekly Recap: WhatsApp Worm, Critical CVEs, Oracle 0-Day, Ransomware Cartel & More",
+    "link": "https://thehackernews.com/2025/10/weekly-recap-whatsapp-worm-critical.html",
+    "published": "Mon, 13 Oct 2025 18:48:00 +0530",
+    "summary": "Every week, the cyber world reminds us that silence doesn’t mean safety. Attacks often begin quietly — one unpatched flaw, one overlooked credential, one backup left unencrypted. By the time alarms sound, the damage is done.\nThis week’s edition looks at how attackers are changing the game — linking different flaws, working together across borders, and even turning trusted tools into weapons."
+  },
+  {
+    "title": "Why Unmonitored JavaScript Is Your Biggest Holiday Security Risk",
+    "link": "https://thehackernews.com/2025/10/why-unmonitored-javascript-is-your.html",
+    "published": "Mon, 13 Oct 2025 17:20:00 +0530",
+    "summary": "Think your WAF has you covered? Think again. This holiday season, unmonitored JavaScript is a critical oversight allowing attackers to steal payment data while your WAF and intrusion detection systems see nothing. With the 2025 shopping season weeks away, visibility gaps must close now.\nGet the complete Holiday Season Security Playbook here.\nBottom Line Up Front\nThe 2024 holiday season saw major"
+  },
+  {
+    "title": "Researchers Warn RondoDox Botnet is Weaponizing Over 50 Flaws Across 30+ Vendors",
+    "link": "https://thehackernews.com/2025/10/researchers-warn-rondodox-botnet-is.html",
+    "published": "Mon, 13 Oct 2025 15:42:00 +0530",
+    "summary": "Malware campaigns distributing the RondoDox botnet have expanded their targeting focus to exploit more than 50 vulnerabilities across over 30 vendors.\nThe activity, described as akin to an \"exploit shotgun\" approach, has singled out a wide range of internet-exposed infrastructure, including routers, digital video recorders (DVRs), network video recorders (NVRs), CCTV systems, web servers, and"
+  }
+]
