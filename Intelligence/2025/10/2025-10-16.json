@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Chinese Threat Group 'Jewelbug' Quietly Infiltrated Russian IT Network for Months",
+    "link": "https://thehackernews.com/2025/10/chinese-threat-group-jewelbug-quietly.html",
+    "published": "Wed, 15 Oct 2025 22:58:00 +0530",
+    "summary": "A threat actor with ties to China has been attributed to a five-month-long intrusion targeting a Russian IT service provider, marking the hacking group's expansion to the country beyond Southeast Asia and South America.\nThe activity, which took place from January to May 2025, has been attributed by Broadcom-owned Symantec to a threat actor it tracks as Jewelbug, which it said overlaps with"
+  },
+  {
+    "title": "F5 Breach Exposes BIG-IP Source Code — Nation-State Hackers Behind Massive Intrusion",
+    "link": "https://thehackernews.com/2025/10/f5-breach-exposes-big-ip-source-code.html",
+    "published": "Wed, 15 Oct 2025 21:36:00 +0530",
+    "summary": "U.S. cybersecurity company F5 on Wednesday disclosed that unidentified threat actors broke into its systems and stole files containing some of BIG-IP's source code and information related to undisclosed vulnerabilities in the product.\nIt attributed the activity to a \"highly sophisticated nation-state threat actor,\" adding the adversary maintained long-term, persistent access to its network. The"
+  },
+  {
+    "title": "Over 100 VS Code Extensions Exposed Developers to Hidden Supply Chain Risks",
+    "link": "https://thehackernews.com/2025/10/over-100-vs-code-extensions-exposed.html",
+    "published": "Wed, 15 Oct 2025 19:46:00 +0530",
+    "summary": "New research has uncovered that publishers of over 100 Visual Studio Code (VS Code) extensions leaked access tokens that could be exploited by bad actors to update the extensions, posing a critical software supply chain risk.\n\"A leaked VSCode Marketplace or Open VSX PAT [personal access token] allows an attacker to directly distribute a malicious extension update across the entire install base,\""
+  },
+  {
+    "title": "How Attackers Bypass Synced Passkeys",
+    "link": "https://thehackernews.com/2025/10/how-attackers-bypass-synced-passkeys.html",
+    "published": "Wed, 15 Oct 2025 17:00:00 +0530",
+    "summary": "TLDR\nEven if you take nothing else away from this piece, if your organization is evaluating passkey deployments, it is insecure to deploy synced passkeys.\n\nSynced passkeys inherit the risk of the cloud accounts and recovery processes that protect them, which creates material enterprise exposure.\nAdversary-in-the-middle (AiTM) kits can force authentication fallbacks that circumvent strong"
+  },
+  {
+    "title": "Two New Windows Zero-Days Exploited in the Wild — One Affects Every Version Ever Shipped",
+    "link": "https://thehackernews.com/2025/10/two-new-windows-zero-days-exploited-in.html",
+    "published": "Wed, 15 Oct 2025 14:53:00 +0530",
+    "summary": "Microsoft on Tuesday released fixes for a whopping 183 security flaws spanning its products, including three vulnerabilities that have come under active exploitation in the wild, as the tech giant officially ended support for its Windows 10 operating system unless the PCs are enrolled in the Extended Security Updates (ESU) program.\nOf the 183 vulnerabilities, eight of them are non-Microsoft"
+  },
+  {
+    "title": "Two CVSS 10.0 Bugs in Red Lion RTUs Could Hand Hackers Full Industrial Control",
+    "link": "https://thehackernews.com/2025/10/two-cvss-100-bugs-in-red-lion-rtus.html",
+    "published": "Wed, 15 Oct 2025 12:20:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed two critical security flaws impacting Red Lion Sixnet remote terminal unit (RTU) products that, if successfully exploited, could result in code execution with the highest privileges.\nThe shortcomings, tracked as CVE-2023-40151 and CVE-2023-42770, are both rated 10.0 on the CVSS scoring system.\n\"The vulnerabilities affect Red Lion SixTRAK and VersaTRAK"
+  },
+  {
+    "title": "Hackers Target ICTBroadcast Servers via Cookie Exploit to Gain Remote Shell Access",
+    "link": "https://thehackernews.com/2025/10/hackers-target-ictbroadcast-servers-via.html",
+    "published": "Wed, 15 Oct 2025 11:46:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed that a critical security flaw impacting ICTBroadcast, an autodialer software from ICT Innovations, has come under active exploitation in the wild.\nThe vulnerability, assigned the CVE identifier CVE-2025-2611 (CVSS score: 9.3), relates to improper input validation that can result in unauthenticated remote code execution due to the fact that the call center"
+  },
+  {
+    "title": "New SAP NetWeaver Bug Lets Attackers Take Over Servers Without Login",
+    "link": "https://thehackernews.com/2025/10/new-sap-netweaver-bug-lets-attackers.html",
+    "published": "Wed, 15 Oct 2025 11:06:00 +0530",
+    "summary": "SAP has rolled out security fixes for 13 new security issues, including additional hardening for a maximum-severity bug in SAP NetWeaver AS Java that could result in arbitrary command execution.\nThe vulnerability, tracked as CVE-2025-42944, carries a CVSS score of 10.0. It has been described as a case of insecure deserialization.\n\"Due to a deserialization vulnerability in SAP NetWeaver, an"
+  },
+  {
+    "title": "Chinese Hackers Exploit ArcGIS Server as Backdoor for Over a Year",
+    "link": "https://thehackernews.com/2025/10/chinese-hackers-exploit-arcgis-server.html",
+    "published": "Tue, 14 Oct 2025 22:25:00 +0530",
+    "summary": "Threat actors with ties to China have been attributed to a novel campaign that compromised an ArcGIS system and turned it into a backdoor for more than a year.\nThe activity, per ReliaQuest, is the handiwork of a Chinese state-sponsored hacking group called Flax Typhoon, which is also tracked as Ethereal Panda and RedJuliett. According to the U.S. government, it's assessed to be a publicly-traded"
+  },
+  {
+    "title": "Moving Beyond Awareness: How Threat Hunting Builds Readiness",
+    "link": "https://thehackernews.com/2025/10/moving-beyond-awareness-how-threat.html",
+    "published": "Tue, 14 Oct 2025 17:25:00 +0530",
+    "summary": "Every October brings a familiar rhythm - pumpkin-spice everything in stores and cafés, alongside a wave of reminders, webinars, and checklists in my inbox. Halloween may be just around the corner, yet for those of us in cybersecurity, Security Awareness Month is the true seasonal milestone.\nMake no mistake, as a security professional, I love this month. Launched by CISA and the National"
+  }
+]
