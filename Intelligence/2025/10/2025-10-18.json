@@ -1,0 +1,62 @@
+[
+  {
+    "title": "North Korean Hackers Combine BeaverTail and OtterCookie into Advanced JS Malware",
+    "link": "https://thehackernews.com/2025/10/north-korean-hackers-combine-beavertail.html",
+    "published": "Fri, 17 Oct 2025 19:03:00 +0530",
+    "summary": "The North Korean threat actor linked to the Contagious Interview campaign has been observed merging some of the functionality of two of its malware programs, indicating that the hacking group is actively refining its toolset.\nThat's according to new findings from Cisco Talos, which said recent campaigns undertaken by the hacking group have seen the functions of BeaverTail and OtterCookie coming"
+  },
+  {
+    "title": "Identity Security: Your First and Last Line of Defense",
+    "link": "https://thehackernews.com/2025/10/identity-security-your-first-and-last.html",
+    "published": "Fri, 17 Oct 2025 16:30:00 +0530",
+    "summary": "The danger isn’t that AI agents have bad days — it’s that they never do. They execute faithfully, even when what they’re executing is a mistake. A single misstep in logic or access can turn flawless automation into a flawless catastrophe.\nThis isn't some dystopian fantasy—it's Tuesday at the office now. We've entered a new phase where autonomous AI agents act with serious system privileges. They"
+  },
+  {
+    "title": "Researchers Uncover WatchGuard VPN Bug That Could Let Attackers Take Over Devices",
+    "link": "https://thehackernews.com/2025/10/researchers-uncover-watchguard-vpn-bug.html",
+    "published": "Fri, 17 Oct 2025 14:55:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a recently patched critical security flaw in WatchGuard Fireware that could allow unauthenticated attackers to execute arbitrary code.\nThe vulnerability, tracked as CVE-2025-9242 (CVSS score: 9.3), is described as an out-of-bounds write vulnerability affecting Fireware OS 11.10.2 up to and including 11.12.4_Update1, 12.0 up to and including"
+  },
+  {
+    "title": "Microsoft Revokes 200 Fraudulent Certificates Used in Rhysida Ransomware Campaign",
+    "link": "https://thehackernews.com/2025/10/microsoft-revokes-200-fraudulent.html",
+    "published": "Fri, 17 Oct 2025 11:33:00 +0530",
+    "summary": "Microsoft on Thursday disclosed that it revoked more than 200 certificates used by a threat actor it tracks as Vanilla Tempest to fraudulently sign malicious binaries in ransomware attacks.\nThe certificates were \"used in fake Teams setup files to deliver the Oyster backdoor and ultimately deploy Rhysida ransomware,\" the Microsoft Threat Intelligence team said in a post shared on X.\nThe tech"
+  },
+  {
+    "title": "North Korean Hackers Use EtherHiding to Hide Malware Inside Blockchain Smart Contracts",
+    "link": "https://thehackernews.com/2025/10/north-korean-hackers-use-etherhiding-to.html",
+    "published": "Thu, 16 Oct 2025 20:26:00 +0530",
+    "summary": "A threat actor with ties to the Democratic People's Republic of Korea (aka North Korea) has been observed leveraging the EtherHiding technique to distribute malware and enable cryptocurrency theft, marking the first time a state-sponsored hacking group has embraced the method.\nThe activity has been attributed by Google Threat Intelligence Group (GTIG) to a threat cluster it tracks as UNC5342,"
+  },
+  {
+    "title": "Hackers Abuse Blockchain Smart Contracts to Spread Malware via Infected WordPress Sites",
+    "link": "https://thehackernews.com/2025/10/hackers-abuse-blockchain-smart.html",
+    "published": "Thu, 16 Oct 2025 20:22:00 +0530",
+    "summary": "A financially motivated threat actor codenamed UNC5142 has been observed abusing blockchain smart contracts as a way to facilitate the distribution of information stealers, such as Atomic (AMOS), Lumma, Rhadamanthys (aka RADTHIEF), and Vidar, targeting both Windows and Apple macOS systems.\n\"UNC5142 is characterized by its use of compromised WordPress websites and 'EtherHiding,' a technique used"
+  },
+  {
+    "title": "LinkPro Linux Rootkit Uses eBPF to Hide and Activates via Magic TCP Packets",
+    "link": "https://thehackernews.com/2025/10/linkpro-linux-rootkit-uses-ebpf-to-hide.html",
+    "published": "Thu, 16 Oct 2025 19:58:00 +0530",
+    "summary": "An investigation into the compromise of an Amazon Web Services (AWS)-hosted infrastructure has led to the discovery of a new GNU/Linux rootkit dubbed LinkPro, according to findings from Synacktiv.\n\"This backdoor features functionalities relying on the installation of two eBPF [extended Berkeley Packet Filter] modules, on the one hand to conceal itself, and on the other hand to be remotely"
+  },
+  {
+    "title": "Architectures, Risks, and Adoption: How to Assess and Choose the Right AI-SOC Platform",
+    "link": "https://thehackernews.com/2025/10/architectures-risks-and-adoption-how-to.html",
+    "published": "Thu, 16 Oct 2025 17:25:00 +0530",
+    "summary": "Scaling the SOC with AI - Why now?&nbsp;\nSecurity Operations Centers (SOCs) are under unprecedented pressure. According to SACR’s AI-SOC Market Landscape 2025, the average organization now faces around 960 alerts per day, while large enterprises manage more than 3,000 alerts daily from an average of 28 different tools. Nearly 40% of those alerts go uninvestigated, and 61% of security teams admit"
+  },
+  {
+    "title": "Hackers Deploy Linux Rootkits via Cisco SNMP Flaw in 'Zero Disco' Attacks",
+    "link": "https://thehackernews.com/2025/10/hackers-deploy-linux-rootkits-via-cisco.html",
+    "published": "Thu, 16 Oct 2025 17:08:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new campaign that exploited a recently disclosed security flaw impacting Cisco IOS Software and IOS XE Software to deploy Linux rootkits on older, unprotected systems.\nThe activity, codenamed Operation Zero Disco by Trend Micro, involves the weaponization of CVE-2025-20352 (CVSS score: 7.7), a stack overflow vulnerability in the Simple"
+  },
+  {
+    "title": "Beware the Hidden Costs of Pen Testing",
+    "link": "https://thehackernews.com/2025/10/beware-hidden-costs-of-pen-testing.html",
+    "published": "Thu, 16 Oct 2025 16:20:00 +0530",
+    "summary": "Penetration testing helps organizations ensure IT systems are secure, but it should never be treated in a one-size-fits-all approach. Traditional approaches can be rigid and cost your organization time and money – while producing inferior results.&nbsp;\nThe benefits of pen testing are clear. By empowering “white hat” hackers to attempt to breach your system using similar tools and techniques to"
+  }
+]
