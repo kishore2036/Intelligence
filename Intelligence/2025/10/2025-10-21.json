@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Five New Exploited Bugs Land in CISA's Catalog — Oracle and Microsoft Among Targets",
+    "link": "https://thehackernews.com/2025/10/five-new-exploited-bugs-land-in-cisas.html",
+    "published": "Tue, 21 Oct 2025 00:30:00 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added five security flaws to its Known Exploited Vulnerabilities (KEV) Catalog, officially confirming a recently disclosed vulnerability impacting Oracle E-Business Suite (EBS) has been weaponized in real-world attacks.\nThe security defect in question is CVE-2025-61884 (CVSS score: 7.5), which has been described as a"
+  },
+  {
+    "title": "⚡ Weekly Recap: F5 Breached, Linux Rootkits, Pixnapping Attack, EtherHiding & More",
+    "link": "https://thehackernews.com/2025/10/weekly-recap-f5-breached-linux-rootkits.html",
+    "published": "Mon, 20 Oct 2025 17:57:00 +0530",
+    "summary": "It’s easy to think your defenses are solid — until you realize attackers have been inside them the whole time. The latest incidents show that long-term, silent breaches are becoming the norm. The best defense now isn’t just patching fast, but watching smarter and staying alert for what you don’t expect.\nHere’s a quick look at this week’s top threats, new tactics, and security stories shaping"
+  },
+  {
+    "title": "Analysing ClickFix: 3 Reasons Why Copy/Paste Attacks Are Driving Security Breaches",
+    "link": "https://thehackernews.com/2025/10/analysing-clickfix-3-reasons-why.html",
+    "published": "Mon, 20 Oct 2025 17:25:00 +0530",
+    "summary": "ClickFix, FileFix, fake CAPTCHA — whatever you call it, attacks where users interact with malicious scripts in their web browser are a fast-growing source of security breaches.&nbsp;\nClickFix attacks prompt the user to solve some kind of problem or challenge in the browser — most commonly a CAPTCHA, but also things like fixing an error on a webpage.&nbsp;\nThe name is a little misleading, though"
+  },
+  {
+    "title": "131 Chrome Extensions Caught Hijacking WhatsApp Web for Massive Spam Campaign",
+    "link": "https://thehackernews.com/2025/10/131-chrome-extensions-caught-hijacking.html",
+    "published": "Mon, 20 Oct 2025 16:17:00 +0530",
+    "summary": "Cybersecurity researchers have uncovered a coordinated campaign that leveraged 131 rebranded clones of a WhatsApp Web automation extension for Google Chrome to spam Brazilian users at scale.\nThe 131 spamware extensions share the same codebase, design patterns, and infrastructure, according to supply chain security company Socket. The browser add-ons collectively have about 20,905 active users.\n\""
+  },
+  {
+    "title": "MSS Claims NSA Used 42 Cyber Tools in Multi-Stage Attack on Beijing Time Systems",
+    "link": "https://thehackernews.com/2025/10/mss-claims-nsa-used-42-cyber-tools-in.html",
+    "published": "Mon, 20 Oct 2025 11:02:00 +0530",
+    "summary": "China on Sunday accused the U.S. National Security Agency (NSA) of carrying out a \"premeditated\" cyber attack targeting the National Time Service Center (NTSC), as it described the U.S. as a \"hacker empire\" and the \"greatest source of chaos in cyberspace.\"\nThe Ministry of State Security (MSS), in a WeChat post, said it uncovered \"irrefutable evidence\" of the agency's involvement in the intrusion"
+  },
+  {
+    "title": "Europol Dismantles SIM Farm Network Powering 49 Million Fake Accounts Worldwide",
+    "link": "https://thehackernews.com/2025/10/europol-dismantles-sim-farm-network.html",
+    "published": "Sun, 19 Oct 2025 11:43:00 +0530",
+    "summary": "Europol on Friday announced the disruption of a sophisticated cybercrime-as-a-service (CaaS) platform that operated a SIM farm and enabled its customers to carry out a broad spectrum of crimes ranging from phishing to investment fraud.\nThe coordinated law enforcement effort, dubbed Operation SIMCARTEL, saw 26 searches carried out, resulting in the arrest of seven suspects and the seizure of"
+  },
+  {
+    "title": "New .NET CAPI Backdoor Targets Russian Auto and E-Commerce Firms via Phishing ZIPs",
+    "link": "https://thehackernews.com/2025/10/new-net-capi-backdoor-targets-russian.html",
+    "published": "Sat, 18 Oct 2025 17:11:00 +0530",
+    "summary": "Cybersecurity researchers have shed light on a new campaign that has likely targeted the Russian automobile and e-commerce sectors with a previously undocumented .NET malware dubbed CAPI Backdoor.\nAccording to Seqrite Labs, the attack chain involves distributing phishing emails containing a ZIP archive as a way to trigger the infection. The cybersecurity company's analysis is based on the ZIP"
+  },
+  {
+    "title": "Silver Fox Expands Winos 4.0 Attacks to Japan and Malaysia via HoldingHands RAT",
+    "link": "https://thehackernews.com/2025/10/silver-fox-expands-winos-40-attacks-to.html",
+    "published": "Sat, 18 Oct 2025 12:21:00 +0530",
+    "summary": "The threat actors behind a malware family known as Winos 4.0 (aka ValleyRAT) have expanded their targeting footprint from China and Taiwan to target Japan and Malaysia with another remote access trojan (RAT) tracked as HoldingHands RAT (aka Gh0stBins).\n\"The campaign relied on phishing emails with PDFs that contained embedded malicious links,\" Pei Han Liao, researcher with Fortinet's FortiGuard"
+  },
+  {
+    "title": "North Korean Hackers Combine BeaverTail and OtterCookie into Advanced JS Malware",
+    "link": "https://thehackernews.com/2025/10/north-korean-hackers-combine-beavertail.html",
+    "published": "Fri, 17 Oct 2025 19:03:00 +0530",
+    "summary": "The North Korean threat actor linked to the Contagious Interview campaign has been observed merging some of the functionality of two of its malware programs, indicating that the hacking group is actively refining its toolset.\nThat's according to new findings from Cisco Talos, which said recent campaigns undertaken by the hacking group have seen the functions of BeaverTail and OtterCookie coming"
+  },
+  {
+    "title": "Identity Security: Your First and Last Line of Defense",
+    "link": "https://thehackernews.com/2025/10/identity-security-your-first-and-last.html",
+    "published": "Fri, 17 Oct 2025 16:30:00 +0530",
+    "summary": "The danger isn’t that AI agents have bad days — it’s that they never do. They execute faithfully, even when what they’re executing is a mistake. A single misstep in logic or access can turn flawless automation into a flawless catastrophe.\nThis isn't some dystopian fantasy—it's Tuesday at the office now. We've entered a new phase where autonomous AI agents act with serious system privileges. They"
+  }
+]
