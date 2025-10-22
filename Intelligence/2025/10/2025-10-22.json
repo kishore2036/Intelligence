@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Meta Rolls Out New Tools to Protect WhatsApp and Messenger Users from Scams",
+    "link": "https://thehackernews.com/2025/10/meta-rolls-out-new-tools-to-protect.html",
+    "published": "Tue, 21 Oct 2025 20:33:00 +0530",
+    "summary": "Meta on Tuesday said it's launching new tools to protect Messenger and WhatsApp users from potential scams.\nTo that end, the company said it's introducing new warnings on WhatsApp when users attempt to share their screen with an unknown contact during a video call so as to prevent them from giving away sensitive information like bank details or verification codes.\nOn Messenger, users can opt to"
+  },
+  {
+    "title": "PolarEdge Targets Cisco, ASUS, QNAP, Synology Routers in Expanding Botnet Campaign",
+    "link": "https://thehackernews.com/2025/10/polaredge-targets-cisco-asus-qnap.html",
+    "published": "Tue, 21 Oct 2025 19:17:00 +0530",
+    "summary": "Cybersecurity researchers have shed light on the inner workings of a botnet malware called PolarEdge.\nPolarEdge was first documented by Sekoia in February 2025, attributing it to a campaign targeting routers from Cisco, ASUS, QNAP, and Synology with the goal of corralling them into a network for an as-yet-undetermined purpose.\nThe TLS-based ELF implant, at its core, is designed to monitor"
+  },
+  {
+    "title": "Securing AI to Benefit from AI",
+    "link": "https://thehackernews.com/2025/10/securing-ai-to-benefit-from-ai.html",
+    "published": "Tue, 21 Oct 2025 16:30:00 +0530",
+    "summary": "Artificial intelligence (AI) holds tremendous promise for improving cyber defense and making the lives of security practitioners easier. It can help teams cut through alert fatigue, spot patterns faster, and bring a level of scale that human analysts alone can’t match. But realizing that potential depends on securing the systems that make it possible.\nEvery organization experimenting with AI in"
+  },
+  {
+    "title": "Google Identifies Three New Russian Malware Families Created by COLDRIVER Hackers",
+    "link": "https://thehackernews.com/2025/10/google-identifies-three-new-russian.html",
+    "published": "Tue, 21 Oct 2025 12:59:00 +0530",
+    "summary": "A new malware attributed to the Russia-linked hacking group known as COLDRIVER has undergone numerous developmental iterations since May 2025, suggesting an increased \"operations tempo\" from the threat actor.\nThe findings come from Google Threat Intelligence Group (GTIG), which said the state-sponsored hacking crew has rapidly refined and retooled its malware arsenal merely five days following"
+  },
+  {
+    "title": "Hackers Used Snappybee Malware and Citrix Flaw to Breach European Telecom Network",
+    "link": "https://thehackernews.com/2025/10/hackers-used-snappybee-malware-and.html",
+    "published": "Tue, 21 Oct 2025 12:53:00 +0530",
+    "summary": "A European telecommunications organization is said to have been targeted by a threat actor that aligns with a China-nexus cyber espionage group known as Salt Typhoon.\nThe organization, per Darktrace, was targeted in the first week of July 2025, with the attackers exploiting a Citrix NetScaler Gateway appliance to obtain initial access.\nSalt Typhoon, also known as Earth Estries, FamousSparrow,"
+  },
+  {
+    "title": "Five New Exploited Bugs Land in CISA's Catalog — Oracle and Microsoft Among Targets",
+    "link": "https://thehackernews.com/2025/10/five-new-exploited-bugs-land-in-cisas.html",
+    "published": "Tue, 21 Oct 2025 00:30:00 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added five security flaws to its Known Exploited Vulnerabilities (KEV) Catalog, officially confirming a recently disclosed vulnerability impacting Oracle E-Business Suite (EBS) has been weaponized in real-world attacks.\nThe security defect in question is CVE-2025-61884 (CVSS score: 7.5), which has been described as a"
+  },
+  {
+    "title": "⚡ Weekly Recap: F5 Breached, Linux Rootkits, Pixnapping Attack, EtherHiding & More",
+    "link": "https://thehackernews.com/2025/10/weekly-recap-f5-breached-linux-rootkits.html",
+    "published": "Mon, 20 Oct 2025 17:57:00 +0530",
+    "summary": "It’s easy to think your defenses are solid — until you realize attackers have been inside them the whole time. The latest incidents show that long-term, silent breaches are becoming the norm. The best defense now isn’t just patching fast, but watching smarter and staying alert for what you don’t expect.\nHere’s a quick look at this week’s top threats, new tactics, and security stories shaping"
+  },
+  {
+    "title": "Analysing ClickFix: 3 Reasons Why Copy/Paste Attacks Are Driving Security Breaches",
+    "link": "https://thehackernews.com/2025/10/analysing-clickfix-3-reasons-why.html",
+    "published": "Mon, 20 Oct 2025 17:25:00 +0530",
+    "summary": "ClickFix, FileFix, fake CAPTCHA — whatever you call it, attacks where users interact with malicious scripts in their web browser are a fast-growing source of security breaches.&nbsp;\nClickFix attacks prompt the user to solve some kind of problem or challenge in the browser — most commonly a CAPTCHA, but also things like fixing an error on a webpage.&nbsp;\nThe name is a little misleading, though"
+  },
+  {
+    "title": "131 Chrome Extensions Caught Hijacking WhatsApp Web for Massive Spam Campaign",
+    "link": "https://thehackernews.com/2025/10/131-chrome-extensions-caught-hijacking.html",
+    "published": "Mon, 20 Oct 2025 16:17:00 +0530",
+    "summary": "Cybersecurity researchers have uncovered a coordinated campaign that leveraged 131 rebranded clones of a WhatsApp Web automation extension for Google Chrome to spam Brazilian users at scale.\nThe 131 spamware extensions share the same codebase, design patterns, and infrastructure, according to supply chain security company Socket. The browser add-ons collectively have about 20,905 active users.\n\""
+  },
+  {
+    "title": "MSS Claims NSA Used 42 Cyber Tools in Multi-Stage Attack on Beijing Time Systems",
+    "link": "https://thehackernews.com/2025/10/mss-claims-nsa-used-42-cyber-tools-in.html",
+    "published": "Mon, 20 Oct 2025 11:02:00 +0530",
+    "summary": "China on Sunday accused the U.S. National Security Agency (NSA) of carrying out a \"premeditated\" cyber attack targeting the National Time Service Center (NTSC), as it described the U.S. as a \"hacker empire\" and the \"greatest source of chaos in cyberspace.\"\nThe Ministry of State Security (MSS), in a WeChat post, said it uncovered \"irrefutable evidence\" of the agency's involvement in the intrusion"
+  }
+]
