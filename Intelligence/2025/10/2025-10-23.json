@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Iran-Linked MuddyWater Targets 100+ Organisations in Global Espionage Campaign",
+    "link": "https://thehackernews.com/2025/10/iran-linked-muddywater-targets-100.html",
+    "published": "Wed, 22 Oct 2025 22:51:00 +0530",
+    "summary": "The Iranian nation-state group known as MuddyWater has been attributed to a new campaign that has leveraged a compromised email account to distribute a backdoor called Phoenix to various organizations across the Middle East and North Africa (MENA) region, including over 100 government entities.\nThe end goal of the campaign is to infiltrate high-value targets and facilitate intelligence gathering"
+  },
+  {
+    "title": "Ukraine Aid Groups Targeted Through Fake Zoom Meetings and Weaponized PDF Files",
+    "link": "https://thehackernews.com/2025/10/ukraine-aid-groups-targeted-through.html",
+    "published": "Wed, 22 Oct 2025 22:25:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a coordinated spear-phishing campaign dubbed PhantomCaptcha targeting organizations associated with Ukraine's war relief efforts to deliver a remote access trojan that uses a WebSocket for command-and-control (C2).\nThe activity, which took place on October 8, 2025, targeted individual members of the International Red Cross, Norwegian Refugee"
+  },
+  {
+    "title": "Chinese Threat Actors Exploit ToolShell SharePoint Flaw Weeks After Microsoft's July Patch",
+    "link": "https://thehackernews.com/2025/10/chinese-threat-actors-exploit-toolshell.html",
+    "published": "Wed, 22 Oct 2025 18:26:00 +0530",
+    "summary": "Threat actors with ties to China exploited the ToolShell security vulnerability in Microsoft SharePoint to breach a telecommunications company in the Middle East after it was publicly disclosed and patched in July 2025.\nAlso targeted were government departments in an African country, as well as government agencies in South America, a university in the U.S., as well as likely a state technology"
+  },
+  {
+    "title": "Bridging the Remediation Gap: Introducing Pentera Resolve",
+    "link": "https://thehackernews.com/2025/10/bridging-remediation-gap-introducing.html",
+    "published": "Wed, 22 Oct 2025 17:25:00 +0530",
+    "summary": "From Detection to Resolution: Why the Gap Persists\nA critical vulnerability is identified in an exposed cloud asset. Within hours, five different tools alert you about it: your vulnerability scanner, XDR, CSPM, SIEM, and CMDB each surface the issue in their own way, with different severity levels, metadata, and context.\nWhat’s missing is a system of action. How do you transition from the"
+  },
+  {
+    "title": "Fake Nethereum NuGet Package Used Homoglyph Trick to Steal Crypto Wallet Keys",
+    "link": "https://thehackernews.com/2025/10/fake-nethereum-nuget-package-used.html",
+    "published": "Wed, 22 Oct 2025 17:13:00 +0530",
+    "summary": "Cybersecurity researchers have uncovered a new supply chain attack targeting the NuGet package manager with malicious typosquats of Nethereum, a popular Ethereum .NET integration platform, to steal victims' cryptocurrency wallet keys.\nThe package, Netherеum.All, has been found to harbor functionality to decode a command-and-control (C2) endpoint and exfiltrate mnemonic phrases, private keys, and"
+  },
+  {
+    "title": "Why You Should Swap Passwords for Passphrases",
+    "link": "https://thehackernews.com/2025/10/why-you-should-swap-passwords-for.html",
+    "published": "Wed, 22 Oct 2025 14:56:00 +0530",
+    "summary": "The advice didn't change for decades: use complex passwords with uppercase, lowercase, numbers, and symbols. The idea is to make passwords harder for hackers to crack via brute force methods. But more recent guidance shows our focus should be on password length, rather than complexity. Length is the more important security factor, and passphrases are the simplest way to get your users to create"
+  },
+  {
+    "title": "Researchers Identify PassiveNeuron APT Using Neursite and NeuralExecutor Malware",
+    "link": "https://thehackernews.com/2025/10/researchers-identify-passiveneuron-apt.html",
+    "published": "Wed, 22 Oct 2025 14:28:00 +0530",
+    "summary": "Government, financial, and industrial organizations located in Asia, Africa, and Latin America are the target of a new campaign dubbed PassiveNeuron, according to findings from Kaspersky.\nThe cyber espionage activity was first flagged by the Russian cybersecurity vendor in November 2024, when it disclosed a set of attacks aimed at government entities in Latin America and East Asia in June, using"
+  },
+  {
+    "title": "TARmageddon Flaw in Async-Tar Rust Library Could Enable Remote Code Execution",
+    "link": "https://thehackernews.com/2025/10/tarmageddon-flaw-in-async-tar-rust.html",
+    "published": "Wed, 22 Oct 2025 12:35:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a high-severity flaw impacting the popular async-tar Rust library and its forks, including tokio-tar, that could result in remote code execution under certain conditions.\nThe vulnerability, tracked as CVE-2025-62518 (CVSS score: 8.1), has been codenamed TARmageddon by Edera, which discovered the issue in late August 2025. It impacts several"
+  },
+  {
+    "title": "TP-Link Patches Four Omada Gateway Flaws, Two Allow Remote Code Execution",
+    "link": "https://thehackernews.com/2025/10/tp-link-patches-four-omada-gateway.html",
+    "published": "Wed, 22 Oct 2025 10:08:00 +0530",
+    "summary": "TP-Link has released security updates to address four security flaws impacting Omada gateway devices, including two critical bugs that could result in arbitrary code execution.\nThe vulnerabilities in question are listed below -\n\nCVE-2025-6541 (CVSS score: 8.6) - An operating system command injection vulnerability that could be exploited by an attacker who can log in to the web management"
+  },
+  {
+    "title": "Meta Rolls Out New Tools to Protect WhatsApp and Messenger Users from Scams",
+    "link": "https://thehackernews.com/2025/10/meta-rolls-out-new-tools-to-protect.html",
+    "published": "Tue, 21 Oct 2025 20:33:00 +0530",
+    "summary": "Meta on Tuesday said it's launching new tools to protect Messenger and WhatsApp users from potential scams.\nTo that end, the company said it's introducing new warnings on WhatsApp when users attempt to share their screen with an unknown contact during a video call so as to prevent them from giving away sensitive information like bank details or verification codes.\nOn Messenger, users can opt to"
+  }
+]
