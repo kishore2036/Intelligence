@@ -1,0 +1,62 @@
+[
+  {
+    "title": "North Korean Hackers Lure Defense Engineers With Fake Jobs to Steal Drone Secrets",
+    "link": "https://thehackernews.com/2025/10/north-korean-hackers-lure-defense.html",
+    "published": "Thu, 23 Oct 2025 20:59:00 +0530",
+    "summary": "Threat actors with ties to North Korea have been attributed to a new wave of attacks targeting European companies active in the defense industry as part of a long-running campaign known as Operation Dream Job.\n\"Some of these [companies' are heavily involved in the unmanned aerial vehicle (UAV) sector, suggesting that the operation may be linked to North Korea's current efforts to scale up its"
+  },
+  {
+    "title": "Secure AI at Scale and Speed — Learn the Framework in this Free Webinar",
+    "link": "https://thehackernews.com/2025/10/secure-ai-at-scale-and-speed-learn.html",
+    "published": "Thu, 23 Oct 2025 17:25:00 +0530",
+    "summary": "AI is everywhere—and your company wants in. Faster products, smarter systems, fewer bottlenecks. But if you're in security, that excitement often comes with a sinking feeling.\nBecause while everyone else is racing ahead, you're left trying to manage a growing web of AI agents you didn’t create, can’t fully see, and weren’t designed to control.\nJoin our upcoming webinar and learn how to make AI"
+  },
+  {
+    "title": "ThreatsDay Bulletin: $176M Crypto Fine, Hacking Formula 1, Chromium Vulns, AI Hijack & More",
+    "link": "https://thehackernews.com/2025/10/threatsday-bulletin-176m-crypto-fine.html",
+    "published": "Thu, 23 Oct 2025 17:00:00 +0530",
+    "summary": "Criminals don&rsquo;t need to be clever all the time; they just follow the easiest path in: trick users, exploit stale components, or abuse trusted systems like OAuth and package registries. If your stack or habits make any of those easy, you&rsquo;re already a target.\nThis week&rsquo;s ThreatsDay highlights show exactly how those weak points are being exploited &mdash; from overlooked"
+  },
+  {
+    "title": "Why Organizations Are Abandoning Static Secrets for Managed Identities",
+    "link": "https://thehackernews.com/2025/10/why-organizations-are-abandoning-static.html",
+    "published": "Thu, 23 Oct 2025 16:30:00 +0530",
+    "summary": "As machine identities explode across cloud environments, enterprises report dramatic productivity gains from eliminating static credentials. And only legacy systems remain the weak link.\nFor decades, organizations have relied on static secrets, such as API keys, passwords, and tokens, as unique identifiers for workloads. While this approach provides clear traceability, it creates what security"
+  },
+  {
+    "title": "“Jingle Thief” Hackers Exploit Cloud Infrastructure to Steal Millions in Gift Cards",
+    "link": "https://thehackernews.com/2025/10/jingle-thief-hackers-exploit-cloud.html",
+    "published": "Thu, 23 Oct 2025 13:22:00 +0530",
+    "summary": "Cybersecurity researchers have shed light on a cybercriminal group called Jingle Thief that has been observed targeting cloud environments associated with organizations in the retail and consumer services sectors for gift card fraud.\n\"Jingle Thief attackers use phishing and smishing to steal credentials, to compromise organizations that issue gift cards,\" Palo Alto Networks Unit 42 researchers"
+  },
+  {
+    "title": "Over 250 Magento Stores Hit Overnight as Hackers Exploit New Adobe Commerce Flaw",
+    "link": "https://thehackernews.com/2025/10/over-250-magento-stores-hit-overnight.html",
+    "published": "Thu, 23 Oct 2025 11:17:00 +0530",
+    "summary": "E-commerce security company Sansec has warned that threat actors have begun to exploit a recently disclosed security vulnerability in Adobe Commerce and Magento Open Source platforms, with more than 250 attack attempts recorded against multiple stores over the past 24 hours.\nThe vulnerability in question is CVE-2025-54236 (CVSS score: 9.1), a critical improper input validation flaw that could be"
+  },
+  {
+    "title": "Critical Lanscope Endpoint Manager Bug Exploited in Ongoing Cyberattacks, CISA Confirms",
+    "link": "https://thehackernews.com/2025/10/critical-lanscope-endpoint-manager-bug.html",
+    "published": "Thu, 23 Oct 2025 11:07:00 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting Motex Lanscope Endpoint Manager to its Known Exploited Vulnerabilities (KEV) catalog, stating it has been actively exploited in the wild.\nThe vulnerability, CVE-2025-61932 (CVSS v4 score: 9.3), impacts on-premises versions of Lanscope Endpoint Manager, specifically Client"
+  },
+  {
+    "title": "Iran-Linked MuddyWater Targets 100+ Organisations in Global Espionage Campaign",
+    "link": "https://thehackernews.com/2025/10/iran-linked-muddywater-targets-100.html",
+    "published": "Wed, 22 Oct 2025 22:51:00 +0530",
+    "summary": "The Iranian nation-state group known as MuddyWater has been attributed to a new campaign that has leveraged a compromised email account to distribute a backdoor called Phoenix to various organizations across the Middle East and North Africa (MENA) region, including over 100 government entities.\nThe end goal of the campaign is to infiltrate high-value targets and facilitate intelligence gathering"
+  },
+  {
+    "title": "Ukraine Aid Groups Targeted Through Fake Zoom Meetings and Weaponized PDF Files",
+    "link": "https://thehackernews.com/2025/10/ukraine-aid-groups-targeted-through.html",
+    "published": "Wed, 22 Oct 2025 22:25:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a coordinated spear-phishing campaign dubbed PhantomCaptcha targeting organizations associated with Ukraine's war relief efforts to deliver a remote access trojan that uses a WebSocket for command-and-control (C2).\nThe activity, which took place on October 8, 2025, targeted individual members of the International Red Cross, Norwegian Refugee"
+  },
+  {
+    "title": "Chinese Threat Actors Exploit ToolShell SharePoint Flaw Weeks After Microsoft's July Patch",
+    "link": "https://thehackernews.com/2025/10/chinese-threat-actors-exploit-toolshell.html",
+    "published": "Wed, 22 Oct 2025 18:26:00 +0530",
+    "summary": "Threat actors with ties to China exploited the ToolShell security vulnerability in Microsoft SharePoint to breach a telecommunications company in the Middle East after it was publicly disclosed and patched in July 2025.\nAlso targeted were government departments in an African country, as well as government agencies in South America, a university in the U.S., as well as likely a state technology"
+  }
+]
