@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Smishing Triad Linked to 194,000 Malicious Domains in Global Phishing Operation",
+    "link": "https://thehackernews.com/2025/10/smishing-triad-linked-to-194000.html",
+    "published": "Sat, 25 Oct 2025 00:05:00 +0530",
+    "summary": "The threat actors behind a large-scale, ongoing smishing campaign have been attributed to more than 194,000 malicious domains since January 1, 2024, targeting a broad range of services across the world, according to new findings from Palo Alto Networks Unit 42.\n\"Although these domains are registered through a Hong Kong-based registrar and use Chinese nameservers, the attack infrastructure is"
+  },
+  {
+    "title": "Newly Patched Critical Microsoft WSUS Flaw Comes Under Active Exploitation",
+    "link": "https://thehackernews.com/2025/10/microsoft-issues-emergency-patch-for.html",
+    "published": "Fri, 24 Oct 2025 22:00:00 +0530",
+    "summary": "Microsoft on Thursday released out-of-band security updates to patch a critical-severity Windows Server Update Service (WSUS) vulnerability with a proof-of-concept (Poc) exploit publicly available and has come under active exploitation in the wild.\nThe vulnerability in question is CVE-2025-59287 (CVSS score: 9.8), a remote code execution flaw in WSUS that was originally fixed by the tech giant"
+  },
+  {
+    "title": "APT36 Targets Indian Government with Golang-Based DeskRAT Malware Campaign",
+    "link": "https://thehackernews.com/2025/10/apt36-targets-indian-government-with.html",
+    "published": "Fri, 24 Oct 2025 19:30:00 +0530",
+    "summary": "A Pakistan-nexus threat actor has been observed targeting Indian government entities as part of spear-phishing attacks designed to deliver a Golang-based malware known as DeskRAT.\nThe activity, observed in August and September 2025 by Sekoia, has been attributed to Transparent Tribe (aka APT36), a state-sponsored hacking group known to be active since at least 2013. It also builds upon a prior"
+  },
+  {
+    "title": "The Cybersecurity Perception Gap: Why Executives and Practitioners See Risk Differently",
+    "link": "https://thehackernews.com/2025/10/the-cybersecurity-perception-gap-why.html",
+    "published": "Fri, 24 Oct 2025 16:30:00 +0530",
+    "summary": "Does your organization suffer from a cybersecurity perception gap? Findings from the&nbsp;Bitdefender 2025 Cybersecurity Assessment suggest the answer is probably “yes” — and many leaders may not even realize it.\nThis disconnect matters. Small differences in perception today can evolve into major blind spots tomorrow. After all, perception influences what organizations prioritize, where they"
+  },
+  {
+    "title": "3,000 YouTube Videos Exposed as Malware Traps in Massive Ghost Network Operation",
+    "link": "https://thehackernews.com/2025/10/3000-youtube-videos-exposed-as-malware.html",
+    "published": "Fri, 24 Oct 2025 15:30:00 +0530",
+    "summary": "A malicious network of YouTube accounts has been observed publishing and promoting videos that lead to malware downloads, essentially abusing the popularity and trust associated with the video hosting platform for propagating malicious payloads.\nActive since 2021, the network has published more than 3,000 malicious videos to date, with the volume of such videos tripling since the start of the"
+  },
+  {
+    "title": "Self-Spreading 'GlassWorm' Infects VS Code Extensions in Widespread Supply Chain Attack",
+    "link": "https://thehackernews.com/2025/10/self-spreading-glassworm-infects-vs.html",
+    "published": "Fri, 24 Oct 2025 12:30:00 +0530",
+    "summary": "Cybersecurity researchers have discovered a self-propagating worm that spreads via Visual Studio Code (VS Code) extensions on the Open VSX Registry and the Microsoft Extension Marketplace, underscoring how developers have become a prime target for attacks.\nThe sophisticated threat, codenamed GlassWorm by Koi Security, is the second such supply chain attack to hit the DevOps space within a span"
+  },
+  {
+    "title": "North Korean Hackers Lure Defense Engineers With Fake Jobs to Steal Drone Secrets",
+    "link": "https://thehackernews.com/2025/10/north-korean-hackers-lure-defense.html",
+    "published": "Thu, 23 Oct 2025 20:59:00 +0530",
+    "summary": "Threat actors with ties to North Korea have been attributed to a new wave of attacks targeting European companies active in the defense industry as part of a long-running campaign known as Operation Dream Job.\n\"Some of these [companies] are heavily involved in the unmanned aerial vehicle (UAV) sector, suggesting that the operation may be linked to North Korea's current efforts to scale up its"
+  },
+  {
+    "title": "Secure AI at Scale and Speed — Learn the Framework in this Free Webinar",
+    "link": "https://thehackernews.com/2025/10/secure-ai-at-scale-and-speed-learn.html",
+    "published": "Thu, 23 Oct 2025 17:25:00 +0530",
+    "summary": "AI is everywhere—and your company wants in. Faster products, smarter systems, fewer bottlenecks. But if you're in security, that excitement often comes with a sinking feeling.\nBecause while everyone else is racing ahead, you're left trying to manage a growing web of AI agents you didn’t create, can’t fully see, and weren’t designed to control.\nJoin our upcoming webinar and learn how to make AI"
+  },
+  {
+    "title": "ThreatsDay Bulletin: $176M Crypto Fine, Hacking Formula 1, Chromium Vulns, AI Hijack & More",
+    "link": "https://thehackernews.com/2025/10/threatsday-bulletin-176m-crypto-fine.html",
+    "published": "Thu, 23 Oct 2025 17:00:00 +0530",
+    "summary": "Criminals don&rsquo;t need to be clever all the time; they just follow the easiest path in: trick users, exploit stale components, or abuse trusted systems like OAuth and package registries. If your stack or habits make any of those easy, you&rsquo;re already a target.\nThis week&rsquo;s ThreatsDay highlights show exactly how those weak points are being exploited &mdash; from overlooked"
+  },
+  {
+    "title": "Why Organizations Are Abandoning Static Secrets for Managed Identities",
+    "link": "https://thehackernews.com/2025/10/why-organizations-are-abandoning-static.html",
+    "published": "Thu, 23 Oct 2025 16:30:00 +0530",
+    "summary": "As machine identities explode across cloud environments, enterprises report dramatic productivity gains from eliminating static credentials. And only legacy systems remain the weak link.\nFor decades, organizations have relied on static secrets, such as API keys, passwords, and tokens, as unique identifiers for workloads. While this approach provides clear traceability, it creates what security"
+  }
+]
