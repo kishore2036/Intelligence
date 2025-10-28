@@ -1,0 +1,62 @@
+[
+  {
+    "title": "X Warns Users With Security Keys to Re-Enroll Before November 10 to Avoid Lockouts",
+    "link": "https://thehackernews.com/2025/10/x-warns-users-with-security-keys-to-re.html",
+    "published": "Mon, 27 Oct 2025 21:42:00 +0530",
+    "summary": "Social media platform X is urging users who have enrolled for two-factor authentication (2FA) using passkeys and hardware security keys like Yubikeys to re-enroll their key to ensure continued access to the service.\nTo that end, users are being asked to complete the re-enrollment, either using their existing security key or enrolling a new one, by November 10, 2025.\n\"After November 10, if you"
+  },
+  {
+    "title": "New ChatGPT Atlas Browser Exploit Lets Attackers Plant Persistent Hidden Commands",
+    "link": "https://thehackernews.com/2025/10/new-chatgpt-atlas-browser-exploit-lets.html",
+    "published": "Mon, 27 Oct 2025 20:01:00 +0530",
+    "summary": "Cybersecurity researchers have discovered a new vulnerability in OpenAI's ChatGPT Atlas web browser that could allow malicious actors to inject nefarious instructions into the artificial intelligence (AI)-powered assistant's memory and run arbitrary code.\n\"This exploit can allow attackers to infect systems with malicious code, grant themselves access privileges, or deploy malware,\" LayerX"
+  },
+  {
+    "title": "⚡ Weekly Recap: WSUS Exploited, LockBit 5.0 Returns, Telegram Backdoor, F5 Breach Widens",
+    "link": "https://thehackernews.com/2025/10/weekly-recap-wsus-exploited-lockbit-50.html",
+    "published": "Mon, 27 Oct 2025 18:21:00 +0530",
+    "summary": "Security, trust, and stability — once the pillars of our digital world — are now the tools attackers turn against us. From stolen accounts to fake job offers, cybercriminals keep finding new ways to exploit both system flaws and human behavior.\nEach new breach proves a harsh truth: in cybersecurity, feeling safe can be far more dangerous than being alert.\nHere’s how that false sense of security"
+  },
+  {
+    "title": "Qilin Ransomware Combines Linux Payload With BYOVD Exploit in Hybrid Attack",
+    "link": "https://thehackernews.com/2025/10/qilin-ransomware-combines-linux-payload.html",
+    "published": "Mon, 27 Oct 2025 14:25:00 +0530",
+    "summary": "The ransomware group known as Qilin (aka Agenda, Gold Feather, and Water Galura) has claimed more than 40 victims every month since the start of 2025, barring January, with the number of postings on its data leak site touching a high of 100 cases in June.\nThe development comes as the ransomware-as-a-service (RaaS) operation has emerged as one of the most active ransomware groups, accounting for"
+  },
+  {
+    "title": "ChatGPT Atlas Browser Can Be Tricked by Fake URLs into Executing Hidden Commands",
+    "link": "https://thehackernews.com/2025/10/chatgpt-atlas-browser-can-be-tricked-by.html",
+    "published": "Mon, 27 Oct 2025 12:59:00 +0530",
+    "summary": "The newly released OpenAI ChatGPT Atlas web browser has been found to be susceptible to a prompt injection attack where its omnibox can be jailbroken by disguising a malicious prompt as a seemingly harmless URL to visit.\n\"The omnibox (combined address/search bar) interprets input either as a URL to navigate to, or as a natural-language command to the agent,\" NeuralTrust said in a report"
+  },
+  {
+    "title": "Smishing Triad Linked to 194,000 Malicious Domains in Global Phishing Operation",
+    "link": "https://thehackernews.com/2025/10/smishing-triad-linked-to-194000.html",
+    "published": "Sat, 25 Oct 2025 00:05:00 +0530",
+    "summary": "The threat actors behind a large-scale, ongoing smishing campaign have been attributed to more than 194,000 malicious domains since January 1, 2024, targeting a broad range of services across the world, according to new findings from Palo Alto Networks Unit 42.\n\"Although these domains are registered through a Hong Kong-based registrar and use Chinese nameservers, the attack infrastructure is"
+  },
+  {
+    "title": "Newly Patched Critical Microsoft WSUS Flaw Comes Under Active Exploitation",
+    "link": "https://thehackernews.com/2025/10/microsoft-issues-emergency-patch-for.html",
+    "published": "Fri, 24 Oct 2025 22:00:00 +0530",
+    "summary": "Microsoft on Thursday released out-of-band security updates to patch a critical-severity Windows Server Update Service (WSUS) vulnerability with a proof-of-concept (Poc) exploit publicly available and has come under active exploitation in the wild.\nThe vulnerability in question is CVE-2025-59287 (CVSS score: 9.8), a remote code execution flaw in WSUS that was originally fixed by the tech giant"
+  },
+  {
+    "title": "APT36 Targets Indian Government with Golang-Based DeskRAT Malware Campaign",
+    "link": "https://thehackernews.com/2025/10/apt36-targets-indian-government-with.html",
+    "published": "Fri, 24 Oct 2025 19:30:00 +0530",
+    "summary": "A Pakistan-nexus threat actor has been observed targeting Indian government entities as part of spear-phishing attacks designed to deliver a Golang-based malware known as DeskRAT.\nThe activity, observed in August and September 2025 by Sekoia, has been attributed to Transparent Tribe (aka APT36), a state-sponsored hacking group known to be active since at least 2013. It also builds upon a prior"
+  },
+  {
+    "title": "The Cybersecurity Perception Gap: Why Executives and Practitioners See Risk Differently",
+    "link": "https://thehackernews.com/2025/10/the-cybersecurity-perception-gap-why.html",
+    "published": "Fri, 24 Oct 2025 16:30:00 +0530",
+    "summary": "Does your organization suffer from a cybersecurity perception gap? Findings from the&nbsp;Bitdefender 2025 Cybersecurity Assessment suggest the answer is probably “yes” — and many leaders may not even realize it.\nThis disconnect matters. Small differences in perception today can evolve into major blind spots tomorrow. After all, perception influences what organizations prioritize, where they"
+  },
+  {
+    "title": "3,000 YouTube Videos Exposed as Malware Traps in Massive Ghost Network Operation",
+    "link": "https://thehackernews.com/2025/10/3000-youtube-videos-exposed-as-malware.html",
+    "published": "Fri, 24 Oct 2025 15:30:00 +0530",
+    "summary": "A malicious network of YouTube accounts has been observed publishing and promoting videos that lead to malware downloads, essentially abusing the popularity and trust associated with the video hosting platform for propagating malicious payloads.\nActive since 2021, the network has published more than 3,000 malicious videos to date, with the volume of such videos tripling since the start of the"
+  }
+]
