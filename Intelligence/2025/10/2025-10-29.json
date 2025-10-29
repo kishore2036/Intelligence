@@ -1,0 +1,62 @@
+[
+  {
+    "title": "New TEE.Fail Side-Channel Attack Extracts Secrets from Intel and AMD DDR5 Secure Enclaves",
+    "link": "https://thehackernews.com/2025/10/new-teefail-side-channel-attack.html",
+    "published": "Wed, 29 Oct 2025 00:46:00 +0530",
+    "summary": "A group of academic researchers from Georgia Tech, Purdue University, and Synkhronix have developed a side-channel attack called TEE.Fail that allows for the extraction of secrets from the trusted execution environment (TEE) in a computer's main processor, including Intel's Software Guard eXtensions (SGX) and Trust Domain Extensions (TDX) and AMD's Secure Encrypted Virtualization with Secure"
+  },
+  {
+    "title": "New Android Trojan 'Herodotus' Outsmarts Anti-Fraud Systems by Typing Like a Human",
+    "link": "https://thehackernews.com/2025/10/new-android-trojan-herodotus-outsmarts.html",
+    "published": "Tue, 28 Oct 2025 22:03:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called Herodotus that has been observed in active campaigns targeting Italy and Brazil to conduct device takeover (DTO) attacks.\n\"Herodotus is designed to perform device takeover while making first attempts to mimic human behaviour and bypass behaviour biometrics detection,\" ThreatFabric said in a report shared with"
+  },
+  {
+    "title": "Researchers Expose GhostCall and GhostHire: BlueNoroff's New Malware Chains",
+    "link": "https://thehackernews.com/2025/10/researchers-expose-ghostcall-and.html",
+    "published": "Tue, 28 Oct 2025 21:42:00 +0530",
+    "summary": "Threat actors tied to North Korea have been observed targeting the Web3 and blockchain sectors as part of twin campaigns tracked as GhostCall and GhostHire.\nAccording to Kaspersky, the campaigns are part of a broader operation called SnatchCrypto that has been underway since at least 2017. The activity is attributed to a Lazarus Group sub-cluster called BlueNoroff, which is also known as APT38,"
+  },
+  {
+    "title": "Why Early Threat Detection Is a Must for Long-Term Business Growth",
+    "link": "https://thehackernews.com/2025/10/why-early-threat-detection-is-must-for.html",
+    "published": "Tue, 28 Oct 2025 17:25:00 +0530",
+    "summary": "In cybersecurity, speed isn’t just a win — it’s a multiplier. The faster you learn about emerging threats, the faster you adapt your defenses, the less damage you suffer, and the more confidently your business keeps scaling. Early threat detection isn’t about preventing a breach someday: it’s about protecting the revenue you’re supposed to earn every day.\nCompanies that treat cybersecurity as a"
+  },
+  {
+    "title": "Is Your Google Workspace as Secure as You Think it is?",
+    "link": "https://thehackernews.com/2025/10/is-your-google-workspace-as-secure-as.html",
+    "published": "Tue, 28 Oct 2025 16:00:00 +0530",
+    "summary": "The New Reality for Lean Security Teams\nIf you’re the first security or IT hire at a fast-growing startup, you’ve likely inherited a mandate that’s both simple and maddeningly complex: secure the business without slowing it down.\nMost organizations using Google Workspace start with an environment built for collaboration, not resilience. Shared drives, permissive settings, and constant"
+  },
+  {
+    "title": "Chrome Zero-Day Exploited to Deliver Italian Memento Labs' LeetAgent Spyware",
+    "link": "https://thehackernews.com/2025/10/chrome-zero-day-exploited-to-deliver.html",
+    "published": "Tue, 28 Oct 2025 13:52:00 +0530",
+    "summary": "The zero-day exploitation of a now-patched security flaw in Google Chrome led to the distribution of an espionage-related tool from Italian information technology and services provider Memento Labs, according to new findings from Kaspersky.\nThe vulnerability in question is CVE-2025-2783 (CVSS score: 8.3), a case of sandbox escape which the company disclosed in March 2025 as having come under"
+  },
+  {
+    "title": "SideWinder Adopts New ClickOnce-Based Attack Chain Targeting South Asian Diplomats",
+    "link": "https://thehackernews.com/2025/10/sidewinder-adopts-new-clickonce-based.html",
+    "published": "Tue, 28 Oct 2025 09:31:00 +0530",
+    "summary": "A European embassy located in the Indian capital of New Delhi, as well as multiple organizations in Sri Lanka, Pakistan, and Bangladesh, have emerged as the target of a new campaign orchestrated by a threat actor known as SideWinder in September 2025.\nThe activity \"reveals a notable evolution in SideWinder's TTPs, particularly the adoption of a novel PDF and ClickOnce-based infection chain, in"
+  },
+  {
+    "title": "X Warns Users With Security Keys to Re-Enroll Before November 10 to Avoid Lockouts",
+    "link": "https://thehackernews.com/2025/10/x-warns-users-with-security-keys-to-re.html",
+    "published": "Mon, 27 Oct 2025 21:42:00 +0530",
+    "summary": "Social media platform X is urging users who have enrolled for two-factor authentication (2FA) using passkeys and hardware security keys like Yubikeys to re-enroll their key to ensure continued access to the service.\nTo that end, users are being asked to complete the re-enrollment, either using their existing security key or enrolling a new one, by November 10, 2025.\n\"After November 10, if you"
+  },
+  {
+    "title": "New ChatGPT Atlas Browser Exploit Lets Attackers Plant Persistent Hidden Commands",
+    "link": "https://thehackernews.com/2025/10/new-chatgpt-atlas-browser-exploit-lets.html",
+    "published": "Mon, 27 Oct 2025 20:01:00 +0530",
+    "summary": "Cybersecurity researchers have discovered a new vulnerability in OpenAI's ChatGPT Atlas web browser that could allow malicious actors to inject nefarious instructions into the artificial intelligence (AI)-powered assistant's memory and run arbitrary code.\n\"This exploit can allow attackers to infect systems with malicious code, grant themselves access privileges, or deploy malware,\" LayerX"
+  },
+  {
+    "title": "⚡ Weekly Recap: WSUS Exploited, LockBit 5.0 Returns, Telegram Backdoor, F5 Breach Widens",
+    "link": "https://thehackernews.com/2025/10/weekly-recap-wsus-exploited-lockbit-50.html",
+    "published": "Mon, 27 Oct 2025 18:21:00 +0530",
+    "summary": "Security, trust, and stability — once the pillars of our digital world — are now the tools attackers turn against us. From stolen accounts to fake job offers, cybercriminals keep finding new ways to exploit both system flaws and human behavior.\nEach new breach proves a harsh truth: in cybersecurity, feeling safe can be far more dangerous than being alert.\nHere’s how that false sense of security"
+  }
+]
