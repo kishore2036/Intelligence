@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Experts Reports Sharp Increase in Automated Botnet Attacks Targeting PHP Servers and IoT Devices",
+    "link": "https://thehackernews.com/2025/10/experts-reports-sharp-increase-in.html",
+    "published": "Wed, 29 Oct 2025 21:08:00 +0530",
+    "summary": "Cybersecurity researchers are calling attention to a spike in automated attacks targeting PHP servers, IoT devices, and cloud gateways by various botnets such as Mirai, Gafgyt, and Mozi.\n\"These automated campaigns exploit known CVE vulnerabilities and cloud misconfigurations to gain control over exposed systems and expand botnet networks,\" the Qualys Threat Research Unit (TRU) said in a report"
+  },
+  {
+    "title": "New AI-Targeted Cloaking Attack Tricks AI Crawlers Into Citing Fake Info as Verified Facts",
+    "link": "https://thehackernews.com/2025/10/new-ai-targeted-cloaking-attack-tricks.html",
+    "published": "Wed, 29 Oct 2025 20:27:00 +0530",
+    "summary": "Cybersecurity researchers have flagged a new security issue in agentic web browsers like OpenAI ChatGPT Atlas that exposes underlying artificial intelligence (AI) models to context poisoning attacks.\nIn the attack devised by AI security company SPLX, a bad actor can set up websites that serve different content to browsers and AI crawlers run by ChatGPT and Perplexity. The technique has been"
+  },
+  {
+    "title": "Discover Practical AI Tactics for GRC — Join the Free Expert Webinar",
+    "link": "https://thehackernews.com/2025/10/discover-practical-ai-tactics-for-grc.html",
+    "published": "Wed, 29 Oct 2025 17:28:00 +0530",
+    "summary": "Artificial Intelligence (AI) is rapidly transforming Governance, Risk, and Compliance (GRC). It's no longer a future concept—it's here, and it's already reshaping how teams operate.\nAI's capabilities are profound: it's speeding up audits, flagging critical risks faster, and drastically cutting down on time-consuming manual work. This leads to greater efficiency, higher accuracy, and a more"
+  },
+  {
+    "title": "Preparing for the Digital Battlefield of 2026: Ghost Identities, Poisoned Accounts, & AI Agent Havoc",
+    "link": "https://thehackernews.com/2025/10/preparing-for-digital-battlefield-of.html",
+    "published": "Wed, 29 Oct 2025 17:25:00 +0530",
+    "summary": "BeyondTrust’s annual cybersecurity predictions point to a year where old defenses will fail quietly, and new attack vectors will surge.\nIntroduction\nThe next major breach won’t be a phished password. It will be the result of a massive, unmanaged identity debt. This debt takes many forms: it’s the “ghost” identity from a 2015 breach lurking in your IAM, the privilege sprawl from thousands of new"
+  },
+  {
+    "title": "Russian Hackers Target Ukrainian Organizations Using Stealthy Living-Off-the-Land Tactics",
+    "link": "https://thehackernews.com/2025/10/russian-hackers-target-ukrainian.html",
+    "published": "Wed, 29 Oct 2025 17:21:00 +0530",
+    "summary": "Organizations in Ukraine have been targeted by threat actors of Russian origin with an aim to siphon sensitive data and maintain persistent access to compromised networks.\nThe activity, according to a new report from the Symantec and Carbon Black Threat Hunter Team, targeted a large business services organization for two months and a local government entity in the country for a week.\nThe attacks"
+  },
+  {
+    "title": "10 npm Packages Caught Stealing Developer Credentials on Windows, macOS, and Linux",
+    "link": "https://thehackernews.com/2025/10/10-npm-packages-caught-stealing.html",
+    "published": "Wed, 29 Oct 2025 14:04:00 +0530",
+    "summary": "Cybersecurity researchers have discovered a set of 10 malicious npm packages that are designed to deliver an information stealer targeting Windows, Linux, and macOS systems.\n\"The malware uses four layers of obfuscation to hide its payload, displays a fake CAPTCHA to appear legitimate, fingerprints victims by IP address, and downloads a 24MB PyInstaller-packaged information stealer that harvests"
+  },
+  {
+    "title": "Active Exploits Hit Dassault and XWiki — CISA Confirms Critical Flaws Under Attack",
+    "link": "https://thehackernews.com/2025/10/active-exploits-hit-dassault-and-xwiki.html",
+    "published": "Wed, 29 Oct 2025 13:14:00 +0530",
+    "summary": "Threat actors are actively exploiting multiple security flaws impacting Dassault Systèmes DELMIA Apriso and XWiki, according to alerts issued by the U.S. Cybersecurity and Infrastructure Security Agency (CISA) and VulnCheck.\nThe vulnerabilities are listed below -\n\nCVE-2025-6204 (CVSS score: 8.0) - A code injection vulnerability in Dassault Systèmes DELMIA Apriso that could allow an attacker to"
+  },
+  {
+    "title": "New TEE.Fail Side-Channel Attack Extracts Secrets from Intel and AMD DDR5 Secure Enclaves",
+    "link": "https://thehackernews.com/2025/10/new-teefail-side-channel-attack.html",
+    "published": "Wed, 29 Oct 2025 00:46:00 +0530",
+    "summary": "A group of academic researchers from Georgia Tech, Purdue University, and Synkhronix have developed a side-channel attack called TEE.Fail that allows for the extraction of secrets from the trusted execution environment (TEE) in a computer's main processor, including Intel's Software Guard eXtensions (SGX) and Trust Domain Extensions (TDX) and AMD's Secure Encrypted Virtualization with Secure"
+  },
+  {
+    "title": "New Android Trojan 'Herodotus' Outsmarts Anti-Fraud Systems by Typing Like a Human",
+    "link": "https://thehackernews.com/2025/10/new-android-trojan-herodotus-outsmarts.html",
+    "published": "Tue, 28 Oct 2025 22:03:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called Herodotus that has been observed in active campaigns targeting Italy and Brazil to conduct device takeover (DTO) attacks.\n\"Herodotus is designed to perform device takeover while making first attempts to mimic human behaviour and bypass behaviour biometrics detection,\" ThreatFabric said in a report shared with"
+  },
+  {
+    "title": "Researchers Expose GhostCall and GhostHire: BlueNoroff's New Malware Chains",
+    "link": "https://thehackernews.com/2025/10/researchers-expose-ghostcall-and.html",
+    "published": "Tue, 28 Oct 2025 21:42:00 +0530",
+    "summary": "Threat actors tied to North Korea have been observed targeting the Web3 and blockchain sectors as part of twin campaigns tracked as GhostCall and GhostHire.\nAccording to Kaspersky, the campaigns are part of a broader operation called SnatchCrypto that has been underway since at least 2017. The activity is attributed to a Lazarus Group sub-cluster called BlueNoroff, which is also known as APT38,"
+  }
+]
