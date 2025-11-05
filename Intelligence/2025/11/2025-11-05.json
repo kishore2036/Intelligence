@@ -1,0 +1,62 @@
+[
+  {
+    "title": "A Cybercrime Merger Like No Other — Scattered Spider, LAPSUS$, and ShinyHunters Join Forces",
+    "link": "https://thehackernews.com/2025/11/a-cybercrime-merger-like-no-other.html",
+    "published": "Tue, 04 Nov 2025 22:55:00 +0530",
+    "summary": "The nascent collective that combines three prominent cybercrime groups, Scattered Spider, LAPSUS$, and ShinyHunters, has created no less than 16 Telegram channels since August 8, 2025.\n\"Since its debut, the group's Telegram channels have been removed and recreated at least 16 times under varying iterations of the original name – a recurring cycle reflecting platform moderation and the operators'"
+  },
+  {
+    "title": "Europol and Eurojust Dismantle €600 Million Crypto Fraud Network in Global Sweep",
+    "link": "https://thehackernews.com/2025/11/europol-and-eurojust-dismantle-600.html",
+    "published": "Tue, 04 Nov 2025 21:27:00 +0530",
+    "summary": "Nine people have been arrested in connection with a coordinated law enforcement operation that targeted a cryptocurrency money laundering network that defrauded victims of €600 million (~$688 million).\nAccording to a statement released by Eurojust today, the action took place between October 27 and 29 across Cyprus, Spain, and Germany, with the suspects arrested on charges of involvement in"
+  },
+  {
+    "title": "Critical React Native CLI Flaw Exposed Millions of Developers to Remote Attacks",
+    "link": "https://thehackernews.com/2025/11/critical-react-native-cli-flaw-exposed.html",
+    "published": "Tue, 04 Nov 2025 19:54:00 +0530",
+    "summary": "Details have emerged about a now-patched critical security flaw in the popular \"@react-native-community/cli\" npm package that could be potentially exploited to run malicious operating system (OS) commands under certain conditions.\n\"The vulnerability allows remote unauthenticated attackers to easily trigger arbitrary OS command execution on the machine running react-native-community/cli's"
+  },
+  {
+    "title": "Microsoft Teams Bugs Let Attackers Impersonate Colleagues and Edit Messages Unnoticed",
+    "link": "https://thehackernews.com/2025/11/microsoft-teams-bugs-let-attackers.html",
+    "published": "Tue, 04 Nov 2025 19:30:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of four security flaws in Microsoft Teams that could have exposed users to serious impersonation and social engineering attacks.\nThe vulnerabilities \"allowed attackers to manipulate conversations, impersonate colleagues, and exploit notifications,\" Check Point said in a report shared with The Hacker News.\nFollowing responsible disclosure in March"
+  },
+  {
+    "title": "Ransomware Defense Using the Wazuh Open Source Platform",
+    "link": "https://thehackernews.com/2025/11/ransomware-defense-using-wazuh-open.html",
+    "published": "Tue, 04 Nov 2025 16:36:00 +0530",
+    "summary": "Ransomware is malicious software designed to block access to a computer system or encrypt data until a ransom is paid. This cyberattack is one of the most prevalent and damaging threats in the digital landscape, affecting individuals, businesses, and critical infrastructure worldwide.\nA ransomware attack typically begins when the malware infiltrates a system through various vectors such as"
+  },
+  {
+    "title": "Operation SkyCloak Deploys Tor-Enabled OpenSSH Backdoor Targeting Defense Sectors",
+    "link": "https://thehackernews.com/2025/11/operation-skycloak-deploys-tor-enabled.html",
+    "published": "Tue, 04 Nov 2025 16:19:00 +0530",
+    "summary": "Threat actors are leveraging weaponized attachments distributed via phishing emails to deliver malware likely targeting the defense sector in Russia and Belarus.\nAccording to multiple reports from Cyble and Seqrite Labs, the campaign is designed to deploy a persistent backdoor on compromised hosts that uses OpenSSH in conjunction with a customized Tor hidden service that employs obfs4 for"
+  },
+  {
+    "title": "Google’s AI ‘Big Sleep’ Finds 5 New Vulnerabilities in Apple’s Safari WebKit",
+    "link": "https://thehackernews.com/2025/11/googles-ai-big-sleep-finds-5-new.html",
+    "published": "Tue, 04 Nov 2025 13:40:00 +0530",
+    "summary": "Google's artificial intelligence (AI)-powered cybersecurity agent called Big Sleep has been credited by Apple for discovering as many as five different security flaws in the WebKit component used in its Safari web browser that, if successfully exploited, could result in a browser crash or memory corruption.\nThe list of vulnerabilities is as follows -\n\nCVE-2025-43429 - A buffer overflow"
+  },
+  {
+    "title": "U.S. Prosecutors Indict Cybersecurity Insiders Accused of BlackCat Ransomware Attacks",
+    "link": "https://thehackernews.com/2025/11/us-prosecutors-indict-cybersecurity.html",
+    "published": "Tue, 04 Nov 2025 13:15:00 +0530",
+    "summary": "Federal prosecutors in the U.S. have accused a trio of allegedly hacking the networks of five U.S. companies with BlackCat (aka ALPHV) ransomware between May and November 2023 and extorting them.\nRyan Clifford Goldberg, Kevin Tyler Martin, and an unnamed co–conspirator (aka \"Co-Conspirator 1\") based in Florida, all U.S. nationals, are said to have used the ransomware strain against a medical"
+  },
+  {
+    "title": "Microsoft Detects \"SesameOp\" Backdoor Using OpenAI's API as a Stealth Command Channel",
+    "link": "https://thehackernews.com/2025/11/microsoft-detects-sesameop-backdoor.html",
+    "published": "Tue, 04 Nov 2025 11:28:00 +0530",
+    "summary": "Microsoft has disclosed details of a novel backdoor dubbed SesameOp that uses OpenAI Assistants Application Programming Interface (API) for command-and-control (C2) communications.\n\"Instead of relying on more traditional methods, the threat actor behind this backdoor abuses OpenAI as a C2 channel as a way to stealthily communicate and orchestrate malicious activities within the compromised"
+  },
+  {
+    "title": "Malicious VSX Extension \"SleepyDuck\" Uses Ethereum to Keep Its Command Server Alive",
+    "link": "https://thehackernews.com/2025/11/malicious-vsx-extension-sleepyduck-uses.html",
+    "published": "Mon, 03 Nov 2025 23:38:00 +0530",
+    "summary": "Cybersecurity researchers have flagged a new malicious extension in the Open VSX registry that harbors a remote access trojan called SleepyDuck.\nAccording to Secure Annex's John Tuckner, the extension in question, juan-bianco.solidity-vlang (version 0.0.7), was first published on October 31, 2025, as a completely benign library that was subsequently updated to version 0.0.8 on November 1 to"
+  }
+]
