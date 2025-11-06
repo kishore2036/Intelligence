@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Google Uncovers PROMPTFLUX Malware That Uses Gemini AI to Rewrite Its Code Hourly",
+    "link": "https://thehackernews.com/2025/11/google-uncovers-promptflux-malware-that.html",
+    "published": "Wed, 05 Nov 2025 21:03:00 +0530",
+    "summary": "Google on Wednesday said it discovered an unknown threat actor using an experimental Visual Basic Script (VB Script) malware dubbed PROMPTFLUX that interacts with its Gemini artificial intelligence (AI) model API to write its own source code for improved obfuscation and evasion.\n\"PROMPTFLUX is written in VBScript and interacts with Gemini's API to request specific VBScript obfuscation and"
+  },
+  {
+    "title": "Researchers Find ChatGPT Vulnerabilities That Let Attackers Trick AI Into Leaking Data",
+    "link": "https://thehackernews.com/2025/11/researchers-find-chatgpt.html",
+    "published": "Wed, 05 Nov 2025 19:34:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed a new set of vulnerabilities impacting OpenAI's ChatGPT artificial intelligence (AI) chatbot that could be exploited by an attacker to steal personal information from users' memories and chat histories without their knowledge.\nThe seven vulnerabilities and attack techniques, according to Tenable, were found in OpenAI's GPT-4o and GPT-5 models. OpenAI has"
+  },
+  {
+    "title": "Securing the Open Android Ecosystem with Samsung Knox",
+    "link": "https://thehackernews.com/2025/11/securing-open-android-ecosystem-with.html",
+    "published": "Wed, 05 Nov 2025 17:25:00 +0530",
+    "summary": "Raise your hand if you’ve heard the myth, “Android isn’t secure.”\nAndroid phones, such as the Samsung Galaxy, unlock new ways of working. But, as an IT admin, you may worry about the security—after all, work data is critical.\nHowever, outdated concerns can hold your business back from unlocking its full potential. The truth is, with work happening everywhere, every device connected to your"
+  },
+  {
+    "title": "Mysterious 'SmudgedSerpent' Hackers Target U.S. Policy Experts Amid Iran–Israel Tensions",
+    "link": "https://thehackernews.com/2025/11/mysterious-smudgedserpent-hackers.html",
+    "published": "Wed, 05 Nov 2025 16:50:00 +0530",
+    "summary": "A never-before-seen threat activity cluster codenamed UNK_SmudgedSerpent has been attributed as behind a set of cyber attacks targeting academics and foreign policy experts between June and August 2025, coinciding with heightened geopolitical tensions between Iran and Israel.\n\"UNK_SmudgedSerpent leveraged domestic political lures, including societal change in Iran and investigation into the"
+  },
+  {
+    "title": "U.S. Sanctions 10 North Korean Entities for Laundering $12.7M in Crypto and IT Fraud",
+    "link": "https://thehackernews.com/2025/11/us-sanctions-10-north-korean-entities.html",
+    "published": "Wed, 05 Nov 2025 16:25:00 +0530",
+    "summary": "The U.S. Treasury Department on Tuesday imposed sanctions against eight individuals and two entities within North Korea's global financial network for laundering money for various illicit schemes, including cybercrime and information technology (IT) worker fraud.\n\"North Korean state-sponsored hackers steal and launder money to fund the regime's nuclear weapons program,\" said Under Secretary of"
+  },
+  {
+    "title": "Why SOC Burnout Can Be Avoided: Practical Steps",
+    "link": "https://thehackernews.com/2025/11/why-soc-burnout-can-be-avoided.html",
+    "published": "Wed, 05 Nov 2025 16:00:00 +0530",
+    "summary": "Behind every alert is an analyst; tired eyes scanning dashboards, long nights spent on false positives, and the constant fear of missing something big. It’s no surprise that many SOCs face burnout before they face their next breach. But this doesn’t have to be the norm. The path out isn’t through working harder, but through working smarter, together.\nHere are three practical steps every SOC can"
+  },
+  {
+    "title": "CISA Adds Gladinet and CWP Flaws to KEV Catalog Amid Active Exploitation Evidence",
+    "link": "https://thehackernews.com/2025/11/cisa-adds-gladinet-and-cwp-flaws-to-kev.html",
+    "published": "Wed, 05 Nov 2025 11:42:00 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two security flaws impacting Gladinet and Control Web Panel (CWP) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.\nThe vulnerabilities in question are listed below -\n\nCVE-2025-11371 (CVSS score: 7.5) - A vulnerability in files or directories accessible to"
+  },
+  {
+    "title": "A Cybercrime Merger Like No Other — Scattered Spider, LAPSUS$, and ShinyHunters Join Forces",
+    "link": "https://thehackernews.com/2025/11/a-cybercrime-merger-like-no-other.html",
+    "published": "Tue, 04 Nov 2025 22:55:00 +0530",
+    "summary": "The nascent collective that combines three prominent cybercrime groups, Scattered Spider, LAPSUS$, and ShinyHunters, has created no less than 16 Telegram channels since August 8, 2025.\n\"Since its debut, the group's Telegram channels have been removed and recreated at least 16 times under varying iterations of the original name – a recurring cycle reflecting platform moderation and the operators'"
+  },
+  {
+    "title": "European Authorities Dismantle €600 Million Crypto Fraud Network in Global Sweep",
+    "link": "https://thehackernews.com/2025/11/europol-and-eurojust-dismantle-600.html",
+    "published": "Tue, 04 Nov 2025 21:27:00 +0530",
+    "summary": "Nine people have been arrested in connection with a coordinated law enforcement operation that targeted a cryptocurrency money laundering network that defrauded victims of €600 million (~$688 million).\nAccording to a statement released by Eurojust today, the action took place between October 27 and 29 across Cyprus, Spain, and Germany, with the suspects arrested on charges of involvement in"
+  },
+  {
+    "title": "Critical React Native CLI Flaw Exposed Millions of Developers to Remote Attacks",
+    "link": "https://thehackernews.com/2025/11/critical-react-native-cli-flaw-exposed.html",
+    "published": "Tue, 04 Nov 2025 19:54:00 +0530",
+    "summary": "Details have emerged about a now-patched critical security flaw in the popular \"@react-native-community/cli\" npm package that could be potentially exploited to run malicious operating system (OS) commands under certain conditions.\n\"The vulnerability allows remote unauthenticated attackers to easily trigger arbitrary OS command execution on the machine running react-native-community/cli's"
+  }
+]
