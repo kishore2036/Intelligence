@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Trojanized ESET Installers Drop Kalambur Backdoor in Phishing Attacks on Ukraine",
+    "link": "https://thehackernews.com/2025/11/trojanized-eset-installers-drop.html",
+    "published": "Thu, 06 Nov 2025 21:01:00 +0530",
+    "summary": "A previously unknown threat activity cluster has been observed impersonating Slovak cybersecurity company ESET as part of phishing attacks targeting Ukrainian entities.\nThe campaign, detected in May 2025, is tracked by the security outfit under the moniker InedibleOchotense, describing it as Russia-aligned.\n\"InedibleOchotense sent spear-phishing emails and Signal text messages, containing a link"
+  },
+  {
+    "title": "Cisco Warns of New Firewall Attack Exploiting CVE-2025-20333 and CVE-2025-20362",
+    "link": "https://thehackernews.com/2025/11/cisco-warns-of-new-firewall-attack.html",
+    "published": "Thu, 06 Nov 2025 20:28:00 +0530",
+    "summary": "Cisco on Wednesday disclosed that it became aware of a new attack variant that's designed to target devices running Cisco Secure Firewall Adaptive Security Appliance (ASA) Software and Cisco Secure Firewall Threat Defense (FTD) Software releases that are susceptible to CVE-2025-20333 and CVE-2025-20362.\n\"This attack can cause unpatched devices to unexpectedly reload, leading to denial-of-service"
+  },
+  {
+    "title": "From Tabletop to Turnkey: Building Cyber Resilience in Financial Services",
+    "link": "https://thehackernews.com/2025/11/from-tabletop-to-turnkey-building-cyber.html",
+    "published": "Thu, 06 Nov 2025 17:29:00 +0530",
+    "summary": "Introduction\nFinancial institutions are facing a new reality: cyber-resilience has passed from being a best practice, to an operational necessity, to a prescriptive regulatory requirement.\nCrisis management or Tabletop exercises, for a long time relatively rare in the context of cybersecurity, have become required as a series of regulations has introduced this requirement to FSI organizations in"
+  },
+  {
+    "title": "ThreatsDay Bulletin: AI Tools in Malware, Botnets, GDI Flaws, Election Attacks & More",
+    "link": "https://thehackernews.com/2025/11/threatsday-bulletin-ai-tools-in-malware.html",
+    "published": "Thu, 06 Nov 2025 17:10:00 +0530",
+    "summary": "Cybercrime has stopped being a problem of just the internet &mdash; it&rsquo;s becoming a problem of the real world. Online scams now fund organized crime, hackers rent violence like a service, and even trusted apps or social platforms are turning into attack vectors.\nThe result is a global system where every digital weakness can be turned into physical harm, economic loss, or political"
+  },
+  {
+    "title": "Bitdefender Named a Representative Vendor in the 2025 Gartner® Market Guide for Managed Detection and Response",
+    "link": "https://thehackernews.com/2025/11/bitdefender-named-representative-vendor.html",
+    "published": "Thu, 06 Nov 2025 16:13:00 +0530",
+    "summary": "Bitdefender has once again been recognized as a Representative Vendor in the Gartner® Market Guide for Managed Detection and Response (MDR) — marking the fourth consecutive year of inclusion. According to Gartner, more than 600 providers globally claim to deliver MDR services, yet only a select few meet the criteria to appear in the Market Guide. While inclusion is not a ranking or comparative"
+  },
+  {
+    "title": "Hackers Weaponize Windows Hyper-V to Hide Linux VM and Evade EDR Detection",
+    "link": "https://thehackernews.com/2025/11/hackers-weaponize-windows-hyper-v-to.html",
+    "published": "Thu, 06 Nov 2025 12:52:00 +0530",
+    "summary": "The threat actor known as Curly COMrades has been observed exploiting virtualization technologies as a way to bypass security solutions and execute custom malware.\nAccording to a new report from Bitdefender, the adversary is said to have enabled the Hyper-V role on selected victim systems to deploy a minimalistic, Alpine Linux-based virtual machine.\n\"This hidden environment, with its lightweight"
+  },
+  {
+    "title": "SonicWall Confirms State-Sponsored Hackers Behind September Cloud Backup Breach",
+    "link": "https://thehackernews.com/2025/11/sonicwall-confirms-state-sponsored.html",
+    "published": "Thu, 06 Nov 2025 11:10:00 +0530",
+    "summary": "SonicWall has formally implicated state-sponsored threat actors as behind the September security breach that led to the unauthorized exposure of firewall configuration backup files.\n\"The malicious activity – carried out by a state-sponsored threat actor - was isolated to the unauthorized access of cloud backup files from a specific cloud environment using an API call,\" the company said in a"
+  },
+  {
+    "title": "Google Uncovers PROMPTFLUX Malware That Uses Gemini AI to Rewrite Its Code Hourly",
+    "link": "https://thehackernews.com/2025/11/google-uncovers-promptflux-malware-that.html",
+    "published": "Wed, 05 Nov 2025 21:03:00 +0530",
+    "summary": "Google on Wednesday said it discovered an unknown threat actor using an experimental Visual Basic Script (VB Script) malware dubbed PROMPTFLUX that interacts with its Gemini artificial intelligence (AI) model API to write its own source code for improved obfuscation and evasion.\n\"PROMPTFLUX is written in VB Script and interacts with Gemini's API to request specific VBScript obfuscation and"
+  },
+  {
+    "title": "Researchers Find ChatGPT Vulnerabilities That Let Attackers Trick AI Into Leaking Data",
+    "link": "https://thehackernews.com/2025/11/researchers-find-chatgpt.html",
+    "published": "Wed, 05 Nov 2025 19:34:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed a new set of vulnerabilities impacting OpenAI's ChatGPT artificial intelligence (AI) chatbot that could be exploited by an attacker to steal personal information from users' memories and chat histories without their knowledge.\nThe seven vulnerabilities and attack techniques, according to Tenable, were found in OpenAI's GPT-4o and GPT-5 models. OpenAI has"
+  },
+  {
+    "title": "Securing the Open Android Ecosystem with Samsung Knox",
+    "link": "https://thehackernews.com/2025/11/securing-open-android-ecosystem-with.html",
+    "published": "Wed, 05 Nov 2025 17:25:00 +0530",
+    "summary": "Raise your hand if you’ve heard the myth, “Android isn’t secure.”\nAndroid phones, such as the Samsung Galaxy, unlock new ways of working. But, as an IT admin, you may worry about the security—after all, work data is critical.\nHowever, outdated concerns can hold your business back from unlocking its full potential. The truth is, with work happening everywhere, every device connected to your"
+  }
+]
