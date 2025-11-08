@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Samsung Zero-Click Flaw Exploited to Deploy LANDFALL Android Spyware via WhatsApp",
+    "link": "https://thehackernews.com/2025/11/samsung-zero-click-flaw-exploited-to.html",
+    "published": "Fri, 07 Nov 2025 23:30:00 +0530",
+    "summary": "A now-patched security flaw in Samsung Galaxy Android devices was exploited as a zero-day to deliver a \"commercial-grade\" Android spyware dubbed LANDFALL in targeted attacks in the Middle East.\nThe activity involved the exploitation of CVE-2025-21042 (CVSS score: 8.8), an out-of-bounds write flaw in the \"libimagecodec.quram.so\" component that could allow remote attackers to execute arbitrary"
+  },
+  {
+    "title": "From Log4j to IIS, China’s Hackers Turn Legacy Bugs into Global Espionage Tools",
+    "link": "https://thehackernews.com/2025/11/from-log4j-to-iis-chinas-hackers-turn.html",
+    "published": "Fri, 07 Nov 2025 21:37:00 +0530",
+    "summary": "A China-linked threat actor has been attributed to a cyber attack targeting an U.S. non-profit organization with an aim to establish long-term persistence, as part of broader activity aimed at U.S. entities that are linked to or involved in policy issues.\nThe organization, according to a report from Broadcom's Symantec and Carbon Black teams, is \"active in attempting to influence U.S. government"
+  },
+  {
+    "title": "Hidden Logic Bombs in Malware-Laced NuGet Packages Set to Detonate Years After Installation",
+    "link": "https://thehackernews.com/2025/11/hidden-logic-bombs-in-malware-laced.html",
+    "published": "Fri, 07 Nov 2025 17:25:00 +0530",
+    "summary": "A set of nine malicious NuGet packages has been identified as capable of dropping time-delayed payloads to sabotage database operations and corrupt industrial control systems.\nAccording to software supply chain security company Socket, the packages were published in 2023 and 2024 by a user named \"shanhai666\" and are designed to run malicious code after specific trigger dates in August 2027 and"
+  },
+  {
+    "title": "Enterprise Credentials at Risk – Same Old, Same Old?",
+    "link": "https://thehackernews.com/2025/11/enterprise-credentials-at-risk-same-old.html",
+    "published": "Fri, 07 Nov 2025 16:00:00 +0530",
+    "summary": "Imagine this: Sarah from accounting gets what looks like a routine password reset email from your organization&rsquo;s cloud provider. She clicks the link, types in her credentials, and goes back to her spreadsheet. But unknown to her, she&rsquo;s just made a big mistake. Sarah just accidentally handed over her login details to cybercriminals who are laughing all the way to their dark web"
+  },
+  {
+    "title": "Google Launches New Maps Feature to Help Businesses Report Review-Based Extortion Attempts",
+    "link": "https://thehackernews.com/2025/11/google-launches-new-maps-feature-to.html",
+    "published": "Fri, 07 Nov 2025 14:45:00 +0530",
+    "summary": "Google on Thursday said it's rolling out a dedicated form to allow businesses listed on Google Maps to report extortion attempts made by threat actors who post inauthentic bad reviews on the platform and demand ransoms to remove the negative comments.\nThe approach is designed to tackle a common practice called review bombing, where online users intentionally post negative user reviews in an"
+  },
+  {
+    "title": "Vibe-Coded Malicious VS Code Extension Found with Built-In Ransomware Capabilities",
+    "link": "https://thehackernews.com/2025/11/vibe-coded-malicious-vs-code-extension.html",
+    "published": "Fri, 07 Nov 2025 12:18:00 +0530",
+    "summary": "Cybersecurity researchers have flagged a malicious Visual Studio Code (VS Code) extension with basic ransomware capabilities that appears to be created with the help of artificial intelligence – in other words, vibe-coded.\nSecure Annex researcher John Tuckner, who flagged the extension \"susvsex,\" said it does not attempt to hide its malicious functionality. The extension was uploaded on"
+  },
+  {
+    "title": "Trojanized ESET Installers Drop Kalambur Backdoor in Phishing Attacks on Ukraine",
+    "link": "https://thehackernews.com/2025/11/trojanized-eset-installers-drop.html",
+    "published": "Thu, 06 Nov 2025 21:01:00 +0530",
+    "summary": "A previously unknown threat activity cluster has been observed impersonating Slovak cybersecurity company ESET as part of phishing attacks targeting Ukrainian entities.\nThe campaign, detected in May 2025, is tracked by the security outfit under the moniker InedibleOchotense, describing it as Russia-aligned.\n\"InedibleOchotense sent spear-phishing emails and Signal text messages, containing a link"
+  },
+  {
+    "title": "Cisco Warns of New Firewall Attack Exploiting CVE-2025-20333 and CVE-2025-20362",
+    "link": "https://thehackernews.com/2025/11/cisco-warns-of-new-firewall-attack.html",
+    "published": "Thu, 06 Nov 2025 20:28:00 +0530",
+    "summary": "Cisco on Wednesday disclosed that it became aware of a new attack variant that's designed to target devices running Cisco Secure Firewall Adaptive Security Appliance (ASA) Software and Cisco Secure Firewall Threat Defense (FTD) Software releases that are susceptible to CVE-2025-20333 and CVE-2025-20362.\n\"This attack can cause unpatched devices to unexpectedly reload, leading to denial-of-service"
+  },
+  {
+    "title": "From Tabletop to Turnkey: Building Cyber Resilience in Financial Services",
+    "link": "https://thehackernews.com/2025/11/from-tabletop-to-turnkey-building-cyber.html",
+    "published": "Thu, 06 Nov 2025 17:29:00 +0530",
+    "summary": "Introduction\nFinancial institutions are facing a new reality: cyber-resilience has passed from being a best practice, to an operational necessity, to a prescriptive regulatory requirement.\nCrisis management or Tabletop exercises, for a long time relatively rare in the context of cybersecurity, have become required as a series of regulations has introduced this requirement to FSI organizations in"
+  },
+  {
+    "title": "ThreatsDay Bulletin: AI Tools in Malware, Botnets, GDI Flaws, Election Attacks & More",
+    "link": "https://thehackernews.com/2025/11/threatsday-bulletin-ai-tools-in-malware.html",
+    "published": "Thu, 06 Nov 2025 17:10:00 +0530",
+    "summary": "Cybercrime has stopped being a problem of just the internet — it’s becoming a problem of the real world. Online scams now fund organized crime, hackers rent violence like a service, and even trusted apps or social platforms are turning into attack vectors.\nThe result is a global system where every digital weakness can be turned into physical harm, economic loss, or political leverage."
+  }
+]
