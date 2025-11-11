@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Hackers Exploiting Triofox Flaw to Install Remote Access Tools via Antivirus Feature",
+    "link": "https://thehackernews.com/2025/11/hackers-exploiting-triofox-flaw-to.html",
+    "published": "Tue, 11 Nov 2025 02:19:00 +0530",
+    "summary": "Google's Mandiant Threat Defense on Monday said it discovered n-day exploitation of a now-patched security flaw in Gladinet's Triofox file-sharing and remote access platform.\nThe critical vulnerability, tracked as CVE-2025-12480 (CVSS score: 9.1), allows an attacker to bypass authentication and access the configuration pages, resulting in the upload and execution of arbitrary payloads.&nbsp;\nThe"
+  },
+  {
+    "title": "Konni Hackers Turn Google’s Find Hub into a Remote Data-Wiping Weapon",
+    "link": "https://thehackernews.com/2025/11/konni-hackers-turn-googles-find-hub.html",
+    "published": "Tue, 11 Nov 2025 01:59:00 +0530",
+    "summary": "The North Korea-affiliated threat actor known as Konni (aka Earth Imp, Opal Sleet, Osmium, TA406, and Vedalia) has been attributed to a new set of attacks targeting both Android and Windows devices for data theft and remote control.\n\"Attackers impersonated psychological counselors and North Korean human rights activists, distributing malware disguised as stress-relief programs,\" the Genians"
+  },
+  {
+    "title": "⚡ Weekly Recap: Hyper-V Malware, Malicious AI Bots, RDP Exploits, WhatsApp Lockdown and More",
+    "link": "https://thehackernews.com/2025/11/weekly-recap-hyper-v-malware-malicious.html",
+    "published": "Mon, 10 Nov 2025 18:21:00 +0530",
+    "summary": "Cyber threats didn’t slow down last week—and attackers are getting smarter. We’re seeing malware hidden in virtual machines, side-channel leaks exposing AI chats, and spyware quietly targeting Android devices in the wild.\nBut that’s just the surface. From sleeper logic bombs to a fresh alliance between major threat groups, this week’s roundup highlights a clear shift: cybercrime is evolving fast"
+  },
+  {
+    "title": "New Browser Security Report Reveals Emerging Threats for Enterprises",
+    "link": "https://thehackernews.com/2025/11/new-browser-security-report-reveals.html",
+    "published": "Mon, 10 Nov 2025 17:28:06 +0530",
+    "summary": "According to the new Browser Security Report 2025, security leaders are discovering that most identity, SaaS, and AI-related risks converge in a single place, the user’s browser. Yet traditional controls like DLP, EDR, and SSE still operate one layer too low.\nWhat’s emerging isn’t just a blindspot. It’s a parallel threat surface: unmanaged extensions acting like supply chain implants, GenAI"
+  },
+  {
+    "title": "Large-Scale ClickFix Phishing Attacks Target Hotel Systems with PureRAT Malware",
+    "link": "https://thehackernews.com/2025/11/large-scale-clickfix-phishing-attacks.html",
+    "published": "Mon, 10 Nov 2025 14:41:00 +0530",
+    "summary": "Cybersecurity researchers have called attention to a massive phishing campaign targeting the hospitality industry that lures hotel managers to ClickFix-style pages and harvest their credentials by deploying malware like PureRAT.\n\"The attacker's modus operandi involved using a compromised email account to send malicious messages to multiple hotel establishments,\" Sekoia said. \"This campaign"
+  },
+  {
+    "title": "GlassWorm Malware Discovered in Three VS Code Extensions with Thousands of Installs",
+    "link": "https://thehackernews.com/2025/11/glassworm-malware-discovered-in-three.html",
+    "published": "Mon, 10 Nov 2025 14:21:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed a new set of three extensions associated with the GlassWorm campaign, indicating continued attempts on part of threat actors to target the Visual Studio Code (VS Code) ecosystem.\nThe extensions in question, which are still available for download, are listed below -\n\nai-driven-dev.ai-driven-dev (3,402 downloads)\nadhamu.history-in-sublime-merge (4,057"
+  },
+  {
+    "title": "Microsoft Uncovers 'Whisper Leak' Attack That Identifies AI Chat Topics in Encrypted Traffic",
+    "link": "https://thehackernews.com/2025/11/microsoft-uncovers-whisper-leak-attack.html",
+    "published": "Sat, 08 Nov 2025 19:59:00 +0530",
+    "summary": "Microsoft has disclosed details of a novel side-channel attack targeting remote language models that could enable a passive adversary with capabilities to observe network traffic to glean details about model conversation topics despite encryption protections under certain circumstances.\nThis leakage of data exchanged between humans and streaming-mode language models could pose serious risks to"
+  },
+  {
+    "title": "Samsung Mobile Flaw Exploited as Zero-Day to Deploy LANDFALL Android Spyware",
+    "link": "https://thehackernews.com/2025/11/samsung-zero-click-flaw-exploited-to.html",
+    "published": "Fri, 07 Nov 2025 23:30:00 +0530",
+    "summary": "A now-patched security flaw in Samsung Galaxy Android devices was exploited as a zero-day to deliver a \"commercial-grade\" Android spyware dubbed LANDFALL in targeted attacks in the Middle East.\nThe activity involved the exploitation of CVE-2025-21042 (CVSS score: 8.8), an out-of-bounds write flaw in the \"libimagecodec.quram.so\" component that could allow remote attackers to execute arbitrary"
+  },
+  {
+    "title": "From Log4j to IIS, China’s Hackers Turn Legacy Bugs into Global Espionage Tools",
+    "link": "https://thehackernews.com/2025/11/from-log4j-to-iis-chinas-hackers-turn.html",
+    "published": "Fri, 07 Nov 2025 21:37:00 +0530",
+    "summary": "A China-linked threat actor has been attributed to a cyber attack targeting an U.S. non-profit organization with an aim to establish long-term persistence, as part of broader activity aimed at U.S. entities that are linked to or involved in policy issues.\nThe organization, according to a report from Broadcom's Symantec and Carbon Black teams, is \"active in attempting to influence U.S. government"
+  },
+  {
+    "title": "Hidden Logic Bombs in Malware-Laced NuGet Packages Set to Detonate Years After Installation",
+    "link": "https://thehackernews.com/2025/11/hidden-logic-bombs-in-malware-laced.html",
+    "published": "Fri, 07 Nov 2025 17:25:00 +0530",
+    "summary": "A set of nine malicious NuGet packages has been identified as capable of dropping time-delayed payloads to sabotage database operations and corrupt industrial control systems.\nAccording to software supply chain security company Socket, the packages were published in 2023 and 2024 by a user named \"shanhai666\" and are designed to run malicious code after specific trigger dates in August 2027 and"
+  }
+]
