@@ -1,0 +1,62 @@
+[
+  {
+    "title": "WhatsApp Malware 'Maverick' Hijacks Browser Sessions to Target Brazil's Biggest Banks",
+    "link": "https://thehackernews.com/2025/11/whatsapp-malware-maverick-hijacks.html",
+    "published": "Wed, 12 Nov 2025 00:07:00 +0530",
+    "summary": "Threat hunters have uncovered similarities between a banking malware called Coyote and a newly disclosed malicious program dubbed Maverick that has been propagated via WhatsApp.\nAccording to a report from CyberProof, both malware strains are written in .NET, target Brazilian users and banks, and feature identical functionality to decrypt, targeting banking URLs and monitor banking applications."
+  },
+  {
+    "title": "GootLoader Is Back, Using a New Font Trick to Hide Malware on WordPress Sites",
+    "link": "https://thehackernews.com/2025/11/gootloader-is-back-using-new-font-trick.html",
+    "published": "Tue, 11 Nov 2025 21:14:00 +0530",
+    "summary": "The malware known as GootLoader has resurfaced yet again after a brief spike in activity earlier this March, according to new findings from Huntress.\nThe cybersecurity company said it observed three GootLoader infections since October 27, 2025, out of which two resulted in hands-on keyboard intrusions with domain controller compromise taking place within 17 hours of initial infection.\n\""
+  },
+  {
+    "title": "CISO's Expert Guide To AI Supply Chain Attacks",
+    "link": "https://thehackernews.com/2025/11/cisos-expert-guide-to-ai-supply-chain.html",
+    "published": "Tue, 11 Nov 2025 17:28:00 +0530",
+    "summary": "AI-enabled supply chain attacks jumped 156% last year. Discover why traditional defenses are failing and what CISOs must do now to protect their organizations.\nDownload the full CISO&rsquo;s expert guide to AI Supply chain attacks here.&nbsp;\nTL;DR\n\nAI-enabled supply chain attacks are exploding in scale and sophistication - Malicious package uploads to open-source repositories jumped 156% in"
+  },
+  {
+    "title": "Researchers Detect Malicious npm Package Targeting GitHub-Owned Repositories",
+    "link": "https://thehackernews.com/2025/11/researchers-detect-malicious-npm.html",
+    "published": "Tue, 11 Nov 2025 17:25:00 +0530",
+    "summary": "Cybersecurity researchers have discovered a malicious npm package named \"@acitons/artifact\" that typosquats the legitimate \"@actions/artifact\" package with the intent to target GitHub-owned repositories.\n\"We think the intent was to have this script execute during a build of a GitHub-owned repository, exfiltrate the tokens available to the build environment, and then use those tokens to publish"
+  },
+  {
+    "title": "Android Trojan 'Fantasy Hub' Malware Service Turns Telegram Into a Hub for Hackers",
+    "link": "https://thehackernews.com/2025/11/android-trojan-fantasy-hub-malware.html",
+    "published": "Tue, 11 Nov 2025 17:14:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new Android remote access trojan (RAT) called Fantasy Hub that's sold on Russian-speaking Telegram channels under a Malware-as-a-Service (MaaS) model.\nAccording to its seller, the malware enables device control and espionage, allowing threat actors to collect SMS messages, contacts, call logs, images, and videos, as well as intercept, reply,"
+  },
+  {
+    "title": "Hackers Exploiting Triofox Flaw to Install Remote Access Tools via Antivirus Feature",
+    "link": "https://thehackernews.com/2025/11/hackers-exploiting-triofox-flaw-to.html",
+    "published": "Tue, 11 Nov 2025 02:19:00 +0530",
+    "summary": "Google's Mandiant Threat Defense on Monday said it discovered n-day exploitation of a now-patched security flaw in Gladinet's Triofox file-sharing and remote access platform.\nThe critical vulnerability, tracked as CVE-2025-12480 (CVSS score: 9.1), allows an attacker to bypass authentication and access the configuration pages, resulting in the upload and execution of arbitrary payloads.&nbsp;\nThe"
+  },
+  {
+    "title": "Konni Hackers Turn Google’s Find Hub into a Remote Data-Wiping Weapon",
+    "link": "https://thehackernews.com/2025/11/konni-hackers-turn-googles-find-hub.html",
+    "published": "Tue, 11 Nov 2025 01:59:00 +0530",
+    "summary": "The North Korea-affiliated threat actor known as Konni (aka Earth Imp, Opal Sleet, Osmium, TA406, and Vedalia) has been attributed to a new set of attacks targeting both Android and Windows devices for data theft and remote control.\n\"Attackers impersonated psychological counselors and North Korean human rights activists, distributing malware disguised as stress-relief programs,\" the Genians"
+  },
+  {
+    "title": "⚡ Weekly Recap: Hyper-V Malware, Malicious AI Bots, RDP Exploits, WhatsApp Lockdown and More",
+    "link": "https://thehackernews.com/2025/11/weekly-recap-hyper-v-malware-malicious.html",
+    "published": "Mon, 10 Nov 2025 18:21:00 +0530",
+    "summary": "Cyber threats didn’t slow down last week—and attackers are getting smarter. We’re seeing malware hidden in virtual machines, side-channel leaks exposing AI chats, and spyware quietly targeting Android devices in the wild.\nBut that’s just the surface. From sleeper logic bombs to a fresh alliance between major threat groups, this week’s roundup highlights a clear shift: cybercrime is evolving fast"
+  },
+  {
+    "title": "New Browser Security Report Reveals Emerging Threats for Enterprises",
+    "link": "https://thehackernews.com/2025/11/new-browser-security-report-reveals.html",
+    "published": "Mon, 10 Nov 2025 17:28:06 +0530",
+    "summary": "According to the new Browser Security Report 2025, security leaders are discovering that most identity, SaaS, and AI-related risks converge in a single place, the user’s browser. Yet traditional controls like DLP, EDR, and SSE still operate one layer too low.\nWhat’s emerging isn’t just a blindspot. It’s a parallel threat surface: unmanaged extensions acting like supply chain implants, GenAI"
+  },
+  {
+    "title": "Large-Scale ClickFix Phishing Attacks Target Hotel Systems with PureRAT Malware",
+    "link": "https://thehackernews.com/2025/11/large-scale-clickfix-phishing-attacks.html",
+    "published": "Mon, 10 Nov 2025 14:41:00 +0530",
+    "summary": "Cybersecurity researchers have called attention to a massive phishing campaign targeting the hospitality industry that lures hotel managers to ClickFix-style pages and harvest their credentials by deploying malware like PureRAT.\n\"The attacker's modus operandi involved using a compromised email account to send malicious messages to multiple hotel establishments,\" Sekoia said. \"This campaign"
+  }
+]
