@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Russian Hackers Create 4,300 Fake Travel Sites to Steal Hotel Guests' Payment Data",
+    "link": "https://thehackernews.com/2025/11/russian-hackers-create-4300-fake-travel.html",
+    "published": "Fri, 14 Nov 2025 01:57:00 +0530",
+    "summary": "A Russian-speaking threat behind an ongoing, mass phishing campaign has registered more than 4,300 domain names since the start of the year.\nThe activity, per Netcraft security researcher Andrew Brandt, is designed to target customers of the hospitality industry, specifically hotel guests who may have travel reservations with spam emails. The campaign is said to have begun in earnest around"
+  },
+  {
+    "title": "Fake Chrome Extension “Safery” Steals Ethereum Wallet Seed Phrases Using Sui Blockchain",
+    "link": "https://thehackernews.com/2025/11/fake-chrome-extension-safery-steals.html",
+    "published": "Thu, 13 Nov 2025 18:34:00 +0530",
+    "summary": "Cybersecurity researchers have uncovered a malicious Chrome extension that poses as a legitimate Ethereum wallet but harbors functionality to exfiltrate users' seed phrases.\nThe name of the extension is \"Safery: Ethereum Wallet,\" with the threat actor describing it as a \"secure wallet for managing Ethereum cryptocurrency with flexible settings.\" It was uploaded to the Chrome Web Store on"
+  },
+  {
+    "title": "When Attacks Come Faster Than Patches: Why 2026 Will be the Year of Machine-Speed Security",
+    "link": "https://thehackernews.com/2025/11/when-attacks-come-faster-than-patches.html",
+    "published": "Thu, 13 Nov 2025 17:00:00 +0530",
+    "summary": "The Race for Every New CVE\nBased on multiple 2025 industry reports: roughly 50 to 61 percent of newly disclosed vulnerabilities saw exploit code weaponized within 48 hours. Using the CISA Known Exploited Vulnerabilities Catalog as a reference, hundreds of software flaws are now confirmed as actively targeted within days of public disclosure. Each new announcement now triggers a global race"
+  },
+  {
+    "title": "Operation Endgame Dismantles Rhadamanthys, Venom RAT, and Elysium Botnet in Global Crackdown",
+    "link": "https://thehackernews.com/2025/11/operation-endgame-dismantles.html",
+    "published": "Thu, 13 Nov 2025 16:46:00 +0530",
+    "summary": "Malware families like Rhadamanthys Stealer, Venom RAT, and the Elysium botnet have been disrupted as part of a coordinated law enforcement operation led by Europol and Eurojust.\nThe activity, which is taking place between November 10 and 13, 2025, marks the latest phase of Operation Endgame, an ongoing operation designed to take down criminal infrastructures and combat ransomware enablers"
+  },
+  {
+    "title": "ThreatsDay Bulletin: Cisco 0-Days, AI Bug Bounties, Crypto Heists, State-Linked Leaks and 20 More Stories",
+    "link": "https://thehackernews.com/2025/11/threatsday-bulletin-cisco-0-days-ai-bug.html",
+    "published": "Thu, 13 Nov 2025 15:40:00 +0530",
+    "summary": "Behind every click, there’s a risk waiting to be tested. A simple ad, email, or link can now hide something dangerous. Hackers are getting smarter, using new tools to sneak past filters and turn trusted systems against us.\nBut security teams are fighting back. They’re building faster defenses, better ways to spot attacks, and stronger systems to keep people safe. It’s a constant race — every"
+  },
+  {
+    "title": "CISA Flags Critical WatchGuard Fireware Flaw Exposing 54,000 Fireboxes to No-Login Attacks",
+    "link": "https://thehackernews.com/2025/11/cisa-flags-critical-watchguard-fireware.html",
+    "published": "Thu, 13 Nov 2025 12:53:00 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting WatchGuard Fireware to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe vulnerability in question is CVE-2025-9242 (CVSS score: 9.3), an out-of-bounds write vulnerability affecting Fireware OS 11.10.2 up to and including"
+  },
+  {
+    "title": "Over 67,000 Fake npm Packages Flood Registry in Worm-Like Spam Attack",
+    "link": "https://thehackernews.com/2025/11/over-46000-fake-npm-packages-flood.html",
+    "published": "Thu, 13 Nov 2025 10:28:00 +0530",
+    "summary": "Cybersecurity researchers are calling attention to a large-scale spam campaign that has flooded the npm registry with thousands of fake packages since early 2024 as part of a likely financially motivated effort.\n\"The packages were systematically published over an extended period, flooding the npm registry with junk packages that survived in the ecosystem for almost two years,\" Endor Labs"
+  },
+  {
+    "title": "Google Sues China-Based Hackers Behind $1 Billion Lighthouse Phishing Platform",
+    "link": "https://thehackernews.com/2025/11/google-sues-china-based-hackers-behind.html",
+    "published": "Wed, 12 Nov 2025 21:18:00 +0530",
+    "summary": "Google has filed a civil lawsuit in the U.S. District Court for the Southern District of New York (SDNY) against China-based hackers who are behind a massive Phishing-as-a-Service (PhaaS) platform called Lighthouse that has ensnared over 1 million users across 120 countries.\nThe PhaaS kit is used to conduct large-scale SMS phishing attacks that exploit trusted brands like E-ZPass and USPS to"
+  },
+  {
+    "title": "Amazon Uncovers Attacks Exploited Cisco ISE and Citrix NetScaler as Zero-Day Flaws",
+    "link": "https://thehackernews.com/2025/11/amazon-uncovers-attacks-exploited-cisco.html",
+    "published": "Wed, 12 Nov 2025 19:30:00 +0530",
+    "summary": "Amazon's threat intelligence team on Wednesday disclosed that it observed an advanced threat actor exploiting two then-zero-day security flaws in Cisco Identity Service Engine (ISE) and Citrix NetScaler ADC products as part of attacks designed to deliver custom malware.\n\"This discovery highlights the trend of threat actors focusing on critical identity and network access control infrastructure –"
+  },
+  {
+    "title": "[Webinar] Learn How Leading Security Teams Reduce Attack Surface Exposure with DASR",
+    "link": "https://thehackernews.com/2025/11/webinar-learn-how-leading-security.html",
+    "published": "Wed, 12 Nov 2025 17:25:00 +0530",
+    "summary": "Every day, security teams face the same problem—too many risks, too many alerts, and not enough time. You fix one issue, and three more show up. It feels like you’re always one step behind.\nBut what if there was a smarter way to stay ahead—without adding more work or stress?\nJoin The Hacker News and Bitdefender for a free cybersecurity webinar to learn about a new approach called Dynamic Attack"
+  }
+]
