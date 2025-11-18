@@ -1,0 +1,62 @@
+[
+  {
+    "title": "New EVALUSION ClickFix Campaign Delivers Amatera Stealer and NetSupport RAT",
+    "link": "https://thehackernews.com/2025/11/new-evalusion-clickfix-campaign.html",
+    "published": "Mon, 17 Nov 2025 22:23:00 +0530",
+    "summary": "Cybersecurity researchers have discovered malware campaigns using the now-prevalent ClickFix social engineering tactic to deploy Amatera Stealer and NetSupport RAT.\nThe activity, observed this month, is being tracked by eSentire under the moniker EVALUSION.\nFirst spotted in June 2025, Amatera is assessed to be an evolution of ACR (short for \"AcridRain\") Stealer, which was available under the"
+  },
+  {
+    "title": "⚡ Weekly Recap: Fortinet Exploited, China's AI Hacks, PhaaS Empire Falls & More",
+    "link": "https://thehackernews.com/2025/11/weekly-recap-fortinet-exploited-chinas.html",
+    "published": "Mon, 17 Nov 2025 18:04:00 +0530",
+    "summary": "This week showed just how fast things can go wrong when no one’s watching. Some attacks were silent and sneaky. Others used tools we trust every day — like AI, VPNs, or app stores — to cause damage without setting off alarms.\nIt’s not just about hacking anymore. Criminals are building systems to make money, spy, or spread malware like it’s a business. And in some cases, they’re using the same"
+  },
+  {
+    "title": "5 Reasons Why Attackers Are Phishing Over LinkedIn",
+    "link": "https://thehackernews.com/2025/11/5-reasons-why-attackers-are-phishing.html",
+    "published": "Mon, 17 Nov 2025 17:25:00 +0530",
+    "summary": "Phishing attacks are no longer confined to the email inbox, with 1 in 3 phishing attacks now taking place over non-email channels like social media, search engines, and messaging apps.\nLinkedIn in particular has become a hotbed for phishing attacks, and for good reason. Attackers are running sophisticated spear-phishing attacks against company executives, with recent campaigns seen targeting"
+  },
+  {
+    "title": "Dragon Breath Uses RONINGLOADER to Disable Security Tools and Deploy Gh0st RAT",
+    "link": "https://thehackernews.com/2025/11/dragon-breath-uses-roningloader-to.html",
+    "published": "Mon, 17 Nov 2025 16:50:00 +0530",
+    "summary": "The threat actor known as Dragon Breath has been observed making use of a multi-stage loader codenamed RONINGLOADER to deliver a modified variant of a remote access trojan called Gh0st RAT.\nThe campaign, which is primarily aimed at Chinese-speaking users, employs trojanized NSIS installers masquerading as legitimate like Google Chrome and Microsoft Teams, according to Elastic Security Labs.\n\"The"
+  },
+  {
+    "title": "Rust Adoption Drives Android Memory Safety Bugs Below 20% for First Time",
+    "link": "https://thehackernews.com/2025/11/rust-adoption-drives-android-memory.html",
+    "published": "Mon, 17 Nov 2025 11:32:00 +0530",
+    "summary": "Google has disclosed that the company's continued adoption of the Rust programming language in Android has resulted in the number of memory safety vulnerabilities falling below 20% of total vulnerabilities for the first time.\n\"We adopted Rust for its security and are seeing a 1000x reduction in memory safety vulnerability density compared to Android’s C and C++ code. But the biggest surprise was"
+  },
+  {
+    "title": "RondoDox Exploits Unpatched XWiki Servers to Pull More Devices Into Its Botnet",
+    "link": "https://thehackernews.com/2025/11/rondodox-exploits-unpatched-xwiki.html",
+    "published": "Sat, 15 Nov 2025 22:05:00 +0530",
+    "summary": "The botnet malware known as RondoDox has been observed targeting unpatched XWiki instances against a critical security flaw that could allow attackers to achieve arbitrary code execution.\nThe vulnerability in question is CVE-2025-24893 (CVSS score: 9.8), an eval injection bug that could allow any guest user to perform arbitrary remote code execution through a request to the \"/bin/get/Main/"
+  },
+  {
+    "title": "Five Plead Guilty in U.S. for Helping North Korean IT Workers Infiltrate 136 Companies",
+    "link": "https://thehackernews.com/2025/11/five-us-citizens-plead-guilty-to.html",
+    "published": "Sat, 15 Nov 2025 15:51:00 +0530",
+    "summary": "The U.S. Department of Justice (DoJ) on Friday announced that five individuals have pleaded guilty to assisting North Korea's illicit revenue generation schemes by enabling information technology (IT) worker fraud in violation of international sanctions.\nThe five individuals are listed below -\n\nAudricus Phagnasay, 24\nJason Salazar, 30\nAlexander Paul Travis, 34\nOleksandr Didenko, 28, and\nErick"
+  },
+  {
+    "title": "North Korean Hackers Turn JSON Services into Covert Malware Delivery Channels",
+    "link": "https://thehackernews.com/2025/11/north-korean-hackers-turn-json-services.html",
+    "published": "Fri, 14 Nov 2025 23:55:00 +0530",
+    "summary": "The North Korean threat actors behind the Contagious Interview campaign have once again tweaked their tactics by using JSON storage services to stage malicious payloads.\n\"The threat actors have recently resorted to utilizing JSON storage services like JSON Keeper, JSONsilo, and npoint.io to host and deliver malware from trojanized code projects, with the lure,\" NVISO researchers Bart Parys, Stef"
+  },
+  {
+    "title": "Researchers Find Serious AI Bugs Exposing Meta, Nvidia, and Microsoft Inference Frameworks",
+    "link": "https://thehackernews.com/2025/11/researchers-find-serious-ai-bugs.html",
+    "published": "Fri, 14 Nov 2025 20:50:00 +0530",
+    "summary": "Cybersecurity researchers have uncovered critical remote code execution vulnerabilities impacting major artificial intelligence (AI) inference engines, including those from Meta, Nvidia, Microsoft, and open-source PyTorch projects such as vLLM and SGLang.\n\"These vulnerabilities all traced back to the same root cause: the overlooked unsafe use of ZeroMQ (ZMQ) and Python's pickle deserialization,\""
+  },
+  {
+    "title": "Iranian Hackers Launch ‘SpearSpecter’ Spy Operation on Defense & Government Targets",
+    "link": "https://thehackernews.com/2025/11/iranian-hackers-launch-spearspecter-spy.html",
+    "published": "Fri, 14 Nov 2025 20:10:00 +0530",
+    "summary": "The Iranian state-sponsored threat actor known as APT42 has been observed targeting individuals and organizations that are of interest to the Islamic Revolutionary Guard Corps (IRGC) as part of a new espionage-focused campaign.\nThe activity, detected in early September 2025 and assessed to be ongoing, has been codenamed&nbsp;SpearSpecter by the Israel National Digital Agency (INDA).\n\"The"
+  }
+]
