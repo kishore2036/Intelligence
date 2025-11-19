@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Sneaky 2FA Phishing Kit Adds BitB Pop-ups Designed to Mimic the Browser Address Bar",
+    "link": "https://thehackernews.com/2025/11/sneaky-2fa-phishing-kit-adds-bitb-pop.html",
+    "published": "Wed, 19 Nov 2025 00:01:00 +0530",
+    "summary": "The malware authors associated with a Phishing-as-a-Service (PhaaS) kit known as Sneaky 2FA have incorporated Browser-in-the-Browser (BitB) functionality into their arsenal, underscoring the continued evolution of such offerings and further making it easier for less-skilled threat actors to mount attacks at scale.\nPush Security, in a report shared with The Hacker News, said it observed the use"
+  },
+  {
+    "title": "Meta Expands WhatsApp Security Research with New Proxy Tool and $4M in Bounties This Year",
+    "link": "https://thehackernews.com/2025/11/meta-expands-whatsapp-security-research.html",
+    "published": "Tue, 18 Nov 2025 21:26:00 +0530",
+    "summary": "Meta on Tuesday said it has made available a tool called WhatsApp Research Proxy to some of its long-time bug bounty researchers to help improve the program and more effectively research the messaging platform's network protocol.\nThe idea is to make it easier to delve into WhatsApp-specific technologies as the application continues to be a lucrative attack surface for state-sponsored actors and"
+  },
+  {
+    "title": "Learn How Leading Companies Secure Cloud Workloads and Infrastructure at Scale",
+    "link": "https://thehackernews.com/2025/11/learn-how-leading-companies-secure.html",
+    "published": "Tue, 18 Nov 2025 20:55:00 +0530",
+    "summary": "You’ve probably already moved some of your business to the cloud—or you’re planning to. That’s a smart move. It helps you work faster, serve your customers better, and stay ahead.\nBut as your cloud setup grows, it gets harder to control who can access what.\nEven one small mistake—like the wrong person getting access—can lead to big problems. We're talking data leaks, legal trouble, and serious"
+  },
+  {
+    "title": "Researchers Detail Tuoni C2's Role in an Attempted 2025 Real-Estate Cyber Intrusion",
+    "link": "https://thehackernews.com/2025/11/researchers-detail-tuoni-c2s-role-in.html",
+    "published": "Tue, 18 Nov 2025 19:30:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a cyber attack targeting a major U.S.-based real-estate company that involved the use of a nascent command-and-control (C2) and red teaming framework known as Tuoni.\n\"The campaign leveraged the emerging Tuoni C2 framework, a relatively new, command-and-control (C2) tool (with a free license) that delivers stealthy, in-memory payloads,\""
+  },
+  {
+    "title": "Iranian Hackers Use DEEPROOT and TWOSTROKE Malware in Aerospace and Defense Attacks",
+    "link": "https://thehackernews.com/2025/11/iranian-hackers-use-deeproot-and.html",
+    "published": "Tue, 18 Nov 2025 18:24:00 +0530",
+    "summary": "Suspected espionage-driven threat actors from Iran have been observed deploying backdoors like TWOSTROKE and DEEPROOT as part of continued attacks aimed at aerospace, aviation, and defense industries in the Middle East.\nThe activity has been attributed by Google-owned Mandiant to a threat cluster tracked as UNC1549 (aka Nimbus Manticore or Subtle Snail), which was first documented by the threat"
+  },
+  {
+    "title": "Beyond IAM Silos: Why the Identity Security Fabric is Essential for Securing AI and Non-Human Identities",
+    "link": "https://thehackernews.com/2025/11/beyond-iam-silos-why-identity-security.html",
+    "published": "Tue, 18 Nov 2025 16:30:00 +0530",
+    "summary": "Identity security fabric (ISF) is a unified architectural framework that brings together disparate identity capabilities. Through ISF, identity governance and administration (IGA), access management (AM), privileged access management (PAM), and identity threat detection and response (ITDR) are all integrated into a single, cohesive control plane.\nBuilding on Gartner’s definition of “identity"
+  },
+  {
+    "title": "Seven npm Packages Use Adspect Cloaking to Trick Victims Into Crypto Scam Pages",
+    "link": "https://thehackernews.com/2025/11/seven-npm-packages-use-adspect-cloaking.html",
+    "published": "Tue, 18 Nov 2025 16:07:00 +0530",
+    "summary": "Cybersecurity researchers have discovered a set of seven npm packages published by a single threat actor that leverages a cloaking service called Adspect to differentiate between real victims and security researchers to ultimately redirect them to sketchy crypto-themed sites.\nThe malicious npm packages, published by a threat actor named \"dino_reborn\" between September and November 2025, are"
+  },
+  {
+    "title": "Microsoft Mitigates Record 15.72 Tbps DDoS Attack Driven by AISURU Botnet",
+    "link": "https://thehackernews.com/2025/11/microsoft-mitigates-record-572-tbps.html",
+    "published": "Tue, 18 Nov 2025 13:47:00 +0530",
+    "summary": "Microsoft on Monday disclosed that it automatically detected and neutralized a distributed denial-of-service (DDoS) attack targeting a single endpoint in Australia that measured 15.72 terabits per second (Tbps) and nearly 3.64 billion packets per second (pps).\nThe tech giant said it was the largest DDoS attack ever observed in the cloud, and that it originated from a TurboMirai-class Internet of"
+  },
+  {
+    "title": "Google Issues Security Fix for Actively Exploited Chrome V8 Zero-Day Vulnerability",
+    "link": "https://thehackernews.com/2025/11/google-issues-security-fix-for-actively.html",
+    "published": "Tue, 18 Nov 2025 10:14:00 +0530",
+    "summary": "Google on Monday released security updates for its Chrome browser to address two security flaws, including one that has come under active exploitation in the wild.\nThe vulnerability in question is CVE-2025-13223 (CVSS score: 8.8), a type confusion vulnerability in the V8 JavaScript and WebAssembly engine that could be exploited to achieve arbitrary code execution or program crashes.\n\"Type"
+  },
+  {
+    "title": "New EVALUSION ClickFix Campaign Delivers Amatera Stealer and NetSupport RAT",
+    "link": "https://thehackernews.com/2025/11/new-evalusion-clickfix-campaign.html",
+    "published": "Mon, 17 Nov 2025 22:23:00 +0530",
+    "summary": "Cybersecurity researchers have discovered malware campaigns using the now-prevalent ClickFix social engineering tactic to deploy Amatera Stealer and NetSupport RAT.\nThe activity, observed this month, is being tracked by eSentire under the moniker EVALUSION.\nFirst spotted in June 2025, Amatera is assessed to be an evolution of ACR (short for \"AcridRain\") Stealer, which was available under the"
+  }
+]
