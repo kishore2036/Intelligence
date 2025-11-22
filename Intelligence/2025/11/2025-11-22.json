@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Grafana Patches CVSS 10.0 SCIM Flaw Enabling Impersonation and Privilege Escalation",
+    "link": "https://thehackernews.com/2025/11/grafana-patches-cvss-100-scim-flaw.html",
+    "published": "Fri, 21 Nov 2025 21:10:00 +0530",
+    "summary": "Grafana has released security updates to address a maximum severity security flaw that could allow privilege escalation or user impersonation under certain configurations.\nThe vulnerability, tracked as CVE-2025-41115, carries a CVSS score of 10.0. It resides in the System for Cross-domain Identity Management (SCIM) component that allows automated user provisioning and management. First"
+  },
+  {
+    "title": "Google Brings AirDrop Compatibility to Android’s Quick Share Using Rust-Hardened Security",
+    "link": "https://thehackernews.com/2025/11/google-adds-airdrop-compatibility-to.html",
+    "published": "Fri, 21 Nov 2025 18:30:00 +0530",
+    "summary": "In a surprise move, Google on Thursday announced that it has updated Quick Share, its peer-to-peer file transfer service, to work with Apple's equipment AirDrop, allowing users to more easily share files and photos between Android and iPhone devices.\nThe cross-platform sharing feature is currently limited to the Pixel 10 lineup and works with iPhone, iPad, and macOS devices, with plans to expand"
+  },
+  {
+    "title": "Why IT Admins Choose Samsung for Mobile Security",
+    "link": "https://thehackernews.com/2025/11/why-it-admins-choose-samsung-for-mobile.html",
+    "published": "Fri, 21 Nov 2025 16:30:00 +0530",
+    "summary": "Ever wonder how some IT teams keep corporate data safe without slowing down employees? Of course you have.\nMobile devices are essential for modern work—but with mobility comes risk. IT admins, like you, juggle protecting sensitive data while keeping teams productive. That’s why more enterprises are turning to Samsung for mobile security.\nHey—you're busy, so here's a quick-read article on what"
+  },
+  {
+    "title": "APT24 Deploys BADAUDIO in Years-Long Espionage Hitting Taiwan and 1,000+ Domains",
+    "link": "https://thehackernews.com/2025/11/apt24-deploys-badaudio-in-years-long.html",
+    "published": "Fri, 21 Nov 2025 16:12:00 +0530",
+    "summary": "A China-nexus threat actor known as APT24 has been observed using a previously undocumented malware dubbed BADAUDIO to establish persistent remote access to compromised networks as part of a nearly three-year campaign.\n\"While earlier operations relied on broad strategic web compromises to compromise legitimate websites, APT24 has recently pivoted to using more sophisticated vectors targeting"
+  },
+  {
+    "title": "SEC Drops SolarWinds Case After Years of High-Stakes Cybersecurity Scrutiny",
+    "link": "https://thehackernews.com/2025/11/sec-drops-solarwinds-case-after-years.html",
+    "published": "Fri, 21 Nov 2025 13:35:00 +0530",
+    "summary": "The U.S. Securities and Exchange Commission (SEC) has abandoned its lawsuit against SolarWinds and its chief information security officer, alleging that the company had misled investors about the security practices that led to the 2020 supply chain attack.\nIn a joint motion filed November 20, 2025, the SEC, along with SolarWinds and its CISO Timothy G. Brown, asked the court to voluntarily"
+  },
+  {
+    "title": "Salesforce Flags Unauthorized Data Access via Gainsight-Linked OAuth Activity",
+    "link": "https://thehackernews.com/2025/11/salesforce-flags-unauthorized-data.html",
+    "published": "Fri, 21 Nov 2025 11:02:00 +0530",
+    "summary": "Salesforce has warned of detected \"unusual activity\" related to Gainsight-published applications connected to the platform.\n\"Our investigation indicates this activity may have enabled unauthorized access to certain customers’ Salesforce data through the app's connection,\" the company said in an advisory.\nThe cloud services firm said it has taken the step of revoking all active access and refresh"
+  },
+  {
+    "title": "ShadowRay 2.0 Exploits Unpatched Ray Flaw to Build Self-Spreading GPU Cryptomining Botnet",
+    "link": "https://thehackernews.com/2025/11/shadowray-20-exploits-unpatched-ray.html",
+    "published": "Thu, 20 Nov 2025 22:54:00 +0530",
+    "summary": "Oligo Security has warned of ongoing attacks exploiting a two-year-old security flaw in the Ray open-source artificial intelligence (AI) framework to turn infected clusters with NVIDIA GPUs into a self-replicating cryptocurrency mining botnet.\nThe activity, codenamed ShadowRay 2.0, is an evolution of a prior wave that was observed between September 2023 and March 2024. The attack, at its core,"
+  },
+  {
+    "title": "Tsundere Botnet Expands Using Game Lures and Ethereum-Based C2 on Windows",
+    "link": "https://thehackernews.com/2025/11/tsundere-botnet-expands-using-game.html",
+    "published": "Thu, 20 Nov 2025 22:27:00 +0530",
+    "summary": "Cybersecurity researchers have warned of an actively expanding botnet dubbed Tsundere that's targeting Windows users.\nActive since mid-2025, the threat is designed to execute arbitrary JavaScript code retrieved from a command-and-control (C2) server, Kaspersky researcher Lisandro Ubiedo said in an analysis published today.\nThere are currently no details on how the botnet malware is propagated;"
+  },
+  {
+    "title": "ThreatsDay Bulletin: 0-Days, LinkedIn Spies, Crypto Crimes, IoT Flaws and New Malware Waves",
+    "link": "https://thehackernews.com/2025/11/threatsday-bulletin-0-days-linkedin.html",
+    "published": "Thu, 20 Nov 2025 17:59:00 +0530",
+    "summary": "This week has been crazy in the world of hacking and online security. From Thailand to London to the US, we've seen arrests, spies at work, and big power moves online. Hackers are getting caught. Spies are getting better at their jobs. Even simple things like browser add-ons and smart home gadgets are being used to attack people.\nEvery day, there's a new story that shows how quickly things are"
+  },
+  {
+    "title": "CTM360 Exposes a Global WhatsApp Hijacking Campaign: HackOnChat",
+    "link": "https://thehackernews.com/2025/11/ctm360-exposes-global-whatsapp.html",
+    "published": "Thu, 20 Nov 2025 17:00:00 +0530",
+    "summary": "CTM360 has identified a rapidly expanding WhatsApp account-hacking campaign targeting users worldwide via a network of deceptive authentication portals and impersonation pages. The campaign, internally dubbed HackOnChat, abuses WhatsApp’s familiar web interface, using social engineering tactics to trick users into compromising their accounts.\nInvestigators identified thousands of malicious URLs"
+  }
+]
