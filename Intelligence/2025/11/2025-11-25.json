@@ -1,0 +1,62 @@
+[
+  {
+    "title": "New Fluent Bit Flaws Expose Cloud to RCE and Stealthy Infrastructure Intrusions",
+    "link": "https://thehackernews.com/2025/11/new-fluent-bit-flaws-expose-cloud-to.html",
+    "published": "Mon, 24 Nov 2025 20:33:00 +0530",
+    "summary": "Cybersecurity researchers have discovered five vulnerabilities in Fluent Bit, an open-source and lightweight telemetry agent, that could be chained to compromise and take over cloud infrastructures.\nThe security defects \"allow attackers to bypass authentication, perform path traversal, achieve remote code execution, cause denial-of-service conditions, and manipulate tags,\" Oligo Security said in"
+  },
+  {
+    "title": "Second Sha1-Hulud Wave Affects 25,000+ Repositories via npm Preinstall Credential Theft",
+    "link": "https://thehackernews.com/2025/11/second-sha1-hulud-wave-affects-25000.html",
+    "published": "Mon, 24 Nov 2025 18:33:00 +0530",
+    "summary": "Multiple security vendors are sounding the alarm about a second wave of attacks targeting the npm registry in a manner that's reminiscent of the Shai-Hulud attack.\nThe new supply chain campaign, dubbed Sha1-Hulud, has compromised hundreds of npm packages, according to reports from Aikido, HelixGuard, Koi Security, Socket, Step Security, and Wiz.&nbsp;The trojanized npm packages were uploaded to"
+  },
+  {
+    "title": "⚡ Weekly Recap: Fortinet Exploit, Chrome 0-Day, BadIIS Malware, Record DDoS, SaaS Breach & More",
+    "link": "https://thehackernews.com/2025/11/weekly-recap-fortinet-exploit-chrome-0.html",
+    "published": "Mon, 24 Nov 2025 18:02:00 +0530",
+    "summary": "This week saw a lot of new cyber trouble. Hackers hit Fortinet and Chrome with new 0-day bugs. They also broke into supply chains and SaaS tools. Many hid inside trusted apps, browser alerts, and software updates.\nBig firms like Microsoft, Salesforce, and Google had to react fast — stopping DDoS attacks, blocking bad links, and fixing live flaws. Reports also showed how fast fake news, AI"
+  },
+  {
+    "title": "Chinese DeepSeek-R1 AI Generates Insecure Code When Prompts Mention Tibet or Uyghurs",
+    "link": "https://thehackernews.com/2025/11/chinese-ai-model-deepseek-r1-generates.html",
+    "published": "Mon, 24 Nov 2025 16:37:00 +0530",
+    "summary": "New research from CrowdStrike has revealed that DeepSeek's artificial intelligence (AI) reasoning model DeepSeek-R1 produces more security vulnerabilities in response to prompts that contain topics deemed politically sensitive by China.\n\"We found that when DeepSeek-R1 receives prompts containing topics the Chinese Communist Party (CCP) likely considers politically sensitive, the likelihood of it"
+  },
+  {
+    "title": "ShadowPad Malware Actively Exploits WSUS Vulnerability for Full System Access",
+    "link": "https://thehackernews.com/2025/11/shadowpad-malware-actively-exploits.html",
+    "published": "Mon, 24 Nov 2025 12:48:00 +0530",
+    "summary": "A recently patched security flaw in Microsoft Windows Server Update Services (WSUS) has been exploited by threat actors to distribute malware known as ShadowPad.\n\"The attacker targeted Windows Servers with WSUS enabled, exploiting CVE-2025-59287 for initial access,\" AhnLab Security Intelligence Center (ASEC) said in a report published last week. \"They then used PowerCat, an open-source"
+  },
+  {
+    "title": "China-Linked APT31 Launches Stealthy Cyberattacks on Russian IT Using Cloud Services",
+    "link": "https://thehackernews.com/2025/11/china-linked-apt31-launches-stealthy.html",
+    "published": "Sat, 22 Nov 2025 20:49:00 +0530",
+    "summary": "The China-linked advanced persistent threat (APT) group known as APT31 has been attributed to cyber attacks targeting the Russian information technology (IT) sector between 2024 and 2025 while staying undetected for extended periods of time.\n\"In the period from 2024 to 2025, the Russian IT sector, especially companies working as contractors and integrators of solutions for government agencies,"
+  },
+  {
+    "title": "Matrix Push C2 Uses Browser Notifications for Fileless, Cross-Platform Phishing Attacks",
+    "link": "https://thehackernews.com/2025/11/matrix-push-c2-uses-browser.html",
+    "published": "Sat, 22 Nov 2025 12:17:00 +0530",
+    "summary": "Bad actors are leveraging browser notifications as a vector for phishing attacks to distribute malicious links by means of a new command-and-control (C2) platform called Matrix Push C2.\n\"This browser-native, fileless framework leverages push notifications, fake alerts, and link redirects to target victims across operating systems,\" Blackfog researcher Brenda Robb said in a Thursday report.\nIn"
+  },
+  {
+    "title": "CISA Warns of Actively Exploited Critical Oracle Identity Manager Zero-Day Vulnerability",
+    "link": "https://thehackernews.com/2025/11/cisa-warns-of-actively-exploited.html",
+    "published": "Sat, 22 Nov 2025 12:15:00 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw impacting Oracle Identity Manager to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerability in question is CVE-2025-61757 (CVSS score: 9.8), a case of missing authentication for a critical function that can result in pre-authenticated"
+  },
+  {
+    "title": "Grafana Patches CVSS 10.0 SCIM Flaw Enabling Impersonation and Privilege Escalation",
+    "link": "https://thehackernews.com/2025/11/grafana-patches-cvss-100-scim-flaw.html",
+    "published": "Fri, 21 Nov 2025 21:10:00 +0530",
+    "summary": "Grafana has released security updates to address a maximum severity security flaw that could allow privilege escalation or user impersonation under certain configurations.\nThe vulnerability, tracked as CVE-2025-41115, carries a CVSS score of 10.0. It resides in the System for Cross-domain Identity Management (SCIM) component that allows automated user provisioning and management. First"
+  },
+  {
+    "title": "Google Brings AirDrop Compatibility to Android’s Quick Share Using Rust-Hardened Security",
+    "link": "https://thehackernews.com/2025/11/google-adds-airdrop-compatibility-to.html",
+    "published": "Fri, 21 Nov 2025 18:30:00 +0530",
+    "summary": "In a surprise move, Google on Thursday announced that it has updated Quick Share, its peer-to-peer file transfer service, to work with Apple's equipment AirDrop, allowing users to more easily share files and photos between Android and iPhone devices.\nThe cross-platform sharing feature is currently limited to the Pixel 10 lineup and works with iPhone, iPad, and macOS devices, with plans to expand"
+  }
+]
