@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Shai-Hulud v2 Campaign Spreads From npm to Maven, Exposing Thousands of Secrets",
+    "link": "https://thehackernews.com/2025/11/shai-hulud-v2-campaign-spreads-from-npm.html",
+    "published": "Wed, 26 Nov 2025 23:38:00 +0530",
+    "summary": "The second wave of the Shai-Hulud supply chain attack has spilled over to the Maven ecosystem after compromising more than 830 packages in the npm registry.\nThe Socket Research Team said it identified a Maven Central package named org.mvnpm:posthog-node:4.18.1 that embeds the same two components associated with Sha1-Hulud: the \"setup_bun.js\" loader and the main payload \"bun_environment.js.\"\n\""
+  },
+  {
+    "title": "Qilin Ransomware Turns South Korean MSP Breach Into 28-Victim 'Korean Leaks' Data Heist",
+    "link": "https://thehackernews.com/2025/11/qilin-ransomware-turns-south-korean-msp.html",
+    "published": "Wed, 26 Nov 2025 20:01:00 +0530",
+    "summary": "South Korea's financial sector has been targeted by what has been described as a sophisticated supply chain attack that led to the deployment of Qilin ransomware.\n\"This operation combined the capabilities of a major Ransomware-as-a-Service (RaaS) group, Qilin, with potential involvement from North Korean state-affiliated actors (Moonstone Sleet), leveraging Managed Service Provider (MSP)"
+  },
+  {
+    "title": "When Your $2M Security Detection Fails: Can your SOC Save You?",
+    "link": "https://thehackernews.com/2025/11/when-your-2m-security-detection-fails.html",
+    "published": "Wed, 26 Nov 2025 17:25:00 +0530",
+    "summary": "Enterprises today are expected to have at least 6-8 detection tools, as detection is considered a standard investment and the first line of defense. Yet security leaders struggle to justify dedicating resources further down the alert lifecycle to their superiors.\nAs a result, most organizations' security investments are asymmetrical, robust detection tools paired with an under-resourced SOC,"
+  },
+  {
+    "title": "Webinar: Learn to Spot Risks and Patch Safely with Community-Maintained Tools",
+    "link": "https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html",
+    "published": "Wed, 26 Nov 2025 16:40:00 +0530",
+    "summary": "If you're using community tools like Chocolatey or Winget to keep systems updated, you're not alone. These platforms are fast, flexible, and easy to work with—making them favorites for IT teams. But there’s a catch...\nThe very tools that make your job easier might also be the reason your systems are at risk.\nThese tools are run by the community. That means anyone can add or update packages. Some"
+  },
+  {
+    "title": "Chrome Extension Caught Injecting Hidden Solana Transfer Fees Into Raydium Swaps",
+    "link": "https://thehackernews.com/2025/11/chrome-extension-caught-injecting.html",
+    "published": "Wed, 26 Nov 2025 16:40:00 +0530",
+    "summary": "Cybersecurity researchers have discovered a new malicious extension on the Chrome Web Store that's capable of injecting a stealthy Solana transfer into a swap transaction and transferring the funds to an attacker-controlled cryptocurrency wallet.\nThe extension, named Crypto Copilot, was first published by a user named \"sjclark76\" on May 7, 2024. The developer describes the browser add-on as"
+  },
+  {
+    "title": "RomCom Uses SocGholish Fake Update Attacks to Deliver Mythic Agent Malware",
+    "link": "https://thehackernews.com/2025/11/romcom-uses-socgholish-fake-update.html",
+    "published": "Wed, 26 Nov 2025 13:58:00 +0530",
+    "summary": "The threat actors behind a malware family known as RomCom targeted a U.S.-based civil engineering company via a JavaScript loader dubbed SocGholish to deliver the Mythic Agent.\n\"This is the first time that a RomCom payload has been observed being distributed by SocGholish,\" Arctic Wolf Labs researcher Jacob Faires said in a Tuesday report.\nThe activity has been attributed with medium-to-high"
+  },
+  {
+    "title": "FBI Reports $262M in ATO Fraud as Researchers Cite Growing AI Phishing and Holiday Scams",
+    "link": "https://thehackernews.com/2025/11/fbi-reports-262m-in-ato-fraud-as.html",
+    "published": "Wed, 26 Nov 2025 09:59:00 +0530",
+    "summary": "The U.S. Federal Bureau of Investigation (FBI) has warned that cybercriminals are impersonating financial institutions with an aim to steal money or sensitive information to facilitate account takeover (ATO) fraud schemes.\nThe activity targets individuals, businesses, and organizations of varied sizes and across sectors, the agency said, adding the fraudulent schemes have led to more than $262"
+  },
+  {
+    "title": "Years of JSONFormatter and CodeBeautify Leaks Expose Thousands of Passwords and API Keys",
+    "link": "https://thehackernews.com/2025/11/years-of-jsonformatter-and-codebeautify.html",
+    "published": "Tue, 25 Nov 2025 22:19:00 +0530",
+    "summary": "New research has found that organizations in various sensitive sectors, including governments, telecoms, and critical infrastructure, are pasting passwords and credentials into online tools like JSONformatter and CodeBeautify that are used to format and validate code.\nCybersecurity company watchTowr Labs said it captured a dataset of over 80,000 files on these sites, uncovering thousands of"
+  },
+  {
+    "title": "JackFix Uses Fake Windows Update Pop-Ups on Adult Sites to Deliver Multiple Stealers",
+    "link": "https://thehackernews.com/2025/11/jackfix-uses-fake-windows-update-pop.html",
+    "published": "Tue, 25 Nov 2025 19:48:00 +0530",
+    "summary": "Cybersecurity researchers are calling attention to a new campaign that's leveraging a combination of ClickFix lures and fake adult websites to deceive users into running malicious commands under the guise of a \"critical\" Windows security update.\n\"Campaign leverages fake adult websites (xHamster, PornHub clones) as its phishing mechanism, likely distributed via malvertising,\" Acronis said in a"
+  },
+  {
+    "title": "ToddyCat’s New Hacking Tools Steal Outlook Emails and Microsoft 365 Access Tokens",
+    "link": "https://thehackernews.com/2025/11/toddycats-new-hacking-tools-steal.html",
+    "published": "Tue, 25 Nov 2025 17:06:00 +0530",
+    "summary": "The threat actor known as ToddyCat has been observed adopting new methods to obtain access to corporate email data belonging to target companies, including using a custom tool dubbed TCSectorCopy.\n\"This attack allows them to obtain tokens for the OAuth 2.0 authorization protocol using the user's browser, which can be used outside the perimeter of the compromised infrastructure to access"
+  }
+]
