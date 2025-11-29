@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Legacy Python Bootstrap Scripts Create Domain-Takeover Risk in Multiple PyPI Packages",
+    "link": "https://thehackernews.com/2025/11/legacy-python-bootstrap-scripts-create.html",
+    "published": "Fri, 28 Nov 2025 21:57:00 +0530",
+    "summary": "Cybersecurity researchers have discovered vulnerable code in legacy Python packages that could potentially pave the way for a supply chain compromise on the Python Package Index (PyPI) via a domain takeover attack.\nSoftware supply chain security company ReversingLabs said it found the \"vulnerability\" in bootstrap files provided by a build and deployment automation tool named \"zc.buildout.\"\n\"The"
+  },
+  {
+    "title": "North Korean Hackers Deploy 197 npm Packages to Spread Updated OtterCookie Malware",
+    "link": "https://thehackernews.com/2025/11/north-korean-hackers-deploy-197-npm.html",
+    "published": "Fri, 28 Nov 2025 21:48:00 +0530",
+    "summary": "The North Korean threat actors behind the Contagious Interview campaign have continued to flood the npm registry with 197 more malicious packages since last month.\nAccording to Socket, these packages have been downloaded over 31,000 times, and are designed to deliver a variant of OtterCookie that brings together the features of BeaverTail and prior versions of OtterCookie.\n\nSome of the"
+  },
+  {
+    "title": "Why Organizations Are Turning to RPAM",
+    "link": "https://thehackernews.com/2025/11/why-organizations-are-turning-to-rpam.html",
+    "published": "Fri, 28 Nov 2025 16:39:00 +0530",
+    "summary": "As IT environments become increasingly distributed and organizations adopt hybrid and remote work at scale, traditional perimeter-based security models and on-premises Privileged Access Management (PAM) solutions no longer suffice. IT administrators, contractors and third-party vendors now require secure access to critical systems from any location and on any device, without compromising"
+  },
+  {
+    "title": "MS Teams Guest Access Can Remove Defender Protection When Users Join External Tenants",
+    "link": "https://thehackernews.com/2025/11/ms-teams-guest-access-can-remove.html",
+    "published": "Fri, 28 Nov 2025 14:03:00 +0530",
+    "summary": "Cybersecurity researchers have shed light on a cross-tenant blind spot that allows attackers to bypass Microsoft Defender for Office 365 protections via the guest access feature in Teams.\n\"When users operate as guests in another tenant, their protections are determined entirely by that hosting environment, not by their home organization,\" Ontinue security researcher Rhys Downing said in a report"
+  },
+  {
+    "title": "Bloody Wolf Expands Java-based NetSupport RAT Attacks in Kyrgyzstan and Uzbekistan",
+    "link": "https://thehackernews.com/2025/11/bloody-wolf-expands-java-based.html",
+    "published": "Thu, 27 Nov 2025 23:43:00 +0530",
+    "summary": "The threat actor known as Bloody Wolf has been attributed to a cyber attack campaign that has targeted Kyrgyzstan since at least June 2025 with the goal of delivering NetSupport RAT.\nAs of October 2025, the activity has expanded to also single out Uzbekistan, Group-IB researchers Amirbek Kurbanov and Volen Kayo said in a report published in collaboration with Ukuk, a state enterprise under the"
+  },
+  {
+    "title": "Microsoft to Block Unauthorized Scripts in Entra ID Logins with 2026 CSP Update",
+    "link": "https://thehackernews.com/2025/11/microsoft-to-block-unauthorized-scripts.html",
+    "published": "Thu, 27 Nov 2025 21:07:00 +0530",
+    "summary": "Microsoft has announced plans to improve the security of Entra ID authentication by blocking unauthorized script injection attacks starting a year from now.\nThe update to its Content Security Policy (CSP) aims to enhance the Entra ID sign-in experience at \"login.microsoftonline[.]com\" by only letting scripts from trusted Microsoft domains run.\n\"This update strengthens security and adds an extra"
+  },
+  {
+    "title": "Webinar: Learn to Spot Risks and Patch Safely with Community-Maintained Tools",
+    "link": "https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html",
+    "published": "Thu, 27 Nov 2025 20:29:00 +0530",
+    "summary": "If you're using community tools like Chocolatey or Winget to keep systems updated, you're not alone. These platforms are fast, flexible, and easy to work with—making them favorites for IT teams. But there’s a catch...\nThe very tools that make your job easier might also be the reason your systems are at risk.\nThese tools are run by the community. That means anyone can add or update packages. Some"
+  },
+  {
+    "title": "ThreatsDay Bulletin: AI Malware, Voice Bot Flaws, Crypto Laundering, IoT Attacks — and 20 More Stories",
+    "link": "https://thehackernews.com/2025/11/threatsday-bulletin-ai-malware-voice.html",
+    "published": "Thu, 27 Nov 2025 15:33:00 +0530",
+    "summary": "Hackers have been busy again this week. From fake voice calls and AI-powered malware to huge money-laundering busts and new scams, there’s a lot happening in the cyber world.\nCriminals are getting creative — using smart tricks to steal data, sound real, and hide in plain sight. But they’re not the only ones moving fast. Governments and security teams are fighting back, shutting down fake"
+  },
+  {
+    "title": "Gainsight Expands Impacted Customer List Following Salesforce Security Alert",
+    "link": "https://thehackernews.com/2025/11/gainsight-expands-impacted-customer.html",
+    "published": "Thu, 27 Nov 2025 12:33:00 +0530",
+    "summary": "Gainsight has disclosed that the recent suspicious activity targeting its applications has affected more customers than previously thought.\nThe company said Salesforce initially provided a list of 3 impacted customers and that it has \"expanded to a larger list\" as of November 21, 2025. It did not reveal the exact number of customers who were impacted, but its CEO, Chuck Ganapathi, said \"we"
+  },
+  {
+    "title": "Shai-Hulud v2 Spreads From npm to Maven, as Campaign Exposes Thousands of Secrets",
+    "link": "https://thehackernews.com/2025/11/shai-hulud-v2-campaign-spreads-from-npm.html",
+    "published": "Wed, 26 Nov 2025 23:38:00 +0530",
+    "summary": "The second wave of the Shai-Hulud supply chain attack has spilled over to the Maven ecosystem after compromising more than 830 packages in the npm registry.\nThe Socket Research Team said it identified a Maven Central package named org.mvnpm:posthog-node:4.18.1 that embeds the same two components associated with Sha1-Hulud: the \"setup_bun.js\" loader and the main payload \"bun_environment.js.\" The"
+  }
+]
