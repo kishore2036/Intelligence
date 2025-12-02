@@ -1,0 +1,62 @@
+[
+  {
+    "title": "India Orders Phone Makers to Pre-Install Sanchar Saathi App to Tackle Telecom Fraud",
+    "link": "https://thehackernews.com/2025/12/india-orders-phone-makers-to-pre.html",
+    "published": "Mon, 01 Dec 2025 23:25:00 +0530",
+    "summary": "India's telecommunications ministry has reportedly asked major mobile device manufacturers to preload a government-backed cybersecurity app named Sanchar Saathi on all new phones within 90 days.\nAccording to a report from Reuters, the app cannot be deleted or disabled from users' devices.\nSanchar Saathi, available on the web and via mobile apps for Android and iOS, allows users to report"
+  },
+  {
+    "title": "ShadyPanda Turns Popular Browser Extensions with 4.3 Million Installs Into Spyware",
+    "link": "https://thehackernews.com/2025/12/shadypanda-turns-popular-browser.html",
+    "published": "Mon, 01 Dec 2025 22:59:00 +0530",
+    "summary": "A threat actor known as ShadyPanda has been linked to a seven-year-long browser extension campaign that has amassed over 4.3 million installations over time.\nFive of these extensions started off as legitimate programs before malicious changes were introduced in mid-2024, according to a report from Koi Security, attracting 300,000 installs. These extensions have since been taken down.\n\"These"
+  },
+  {
+    "title": "⚡ Weekly Recap: Hot CVEs, npm Worm Returns, Firefox RCE, M365 Email Raid & More",
+    "link": "https://thehackernews.com/2025/12/weekly-recap-hot-cves-npm-worm-returns.html",
+    "published": "Mon, 01 Dec 2025 18:17:00 +0530",
+    "summary": "Hackers aren’t kicking down the door anymore. They just use the same tools we use every day — code packages, cloud accounts, email, chat, phones, and “trusted” partners — and turn them against us.\nOne bad download can leak your keys. One weak vendor can expose many customers at once. One guest invite, one link on a phone, one bug in a common tool, and suddenly your mail, chats, repos, and"
+  },
+  {
+    "title": "Webinar: The \"Agentic\" Trojan Horse: Why the New AI Browsers War is a Nightmare for Security Teams",
+    "link": "https://thehackernews.com/2025/12/webinar-agentic-trojan-horse-why-new-ai.html",
+    "published": "Mon, 01 Dec 2025 17:25:00 +0530",
+    "summary": "The AI browser wars are coming to a desktop near you, and you need to start worrying about their security challenges.\nFor the last two decades, whether you used Chrome, Edge, or Firefox, the fundamental paradigm remained the same: a passive window through which a human user viewed and interacted with the internet.\nThat era is over. We are currently witnessing a shift that renders the old"
+  },
+  {
+    "title": "New Albiriox MaaS Malware Targets 400+ Apps for On-Device Fraud and Screen Control",
+    "link": "https://thehackernews.com/2025/12/new-albiriox-maas-malware-targets-400.html",
+    "published": "Mon, 01 Dec 2025 14:15:00 +0530",
+    "summary": "A new Android malware named Albiriox has been advertised under a malware-as-a-service (MaaS) model to offer a \"full spectrum\" of features to facilitate on-device fraud (ODF), screen manipulation, and real-time interaction with infected devices.\nThe malware embeds a hard-coded list comprising over 400 applications spanning banking, financial technology, payment processors, cryptocurrency"
+  },
+  {
+    "title": "Tomiris Shifts to Public-Service Implants for Stealthier C2 in Attacks on Government Targets",
+    "link": "https://thehackernews.com/2025/12/tomiris-shifts-to-public-service.html",
+    "published": "Mon, 01 Dec 2025 10:37:00 +0530",
+    "summary": "The threat actor known as Tomiris has been attributed to attacks targeting foreign ministries, intergovernmental organizations, and government entities in Russia with an aim to establish remote access and deploy additional tools.\n\"These attacks highlight a notable shift in Tomiris's tactics, namely the increased use of implants that leverage public services (e.g., Telegram and Discord) as"
+  },
+  {
+    "title": "CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to KEV",
+    "link": "https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html",
+    "published": "Sun, 30 Nov 2025 14:53:00 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has updated its Known Exploited Vulnerabilities (KEV) catalog to include a security flaw impacting OpenPLC ScadaBR, citing evidence of active exploitation.\nThe vulnerability in question is CVE-2021-26829 (CVSS score: 5.4), a cross-site scripting (XSS) flaw that affects Windows and Linux versions of the software via"
+  },
+  {
+    "title": "Legacy Python Bootstrap Scripts Create Domain-Takeover Risk in Multiple PyPI Packages",
+    "link": "https://thehackernews.com/2025/11/legacy-python-bootstrap-scripts-create.html",
+    "published": "Fri, 28 Nov 2025 21:57:00 +0530",
+    "summary": "Cybersecurity researchers have discovered vulnerable code in legacy Python packages that could potentially pave the way for a supply chain compromise on the Python Package Index (PyPI) via a domain takeover attack.\nSoftware supply chain security company ReversingLabs said it found the \"vulnerability\" in bootstrap files provided by a build and deployment automation tool named \"zc.buildout.\"\n\"The"
+  },
+  {
+    "title": "North Korean Hackers Deploy 197 npm Packages to Spread Updated OtterCookie Malware",
+    "link": "https://thehackernews.com/2025/11/north-korean-hackers-deploy-197-npm.html",
+    "published": "Fri, 28 Nov 2025 21:48:00 +0530",
+    "summary": "The North Korean threat actors behind the Contagious Interview campaign have continued to flood the npm registry with 197 more malicious packages since last month.\nAccording to Socket, these packages have been downloaded over 31,000 times, and are designed to deliver a variant of OtterCookie that brings together the features of BeaverTail and prior versions of OtterCookie.\n\nSome of the"
+  },
+  {
+    "title": "Why Organizations Are Turning to RPAM",
+    "link": "https://thehackernews.com/2025/11/why-organizations-are-turning-to-rpam.html",
+    "published": "Fri, 28 Nov 2025 16:39:00 +0530",
+    "summary": "As IT environments become increasingly distributed and organizations adopt hybrid and remote work at scale, traditional perimeter-based security models and on-premises Privileged Access Management (PAM) solutions no longer suffice. IT administrators, contractors and third-party vendors now require secure access to critical systems from any location and on any device, without compromising"
+  }
+]
