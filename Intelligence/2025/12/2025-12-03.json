@@ -1,0 +1,62 @@
+[
+  {
+    "title": "India Orders Messaging Apps to Work Only With Active SIM Cards to Prevent Fraud and Misuse",
+    "link": "https://thehackernews.com/2025/12/india-orders-messaging-apps-to-work.html",
+    "published": "Tue, 02 Dec 2025 23:16:00 +0530",
+    "summary": "India's Department of Telecommunications (DoT) has issued directions to app-based communication service providers to ensure that the platforms cannot be used without an active SIM card linked to the user's mobile number.\nTo that end, messaging apps like WhatsApp, Telegram, Snapchat, Arattai, Sharechat, Josh, JioChat, and Signal that use an Indian mobile number for uniquely identifying their"
+  },
+  {
+    "title": "Researchers Capture Lazarus APT's Remote-Worker Scheme Live on Camera",
+    "link": "https://thehackernews.com/2025/12/researchers-capture-lazarus-apts-remote.html",
+    "published": "Tue, 02 Dec 2025 20:32:00 +0530",
+    "summary": "A joint investigation led by Mauro Eldritch, founder of BCA LTD, conducted together with threat-intel initiative NorthScan and ANY.RUN, a solution for interactive malware analysis and threat intelligence, has uncovered one of North Korea’s most persistent infiltration schemes: a network of remote IT workers tied to Lazarus Group’s Famous Chollima division.\nFor the first time, researchers managed"
+  },
+  {
+    "title": "GlassWorm Returns with 24 Malicious Extensions Impersonating Popular Developer Tools",
+    "link": "https://thehackernews.com/2025/12/glassworm-returns-with-24-malicious.html",
+    "published": "Tue, 02 Dec 2025 20:31:00 +0530",
+    "summary": "The supply chain campaign known as GlassWorm has once again reared its head, infiltrating both Microsoft Visual Studio Marketplace and Open VSX with 24 extensions impersonating popular developer tools and frameworks like Flutter, React, Tailwind, Vim, and Vue.\nGlassWorm was first documented in October 2025, detailing its use of the Solana blockchain for command-and-control (C2) and harvest npm,"
+  },
+  {
+    "title": "Malicious npm Package Uses Hidden Prompt and Script to Evade AI Security Tools",
+    "link": "https://thehackernews.com/2025/12/malicious-npm-package-uses-hidden.html",
+    "published": "Tue, 02 Dec 2025 19:47:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of an npm package that attempts to influence artificial intelligence (AI)-driven security scanners.\nThe package in question is eslint-plugin-unicorn-ts-2, which masquerades as a TypeScript extension of the popular ESLint plugin. It was uploaded to the registry by a user named \"hamburgerisland\" in February 2024. The package has been downloaded"
+  },
+  {
+    "title": "Iran-Linked Hackers Hits Israeli Sectors with New MuddyViper Backdoor in Targeted Attacks",
+    "link": "https://thehackernews.com/2025/12/iran-linked-hackers-hits-israeli_2.html",
+    "published": "Tue, 02 Dec 2025 19:07:00 +0530",
+    "summary": "Israeli entities spanning academia, engineering, local government, manufacturing, technology, transportation, and utilities sectors have emerged as the target of a new set of attacks undertaken by Iranian nation-state actors that have delivered a previously undocumented backdoor called MuddyViper.\nThe activity has been attributed by ESET to a hacking group known as MuddyWater (aka Mango"
+  },
+  {
+    "title": "SecAlerts Cuts Through the Noise with a Smarter, Faster Way to Track Vulnerabilities",
+    "link": "https://thehackernews.com/2025/12/secalerts-cuts-through-noise-with.html",
+    "published": "Tue, 02 Dec 2025 17:00:00 +0530",
+    "summary": "Vulnerability management is a core component of every cybersecurity strategy. However, businesses often use thousands of software without realising it (when was the last time you checked?), and keeping track of all the vulnerability alerts, notifications, and updates can be a burden on resources and often leads to missed vulnerabilities.&nbsp;\nTaking into account that nearly 10% of"
+  },
+  {
+    "title": "Google Patches 107 Android Flaws, Including Two Framework Bugs Exploited in the Wild",
+    "link": "https://thehackernews.com/2025/12/google-patches-107-android-flaws.html",
+    "published": "Tue, 02 Dec 2025 12:47:00 +0530",
+    "summary": "Google on Monday released monthly security updates for the Android operating system, including two vulnerabilities that it said have been exploited in the wild.\nThe patch addresses a total of 107 security flaws spanning different components, including Framework, System, Kernel, as well as those from Arm, Imagination Technologies, MediaTek, Qualcomm, and Unison.\nThe two high-severity shortcomings"
+  },
+  {
+    "title": "India Orders Phone Makers to Pre-Install Government App to Tackle Telecom Fraud",
+    "link": "https://thehackernews.com/2025/12/india-orders-phone-makers-to-pre.html",
+    "published": "Mon, 01 Dec 2025 23:25:00 +0530",
+    "summary": "India's telecommunications ministry has ordered major mobile device manufacturers to preload a government-backed cybersecurity app named Sanchar Saathi on all new phones within 90 days.\nAccording to a report from Reuters, the app cannot be deleted or disabled from users' devices.\nSanchar Saathi, available on the web and via mobile apps for Android and iOS, allows users to report suspected fraud,"
+  },
+  {
+    "title": "ShadyPanda Turns Popular Browser Extensions with 4.3 Million Installs Into Spyware",
+    "link": "https://thehackernews.com/2025/12/shadypanda-turns-popular-browser.html",
+    "published": "Mon, 01 Dec 2025 22:59:00 +0530",
+    "summary": "A threat actor known as ShadyPanda has been linked to a seven-year-long browser extension campaign that has amassed over 4.3 million installations over time.\nFive of these extensions started off as legitimate programs before malicious changes were introduced in mid-2024, according to a report from Koi Security, attracting 300,000 installs. These extensions have since been taken down.\n\"These"
+  },
+  {
+    "title": "⚡ Weekly Recap: Hot CVEs, npm Worm Returns, Firefox RCE, M365 Email Raid & More",
+    "link": "https://thehackernews.com/2025/12/weekly-recap-hot-cves-npm-worm-returns.html",
+    "published": "Mon, 01 Dec 2025 18:17:00 +0530",
+    "summary": "Hackers aren’t kicking down the door anymore. They just use the same tools we use every day — code packages, cloud accounts, email, chat, phones, and “trusted” partners — and turn them against us.\nOne bad download can leak your keys. One weak vendor can expose many customers at once. One guest invite, one link on a phone, one bug in a common tool, and suddenly your mail, chats, repos, and"
+  }
+]
