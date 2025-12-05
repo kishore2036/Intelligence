@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Silver Fox Uses Fake Microsoft Teams Installer to Spread ValleyRAT Malware in China",
+    "link": "https://thehackernews.com/2025/12/silver-fox-uses-fake-microsoft-teams.html",
+    "published": "Thu, 04 Dec 2025 22:55:00 +0530",
+    "summary": "The threat actor known as Silver Fox has been spotted orchestrating a false flag operation to mimic a Russian threat group in attacks targeting organizations in China.\nThe search engine optimization (SEO) poisoning campaign leverages Microsoft Teams lures to trick unsuspecting users into downloading a malicious setup file that leads to the deployment of ValleyRAT (Winos 4.0), a known malware"
+  },
+  {
+    "title": "ThreatsDay Bulletin: Wi-Fi Hack, npm Worm, DeFi Theft, Phishing Blasts— and 15 More Stories",
+    "link": "https://thehackernews.com/2025/12/threatsday-bulletin-wi-fi-hack-npm-worm.html",
+    "published": "Thu, 04 Dec 2025 17:28:00 +0530",
+    "summary": "Think your Wi-Fi is safe? Your coding tools? Or even your favorite financial apps? This week proves again how hackers, companies, and governments are all locked in a nonstop race to outsmart each other.\nHere’s a quick rundown of the latest cyber stories that show how fast the game keeps changing.\n\n\n\n\n\n\n\n  \n  \n    DeFi exploit drains funds\n    \n      Critical yETH Exploit Used to Steal $9M"
+  },
+  {
+    "title": "5 Threats That Reshaped Web Security This Year [2025]",
+    "link": "https://thehackernews.com/2025/12/5-threats-that-reshaped-web-security.html",
+    "published": "Thu, 04 Dec 2025 17:00:00 +0530",
+    "summary": "As 2025 draws to a close, security professionals face a sobering realization: the traditional playbook for web security has become dangerously obsolete. AI-powered attacks, evolving injection techniques, and supply chain compromises affecting hundreds of thousands of websites forced a fundamental rethink of defensive strategies.\nHere are the five threats that reshaped web security this year, and"
+  },
+  {
+    "title": "GoldFactory Hits Southeast Asia with Modified Banking Apps Driving 11,000+ Infections",
+    "link": "https://thehackernews.com/2025/12/goldfactory-hits-southeast-asia-with.html",
+    "published": "Thu, 04 Dec 2025 14:57:00 +0530",
+    "summary": "Cybercriminals associated with a financially motivated group known as GoldFactory have been observed staging a fresh round of attacks targeting mobile users in Indonesia, Thailand, and Vietnam by impersonating government services.\nThe activity, observed since October 2024, involves distributing modified banking applications that act as a conduit for Android malware, Group-IB said in a technical"
+  },
+  {
+    "title": "Record 29.7 Tbps DDoS Attack Linked to AISURU Botnet with up to 4 Million Infected Hosts",
+    "link": "https://thehackernews.com/2025/12/record-297-tbps-ddos-attack-linked-to.html",
+    "published": "Thu, 04 Dec 2025 12:22:00 +0530",
+    "summary": "Cloudflare on Wednesday said it detected and mitigated the largest ever distributed denial-of-service (DDoS) attack that measured at 29.7 terabits per second (Tbps).\nThe activity, the web infrastructure and security company said, originated from a DDoS botnet-for-hire known as AISURU, which has been linked to a number of hyper-volumetric DDoS attacks over the past year. The attack lasted for 69"
+  },
+  {
+    "title": "Critical RSC Bugs in React and Next.js Allow Unauthenticated Remote Code Execution",
+    "link": "https://thehackernews.com/2025/12/critical-rsc-bugs-in-react-and-nextjs.html",
+    "published": "Wed, 03 Dec 2025 23:49:00 +0530",
+    "summary": "A maximum-severity security flaw has been disclosed in React Server Components (RSC) that, if successfully exploited, could result in remote code execution.\nThe vulnerability, tracked as CVE-2025-55182, carries a CVSS score of 10.0. The vulnerability has been codenamed React2shell.\nIt allows \"unauthenticated remote code execution by exploiting a flaw in how React decodes payloads sent to React"
+  },
+  {
+    "title": "Discover the AI Tools Fueling the Next Cybercrime Wave — Watch the Webinar",
+    "link": "https://thehackernews.com/2025/12/discover-ai-tools-fueling-next.html",
+    "published": "Wed, 03 Dec 2025 23:26:00 +0530",
+    "summary": "Remember when phishing emails were easy to spot? Bad grammar, weird formatting, and requests from a \"Prince\" in a distant country?\nThose days are over.\nToday, a 16-year-old with zero coding skills and a $200 allowance can launch a campaign that rivals state-sponsored hackers. They don't need to be smart; they just need to subscribe to the right AI tool.\nWe are witnessing the industrialization of"
+  },
+  {
+    "title": "Microsoft Silently Patches Windows LNK Flaw After Years of Active Exploitation",
+    "link": "https://thehackernews.com/2025/12/microsoft-silently-patches-windows-lnk.html",
+    "published": "Wed, 03 Dec 2025 23:16:36 +0530",
+    "summary": "Microsoft has silently plugged a security flaw that has been exploited by several threat actors since 2017 as part of the company's November 2025 Patch Tuesday updates, according to ACROS Security's 0patch.\nThe vulnerability in question is CVE-2025-9491 (CVSS score: 7.8/7.0), which has been described as a Windows Shortcut (LNK) file UI misinterpretation vulnerability that could lead to remote"
+  },
+  {
+    "title": "WordPress King Addons Flaw Under Active Attack Lets Hackers Make Admin Accounts",
+    "link": "https://thehackernews.com/2025/12/wordpress-king-addons-flaw-under-active.html",
+    "published": "Wed, 03 Dec 2025 22:38:00 +0530",
+    "summary": "A critical security flaw impacting a WordPress plugin known as King Addons for Elementor has come under active exploitation in the wild.\nThe vulnerability, CVE-2025-8489 (CVSS score: 9.8), is a case of privilege escalation that allows unauthenticated attackers to grant themselves administrative privileges by simply specifying the administrator user role during registration.\nIt affects versions"
+  },
+  {
+    "title": "Brazil Hit by Banking Trojan Spread via WhatsApp Worm and RelayNFC NFC Relay Fraud",
+    "link": "https://thehackernews.com/2025/12/brazil-hit-by-banking-trojan-spread-via.html",
+    "published": "Wed, 03 Dec 2025 21:02:00 +0530",
+    "summary": "The threat actor known as Water Saci is actively evolving its tactics, switching to a sophisticated, highly layered infection chain that uses HTML Application (HTA) files and PDFs to propagate via WhatsApp a worm that deploys a banking trojan in attacks targeting users in Brazil.\nThe latest wave is characterized by the attackers shifting from PowerShell to a Python-based variant that spreads the"
+  }
+]
