@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Zero-Click Agentic Browser Attack Can Delete Entire Google Drive Using Crafted Emails",
+    "link": "https://thehackernews.com/2025/12/zero-click-agentic-browser-attack-can.html",
+    "published": "Fri, 05 Dec 2025 23:23:00 +0530",
+    "summary": "A new agentic browser attack targeting Perplexity's Comet browser that's capable of turning a seemingly innocuous email into a destructive action that wipes a user's entire Google Drive contents, findings from Straiker STAR Labs show.\nThe zero-click Google Drive Wiper technique hinges on connecting the browser to services like Gmail and Google Drive to automate routine tasks by granting them"
+  },
+  {
+    "title": "Critical XXE Bug CVE-2025-66516 (CVSS 10.0) Hits Apache Tika, Requires Urgent Patch",
+    "link": "https://thehackernews.com/2025/12/critical-xxe-bug-cve-2025-66516-cvss.html",
+    "published": "Fri, 05 Dec 2025 21:53:00 +0530",
+    "summary": "A critical security flaw has been disclosed in Apache Tika that could result in an XML external entity (XXE) injection attack.\nThe vulnerability, tracked as CVE-2025-66516, is rated 10.0 on the CVSS scoring scale, indicating maximum severity.\n\"Critical XXE in Apache Tika tika-core (1.13-3.2.1), tika-pdf-module (2.0.0-3.2.1) and tika-parsers (1.13-1.28.5) modules on all platforms allows an"
+  },
+  {
+    "title": "Chinese Hackers Have Started Exploiting the Newly Disclosed React2Shell Vulnerability",
+    "link": "https://thehackernews.com/2025/12/chinese-hackers-have-started-exploiting.html",
+    "published": "Fri, 05 Dec 2025 19:40:00 +0530",
+    "summary": "Two hacking groups with ties to China have been observed weaponizing the newly disclosed security flaw in React Server Components (RSC) within hours of it becoming public knowledge.\nThe vulnerability in question is CVE-2025-55182 (CVSS score: 10.0), aka React2Shell, which allows unauthenticated remote code execution. It has been addressed in React versions 19.0.1, 19.1.2, and 19.2.1.\nAccording"
+  },
+  {
+    "title": "Intellexa Leaks Reveal Zero-Days and Ads-Based Vector for Predator Spyware Delivery",
+    "link": "https://thehackernews.com/2025/12/intellexa-leaks-reveal-zero-days-and.html",
+    "published": "Fri, 05 Dec 2025 17:17:00 +0530",
+    "summary": "A human rights lawyer from Pakistan's Balochistan province received a suspicious link on WhatsApp from an unknown number, marking the first time a civil society member in the country was targeted by Intellexa's Predator spyware, Amnesty International said in a report.\nThe link, the non-profit organization said, is a \"Predator attack attempt based on the technical behaviour of the infection"
+  },
+  {
+    "title": "\"Getting to Yes\": An Anti-Sales Guide for MSPs",
+    "link": "https://thehackernews.com/2025/12/getting-to-yes-anti-sales-guide-for-msps.html",
+    "published": "Fri, 05 Dec 2025 17:00:00 +0530",
+    "summary": "Most MSPs and MSSPs know how to deliver effective security. The challenge is helping prospects understand why it matters in business terms. Too often, sales conversations stall because prospects are overwhelmed, skeptical, or tired of fear-based messaging.\nThat’s why we created ”Getting to Yes”: An Anti-Sales Guide for MSPs. This guide helps service providers transform resistance into trust and"
+  },
+  {
+    "title": "CISA Reports PRC Hackers Using BRICKSTORM for Long-Term Access in U.S. Systems",
+    "link": "https://thehackernews.com/2025/12/cisa-reports-prc-hackers-using.html",
+    "published": "Fri, 05 Dec 2025 13:44:00 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday released details of a backdoor named BRICKSTORM that has been put to use by state-sponsored threat actors from the People's Republic of China (PRC) to maintain long-term persistence on compromised systems.\n\"BRICKSTORM is a sophisticated backdoor for VMware vSphere and Windows environments,\" the agency said. \""
+  },
+  {
+    "title": "JPCERT Confirms Active Command Injection Attacks on Array AG Gateways",
+    "link": "https://thehackernews.com/2025/12/jpcert-confirms-active-command.html",
+    "published": "Fri, 05 Dec 2025 11:10:00 +0530",
+    "summary": "A command injection vulnerability in Array Networks AG Series secure access gateways has been exploited in the wild since August 2025, according to an alert issued by JPCERT/CC this week.\nThe vulnerability, which does not have a CVE identifier, was addressed by the company on May 11, 2025. It's rooted in Array's DesktopDirect, a remote desktop access solution that allows users to securely access"
+  },
+  {
+    "title": "Silver Fox Uses Fake Microsoft Teams Installer to Spread ValleyRAT Malware in China",
+    "link": "https://thehackernews.com/2025/12/silver-fox-uses-fake-microsoft-teams.html",
+    "published": "Thu, 04 Dec 2025 22:55:00 +0530",
+    "summary": "The threat actor known as Silver Fox has been spotted orchestrating a false flag operation to mimic a Russian threat group in attacks targeting organizations in China.\nThe search engine optimization (SEO) poisoning campaign leverages Microsoft Teams lures to trick unsuspecting users into downloading a malicious setup file that leads to the deployment of ValleyRAT (Winos 4.0), a known malware"
+  },
+  {
+    "title": "ThreatsDay Bulletin: Wi-Fi Hack, npm Worm, DeFi Theft, Phishing Blasts— and 15 More Stories",
+    "link": "https://thehackernews.com/2025/12/threatsday-bulletin-wi-fi-hack-npm-worm.html",
+    "published": "Thu, 04 Dec 2025 17:28:00 +0530",
+    "summary": "Think your Wi-Fi is safe? Your coding tools? Or even your favorite financial apps? This week proves again how hackers, companies, and governments are all locked in a nonstop race to outsmart each other.\nHere’s a quick rundown of the latest cyber stories that show how fast the game keeps changing.\n\n\n\n\n\n\n\n  \n  \n    DeFi exploit drains funds\n    \n      Critical yETH Exploit Used to Steal $9M"
+  },
+  {
+    "title": "5 Threats That Reshaped Web Security This Year [2025]",
+    "link": "https://thehackernews.com/2025/12/5-threats-that-reshaped-web-security.html",
+    "published": "Thu, 04 Dec 2025 17:00:00 +0530",
+    "summary": "As 2025 draws to a close, security professionals face a sobering realization: the traditional playbook for web security has become dangerously obsolete. AI-powered attacks, evolving injection techniques, and supply chain compromises affecting hundreds of thousands of websites forced a fundamental rethink of defensive strategies.\nHere are the five threats that reshaped web security this year, and"
+  }
+]
