@@ -1,0 +1,62 @@
+[
+  {
+    "title": "React2Shell Exploitation Delivers Crypto Miners and New Malware Across Multiple Sectors",
+    "link": "https://thehackernews.com/2025/12/react2shell-exploitation-delivers.html",
+    "published": "Thu, 11 Dec 2025 01:49:00 +0530",
+    "summary": "React2Shell continues to witness heavy exploitation, with threat actors leveraging the maximum-severity security flaw in React Server Components (RSC) to deliver cryptocurrency miners and an array of previously undocumented malware families, according to new findings from Huntress.\nThis includes a Linux backdoor called PeerBlight, a reverse proxy tunnel named CowTunnel, and a Go-based"
+  },
+  {
+    "title": ".NET SOAPwn Flaw Opens Door for File Writes and Remote Code Execution via Rogue WSDL",
+    "link": "https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html",
+    "published": "Thu, 11 Dec 2025 00:51:00 +0530",
+    "summary": "New research has uncovered exploitation primitives in the .NET Framework that could be leveraged against enterprise-grade applications to achieve remote code execution.\nWatchTowr Labs, which has codenamed the \"invalid cast vulnerability\" SOAPwn, said the issue impacts Barracuda Service Center RMM, Ivanti Endpoint Manager (EPM), and Umbraco 8. But the number of affected vendors is likely to be"
+  },
+  {
+    "title": "Three PCIe Encryption Weaknesses Expose PCIe 5.0+ Systems to Faulty Data Handling",
+    "link": "https://thehackernews.com/2025/12/three-pcie-encryption-weaknesses-expose.html",
+    "published": "Wed, 10 Dec 2025 19:02:00 +0530",
+    "summary": "Three security vulnerabilities have been disclosed in the Peripheral Component Interconnect Express (PCIe) Integrity and Data Encryption (IDE) protocol specification that could expose a local attacker to serious risks.\nThe flaws impact PCIe Base Specification Revision 5.0 and onwards in the protocol mechanism introduced by the IDE Engineering Change Notice (ECN), according to the PCI Special"
+  },
+  {
+    "title": "Webinar: How Attackers Exploit Cloud Misconfigurations Across AWS, AI Models, and Kubernetes",
+    "link": "https://thehackernews.com/2025/12/webinar-how-attackers-exploit-cloud.html",
+    "published": "Wed, 10 Dec 2025 17:24:00 +0530",
+    "summary": "Cloud security is changing. Attackers are no longer just breaking down the door; they are finding unlocked windows in your configurations, your identities, and your code.\nStandard security tools often miss these threats because they look like normal activity. To stop them, you need to see exactly how these attacks happen in the real world.\nNext week, the Cortex Cloud team at Palo Alto Networks"
+  },
+  {
+    "title": "Warning: WinRAR Vulnerability CVE-2025-6218 Under Active Attack by Multiple Threat Groups",
+    "link": "https://thehackernews.com/2025/12/warning-winrar-vulnerability-cve-2025.html",
+    "published": "Wed, 10 Dec 2025 17:24:00 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a security flaw impacting the WinRAR file archiver and compression utility to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerability, tracked as CVE-2025-6218 (CVSS score: 7.8), is a path traversal bug that could enable code execution. However, for exploitation"
+  },
+  {
+    "title": "Microsoft Issues Security Fixes for 56 Flaws, Including Active Exploit and Two Zero-Days",
+    "link": "https://thehackernews.com/2025/12/microsoft-issues-security-fixes-for-56.html",
+    "published": "Wed, 10 Dec 2025 14:20:00 +0530",
+    "summary": "Microsoft closed out 2025 with patches for 56 security flaws in various products across the Windows platform, including one vulnerability that has been actively exploited in the wild.\nOf the 56 flaws, three are rated Critical, and 53 are rated Important in severity. Two other defects are listed as publicly known at the time of the release. These include 29 privilege escalation, 18 remote code"
+  },
+  {
+    "title": "Fortinet, Ivanti, and SAP Issue Urgent Patches for Authentication and Code Execution Flaws",
+    "link": "https://thehackernews.com/2025/12/fortinet-ivanti-and-sap-issue-urgent.html",
+    "published": "Wed, 10 Dec 2025 10:20:00 +0530",
+    "summary": "Fortinet, Ivanti, and SAP have moved to address critical security flaws in their products that, if successfully exploited, could result in an authentication bypass and code execution.\nThe Fortinet vulnerabilities affect FortiOS, FortiWeb, FortiProxy, and FortiSwitchManager and relate to a case of improper verification of a cryptographic signature. They are tracked as CVE-2025-59718 and"
+  },
+  {
+    "title": "North Korea-linked Actors Exploit React2Shell to Deploy New EtherRAT Malware",
+    "link": "https://thehackernews.com/2025/12/north-korea-linked-actors-exploit.html",
+    "published": "Tue, 09 Dec 2025 23:55:00 +0530",
+    "summary": "Threat actors with ties to North Korea have likely become the latest to exploit the recently disclosed critical React2Shell security flaw in React&nbsp;Server Components (RSC) to deliver a previously undocumented remote access trojan dubbed EtherRAT.\n\"EtherRAT leverages Ethereum smart contracts for command-and-control (C2) resolution, deploys five independent Linux persistence mechanisms, and"
+  },
+  {
+    "title": "Four Threat Clusters Using CastleLoader as GrayBravo Expands Its Malware Service Infrastructure",
+    "link": "https://thehackernews.com/2025/12/four-threat-clusters-using-castleloader.html",
+    "published": "Tue, 09 Dec 2025 21:31:00 +0530",
+    "summary": "Four distinct threat activity clusters have been observed leveraging a malware loader known as CastleLoader, strengthening the previous assessment that the tool is offered to other threat actors under a malware-as-a-service (MaaS) model.\nThe threat actor behind CastleLoader has been assigned the name GrayBravo by Recorded Future's Insikt Group, which was previously tracking it as TAG-150. The"
+  },
+  {
+    "title": "Storm-0249 Escalates Ransomware Attacks with ClickFix, Fileless PowerShell, and DLL Sideloading",
+    "link": "https://thehackernews.com/2025/12/storm-0249-escalates-ransomware-attacks.html",
+    "published": "Tue, 09 Dec 2025 19:07:00 +0530",
+    "summary": "The threat actor known as Storm-0249 is likely shifting from its role as an initial access broker to adopt a combination of more advanced tactics like domain spoofing, DLL side-loading, and fileless PowerShell execution to facilitate ransomware attacks.\n\"These methods allow them to bypass defenses, infiltrate networks, maintain persistence, and operate undetected, raising serious concerns for"
+  }
+]
