@@ -1,0 +1,62 @@
+[
+  {
+    "title": "ThreatsDay Bulletin: Spyware Alerts, Mirai Strikes, Docker Leaks, ValleyRAT Rootkit — and 20 More Stories",
+    "link": "https://thehackernews.com/2025/12/threatsday-bulletin-spyware-alerts.html",
+    "published": "Thu, 11 Dec 2025 19:10:00 +0530",
+    "summary": "This week’s cyber stories show how fast the online world can turn risky. Hackers are sneaking malware into movie downloads, browser add-ons, and even software updates people trust. Tech giants and governments are racing to plug new holes while arguing over privacy and control. And researchers keep uncovering just how much of our digital life is still wide open.\nThe new Threatsday Bulletin"
+  },
+  {
+    "title": "NANOREMOTE Malware Uses Google Drive API for Hidden Control on Windows Systems",
+    "link": "https://thehackernews.com/2025/12/nanoremote-malware-uses-google-drive.html",
+    "published": "Thu, 11 Dec 2025 18:46:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new fully-featured Windows backdoor called NANOREMOTE that uses the Google Drive API for command-and-control (C2) purposes.\nAccording to a report from Elastic Security Labs, the malware shares code similarities with another implant codenamed FINALDRAFT (aka Squidoor) that employs Microsoft Graph API for C2. FINALDRAFT is attributed to a"
+  },
+  {
+    "title": "The Impact of Robotic Process Automation (RPA) on Identity and Access Management",
+    "link": "https://thehackernews.com/2025/12/the-impact-of-robotic-process.html",
+    "published": "Thu, 11 Dec 2025 17:00:00 +0530",
+    "summary": "As enterprises refine their strategies for handling Non-Human Identities (NHIs), Robotic Process Automation (RPA) has become a powerful tool for streamlining operations and enhancing security. However, since RPA bots have varying levels of access to sensitive information, enterprises must be prepared to mitigate a variety of challenges. In large organizations, bots are starting to outnumber"
+  },
+  {
+    "title": "WIRTE Leverages AshenLoader Sideloading to Install the AshTag Espionage Backdoor",
+    "link": "https://thehackernews.com/2025/12/wirte-leverages-ashenloader-sideloading.html",
+    "published": "Thu, 11 Dec 2025 16:30:00 +0530",
+    "summary": "An advanced persistent threat (APT) known as WIRTE has been attributed to attacks targeting government and diplomatic entities across the Middle East with a previously undocumented malware suite dubbed AshTag since 2020.\nPalo Alto Networks Unit 42 is tracking the activity cluster under the name Ashen Lepus. Artifacts uploaded to the VirusTotal platform show that the threat actor has trained its"
+  },
+  {
+    "title": "Unpatched Gogs Zero-Day Exploited Across 700+ Instances Amid Active Attacks",
+    "link": "https://thehackernews.com/2025/12/unpatched-gogs-zero-day-exploited.html",
+    "published": "Thu, 11 Dec 2025 16:00:00 +0530",
+    "summary": "A high-severity unpatched security vulnerability in Gogs has come under active exploitation, with more than 700 compromised instances accessible over the internet, according to new findings from Wiz.\nThe flaw, tracked as CVE-2025-8110 (CVSS score: 8.7), is a case of file overwrite in the file update API of the Go-based self-hosted Git service. A fix for the issue is said to be currently in the"
+  },
+  {
+    "title": "Chrome Targeted by Active In-the-Wild Exploit Tied to Undisclosed High-Severity Flaw",
+    "link": "https://thehackernews.com/2025/12/chrome-targeted-by-active-in-wild.html",
+    "published": "Thu, 11 Dec 2025 12:39:00 +0530",
+    "summary": "Google on Wednesday shipped security updates for its Chrome browser to address three security flaws, including one it said has come under active exploitation in the wild.\nThe vulnerability, rated high in severity, is being tracked under the Chromium issue tracker ID \"466192044.\" Unlike other disclosures, Google has opted to keep information about the CVE identifier, the affected component, and"
+  },
+  {
+    "title": "Active Attacks Exploit Gladinet's Hard-Coded Keys for Unauthorized Access and Code Execution",
+    "link": "https://thehackernews.com/2025/12/hard-coded-gladinet-keys-let-attackers.html",
+    "published": "Thu, 11 Dec 2025 11:26:00 +0530",
+    "summary": "Huntress is warning of a new actively exploited vulnerability in Gladinet's CentreStack and Triofox products stemming from the use of hard-coded cryptographic keys that have affected nine organizations so far.\n\"Threat actors can potentially abuse this as a way to access the web.config file, opening the door for deserialization and remote code execution,\" security researcher Bryan Masters said."
+  },
+  {
+    "title": "React2Shell Exploitation Delivers Crypto Miners and New Malware Across Multiple Sectors",
+    "link": "https://thehackernews.com/2025/12/react2shell-exploitation-delivers.html",
+    "published": "Thu, 11 Dec 2025 01:49:00 +0530",
+    "summary": "React2Shell continues to witness heavy exploitation, with threat actors leveraging the maximum-severity security flaw in React Server Components (RSC) to deliver cryptocurrency miners and an array of previously undocumented malware families, according to new findings from Huntress.\nThis includes a Linux backdoor called PeerBlight, a reverse proxy tunnel named CowTunnel, and a Go-based"
+  },
+  {
+    "title": ".NET SOAPwn Flaw Opens Door for File Writes and Remote Code Execution via Rogue WSDL",
+    "link": "https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html",
+    "published": "Thu, 11 Dec 2025 00:51:00 +0530",
+    "summary": "New research has uncovered exploitation primitives in the .NET Framework that could be leveraged against enterprise-grade applications to achieve remote code execution.\nWatchTowr Labs, which has codenamed the \"invalid cast vulnerability\" SOAPwn, said the issue impacts Barracuda Service Center RMM, Ivanti Endpoint Manager (EPM), and Umbraco 8. But the number of affected vendors is likely to be"
+  },
+  {
+    "title": "Three PCIe Encryption Weaknesses Expose PCIe 5.0+ Systems to Faulty Data Handling",
+    "link": "https://thehackernews.com/2025/12/three-pcie-encryption-weaknesses-expose.html",
+    "published": "Wed, 10 Dec 2025 19:02:00 +0530",
+    "summary": "Three security vulnerabilities have been disclosed in the Peripheral Component Interconnect Express (PCIe) Integrity and Data Encryption (IDE) protocol specification that could expose a local attacker to serious risks.\nThe flaws impact PCIe Base Specification Revision 5.0 and onwards in the protocol mechanism introduced by the IDE Engineering Change Notice (ECN), according to the PCI Special"
+  }
+]
