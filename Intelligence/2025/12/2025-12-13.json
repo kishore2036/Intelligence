@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Fake OSINT and GPT Utility GitHub Repos Spread PyStoreRAT Malware Payloads",
+    "link": "https://thehackernews.com/2025/12/fake-osint-and-gpt-utility-github-repos.html",
+    "published": "Sat, 13 Dec 2025 00:20:00 +0530",
+    "summary": "Cybersecurity researchers are calling attention to a new campaign that's leveraging GitHub-hosted Python repositories to distribute a previously undocumented JavaScript-based Remote Access Trojan (RAT) dubbed PyStoreRAT.\n\"These repositories, often themed as development utilities or OSINT tools, contain only a few lines of code responsible for silently downloading a remote HTA file and executing"
+  },
+  {
+    "title": "New Advanced Phishing Kits Use AI and MFA Bypass Tactics to Steal Credentials at Scale",
+    "link": "https://thehackernews.com/2025/12/new-advanced-phishing-kits-use-ai-and.html",
+    "published": "Fri, 12 Dec 2025 19:34:00 +0530",
+    "summary": "Cybersecurity researchers have documented four new phishing kits named BlackForce, GhostFrame, InboxPrime AI, and Spiderman that are capable of facilitating credential theft at scale.\nBlackForce, first detected in August 2025, is designed to steal credentials and perform Man-in-the-Browser (MitB) attacks to capture one-time passwords (OTPs) and bypass multi-factor authentication (MFA). The kit"
+  },
+  {
+    "title": "Securing GenAI in the Browser: Policy, Isolation, and Data Controls That Actually Work",
+    "link": "https://thehackernews.com/2025/12/securing-genai-in-browser-policy.html",
+    "published": "Fri, 12 Dec 2025 15:48:00 +0530",
+    "summary": "The browser has become the main interface to GenAI for most enterprises: from web-based LLMs and copilots, to GenAI‑powered extensions and agentic browsers like ChatGPT Atlas. Employees are leveraging the power of GenAI to draft emails, summarize documents, work on code, and analyze data, often by copying/pasting sensitive information directly into prompts or uploading files.&nbsp;\nTraditional"
+  },
+  {
+    "title": "New React RSC Vulnerabilities Enable DoS and Source Code Exposure",
+    "link": "https://thehackernews.com/2025/12/new-react-rsc-vulnerabilities-enable.html",
+    "published": "Fri, 12 Dec 2025 14:25:00 +0530",
+    "summary": "The React team has released fixes for two new types of flaws in React Server Components (RSC) that, if successfully exploited, could result in denial-of-service (DoS) or source code exposure.\nThe team said the issues were found by the security community while attempting to exploit the patches released for CVE-2025-55182 (CVSS score: 10.0), a critical bug in RSC that has since been weaponized in"
+  },
+  {
+    "title": "React2Shell Exploitation Escalates into Large-Scale Global Attacks, Forcing Emergency Mitigation",
+    "link": "https://thehackernews.com/2025/12/react2shell-exploitation-escalates-into.html",
+    "published": "Fri, 12 Dec 2025 14:11:00 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged federal agencies to patch the recent React2Shell vulnerability by December 12, 2025, amid reports of widespread exploitation.\nThe critical vulnerability, tracked as CVE-2025-55182 (CVSS score: 10.0), affects the React Server Components (RSC) Flight protocol. The underlying cause of the issue is an unsafe deserialization"
+  },
+  {
+    "title": "CISA Flags Actively Exploited GeoServer XXE Flaw in Updated KEV Catalog",
+    "link": "https://thehackernews.com/2025/12/cisa-flags-actively-exploited-geoserver.html",
+    "published": "Fri, 12 Dec 2025 10:31:00 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a high-severity security flaw impacting OSGeo GeoServer to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation in the wild.\nThe vulnerability in question is CVE-2025-58360 (CVSS score: 8.2), an unauthenticated XML External Entity (XXE) flaw that affects all versions prior to"
+  },
+  {
+    "title": "ThreatsDay Bulletin: Spyware Alerts, Mirai Strikes, Docker Leaks, ValleyRAT Rootkit — and 20 More Stories",
+    "link": "https://thehackernews.com/2025/12/threatsday-bulletin-spyware-alerts.html",
+    "published": "Thu, 11 Dec 2025 19:10:00 +0530",
+    "summary": "This week’s cyber stories show how fast the online world can turn risky. Hackers are sneaking malware into movie downloads, browser add-ons, and even software updates people trust. Tech giants and governments are racing to plug new holes while arguing over privacy and control. And researchers keep uncovering just how much of our digital life is still wide open.\nThe new Threatsday Bulletin"
+  },
+  {
+    "title": "NANOREMOTE Malware Uses Google Drive API for Hidden Control on Windows Systems",
+    "link": "https://thehackernews.com/2025/12/nanoremote-malware-uses-google-drive.html",
+    "published": "Thu, 11 Dec 2025 18:46:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new fully-featured Windows backdoor called NANOREMOTE that uses the Google Drive API for command-and-control (C2) purposes.\nAccording to a report from Elastic Security Labs, the malware shares code similarities with another implant codenamed FINALDRAFT (aka Squidoor) that employs Microsoft Graph API for C2. FINALDRAFT is attributed to a"
+  },
+  {
+    "title": "The Impact of Robotic Process Automation (RPA) on Identity and Access Management",
+    "link": "https://thehackernews.com/2025/12/the-impact-of-robotic-process.html",
+    "published": "Thu, 11 Dec 2025 17:00:00 +0530",
+    "summary": "As enterprises refine their strategies for handling Non-Human Identities (NHIs), Robotic Process Automation (RPA) has become a powerful tool for streamlining operations and enhancing security. However, since RPA bots have varying levels of access to sensitive information, enterprises must be prepared to mitigate a variety of challenges. In large organizations, bots are starting to outnumber"
+  },
+  {
+    "title": "WIRTE Leverages AshenLoader Sideloading to Install the AshTag Espionage Backdoor",
+    "link": "https://thehackernews.com/2025/12/wirte-leverages-ashenloader-sideloading.html",
+    "published": "Thu, 11 Dec 2025 16:30:00 +0530",
+    "summary": "An advanced persistent threat (APT) known as WIRTE has been attributed to attacks targeting government and diplomatic entities across the Middle East with a previously undocumented malware suite dubbed AshTag since 2020.\nPalo Alto Networks Unit 42 is tracking the activity cluster under the name Ashen Lepus. Artifacts uploaded to the VirusTotal platform show that the threat actor has trained its"
+  }
+]
