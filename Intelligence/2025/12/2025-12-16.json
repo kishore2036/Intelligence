@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Featured Chrome Browser Extension Caught Intercepting Millions of Users' AI Chats",
+    "link": "https://thehackernews.com/2025/12/featured-chrome-browser-extension.html",
+    "published": "Mon, 15 Dec 2025 23:16:00 +0530",
+    "summary": "A Google Chrome extension with a \"Featured\" badge and six million users has been observed silently gathering every prompt entered by users into artificial intelligence (AI)-powered chatbots like OpenAI ChatGPT, Anthropic Claude, Microsoft Copilot, DeepSeek, Google Gemini, xAI Grok, Meta AI, and Perplexity.\nThe extension in question is Urban VPN Proxy, which has a 4.7 rating on the Google Chrome"
+  },
+  {
+    "title": "FreePBX Patches Critical SQLi, File-Upload, and AUTHTYPE Bypass Flaws Enabling RCE",
+    "link": "https://thehackernews.com/2025/12/freepbx-authentication-bypass-exposed.html",
+    "published": "Mon, 15 Dec 2025 20:02:00 +0530",
+    "summary": "Multiple security vulnerabilities have been disclosed in the open-source private branch exchange (PBX) platform FreePBX, including a critical flaw that could result in an authentication bypass under certain configurations.\nThe shortcomings, discovered by Horizon3.ai and reported to the project maintainers on September 15, 2025, are listed below -\n\nCVE-2025-61675 (CVSS score: 8.6) - Numerous"
+  },
+  {
+    "title": "⚡ Weekly Recap: Apple 0-Days, WinRAR Exploit, LastPass Fines, .NET RCE, OAuth Scams & More",
+    "link": "https://thehackernews.com/2025/12/weekly-recap-apple-0-days-winrar.html",
+    "published": "Mon, 15 Dec 2025 17:54:00 +0530",
+    "summary": "If you use a smartphone, browse the web, or unzip files on your computer, you are in the crosshairs this week. Hackers are currently exploiting critical flaws in the daily software we all rely on—and in some cases, they started attacking before a fix was even ready.\nBelow, we list the urgent updates you need to install right now to stop these active threats.\n⚡ Threat of the Week\nApple and"
+  },
+  {
+    "title": "A Browser Extension Risk Guide After the ShadyPanda Campaign",
+    "link": "https://thehackernews.com/2025/12/a-browser-extension-risk-guide-after.html",
+    "published": "Mon, 15 Dec 2025 17:25:00 +0530",
+    "summary": "In early December 2025, security researchers exposed a cybercrime campaign that had quietly hijacked popular Chrome and Edge browser extensions on a massive scale.\nA threat group dubbed ShadyPanda spent seven years playing the long game, publishing or acquiring harmless extensions, letting them run clean for years to build trust and gain millions of installs, then suddenly flipping them into"
+  },
+  {
+    "title": "Phantom Stealer Spread by ISO Phishing Emails Hitting Russian Finance Sector",
+    "link": "https://thehackernews.com/2025/12/phantom-stealer-spread-by-iso-phishing.html",
+    "published": "Mon, 15 Dec 2025 14:54:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of an active phishing campaign that's targeting a wide range of sectors in Russia with phishing emails that deliver Phantom Stealer via malicious ISO optical disc images.\nThe activity, codenamed Operation MoneyMount-ISO by Seqrite Labs, has primarily singled out finance and accounting entities, with those in the procurement, legal, payroll"
+  },
+  {
+    "title": "VolkLocker Ransomware Exposed by Hard-Coded Master Key Allowing Free Decryption",
+    "link": "https://thehackernews.com/2025/12/volklocker-ransomware-exposed-by-hard.html",
+    "published": "Mon, 15 Dec 2025 11:03:00 +0530",
+    "summary": "The pro-Russian hacktivist group known as CyberVolk (aka GLORIAMIST) has resurfaced with a new ransomware-as-a-service (RaaS) offering called VolkLocker that suffers from implementation lapses in test artifacts, allowing users to decrypt files without paying an extortion fee.\nAccording to SentinelOne, VolkLocker (aka CyberVolk 2.x) emerged in August 2025 and is capable of targeting both Windows"
+  },
+  {
+    "title": "CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks",
+    "link": "https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html",
+    "published": "Sat, 13 Dec 2025 18:03:00 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity flaw impacting Sierra Wireless AirLink ALEOS routers to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild.\nCVE-2018-4063 (CVSS score: 8.8/9.9) refers to an unrestricted file upload vulnerability that could be exploited to achieve remote code"
+  },
+  {
+    "title": "Apple Issues Security Updates After Two WebKit Flaws Found Exploited in the Wild",
+    "link": "https://thehackernews.com/2025/12/apple-issues-security-updates-after-two.html",
+    "published": "Sat, 13 Dec 2025 11:02:00 +0530",
+    "summary": "Apple on Friday released security updates for iOS, iPadOS, macOS, tvOS, watchOS, visionOS, and its Safari web browser to address two security flaws that it said have been exploited in the wild, one of which is the same flaw that was patched by Google in Chrome earlier this week.\nThe vulnerabilities are listed below -\n\nCVE-2025-43529 (CVSS score: N/A) - A use-after-free vulnerability in WebKit"
+  },
+  {
+    "title": "Fake OSINT and GPT Utility GitHub Repos Spread PyStoreRAT Malware Payloads",
+    "link": "https://thehackernews.com/2025/12/fake-osint-and-gpt-utility-github-repos.html",
+    "published": "Sat, 13 Dec 2025 00:20:00 +0530",
+    "summary": "Cybersecurity researchers are calling attention to a new campaign that's leveraging GitHub-hosted Python repositories to distribute a previously undocumented JavaScript-based Remote Access Trojan (RAT) dubbed PyStoreRAT.\n\"These repositories, often themed as development utilities or OSINT tools, contain only a few lines of code responsible for silently downloading a remote HTA file and executing"
+  },
+  {
+    "title": "New Advanced Phishing Kits Use AI and MFA Bypass Tactics to Steal Credentials at Scale",
+    "link": "https://thehackernews.com/2025/12/new-advanced-phishing-kits-use-ai-and.html",
+    "published": "Fri, 12 Dec 2025 19:34:00 +0530",
+    "summary": "Cybersecurity researchers have documented four new phishing kits named BlackForce, GhostFrame, InboxPrime AI, and Spiderman that are capable of facilitating credential theft at scale.\nBlackForce, first detected in August 2025, is designed to steal credentials and perform Man-in-the-Browser (MitB) attacks to capture one-time passwords (OTPs) and bypass multi-factor authentication (MFA). The kit"
+  }
+]
