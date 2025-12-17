@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Compromised IAM Credentials Power a Large AWS Crypto Mining Campaign",
+    "link": "https://thehackernews.com/2025/12/compromised-iam-credentials-power-large.html",
+    "published": "Tue, 16 Dec 2025 22:05:00 +0530",
+    "summary": "An ongoing campaign has been observed targeting Amazon Web Services (AWS) customers using compromised Identity and Access Management (IAM) credentials to enable cryptocurrency mining.\nThe activity, first detected by Amazon's GuardDuty managed threat detection service and its automated security monitoring systems on November 2, 2025, employs never-before-seen persistence techniques to hamper"
+  },
+  {
+    "title": "Rogue NuGet Package Poses as Tracer.Fody, Steals Cryptocurrency Wallet Data",
+    "link": "https://thehackernews.com/2025/12/rogue-nuget-package-poses-as-tracerfody.html",
+    "published": "Tue, 16 Dec 2025 21:09:00 +0530",
+    "summary": "Cybersecurity researchers have discovered a new malicious NuGet package that typosquats and impersonates the popular .NET tracing library and its author to sneak in a cryptocurrency wallet stealer.\nThe malicious package, named \"Tracer.Fody.NLog,\" remained on the repository for nearly six years. It was published by a user named \"csnemess\" on February 26, 2020. It masquerades as \"Tracer.Fody,\""
+  },
+  {
+    "title": "Amazon Exposes Years-Long GRU Cyber Campaign Targeting Energy and Cloud Infrastructure",
+    "link": "https://thehackernews.com/2025/12/amazon-exposes-years-long-gru-cyber.html",
+    "published": "Tue, 16 Dec 2025 17:57:00 +0530",
+    "summary": "Amazon's threat intelligence team has disclosed details of a \"years-long\" Russian state-sponsored campaign that targeted Western critical infrastructure between 2021 and 2025.\nTargets of the campaign included energy sector organizations across Western nations, critical infrastructure providers in North America and Europe, and entities with cloud-hosted network infrastructure. The activity has"
+  },
+  {
+    "title": "Why Data Security and Privacy Need to Start in Code",
+    "link": "https://thehackernews.com/2025/12/why-data-security-and-privacy-need-to.html",
+    "published": "Tue, 16 Dec 2025 17:00:00 +0530",
+    "summary": "AI-assisted coding and AI app generation platforms have created an unprecedented surge in software development. Companies are now facing rapid growth in both the number of applications and the pace of change within those applications. Security and privacy teams are under significant pressure as the surface area they must cover is expanding quickly while their staffing levels remain largely"
+  },
+  {
+    "title": "Fortinet FortiGate Under Active Attack Through SAML SSO Authentication Bypass",
+    "link": "https://thehackernews.com/2025/12/fortinet-fortigate-under-active-attack.html",
+    "published": "Tue, 16 Dec 2025 16:28:00 +0530",
+    "summary": "Threat actors have begun to exploit two newly disclosed security flaws in Fortinet FortiGate devices, less than a week after public disclosure.\nCybersecurity company Arctic Wolf said it observed active intrusions involving malicious single sign-on (SSO) logins on FortiGate appliances on December 12, 2025. The attacks exploit two critical authentication bypasses (CVE-2025-59718 and CVE-2025-59719"
+  },
+  {
+    "title": "React2Shell Vulnerability Actively Exploited to Deploy Linux Backdoors",
+    "link": "https://thehackernews.com/2025/12/react2shell-vulnerability-actively.html",
+    "published": "Tue, 16 Dec 2025 13:51:00 +0530",
+    "summary": "The security vulnerability known as React2Shell is being exploited by threat actors to deliver malware families like KSwapDoor and ZnDoor, according to findings from Palo Alto Networks Unit 42 and NTT Security.\n\"KSwapDoor is a professionally engineered remote access tool designed with stealth in mind,\" Justin Moore, senior manager of threat intel research at Palo Alto Networks Unit 42, said in a"
+  },
+  {
+    "title": "Google to Shut Down Dark Web Monitoring Tool in February 2026",
+    "link": "https://thehackernews.com/2025/12/google-to-shut-down-dark-web-monitoring.html",
+    "published": "Tue, 16 Dec 2025 11:32:00 +0530",
+    "summary": "Google has announced that it's discontinuing its dark web report tool in February 2026, less than two years after it was launched as a way for users to monitor if their personal information is found on the dark web.\nTo that end, scans for new dark web breaches will be stopped on January 15, 2026, and the feature will cease to exist effective February 16, 2026.\n\"While the report offered general"
+  },
+  {
+    "title": "Featured Chrome Browser Extension Caught Intercepting Millions of Users' AI Chats",
+    "link": "https://thehackernews.com/2025/12/featured-chrome-browser-extension.html",
+    "published": "Mon, 15 Dec 2025 23:16:00 +0530",
+    "summary": "A Google Chrome extension with a \"Featured\" badge and six million users has been observed silently gathering every prompt entered by users into artificial intelligence (AI)-powered chatbots like OpenAI ChatGPT, Anthropic Claude, Microsoft Copilot, DeepSeek, Google Gemini, xAI Grok, Meta AI, and Perplexity.\nThe extension in question is Urban VPN Proxy, which has a 4.7 rating on the Google Chrome"
+  },
+  {
+    "title": "FreePBX Patches Critical SQLi, File-Upload, and AUTHTYPE Bypass Flaws Enabling RCE",
+    "link": "https://thehackernews.com/2025/12/freepbx-authentication-bypass-exposed.html",
+    "published": "Mon, 15 Dec 2025 20:02:00 +0530",
+    "summary": "Multiple security vulnerabilities have been disclosed in the open-source private branch exchange (PBX) platform FreePBX, including a critical flaw that could result in an authentication bypass under certain configurations.\nThe shortcomings, discovered by Horizon3.ai and reported to the project maintainers on September 15, 2025, are listed below -\n\nCVE-2025-61675 (CVSS score: 8.6) - Numerous"
+  },
+  {
+    "title": "⚡ Weekly Recap: Apple 0-Days, WinRAR Exploit, LastPass Fines, .NET RCE, OAuth Scams & More",
+    "link": "https://thehackernews.com/2025/12/weekly-recap-apple-0-days-winrar.html",
+    "published": "Mon, 15 Dec 2025 17:54:00 +0530",
+    "summary": "If you use a smartphone, browse the web, or unzip files on your computer, you are in the crosshairs this week. Hackers are currently exploiting critical flaws in the daily software we all rely on—and in some cases, they started attacking before a fix was even ready.\nBelow, we list the urgent updates you need to install right now to stop these active threats.\n⚡ Threat of the Week\nApple and"
+  }
+]
