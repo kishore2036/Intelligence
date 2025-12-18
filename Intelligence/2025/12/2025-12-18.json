@@ -1,0 +1,62 @@
+[
+  {
+    "title": "SonicWall Fixes Actively Exploited CVE-2025-40602 in SMA 100 Appliances",
+    "link": "https://thehackernews.com/2025/12/sonicwall-fixes-actively-exploited-cve.html",
+    "published": "Wed, 17 Dec 2025 23:47:00 +0530",
+    "summary": "SonicWall has rolled out fixes to address a security flaw in Secure Mobile Access (SMA) 100 series appliances that it said has been actively exploited in the wild.\nThe vulnerability, tracked as CVE-2025-40602 (CVSS score: 6.6), concerns a case of local privilege escalation that arises as a result of insufficient authorization in the appliance management console (AMC).\nIt affects the following"
+  },
+  {
+    "title": "Kimwolf Botnet Hijacks 1.8 Million Android TVs, Launches Large-Scale DDoS Attacks",
+    "link": "https://thehackernews.com/2025/12/kimwolf-botnet-hijacks-18-million.html",
+    "published": "Wed, 17 Dec 2025 23:39:00 +0530",
+    "summary": "A new distributed denial-of-service (DDoS) botnet known as Kimwolf has enlisted a massive army of no less than 1.8 million infected devices comprising Android-based TVs, set-top boxes, and tablets, and may be associated with another botnet known as AISURU, according to findings from QiAnXin XLab.\n\"Kimwolf is a botnet compiled using the NDK [Native Development Kit],\" the company said in a report"
+  },
+  {
+    "title": "APT28 Targets Ukrainian UKR-net Users in Long-Running Credential Phishing Campaign",
+    "link": "https://thehackernews.com/2025/12/apt28-targets-ukrainian-ukr-net-users.html",
+    "published": "Wed, 17 Dec 2025 21:00:00 +0530",
+    "summary": "The Russian state-sponsored threat actor known as APT28 has been attributed to what has been described as a \"sustained\" credential-harvesting campaign targeting users of UKR[.]net, a webmail and news service popular in Ukraine.\nThe activity, observed by Recorded Future's Insikt Group between June 2024 and April 2025, builds upon prior findings from the cybersecurity company in May 2024 that"
+  },
+  {
+    "title": "New ForumTroll Phishing Attacks Target Russian Scholars Using Fake eLibrary Emails",
+    "link": "https://thehackernews.com/2025/12/new-forumtroll-phishing-attacks-target.html",
+    "published": "Wed, 17 Dec 2025 20:24:00 +0530",
+    "summary": "The threat actor linked to Operation ForumTroll has been attributed to a fresh set of phishing attacks targeting individuals within Russia, according to Kaspersky.\nThe Russian cybersecurity vendor said it detected the new activity in October 2025. The origins of the threat actor are presently unknown.\n\"While the spring cyberattacks focused on organizations, the fall campaign honed in on"
+  },
+  {
+    "title": "Fix SOC Blind Spots: See Threats to Your Industry & Country in Real Time",
+    "link": "https://thehackernews.com/2025/12/fix-soc-blind-spots-see-threats-to-your.html",
+    "published": "Wed, 17 Dec 2025 17:00:00 +0530",
+    "summary": "Modern security teams often feel like they’re driving through fog with failing headlights. Threats accelerate, alerts multiply, and SOCs struggle to understand which dangers matter right now for their business. Breaking out of reactive defense is no longer optional. It’s the difference between preventing incidents and cleaning up after them.\nBelow is the path from reactive firefighting to a"
+  },
+  {
+    "title": "China-Linked Ink Dragon Hacks Governments Using ShadowPad and FINALDRAFT Malware",
+    "link": "https://thehackernews.com/2025/12/china-linked-ink-dragon-hacks.html",
+    "published": "Wed, 17 Dec 2025 16:42:00 +0530",
+    "summary": "The threat actor known as Jewelbug has been increasingly focusing on government targets in Europe since July 2025, even as it continues to attack entities located in Southeast Asia and South America.\nCheck Point Research is tracking the cluster under the name Ink Dragon. It's also referenced by the broader cybersecurity community under the names CL-STA-0049, Earth Alux, and REF7707. The"
+  },
+  {
+    "title": "GhostPoster Malware Found in 17 Firefox Add-ons with 50,000+ Downloads",
+    "link": "https://thehackernews.com/2025/12/ghostposter-malware-found-in-17-firefox.html",
+    "published": "Wed, 17 Dec 2025 13:44:00 +0530",
+    "summary": "A new campaign named GhostPoster has leveraged logo files associated with 17 Mozilla Firefox browser add-ons to embed malicious JavaScript code designed to hijack affiliate links, inject tracking code, and commit click and ad fraud.\nThe extensions have been collectively downloaded over 50,000 times, according to Koi Security, which discovered the campaign. The add-ons are no longer available."
+  },
+  {
+    "title": "Compromised IAM Credentials Power a Large AWS Crypto Mining Campaign",
+    "link": "https://thehackernews.com/2025/12/compromised-iam-credentials-power-large.html",
+    "published": "Tue, 16 Dec 2025 22:05:00 +0530",
+    "summary": "An ongoing campaign has been observed targeting Amazon Web Services (AWS) customers using compromised Identity and Access Management (IAM) credentials to enable cryptocurrency mining.\nThe activity, first detected by Amazon's GuardDuty managed threat detection service and its automated security monitoring systems on November 2, 2025, employs never-before-seen persistence techniques to hamper"
+  },
+  {
+    "title": "Rogue NuGet Package Poses as Tracer.Fody, Steals Cryptocurrency Wallet Data",
+    "link": "https://thehackernews.com/2025/12/rogue-nuget-package-poses-as-tracerfody.html",
+    "published": "Tue, 16 Dec 2025 21:09:00 +0530",
+    "summary": "Cybersecurity researchers have discovered a new malicious NuGet package that typosquats and impersonates the popular .NET tracing library and its author to sneak in a cryptocurrency wallet stealer.\nThe malicious package, named \"Tracer.Fody.NLog,\" remained on the repository for nearly six years. It was published by a user named \"csnemess\" on February 26, 2020. It masquerades as \"Tracer.Fody,\""
+  },
+  {
+    "title": "Amazon Exposes Years-Long GRU Cyber Campaign Targeting Energy and Cloud Infrastructure",
+    "link": "https://thehackernews.com/2025/12/amazon-exposes-years-long-gru-cyber.html",
+    "published": "Tue, 16 Dec 2025 17:57:00 +0530",
+    "summary": "Amazon's threat intelligence team has disclosed details of a \"years-long\" Russian state-sponsored campaign that targeted Western critical infrastructure between 2021 and 2025.\nTargets of the campaign included energy sector organizations across Western nations, critical infrastructure providers in North America and Europe, and entities with cloud-hosted network infrastructure. The activity has"
+  }
+]
