@@ -1,0 +1,62 @@
+[
+  {
+    "title": "China-Aligned Threat Group Uses Windows Group Policy to Deploy Espionage Malware",
+    "link": "https://thehackernews.com/2025/12/china-aligned-threat-group-uses-windows.html",
+    "published": "Thu, 18 Dec 2025 23:04:00 +0530",
+    "summary": "A previously undocumented China-aligned threat cluster dubbed LongNosedGoblin has been attributed to a series of cyber attacks targeting governmental entities in Southeast Asia and Japan.\nThe end goal of these attacks is cyber espionage, Slovak cybersecurity company ESET said in a report published today. The threat activity cluster has been assessed to be active since at least September 2023.\n\""
+  },
+  {
+    "title": "HPE OneView Flaw Rated CVSS 10.0 Allows Unauthenticated Remote Code Execution",
+    "link": "https://thehackernews.com/2025/12/hpe-oneview-flaw-rated-cvss-100-allows.html",
+    "published": "Thu, 18 Dec 2025 20:09:00 +0530",
+    "summary": "Hewlett Packard Enterprise (HPE) has resolved a maximum-severity security flaw in OneView Software that, if successfully exploited, could result in remote code execution.\nThe critical vulnerability, assigned the CVE identifier CVE-2025-37164, carries a CVSS score of 10.0. HPE OneView is an IT infrastructure management software that streamlines IT operations and controls all systems via a"
+  },
+  {
+    "title": "ThreatsDay Bulletin: WhatsApp Hijacks, MCP Leaks, AI Recon, React2Shell Exploit and 15 More Stories",
+    "link": "https://thehackernews.com/2025/12/threatsday-bulletin-whatsapp-hijacks.html",
+    "published": "Thu, 18 Dec 2025 18:40:00 +0530",
+    "summary": "This week’s ThreatsDay Bulletin tracks how attackers keep reshaping old tools and finding new angles in familiar systems. Small changes in tactics are stacking up fast, and each one hints at where the next big breach could come from.\nFrom shifting infrastructures to clever social hooks, the week’s activity shows just how fluid the threat landscape has become.\nHere’s the full rundown of what"
+  },
+  {
+    "title": "North Korea-Linked Hackers Steal $2.02 Billion in 2025, Leading Global Crypto Theft",
+    "link": "https://thehackernews.com/2025/12/north-korea-linked-hackers-steal-202.html",
+    "published": "Thu, 18 Dec 2025 18:30:00 +0530",
+    "summary": "Threat actors with ties to the Democratic People's Republic of Korea (DPRK or North Korea) have been instrumental in driving a surge in global cryptocurrency theft in 2025, accounting for at least $2.02 billion out of more than $3.4 billion stolen from January through early December.\nThe figure represents a 51% increase year-over-year and $681 million more than 2024, when the threat actors stole"
+  },
+  {
+    "title": "The Case for Dynamic AI-SaaS Security as Copilots Scale",
+    "link": "https://thehackernews.com/2025/12/the-case-for-dynamic-ai-saas-security.html",
+    "published": "Thu, 18 Dec 2025 17:00:00 +0530",
+    "summary": "Within the past year, artificial intelligence copilots and agents have quietly permeated the SaaS applications businesses use every day. Tools like Zoom, Slack, Microsoft 365, Salesforce, and ServiceNow now come with built-in AI assistants or agent-like features. Virtually every major SaaS vendor has rushed to embed AI into their offerings.\nThe result is an explosion of AI capabilities across"
+  },
+  {
+    "title": "Kimsuky Spreads DocSwap Android Malware via QR Phishing Posing as Delivery App",
+    "link": "https://thehackernews.com/2025/12/kimsuky-spreads-docswap-android-malware.html",
+    "published": "Thu, 18 Dec 2025 13:13:00 +0530",
+    "summary": "The North Korean threat actor known as Kimsuky has been linked to a new campaign that distributes a new variant of Android malware called DocSwap via QR codes hosted on phishing sites mimicking Seoul-based logistics firm CJ Logistics (formerly CJ Korea Express).\n\"The threat actor leveraged QR codes and notification pop-ups to lure victims into installing and executing the malware on their mobile"
+  },
+  {
+    "title": "CISA Flags Critical ASUS Live Update Flaw After Evidence of Active Exploitation",
+    "link": "https://thehackernews.com/2025/12/cisa-flags-critical-asus-live-update.html",
+    "published": "Thu, 18 Dec 2025 10:31:00 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical flaw impacting ASUS Live Update to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerability, tracked as CVE-2025-59374 (CVSS score: 9.3), has been described as an \"embedded malicious code vulnerability\" introduced by means of a supply chain compromise"
+  },
+  {
+    "title": "Cisco Warns of Active Attacks Exploiting Unpatched 0-Day in AsyncOS Email Security Appliances",
+    "link": "https://thehackernews.com/2025/12/cisco-warns-of-active-attacks.html",
+    "published": "Thu, 18 Dec 2025 09:40:00 +0530",
+    "summary": "Cisco has alerted users to a maximum-severity zero-day flaw in Cisco AsyncOS software that has been actively exploited by a China-nexus advanced persistent threat (APT) actor codenamed UAT-9686 in attacks targeting Cisco Secure Email Gateway and Cisco Secure Email and Web Manager.\nThe networking equipment major said it became aware of the intrusion campaign on December 10, 2025, and that it"
+  },
+  {
+    "title": "SonicWall Fixes Actively Exploited CVE-2025-40602 in SMA 100 Appliances",
+    "link": "https://thehackernews.com/2025/12/sonicwall-fixes-actively-exploited-cve.html",
+    "published": "Wed, 17 Dec 2025 23:47:00 +0530",
+    "summary": "SonicWall has rolled out fixes to address a security flaw in Secure Mobile Access (SMA) 100 series appliances that it said has been actively exploited in the wild.\nThe vulnerability, tracked as CVE-2025-40602 (CVSS score: 6.6), concerns a case of local privilege escalation that arises as a result of insufficient authorization in the appliance management console (AMC).\nIt affects the following"
+  },
+  {
+    "title": "Kimwolf Botnet Hijacks 1.8 Million Android TVs, Launches Large-Scale DDoS Attacks",
+    "link": "https://thehackernews.com/2025/12/kimwolf-botnet-hijacks-18-million.html",
+    "published": "Wed, 17 Dec 2025 23:39:00 +0530",
+    "summary": "A new distributed denial-of-service (DDoS) botnet known as Kimwolf has enlisted a massive army of no less than 1.8 million infected devices comprising Android-based TVs, set-top boxes, and tablets, and may be associated with another botnet known as AISURU, according to findings from QiAnXin XLab.\n\"Kimwolf is a botnet compiled using the NDK [Native Development Kit],\" the company said in a report"
+  }
+]
