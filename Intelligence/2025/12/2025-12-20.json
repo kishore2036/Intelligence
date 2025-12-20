@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Russia-Linked Hackers Use Microsoft 365 Device Code Phishing for Account Takeovers",
+    "link": "https://thehackernews.com/2025/12/russia-linked-hackers-use-microsoft-365.html",
+    "published": "Fri, 19 Dec 2025 23:24:00 +0530",
+    "summary": "A suspected Russia-aligned group has been attributed to a phishing campaign that employs device code authentication workflows to steal victims' Microsoft 365 credentials and conduct account takeover attacks.\nThe activity, ongoing since September 2025, is being tracked by Proofpoint under the moniker UNK_AcademicFlare.\nThe attacks involve using compromised email addresses belonging to government"
+  },
+  {
+    "title": "Cracked Software and YouTube Videos Spread CountLoader and GachiLoader Malware",
+    "link": "https://thehackernews.com/2025/12/cracked-software-and-youtube-videos.html",
+    "published": "Fri, 19 Dec 2025 21:04:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new campaign that has used cracked software distribution sites as a distribution vector for a new version of a modular and stealthy loader known as CountLoader.\nThe campaign \"uses CountLoader as the initial tool in a multistage attack for access, evasion, and delivery of additional malware families,\" Cyderes Howler Cell Threat Intelligence"
+  },
+  {
+    "title": "WatchGuard Warns of Active Exploitation of Critical Fireware OS VPN Vulnerability",
+    "link": "https://thehackernews.com/2025/12/watchguard-warns-of-active-exploitation.html",
+    "published": "Fri, 19 Dec 2025 16:53:00 +0530",
+    "summary": "WatchGuard has released fixes to address a critical security flaw in Fireware OS that it said has been exploited in real-world attacks.\nTracked as CVE-2025-14733 (CVSS score: 9.3), the vulnerability has been described as a case of out-of-bounds write affecting the iked process that could allow a remote unauthenticated attacker to execute arbitrary code.\n\"This vulnerability affects both the"
+  },
+  {
+    "title": "Nigeria Arrests RaccoonO365 Phishing Developer Linked to Microsoft 365 Attacks",
+    "link": "https://thehackernews.com/2025/12/nigeria-arrests-raccoono365-phishing.html",
+    "published": "Fri, 19 Dec 2025 15:56:00 +0530",
+    "summary": "Authorities in Nigeria have announced the arrest of three \"high-profile internet fraud suspects\" who are alleged to have been involved in phishing attacks targeting major corporations, including the main developer behind the RaccoonO365 phishing-as-a-service (PhaaS) scheme.\nThe Nigeria Police Force National Cybercrime Centre (NPF–NCCC) said investigations conducted in collaboration with"
+  },
+  {
+    "title": "New UEFI Flaw Enables Early-Boot DMA Attacks on ASRock, ASUS, GIGABYTE, MSI Motherboards",
+    "link": "https://thehackernews.com/2025/12/new-uefi-flaw-enables-early-boot-dma.html",
+    "published": "Fri, 19 Dec 2025 13:55:00 +0530",
+    "summary": "Certain motherboard models from vendors like ASRock, ASUSTeK Computer, GIGABYTE, and MSI are affected by a security vulnerability that leaves them susceptible to early-boot direct memory access (DMA) attacks across architectures that implement a Unified Extensible Firmware Interface (UEFI) and input–output memory management unit (IOMMU).\nUEFI and IOMMU are designed to enforce a security"
+  },
+  {
+    "title": "China-Aligned Threat Group Uses Windows Group Policy to Deploy Espionage Malware",
+    "link": "https://thehackernews.com/2025/12/china-aligned-threat-group-uses-windows.html",
+    "published": "Thu, 18 Dec 2025 23:04:00 +0530",
+    "summary": "A previously undocumented China-aligned threat cluster dubbed LongNosedGoblin has been attributed to a series of cyber attacks targeting governmental entities in Southeast Asia and Japan.\nThe end goal of these attacks is cyber espionage, Slovak cybersecurity company ESET said in a report published today. The threat activity cluster has been assessed to be active since at least September 2023.\n\""
+  },
+  {
+    "title": "HPE OneView Flaw Rated CVSS 10.0 Allows Unauthenticated Remote Code Execution",
+    "link": "https://thehackernews.com/2025/12/hpe-oneview-flaw-rated-cvss-100-allows.html",
+    "published": "Thu, 18 Dec 2025 20:09:00 +0530",
+    "summary": "Hewlett Packard Enterprise (HPE) has resolved a maximum-severity security flaw in OneView Software that, if successfully exploited, could result in remote code execution.\nThe critical vulnerability, assigned the CVE identifier CVE-2025-37164, carries a CVSS score of 10.0. HPE OneView is an IT infrastructure management software that streamlines IT operations and controls all systems via a"
+  },
+  {
+    "title": "ThreatsDay Bulletin: WhatsApp Hijacks, MCP Leaks, AI Recon, React2Shell Exploit and 15 More Stories",
+    "link": "https://thehackernews.com/2025/12/threatsday-bulletin-whatsapp-hijacks.html",
+    "published": "Thu, 18 Dec 2025 18:40:00 +0530",
+    "summary": "This week’s ThreatsDay Bulletin tracks how attackers keep reshaping old tools and finding new angles in familiar systems. Small changes in tactics are stacking up fast, and each one hints at where the next big breach could come from.\nFrom shifting infrastructures to clever social hooks, the week’s activity shows just how fluid the threat landscape has become.\nHere’s the full rundown of what"
+  },
+  {
+    "title": "North Korea-Linked Hackers Steal $2.02 Billion in 2025, Leading Global Crypto Theft",
+    "link": "https://thehackernews.com/2025/12/north-korea-linked-hackers-steal-202.html",
+    "published": "Thu, 18 Dec 2025 18:30:00 +0530",
+    "summary": "Threat actors with ties to the Democratic People's Republic of Korea (DPRK or North Korea) have been instrumental in driving a surge in global cryptocurrency theft in 2025, accounting for at least $2.02 billion out of more than $3.4 billion stolen from January through early December.\nThe figure represents a 51% increase year-over-year and $681 million more than 2024, when the threat actors stole"
+  },
+  {
+    "title": "The Case for Dynamic AI-SaaS Security as Copilots Scale",
+    "link": "https://thehackernews.com/2025/12/the-case-for-dynamic-ai-saas-security.html",
+    "published": "Thu, 18 Dec 2025 17:00:00 +0530",
+    "summary": "Within the past year, artificial intelligence copilots and agents have quietly permeated the SaaS applications businesses use every day. Tools like Zoom, Slack, Microsoft 365, Salesforce, and ServiceNow now come with built-in AI assistants or agent-like features. Virtually every major SaaS vendor has rushed to embed AI into their offerings.\nThe result is an explosion of AI capabilities across"
+  }
+]
