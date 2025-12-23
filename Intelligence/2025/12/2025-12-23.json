@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Fake WhatsApp API Package on npm Steals Messages, Contacts, and Login Tokens",
+    "link": "https://thehackernews.com/2025/12/fake-whatsapp-api-package-on-npm-steals.html",
+    "published": "Mon, 22 Dec 2025 21:58:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new malicious package on the npm repository that works as a fully functional WhatsApp API, but also contains the ability to intercept every message and link the attacker's device to a victim's WhatsApp account.\nThe package, named \"lotusbail,\" has been downloaded over 56,000 times since it was first uploaded to the registry by a user named \""
+  },
+  {
+    "title": "⚡ Weekly Recap: Firewall Exploits, AI Data Theft, Android Hacks, APT Attacks, Insider Leaks & More",
+    "link": "https://thehackernews.com/2025/12/weekly-recap-firewall-exploits-ai-data.html",
+    "published": "Mon, 22 Dec 2025 17:30:00 +0530",
+    "summary": "Cyber threats last week showed how attackers no longer need big hacks to cause big damage. They’re going after the everyday tools we trust most — firewalls, browser add-ons, and even smart TVs — turning small cracks into serious breaches.\nThe real danger now isn’t just one major attack, but hundreds of quiet ones using the software and devices already inside our networks. Each trusted system can"
+  },
+  {
+    "title": "How to Browse the Web More Sustainably With a Green Browser",
+    "link": "https://thehackernews.com/2025/12/how-to-browse-sustainably-with-a-green-browser.html",
+    "published": "Mon, 22 Dec 2025 17:25:00 +0530",
+    "summary": "As the internet becomes an essential part of daily life, its environmental footprint continues to grow.&nbsp;\nData centers, constant connectivity, and resource-heavy browsing habits all contribute to energy consumption and digital waste. While individual users may not see this impact directly, the collective effect of everyday browsing is significant.\nChoosing a browser designed with"
+  },
+  {
+    "title": "Android Malware Operations Merge Droppers, SMS Theft, and RAT Capabilities at Scale",
+    "link": "https://thehackernews.com/2025/12/android-malware-operations-merge.html",
+    "published": "Mon, 22 Dec 2025 11:41:00 +0530",
+    "summary": "Threat actors have been observed leveraging malicious dropper apps masquerading as legitimate applications to deliver an Android SMS stealer dubbed Wonderland in mobile attacks targeting users in Uzbekistan.\n\"Previously, users received 'pure' Trojan APKs that acted as malware immediately upon installation,\" Group-IB said in an analysis published last week. \"Now, adversaries increasingly deploy"
+  },
+  {
+    "title": "Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence",
+    "link": "https://thehackernews.com/2025/12/iranian-infy-apt-resurfaces-with-new.html",
+    "published": "Sun, 21 Dec 2025 09:52:00 +0530",
+    "summary": "Threat hunters have discerned new activity associated with an Iranian threat actor known as Infy (aka Prince of Persia), nearly five years after the hacking group was observed targeting victims in Sweden, the Netherlands, and Turkey.\n\"The scale of Prince of Persia's activity is more significant than we originally anticipated,\" Tomer Bar, vice president of security research at SafeBreach, said"
+  },
+  {
+    "title": "U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware",
+    "link": "https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html",
+    "published": "Sat, 20 Dec 2025 19:18:00 +0530",
+    "summary": "The U.S. Department of Justice (DoJ) this week announced the indictment of 54 individuals in connection with a multi-million dollar ATM jackpotting scheme.\nThe large-scale conspiracy involved deploying malware named Ploutus to hack into automated teller machines (ATMs) across the U.S. and force them to dispense cash. The indicted members are alleged to be part of Tren de Aragua (TdA, Spanish for"
+  },
+  {
+    "title": "Russia-Linked Hackers Use Microsoft 365 Device Code Phishing for Account Takeovers",
+    "link": "https://thehackernews.com/2025/12/russia-linked-hackers-use-microsoft-365.html",
+    "published": "Fri, 19 Dec 2025 23:24:00 +0530",
+    "summary": "A suspected Russia-aligned group has been attributed to a phishing campaign that employs device code authentication workflows to steal victims' Microsoft 365 credentials and conduct account takeover attacks.\nThe activity, ongoing since September 2025, is being tracked by Proofpoint under the moniker UNK_AcademicFlare.\nThe attacks involve using compromised email addresses belonging to government"
+  },
+  {
+    "title": "Cracked Software and YouTube Videos Spread CountLoader and GachiLoader Malware",
+    "link": "https://thehackernews.com/2025/12/cracked-software-and-youtube-videos.html",
+    "published": "Fri, 19 Dec 2025 21:04:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new campaign that has used cracked software distribution sites as a distribution vector for a new version of a modular and stealthy loader known as CountLoader.\nThe campaign \"uses CountLoader as the initial tool in a multistage attack for access, evasion, and delivery of additional malware families,\" Cyderes Howler Cell Threat Intelligence"
+  },
+  {
+    "title": "WatchGuard Warns of Active Exploitation of Critical Fireware OS VPN Vulnerability",
+    "link": "https://thehackernews.com/2025/12/watchguard-warns-of-active-exploitation.html",
+    "published": "Fri, 19 Dec 2025 16:53:00 +0530",
+    "summary": "WatchGuard has released fixes to address a critical security flaw in Fireware OS that it said has been exploited in real-world attacks.\nTracked as CVE-2025-14733 (CVSS score: 9.3), the vulnerability has been described as a case of out-of-bounds write affecting the iked process that could allow a remote unauthenticated attacker to execute arbitrary code.\n\"This vulnerability affects both the"
+  },
+  {
+    "title": "Nigeria Arrests RaccoonO365 Phishing Developer Linked to Microsoft 365 Attacks",
+    "link": "https://thehackernews.com/2025/12/nigeria-arrests-raccoono365-phishing.html",
+    "published": "Fri, 19 Dec 2025 15:56:00 +0530",
+    "summary": "Authorities in Nigeria have announced the arrest of three \"high-profile internet fraud suspects\" who are alleged to have been involved in phishing attacks targeting major corporations, including the main developer behind the RaccoonO365 phishing-as-a-service (PhaaS) scheme.\nThe Nigeria Police Force National Cybercrime Centre (NPF–NCCC) said investigations conducted in collaboration with"
+  }
+]
