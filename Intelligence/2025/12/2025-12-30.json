@@ -1,0 +1,62 @@
+[
+  {
+    "title": "⚡ Weekly Recap: MongoDB Attacks, Wallet Breaches, Android Spyware, Insider Crime & More",
+    "link": "https://thehackernews.com/2025/12/weekly-recap-mongodb-attacks-wallet.html",
+    "published": "Mon, 29 Dec 2025 19:08:00 +0530",
+    "summary": "Last week’s cyber news in 2025 was not about one big incident. It was about many small cracks opening at the same time. Tools people trust every day behave in unexpected ways. Old flaws resurfaced. New ones were used almost immediately.\nA common theme ran through it all in 2025. Attackers moved faster than fixes. Access meant for work, updates, or support kept getting abused. And damage did not"
+  },
+  {
+    "title": "MongoDB Vulnerability CVE-2025-14847 Under Active Exploitation Worldwide",
+    "link": "https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html",
+    "published": "Mon, 29 Dec 2025 15:16:00 +0530",
+    "summary": "A recently disclosed security vulnerability in MongoDB has come under active exploitation in the wild, with over 87,000 potentially susceptible instances identified across the world.\nThe vulnerability in question is CVE-2025-14847 (CVSS score: 8.7), which allows an unauthenticated attacker to remotely leak sensitive data from the MongoDB server memory. It has been codenamed MongoBleed.\n\"A flaw"
+  },
+  {
+    "title": "27 Malicious npm Packages Used as Phishing Infrastructure to Steal Login Credentials",
+    "link": "https://thehackernews.com/2025/12/27-malicious-npm-packages-used-as.html",
+    "published": "Mon, 29 Dec 2025 15:14:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of what has been described as a \"sustained and targeted\" spear-phishing campaign that has published over two dozen packages to the npm registry to facilitate credential theft.\nThe activity, which involved uploading 27 npm packages from six different npm aliases, has primarily targeted sales and commercial personnel at critical"
+  },
+  {
+    "title": "Traditional Security Frameworks Leave Organizations Exposed to AI-Specific Attack Vectors",
+    "link": "https://thehackernews.com/2025/12/traditional-security-frameworks-leave.html",
+    "published": "Mon, 29 Dec 2025 12:04:00 +0530",
+    "summary": "In December 2024, the popular Ultralytics AI library was compromised, installing malicious code that hijacked system resources for cryptocurrency mining. In August 2025, malicious Nx packages leaked 2,349 GitHub, cloud, and AI credentials. Throughout 2024, ChatGPT vulnerabilities allowed unauthorized extraction of user data from AI memory.\nThe result: 23.77 million secrets were leaked through AI"
+  },
+  {
+    "title": "New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory",
+    "link": "https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html",
+    "published": "Sat, 27 Dec 2025 13:22:00 +0530",
+    "summary": "A high-severity security flaw has been disclosed in MongoDB that could allow unauthenticated users to read uninitialized heap memory.\nThe vulnerability, tracked as CVE-2025-14847 (CVSS score: 8.7), has been described as a case of improper handling of length parameter inconsistency, which arises when a program fails to appropriately tackle scenarios where a length field is inconsistent with the"
+  },
+  {
+    "title": "Trust Wallet Chrome Extension Breach Caused $7 Million Crypto Loss via Malicious Code",
+    "link": "https://thehackernews.com/2025/12/trust-wallet-chrome-extension-bug.html",
+    "published": "Fri, 26 Dec 2025 21:01:00 +0530",
+    "summary": "Trust Wallet is urging users to update its Google Chrome extension to the latest version following what it described as a \"security incident\" that led to the loss of approximately $7 million.\nThe issue, the multi‑chain, non‑custodial cryptocurrency wallet service said, impacts version 2.68. The extension has about one million users, according to the Chrome Web Store listing. Users are advised to"
+  },
+  {
+    "title": "China-Linked Evasive Panda Ran DNS Poisoning Campaign to Deliver MgBot Malware",
+    "link": "https://thehackernews.com/2025/12/china-linked-evasive-panda-ran-dns.html",
+    "published": "Fri, 26 Dec 2025 20:14:00 +0530",
+    "summary": "A China-linked advanced persistent threat (APT) group has been attributed to a highly-targeted cyber espionage campaign in which the adversary poisoned Domain Name System (DNS) requests to deliver its signature MgBot backdoor in attacks targeting victims in Türkiye, China, and India.\nThe activity, Kaspersky said, was observed between November 2022 and November 2024. It has been linked to a"
+  },
+  {
+    "title": "Critical LangChain Core Vulnerability Exposes Secrets via Serialization Injection",
+    "link": "https://thehackernews.com/2025/12/critical-langchain-core-vulnerability.html",
+    "published": "Fri, 26 Dec 2025 14:57:00 +0530",
+    "summary": "A critical security flaw has been disclosed in LangChain Core that could be exploited by an attacker to steal sensitive secrets and even influence large language model (LLM) responses through prompt injection.\nLangChain Core (i.e., langchain-core) is a core Python package that's part of the LangChain ecosystem, providing the core interfaces and model-agnostic abstractions for building"
+  },
+  {
+    "title": "ThreatsDay Bulletin: Stealth Loaders, AI Chatbot Flaws AI Exploits, Docker Hack, and 15 More Stories",
+    "link": "https://thehackernews.com/2025/12/threatsday-bulletin-stealth-loaders-ai.html",
+    "published": "Thu, 25 Dec 2025 19:31:00 +0530",
+    "summary": "It’s getting harder to tell where normal tech ends and malicious intent begins. Attackers are no longer just breaking in — they’re blending in, hijacking everyday tools, trusted apps, and even AI assistants. What used to feel like clear-cut “hacker stories” now looks more like a mirror of the systems we all use.\nThis week’s findings show a pattern: precision, patience, and persuasion. The"
+  },
+  {
+    "title": "LastPass 2022 Breach Led to Years-Long Cryptocurrency Thefts, TRM Labs Finds",
+    "link": "https://thehackernews.com/2025/12/lastpass-2022-breach-led-to-years-long.html",
+    "published": "Thu, 25 Dec 2025 18:16:00 +0530",
+    "summary": "The encrypted vault backups stolen from the 2022 LastPass data breach have enabled bad actors to take advantage of weak master passwords to crack them open and drain cryptocurrency assets as recently as late 2025, according to new findings from TRM Labs.\nThe blockchain intelligence firm said evidence points to the involvement of Russian cybercriminal actors in the activity, with one of the"
+  }
+]
