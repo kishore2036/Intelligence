@@ -1,0 +1,62 @@
+[
+  {
+    "title": "CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution",
+    "link": "https://thehackernews.com/2025/12/csa-issues-alert-on-critical.html",
+    "published": "Tue, 30 Dec 2025 21:58:00 +0530",
+    "summary": "The Cyber Security Agency of Singapore (CSA) has issued a bulletin warning of a maximum-severity security flaw in SmarterTools SmarterMail email software that could be exploited to achieve remote code execution.\nThe vulnerability, tracked as CVE-2025-52691, carries a CVSS score of 10.0. It relates to a case of arbitrary file upload that could enable code execution without requiring any"
+  },
+  {
+    "title": "Silver Fox Targets Indian Users With Tax-Themed Emails Delivering ValleyRAT Malware",
+    "link": "https://thehackernews.com/2025/12/silver-fox-targets-indian-users-with.html",
+    "published": "Tue, 30 Dec 2025 16:16:00 +0530",
+    "summary": "The threat actor known as Silver Fox has turned its focus to India, using income tax-themed lures in phishing campaigns to distribute a modular remote access trojan called ValleyRAT (aka Winos 4.0).\n\"This sophisticated attack leverages a complex kill chain involving DLL hijacking and the modular Valley RAT to ensure persistence,\" CloudSEK researchers Prajwal Awasthi and Koushik Pal said in an"
+  },
+  {
+    "title": "How to Integrate AI into Modern SOC Workflows",
+    "link": "https://thehackernews.com/2025/12/how-to-integrate-ai-into-modern-soc.html",
+    "published": "Tue, 30 Dec 2025 15:00:00 +0530",
+    "summary": "Artificial intelligence (AI) is making its way into security operations quickly, but many practitioners are still struggling to turn early experimentation into consistent operational value. This is because SOCs are adopting AI without an intentional approach to operational integration. Some teams treat it as a shortcut for broken processes. Others attempt to apply machine learning to problems"
+  },
+  {
+    "title": "Mustang Panda Uses Signed Kernel-Mode Rootkit to Load TONESHELL Backdoor",
+    "link": "https://thehackernews.com/2025/12/mustang-panda-uses-signed-kernel-driver.html",
+    "published": "Tue, 30 Dec 2025 14:05:00 +0530",
+    "summary": "The Chinese hacking group known as Mustang Panda has leveraged a previously undocumented kernel-mode rootkit driver to deliver a new variant of backdoor dubbed TONESHELL in a cyber attack detected in mid-2025 targeting an unspecified entity in Asia.\nThe findings come from Kaspersky, which observed the new backdoor variant in cyber espionage campaigns mounted by the hacking group targeting"
+  },
+  {
+    "title": "⚡ Weekly Recap: MongoDB Attacks, Wallet Breaches, Android Spyware, Insider Crime & More",
+    "link": "https://thehackernews.com/2025/12/weekly-recap-mongodb-attacks-wallet.html",
+    "published": "Mon, 29 Dec 2025 19:08:00 +0530",
+    "summary": "Last week’s cyber news in 2025 was not about one big incident. It was about many small cracks opening at the same time. Tools people trust every day behave in unexpected ways. Old flaws resurfaced. New ones were used almost immediately.\nA common theme ran through it all in 2025. Attackers moved faster than fixes. Access meant for work, updates, or support kept getting abused. And damage did not"
+  },
+  {
+    "title": "MongoDB Vulnerability CVE-2025-14847 Under Active Exploitation Worldwide",
+    "link": "https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html",
+    "published": "Mon, 29 Dec 2025 15:16:00 +0530",
+    "summary": "A recently disclosed security vulnerability in MongoDB has come under active exploitation in the wild, with over 87,000 potentially susceptible instances identified across the world.\nThe vulnerability in question is CVE-2025-14847 (CVSS score: 8.7), which allows an unauthenticated attacker to remotely leak sensitive data from the MongoDB server memory. It has been codenamed MongoBleed.\n\"A flaw"
+  },
+  {
+    "title": "27 Malicious npm Packages Used as Phishing Infrastructure to Steal Login Credentials",
+    "link": "https://thehackernews.com/2025/12/27-malicious-npm-packages-used-as.html",
+    "published": "Mon, 29 Dec 2025 15:14:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of what has been described as a \"sustained and targeted\" spear-phishing campaign that has published over two dozen packages to the npm registry to facilitate credential theft.\nThe activity, which involved uploading 27 npm packages from six different npm aliases, has primarily targeted sales and commercial personnel at critical"
+  },
+  {
+    "title": "Traditional Security Frameworks Leave Organizations Exposed to AI-Specific Attack Vectors",
+    "link": "https://thehackernews.com/2025/12/traditional-security-frameworks-leave.html",
+    "published": "Mon, 29 Dec 2025 12:04:00 +0530",
+    "summary": "In December 2024, the popular Ultralytics AI library was compromised, installing malicious code that hijacked system resources for cryptocurrency mining. In August 2025, malicious Nx packages leaked 2,349 GitHub, cloud, and AI credentials. Throughout 2024, ChatGPT vulnerabilities allowed unauthorized extraction of user data from AI memory.\nThe result: 23.77 million secrets were leaked through AI"
+  },
+  {
+    "title": "New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory",
+    "link": "https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html",
+    "published": "Sat, 27 Dec 2025 13:22:00 +0530",
+    "summary": "A high-severity security flaw has been disclosed in MongoDB that could allow unauthenticated users to read uninitialized heap memory.\nThe vulnerability, tracked as CVE-2025-14847 (CVSS score: 8.7), has been described as a case of improper handling of length parameter inconsistency, which arises when a program fails to appropriately tackle scenarios where a length field is inconsistent with the"
+  },
+  {
+    "title": "Trust Wallet Chrome Extension Breach Caused $7 Million Crypto Loss via Malicious Code",
+    "link": "https://thehackernews.com/2025/12/trust-wallet-chrome-extension-bug.html",
+    "published": "Fri, 26 Dec 2025 21:01:00 +0530",
+    "summary": "Trust Wallet is urging users to update its Google Chrome extension to the latest version following what it described as a \"security incident\" that led to the loss of approximately $7 million.\nThe issue, the multi‑chain, non‑custodial cryptocurrency wallet service said, impacts version 2.68. The extension has about one million users, according to the Chrome Web Store listing. Users are advised to"
+  }
+]
