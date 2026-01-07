@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users",
+    "link": "https://thehackernews.com/2026/01/two-chrome-extensions-caught-stealing.html",
+    "published": "Tue, 06 Jan 2026 22:51:00 +0530",
+    "summary": "Cybersecurity researchers have discovered two new malicious extensions on the Chrome Web Store that are designed to exfiltrate OpenAI ChatGPT and DeepSeek conversations alongside browsing data to servers under the attackers' control.\nThe names of the extensions, which collectively have over 900,000 users, are below -\n\nChat GPT for Chrome with GPT-5, Claude Sonnet &amp; DeepSeek AI (ID:"
+  },
+  {
+    "title": "Unpatched Firmware Flaw Exposes TOTOLINK EX200 to Full Remote Device Takeover",
+    "link": "https://thehackernews.com/2026/01/unpatched-firmware-flaw-exposes.html",
+    "published": "Tue, 06 Jan 2026 21:17:00 +0530",
+    "summary": "The CERT Coordination Center (CERT/CC) has disclosed details of an unpatched security flaw impacting TOTOLINK EX200 wireless range extender that could allow a remote authenticated attacker to gain full control of the device.\nThe flaw, CVE-2025-65606 (CVSS score: N/A), has been characterized as a flaw in the firmware-upload error-handling logic, which could cause the device to inadvertently start"
+  },
+  {
+    "title": "Fake Booking Emails Redirect Hotel Staff to Fake BSoD Pages Delivering DCRat",
+    "link": "https://thehackernews.com/2026/01/fake-booking-emails-redirect-hotel.html",
+    "published": "Tue, 06 Jan 2026 17:43:00 +0530",
+    "summary": "Source: Securonix\nCybersecurity researchers have disclosed details of a new campaign dubbed PHALT#BLYX that has leveraged ClickFix-style lures to display fixes for fake blue screen of death (BSoD) errors in attacks targeting the European hospitality sector.\nThe end goal of the multi-stage campaign is to deliver a remote access trojan known as DCRat, according to cybersecurity company Securonix."
+  },
+  {
+    "title": "What is Identity Dark Matter?",
+    "link": "https://thehackernews.com/2026/01/what-is-identity-dark-matter.html",
+    "published": "Tue, 06 Jan 2026 17:00:00 +0530",
+    "summary": "The Invisible Half of the Identity Universe\nIdentity used to live in one place - an LDAP directory, an HR system, a single IAM portal.\nNot anymore. Today, identity is fragmented across SaaS, on-prem, IaaS, PaaS, home-grown, and shadow applications. Each of these environments carries its own accounts, permissions, and authentication flows.\nTraditional IAM and IGA tools govern only the nearly"
+  },
+  {
+    "title": "VS Code Forks Recommend Missing Extensions, Creating Supply Chain Risk in Open VSX",
+    "link": "https://thehackernews.com/2026/01/vs-code-forks-recommend-missing.html",
+    "published": "Tue, 06 Jan 2026 16:55:00 +0530",
+    "summary": "Popular artificial intelligence (AI)-powered Microsoft Visual Studio Code (VS Code) forks such as Cursor, Windsurf, Google Antigravity, and Trae have been found to recommend extensions that are non-existent in the Open VSX registry, potentially opening the door to supply chain risks when bad actors publish malicious packages under those names.\nThe problem, according to Koi, is that these"
+  },
+  {
+    "title": "New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands",
+    "link": "https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html",
+    "published": "Tue, 06 Jan 2026 10:38:00 +0530",
+    "summary": "A new critical security vulnerability has been disclosed in n8n, an open-source workflow automation platform, that could enable an authenticated attacker to execute arbitrary system commands on the underlying host.\nThe vulnerability, tracked as CVE-2025-68668, is rated 9.9 on the CVSS scoring system. It has been described as a case of a protection mechanism failure. Cyera Research Labs' Vladimir"
+  },
+  {
+    "title": "Critical AdonisJS Bodyparser Flaw (CVSS 9.2) Enables Arbitrary File Write on Servers",
+    "link": "https://thehackernews.com/2026/01/critical-adonisjs-bodyparser-flaw-cvss.html",
+    "published": "Tue, 06 Jan 2026 09:00:00 +0530",
+    "summary": "Users of the \"@adonisjs/bodyparser\" npm package are being advised to update to the latest version following the disclosure of a critical security vulnerability that, if successfully exploited, could allow a remote attacker to write arbitrary files on the server.\nTracked as CVE-2026-21440 (CVSS score: 9.2), the flaw has been described as a path traversal issue affecting the AdonisJS multipart"
+  },
+  {
+    "title": "Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government",
+    "link": "https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html",
+    "published": "Mon, 05 Jan 2026 23:26:00 +0530",
+    "summary": "The Russia-aligned threat actor known as UAC-0184 has been observed targeting Ukrainian military and government entities by leveraging the Viber messaging platform to deliver malicious ZIP archives.\n\"This organization has continued to conduct high-intensity intelligence gathering activities against Ukrainian military and government departments in 2025,\" the 360 Threat Intelligence Center said in"
+  },
+  {
+    "title": "Kimwolf Android Botnet Infects Over 2 Million Devices via Exposed ADB and Proxy Networks",
+    "link": "https://thehackernews.com/2026/01/kimwolf-android-botnet-infects-over-2.html",
+    "published": "Mon, 05 Jan 2026 22:11:00 +0530",
+    "summary": "The botnet known as Kimwolf has infected more than 2 million Android devices by tunneling through residential proxy networks, according to findings from Synthient.\n\"Key actors involved in the Kimwolf botnet are observed monetizing the botnet through app installs, selling residential proxy bandwidth, and selling its DDoS functionality,\" the company said in an analysis published last week.\nKimwolf"
+  },
+  {
+    "title": "⚡ Weekly Recap: IoT Exploits, Wallet Breaches, Rogue Extensions, AI Abuse & More",
+    "link": "https://thehackernews.com/2026/01/weekly-recap-iot-exploits-wallet.html",
+    "published": "Mon, 05 Jan 2026 18:23:00 +0530",
+    "summary": "The year opened without a reset. The same pressure carried over, and in some places it tightened. Systems people assume are boring or stable are showing up in the wrong places. Attacks moved quietly, reused familiar paths, and kept working longer than anyone wants to admit.\nThis week’s stories share one pattern. Nothing flashy. No single moment. Just steady abuse of trust — updates, extensions,"
+  }
+]
