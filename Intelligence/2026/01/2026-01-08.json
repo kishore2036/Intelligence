@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators",
+    "link": "https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html",
+    "published": "Wed, 07 Jan 2026 22:49:00 +0530",
+    "summary": "Security teams are still catching malware. The problem is what they're not catching.\nMore attacks today don't arrive as files. They don't drop binaries. They don't trigger classic alerts. Instead, they run quietly through tools that already exist inside the environment — scripts, remote access, browsers, and developer workflows.\nThat shift is creating a blind spot.\nJoin us for a deep-dive"
+  },
+  {
+    "title": "Black Cat Behind SEO Poisoning Malware Campaign Targeting Popular Software Searches",
+    "link": "https://thehackernews.com/2026/01/black-cat-behind-seo-poisoning-malware.html",
+    "published": "Wed, 07 Jan 2026 22:39:00 +0530",
+    "summary": "A cybercrime gang known as Black Cat has been attributed to a search engine optimization (SEO) poisoning campaign that employs fraudulent sites advertising popular software to trick users into downloading a backdoor capable of stealing sensitive data.\nAccording to a report published by the National Computer Network Emergency Response Technical Team/Coordination Center of China (CNCERT/CC) and"
+  },
+  {
+    "title": "Critical n8n Vulnerability (CVSS 10.0) Allows Unauthenticated Attackers to Take Full Control",
+    "link": "https://thehackernews.com/2026/01/critical-n8n-vulnerability-cvss-100.html",
+    "published": "Wed, 07 Jan 2026 19:18:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of yet another maximum-severity security flaw in n8n, a popular workflow automation platform, that allows an unauthenticated remote attacker to gain complete control over susceptible instances.\nThe vulnerability, tracked as CVE-2026-21858 (CVSS score: 10.0), has been codenamed Ni8mare by Cyera Research Labs. Security researcher Dor Attias has been"
+  },
+  {
+    "title": "n8n Warns of CVSS 10.0 RCE Vulnerability Affecting Self-Hosted and Cloud Versions",
+    "link": "https://thehackernews.com/2026/01/n8n-warns-of-cvss-100-rce-vulnerability.html",
+    "published": "Wed, 07 Jan 2026 16:56:00 +0530",
+    "summary": "Open-source workflow automation platform n8n has warned of a maximum-severity security flaw that, if successfully exploited, could result in authenticated remote code execution (RCE).\nThe vulnerability, which has been assigned the CVE identifier CVE-2026-21877, is rated 10.0 on the CVSS scoring system.\n\"Under certain conditions, an authenticated user may be able to cause untrusted code to be"
+  },
+  {
+    "title": "The Future of Cybersecurity Includes Non-Human Employees",
+    "link": "https://thehackernews.com/2026/01/the-future-of-cybersecurity-includes.html",
+    "published": "Wed, 07 Jan 2026 16:30:00 +0530",
+    "summary": "Non-human employees are becoming the future of cybersecurity, and enterprises need to prepare accordingly. As organizations scale Artificial Intelligence (AI) and cloud automation, there is exponential growth in Non-Human Identities (NHIs), including bots, AI agents, service accounts and automation scripts. In fact, 51% of respondents in ConductorOne’s 2025 Future of Identity Security Report"
+  },
+  {
+    "title": "Veeam Patches Critical RCE Vulnerability with CVSS 9.0 in Backup & Replication",
+    "link": "https://thehackernews.com/2026/01/veeam-patches-critical-rce.html",
+    "published": "Wed, 07 Jan 2026 16:11:00 +0530",
+    "summary": "Veeam has released security updates to address multiple flaws in its Backup &amp; Replication software, including a \"critical\" issue that could result in remote code execution (RCE).\nThe vulnerability, tracked as CVE-2025-59470, carries a CVSS score of 9.0.\n\"This vulnerability allows a Backup or Tape Operator to perform remote code execution (RCE) as the postgres user by sending a malicious"
+  },
+  {
+    "title": "Microsoft Warns Misconfigured Email Routing Can Enable Internal Domain Phishing",
+    "link": "https://thehackernews.com/2026/01/microsoft-warns-misconfigured-email.html",
+    "published": "Wed, 07 Jan 2026 15:12:00 +0530",
+    "summary": "Threat actors engaging in phishing attacks are exploiting routing scenarios and misconfigured spoof protections to impersonate organizations' domains and distribute emails that appear as if they have been sent internally.\n\"Threat actors have leveraged this vector to deliver a wide variety of phishing messages related to various phishing-as-a-service (PhaaS) platforms such as Tycoon 2FA,\" the"
+  },
+  {
+    "title": "Ongoing Attacks Exploiting Critical RCE Vulnerability in Legacy D-Link DSL Routers",
+    "link": "https://thehackernews.com/2026/01/active-exploitation-hits-legacy-d-link.html",
+    "published": "Wed, 07 Jan 2026 10:01:00 +0530",
+    "summary": "A newly discovered critical security flaw in legacy D-Link DSL gateway routers has come under active exploitation in the wild.\nThe vulnerability, tracked as CVE-2026-0625 (CVSS score: 9.3), concerns a case of command injection in the \"dnscfg.cgi\" endpoint that arises as a result of improper sanitization of user-supplied DNS configuration parameters.\n\"An unauthenticated remote attacker can inject"
+  },
+  {
+    "title": "Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users",
+    "link": "https://thehackernews.com/2026/01/two-chrome-extensions-caught-stealing.html",
+    "published": "Tue, 06 Jan 2026 22:51:00 +0530",
+    "summary": "Cybersecurity researchers have discovered two new malicious extensions on the Chrome Web Store that are designed to exfiltrate OpenAI ChatGPT and DeepSeek conversations alongside browsing data to servers under the attackers' control.\nThe names of the extensions, which collectively have over 900,000 users, are below -\n\nChat GPT for Chrome with GPT-5, Claude Sonnet &amp; DeepSeek AI (ID:"
+  },
+  {
+    "title": "Unpatched Firmware Flaw Exposes TOTOLINK EX200 to Full Remote Device Takeover",
+    "link": "https://thehackernews.com/2026/01/unpatched-firmware-flaw-exposes.html",
+    "published": "Tue, 06 Jan 2026 21:17:00 +0530",
+    "summary": "The CERT Coordination Center (CERT/CC) has disclosed details of an unpatched security flaw impacting TOTOLINK EX200 wireless range extender that could allow a remote authenticated attacker to gain full control of the device.\nThe flaw, CVE-2025-65606 (CVSS score: N/A), has been characterized as a flaw in the firmware-upload error-handling logic, which could cause the device to inadvertently start"
+  }
+]
