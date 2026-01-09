@@ -1,0 +1,62 @@
+[
+  {
+    "title": "WhatsApp Worm Spreads Astaroth Banking Trojan Across Brazil via Contact Auto-Messaging",
+    "link": "https://thehackernews.com/2026/01/whatsapp-worm-spreads-astaroth-banking.html",
+    "published": "Thu, 08 Jan 2026 22:40:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new campaign that uses WhatsApp as a distribution vector for a Windows banking trojan called Astaroth in attacks targeting Brazil.\nThe campaign has been codenamed Boto Cor-de-Rosa by Acronis Threat Research Unit.\n\"The malware retrieves the victim's WhatsApp contact list and automatically sends malicious messages to each contact to further"
+  },
+  {
+    "title": "China-Linked UAT-7290 Targets Telecoms with Linux Malware and ORB Nodes",
+    "link": "https://thehackernews.com/2026/01/china-linked-uat-7290-targets-telecoms.html",
+    "published": "Thu, 08 Jan 2026 20:24:00 +0530",
+    "summary": "A China-nexus threat actor known as UAT-7290 has been attributed to espionage-focused intrusions against entities in South Asia and Southeastern Europe.\nThe activity cluster, which has been active since at least 2022, primarily focuses on extensive technical reconnaissance of target organizations before initiating attacks, ultimately leading to the deployment of malware families such as RushDrop"
+  },
+  {
+    "title": "ThreatsDay Bulletin: RustFS Flaw, Iranian Ops, WebUI RCE, Cloud Leaks, and 12 More Stories",
+    "link": "https://thehackernews.com/2026/01/threatsday-bulletin-rustfs-flaw-iranian.html",
+    "published": "Thu, 08 Jan 2026 18:19:00 +0530",
+    "summary": "The internet never stays quiet. Every week, new hacks, scams, and security problems show up somewhere.\nThis week’s stories show how fast attackers change their tricks, how small mistakes turn into big risks, and how the same old tools keep finding new ways to break in.\nRead on to catch up before the next wave hits.\n\n\n\n\n\n\n\n\n  \n  \n    Honeypot Traps Hackers\n    \n      Hackers Fall for"
+  },
+  {
+    "title": "The State of Trusted Open Source",
+    "link": "https://thehackernews.com/2026/01/the-state-of-trusted-open-source.html",
+    "published": "Thu, 08 Jan 2026 17:20:00 +0530",
+    "summary": "Chainguard, the trusted source for open source, has a unique view into how modern organizations actually consume open source software and where they run into risk and operational burdens. Across a growing customer base and an extensive catalog of over 1800 container image projects, 148,000 versions, 290,000 images, and 100,000 language libraries, and almost half a billion builds, they can see"
+  },
+  {
+    "title": "Cisco Patches ISE Security Vulnerability After Public PoC Exploit Release",
+    "link": "https://thehackernews.com/2026/01/cisco-patches-ise-security.html",
+    "published": "Thu, 08 Jan 2026 16:14:00 +0530",
+    "summary": "Cisco has released updates to address a medium-severity security flaw in Identity Services Engine (ISE) and ISE Passive Identity Connector (ISE-PIC) with a public proof-of-concept (PoC) exploit.\nThe vulnerability, tracked as CVE-2026-20029 (CVSS score: 4.9), resides in the licensing feature and could allow an authenticated, remote attacker with administrative privileges to gain access to"
+  },
+  {
+    "title": "Researchers Uncover NodeCordRAT Hidden in npm Bitcoin-Themed Packages",
+    "link": "https://thehackernews.com/2026/01/researchers-uncover-nodecordrat-hidden.html",
+    "published": "Thu, 08 Jan 2026 16:01:00 +0530",
+    "summary": "Cybersecurity researchers have discovered three malicious npm packages that are designed to deliver a previously undocumented malware called NodeCordRAT.\nThe names of the packages, all of which were taken down as of November 2025, are listed below. They were uploaded by a user named \"wenmoonx.\"\n\nbitcoin-main-lib (2,300 Downloads)\nbitcoin-lib-js (193 Downloads)\nbip40 (970 Downloads)\n\n\"The"
+  },
+  {
+    "title": "Coolify Discloses 11 Critical Flaws Enabling Full Server Compromise on Self-Hosted Instances",
+    "link": "https://thehackernews.com/2026/01/coolify-discloses-11-critical-flaws.html",
+    "published": "Thu, 08 Jan 2026 15:23:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of multiple critical-severity security flaws affecting Coolify, an open-source, self-hosting platform, that could result in authentication bypass and remote code execution.\nThe list of vulnerabilities is as follows -\n\nCVE-2025-66209 (CVSS score: 10.0) - A command injection vulnerability in the database backup functionality allows any authenticated"
+  },
+  {
+    "title": "OpenAI Launches ChatGPT Health with Isolated, Encrypted Health Data Controls",
+    "link": "https://thehackernews.com/2026/01/openai-launches-chatgpt-health-with.html",
+    "published": "Thu, 08 Jan 2026 12:27:00 +0530",
+    "summary": "Artificial intelligence (AI) company OpenAI on Wednesday announced the launch of ChatGPT Health, a dedicated space that allows users to have conversations with the chatbot about their health.\nTo that end, the sandboxed experience offers users the optional ability to securely connect medical records and wellness apps, including Apple Health, Function, MyFitnessPal, Weight Watchers, AllTrails,"
+  },
+  {
+    "title": "CISA Flags Microsoft Office and HPE OneView Bugs as Actively Exploited",
+    "link": "https://thehackernews.com/2026/01/cisa-flags-microsoft-office-and-hpe.html",
+    "published": "Thu, 08 Jan 2026 10:22:00 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added two security flaws impacting Microsoft Office and Hewlett Packard Enterprise (HPE) OneView to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerabilities are listed below -\n\nCVE-2009-0556 (CVSS score: 8.8) - A code injection vulnerability in Microsoft Office"
+  },
+  {
+    "title": "Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators",
+    "link": "https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html",
+    "published": "Wed, 07 Jan 2026 22:49:00 +0530",
+    "summary": "Security teams are still catching malware. The problem is what they're not catching.\nMore attacks today don't arrive as files. They don't drop binaries. They don't trigger classic alerts. Instead, they run quietly through tools that already exist inside the environment — scripts, remote access, browsers, and developer workflows.\nThat shift is creating a blind spot.\nJoin us for a deep-dive"
+  }
+]
