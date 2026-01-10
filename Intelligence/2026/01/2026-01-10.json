@@ -1,0 +1,62 @@
+[
+  {
+    "title": "China-Linked Hackers Exploit VMware ESXi Zero-Days to Escape Virtual Machines",
+    "link": "https://thehackernews.com/2026/01/chinese-linked-hackers-exploit-vmware.html",
+    "published": "Fri, 09 Jan 2026 23:13:00 +0530",
+    "summary": "Chinese-speaking threat actors are suspected to have leveraged a compromised SonicWall VPN appliance as an initial access vector to deploy a VMware ESXi exploit that may have been developed as far back as February 2024.\nCybersecurity firm Huntress, which observed the activity in December 2025 and stopped it before it could progress to the final stage, said it may have resulted in a ransomware"
+  },
+  {
+    "title": "Russian APT28 Runs Credential-Stealing Campaign Targeting Energy and Policy Organizations",
+    "link": "https://thehackernews.com/2026/01/russian-apt28-runs-credential-stealing.html",
+    "published": "Fri, 09 Jan 2026 20:58:00 +0530",
+    "summary": "Russian state-sponsored threat actors have been linked to a fresh set of credential harvesting attacks targeting individuals associated with a Turkish energy and nuclear research agency, as well as staff affiliated with a European think tank and organizations in North Macedonia and Uzbekistan.\nThe activity has been attributed to APT28 (aka BlueDelta), which was attributed to a \"sustained\""
+  },
+  {
+    "title": "Cybersecurity Predictions 2026: The Hype We Can Ignore (And the Risks We Can't)",
+    "link": "https://thehackernews.com/2026/01/cybersecurity-predictions-2026-hype-we.html",
+    "published": "Fri, 09 Jan 2026 16:39:00 +0530",
+    "summary": "As organizations plan for 2026, cybersecurity predictions are everywhere. Yet many strategies are still shaped by headlines and speculation rather than evidence. The real challenge isn’t a lack of forecasts—it’s identifying which predictions reflect real, emerging risks and which can safely be ignored.\nAn upcoming webinar hosted by Bitdefender aims to cut through the noise with a data-driven"
+  },
+  {
+    "title": "Trend Micro Apex Central RCE Flaw Scores 9.8 CVSS in On-Prem Windows Versions",
+    "link": "https://thehackernews.com/2026/01/trend-micro-apex-central-rce-flaw.html",
+    "published": "Fri, 09 Jan 2026 15:31:00 +0530",
+    "summary": "Trend Micro has released security updates to address multiple security vulnerabilities impacting on-premise versions of Apex Central for Windows, including a critical bug that could result in arbitrary code execution.\nThe vulnerability, tracked as CVE-2025-69258, carries a CVSS score of 9.8 out of a maximum of 10.0. The vulnerability has been described as a case of remote code execution"
+  },
+  {
+    "title": "CISA Retires 10 Emergency Cybersecurity Directives Issued Between 2019 and 2024",
+    "link": "https://thehackernews.com/2026/01/cisa-retires-10-emergency-cybersecurity.html",
+    "published": "Fri, 09 Jan 2026 14:41:00 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday said it's retiring 10 emergency directives (Eds) that were issued between 2019 and 2024.\nThe list of the directives now considered closed is as follows -\n\nED 19-01: Mitigate DNS Infrastructure Tampering\nED 20-02: Mitigate Windows Vulnerabilities from January 2020 Patch Tuesday\nED 20-03: Mitigate Windows DNS Server"
+  },
+  {
+    "title": "FBI Warns North Korean Hackers Using Malicious QR Codes in Spear-Phishing",
+    "link": "https://thehackernews.com/2026/01/fbi-warns-north-korean-hackers-using.html",
+    "published": "Fri, 09 Jan 2026 11:16:00 +0530",
+    "summary": "The U.S. Federal Bureau of Investigation (FBI) on Thursday released an advisory warning of North Korean state-sponsored threat actors leveraging malicious QR codes in spear-phishing campaigns targeting entities in the country.\n\"As of 2025, Kimsuky actors have targeted think tanks, academic institutions, and both U.S. and foreign government entities with embedded malicious Quick Response (QR)"
+  },
+  {
+    "title": "WhatsApp Worm Spreads Astaroth Banking Trojan Across Brazil via Contact Auto-Messaging",
+    "link": "https://thehackernews.com/2026/01/whatsapp-worm-spreads-astaroth-banking.html",
+    "published": "Thu, 08 Jan 2026 22:40:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new campaign that uses WhatsApp as a distribution vector for a Windows banking trojan called Astaroth in attacks targeting Brazil.\nThe campaign has been codenamed Boto Cor-de-Rosa by Acronis Threat Research Unit.\n\"The malware retrieves the victim's WhatsApp contact list and automatically sends malicious messages to each contact to further"
+  },
+  {
+    "title": "China-Linked UAT-7290 Targets Telecoms with Linux Malware and ORB Nodes",
+    "link": "https://thehackernews.com/2026/01/china-linked-uat-7290-targets-telecoms.html",
+    "published": "Thu, 08 Jan 2026 20:24:00 +0530",
+    "summary": "A China-nexus threat actor known as UAT-7290 has been attributed to espionage-focused intrusions against entities in South Asia and Southeastern Europe.\nThe activity cluster, which has been active since at least 2022, primarily focuses on extensive technical reconnaissance of target organizations before initiating attacks, ultimately leading to the deployment of malware families such as RushDrop"
+  },
+  {
+    "title": "ThreatsDay Bulletin: RustFS Flaw, Iranian Ops, WebUI RCE, Cloud Leaks, and 12 More Stories",
+    "link": "https://thehackernews.com/2026/01/threatsday-bulletin-rustfs-flaw-iranian.html",
+    "published": "Thu, 08 Jan 2026 18:19:00 +0530",
+    "summary": "The internet never stays quiet. Every week, new hacks, scams, and security problems show up somewhere.\nThis week’s stories show how fast attackers change their tricks, how small mistakes turn into big risks, and how the same old tools keep finding new ways to break in.\nRead on to catch up before the next wave hits.\n\n\n\n\n\n\n\n\n  \n  \n    Honeypot Traps Hackers\n    \n      Hackers Fall for"
+  },
+  {
+    "title": "The State of Trusted Open Source",
+    "link": "https://thehackernews.com/2026/01/the-state-of-trusted-open-source.html",
+    "published": "Thu, 08 Jan 2026 17:20:00 +0530",
+    "summary": "Chainguard, the trusted source for open source, has a unique view into how modern organizations actually consume open source software and where they run into risk and operational burdens. Across a growing customer base and an extensive catalog of over 1800 container image projects, 148,000 versions, 290,000 images, and 100,000 language libraries, and almost half a billion builds, they can see"
+  }
+]
