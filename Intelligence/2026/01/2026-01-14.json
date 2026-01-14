@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Long-Running Web Skimming Campaign Steals Credit Cards From Online Checkout Pages",
+    "link": "https://thehackernews.com/2026/01/long-running-web-skimming-campaign.html",
+    "published": "Tue, 13 Jan 2026 23:00:00 +0530",
+    "summary": "Cybersecurity researchers have discovered a major web skimming campaign that has been active since January 2022, targeting several major payment networks like American Express, Diners Club, Discover, JCB Co., Ltd., Mastercard, and UnionPay.\n\"Enterprise organizations that are clients of these payment providers are the most likely to be impacted,\" Silent Push said in a report published today."
+  },
+  {
+    "title": "Malicious Chrome Extension Steals MEXC API Keys by Masquerading as Trading Tool",
+    "link": "https://thehackernews.com/2026/01/malicious-chrome-extension-steals-mexc.html",
+    "published": "Tue, 13 Jan 2026 22:52:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a malicious Google Chrome extension that's capable of stealing API keys associated with MEXC, a centralized cryptocurrency exchange (CEX) available in over 170 countries, while masquerading as a tool to automate trading on the platform.\nThe extension, named MEXC API Automator (ID: pppdfgkfdemgfknfnhpkibbkabhghhfh), has 29 downloads and is still"
+  },
+  {
+    "title": "[Webinar] Securing Agentic AI: From MCPs and Tool Access to Shadow API Key Sprawl",
+    "link": "https://thehackernews.com/2026/01/webinar-t-from-mcps-and-tool-access-to.html",
+    "published": "Tue, 13 Jan 2026 19:14:00 +0530",
+    "summary": "AI agents are no longer just writing code. They are executing it.\nTools like Copilot, Claude Code, and Codex can now build, test, and deploy software end-to-end in minutes. That speed is reshaping engineering—but it’s also creating a security gap most teams don’t see until something breaks.\nBehind every agentic workflow sits a layer few organizations are actively securing: Machine Control"
+  },
+  {
+    "title": "New Advanced Linux VoidLink Malware Targets Cloud and container Environments",
+    "link": "https://thehackernews.com/2026/01/new-advanced-linux-voidlink-malware.html",
+    "published": "Tue, 13 Jan 2026 17:27:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a previously undocumented and feature-rich malware framework codenamed VoidLink that's specifically designed for long-term, stealthy access to Linux-based cloud environments\nAccording to a new report from Check Point Research, the cloud-native Linux malware framework comprises an array of custom loaders, implants, rootkits, and modular"
+  },
+  {
+    "title": "What Should We Learn From How Attackers Leveraged AI in 2025?",
+    "link": "https://thehackernews.com/2026/01/what-should-we-learn-from-how-attackers.html",
+    "published": "Tue, 13 Jan 2026 17:25:00 +0530",
+    "summary": "Old Playbook, New Scale: While defenders are chasing trends, attackers are optimizing the basics\nThe security industry loves talking about \"new\" threats. AI-powered attacks. Quantum-resistant encryption. Zero-trust architectures. But looking around, it seems like the most effective attacks in 2025 are pretty much the same as they were in 2015. Attackers are exploiting the same entry points that"
+  },
+  {
+    "title": "ServiceNow Patches Critical AI Platform Flaw Allowing Unauthenticated User Impersonation",
+    "link": "https://thehackernews.com/2026/01/servicenow-patches-critical-ai-platform.html",
+    "published": "Tue, 13 Jan 2026 17:17:00 +0530",
+    "summary": "ServiceNow has disclosed details of a now-patched critical security flaw impacting its ServiceNow artificial intelligence (AI) Platform that could enable an unauthenticated user to impersonate another user and perform arbitrary actions as that user.\nThe vulnerability, tracked as CVE-2025-12420, carries a CVSS score of 9.3 out of 10.0. It has been codenamed BodySnatcher by AppOmni.\n\"This issue [."
+  },
+  {
+    "title": "New Malware Campaign Delivers Remcos RAT Through Multi-Stage Windows Attack",
+    "link": "https://thehackernews.com/2026/01/new-malware-campaign-delivers-remcos.html",
+    "published": "Tue, 13 Jan 2026 14:38:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new campaign dubbed SHADOW#REACTOR that employs an evasive multi-stage attack chain to deliver a commercially available remote administration tool called Remcos RAT and establish persistent, covert remote access.\n\"The infection chain follows a tightly orchestrated execution path: an obfuscated VBS launcher executed via wscript.exe invokes a"
+  },
+  {
+    "title": "CISA Warns of Active Exploitation of Gogs Vulnerability Enabling Code Execution",
+    "link": "https://thehackernews.com/2026/01/cisa-warns-of-active-exploitation-of.html",
+    "published": "Tue, 13 Jan 2026 12:45:00 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has warned of active exploitation of a high-severity security flaw impacting Gogs by adding it to its Known Exploited Vulnerabilities (KEV) catalog.\nThe vulnerability, tracked as CVE-2025-8110 (CVSS score: 8.7), relates to a case of path traversal in the repository file editor that could result in code execution.\n\"Gogs Path"
+  },
+  {
+    "title": "n8n Supply Chain Attack Abuses Community Nodes to Steal OAuth Tokens",
+    "link": "https://thehackernews.com/2026/01/n8n-supply-chain-attack-abuses.html",
+    "published": "Mon, 12 Jan 2026 22:09:00 +0530",
+    "summary": "Threat actors have been observed uploading a set of eight packages on the npm registry that masqueraded as integrations targeting the n8n workflow automation platform to steal developers' OAuth credentials.\nOne such package, named \"n8n-nodes-hfgjf-irtuinvcm-lasdqewriit,\" mimics a Google Ads integration, and prompts users to link their advertising account in a seemingly legitimate form and then"
+  },
+  {
+    "title": "⚡ Weekly Recap: AI Automation Exploits, Telecom Espionage, Prompt Poaching & More",
+    "link": "https://thehackernews.com/2026/01/weekly-recap-ai-automation-exploits.html",
+    "published": "Mon, 12 Jan 2026 19:11:00 +0530",
+    "summary": "This week made one thing clear: small oversights can spiral fast. Tools meant to save time and reduce friction turned into easy entry points once basic safeguards were ignored. Attackers didn’t need novel tricks. They used what was already exposed and moved in without resistance.\nScale amplified the damage. A single weak configuration rippled out to millions. A repeatable flaw worked again and"
+  }
+]
