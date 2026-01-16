@@ -1,0 +1,62 @@
+[
+  {
+    "title": "AWS CodeBuild Misconfiguration Exposed GitHub Repos to Potential Supply Chain Attacks",
+    "link": "https://thehackernews.com/2026/01/aws-codebuild-misconfiguration-exposed.html",
+    "published": "Fri, 16 Jan 2026 01:01:00 +0530",
+    "summary": "A critical misconfiguration in Amazon Web Services (AWS) CodeBuild could have allowed complete takeover of the cloud service provider's own GitHub repositories, including its AWS JavaScript SDK, putting every AWS environment at risk.\nThe vulnerability has been codenamed CodeBreach by cloud security company Wiz. The issue was fixed by AWS in September 2025 following responsible disclosure on"
+  },
+  {
+    "title": "Critical WordPress Modular DS Plugin Flaw Actively Exploited to Gain Admin Access",
+    "link": "https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html",
+    "published": "Thu, 15 Jan 2026 21:01:00 +0530",
+    "summary": "A maximum-severity security flaw in a WordPress plugin called Modular DS has come under active exploitation in the wild, according to Patchstack.\nThe vulnerability, tracked as CVE-2026-23550 (CVSS score: 10.0), has been described as a case of unauthenticated privilege escalation impacting all versions of the plugin prior to and including 2.5.1. It has been patched in version 2.5.2. The plugin"
+  },
+  {
+    "title": "Researchers Reveal Reprompt Attack Allowing Single-Click Data Exfiltration From Microsoft Copilot",
+    "link": "https://thehackernews.com/2026/01/researchers-reveal-reprompt-attack.html",
+    "published": "Thu, 15 Jan 2026 20:39:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new attack method dubbed Reprompt that could allow bad actors to exfiltrate sensitive data from artificial intelligence (AI) chatbots like Microsoft Copilot in a single click, while bypassing enterprise security controls entirely.\n\"Only a single click on a legitimate Microsoft link is required to compromise victims,\" Varonis security"
+  },
+  {
+    "title": "ThreatsDay Bulletin: AI Voice Cloning Exploit, Wi-Fi Kill Switch, PLC Vulns, and 14 More Stories",
+    "link": "https://thehackernews.com/2026/01/threatsday-bulletin-ai-voice-cloning.html",
+    "published": "Thu, 15 Jan 2026 19:26:00 +0530",
+    "summary": "The internet never stays quiet. Every week, new hacks, scams, and security problems show up somewhere.\nThis week’s stories show how fast attackers change their tricks, how small mistakes turn into big risks, and how the same old tools keep finding new ways to break in.\nRead on to catch up before the next wave hits.\n\n\n\n\n\n  \n\n  \n  \n    Unauthenticated RCE risk\n    \n      Security Flaw in Redis"
+  },
+  {
+    "title": "Model Security Is the Wrong Frame – The Real Risk Is Workflow Security",
+    "link": "https://thehackernews.com/2026/01/model-security-is-wrong-frame-real-risk.html",
+    "published": "Thu, 15 Jan 2026 17:25:00 +0530",
+    "summary": "As AI copilots and assistants become embedded in daily work, security teams are still focused on protecting the models themselves. But recent incidents suggest the bigger risk lies elsewhere: in the workflows that surround those models.\nTwo Chrome extensions posing as AI helpers were recently caught stealing ChatGPT and DeepSeek chat data from over 900,000 users. Separately, researchers"
+  },
+  {
+    "title": "4 Outdated Habits Destroying Your SOC's MTTR in 2026",
+    "link": "https://thehackernews.com/2026/01/4-outdated-habits-destroying-your-socs.html",
+    "published": "Thu, 15 Jan 2026 16:30:00 +0530",
+    "summary": "It’s 2026, yet many SOCs are still operating the way they did years ago, using tools and processes designed for a very different threat landscape. Given the growth in volumes and complexity of cyber threats, outdated practices no longer fully support analysts’ needs, staggering investigations and incident response.\nBelow are four limiting habits that may be preventing your SOC from evolving at"
+  },
+  {
+    "title": "Microsoft Legal Action Disrupts RedVDS Cybercrime Infrastructure Used for Online Fraud",
+    "link": "https://thehackernews.com/2026/01/microsoft-legal-action-disrupts-redvds.html",
+    "published": "Thu, 15 Jan 2026 15:07:00 +0530",
+    "summary": "Microsoft on Wednesday announced that it has taken a \"coordinated legal action\" in the U.S. and the U.K. to disrupt a cybercrime subscription service called RedVDS that has allegedly fueled millions in fraud losses.\nThe effort, per the tech giant, is part of a broader law enforcement effort in collaboration with law enforcement authorities that has allowed it to confiscate the malicious"
+  },
+  {
+    "title": "Palo Alto Fixes GlobalProtect DoS Flaw That Can Crash Firewalls Without Login",
+    "link": "https://thehackernews.com/2026/01/palo-alto-fixes-globalprotect-dos-flaw.html",
+    "published": "Thu, 15 Jan 2026 13:48:00 +0530",
+    "summary": "Palo Alto Networks has released security updates for a high-severity security flaw impacting GlobalProtect Gateway and Portal, for which it said there exists a proof-of-concept (PoC) exploit.\nThe vulnerability, tracked as CVE-2026-0227 (CVSS score: 7.7), has been described as a denial-of-service (DoS) condition impacting GlobalProtect PAN-OS software arising as a result of an improper check for"
+  },
+  {
+    "title": "Researchers Null-Route Over 550 Kimwolf and Aisuru Botnet Command Servers",
+    "link": "https://thehackernews.com/2026/01/kimwolf-botnet-infected-over-2-million.html",
+    "published": "Thu, 15 Jan 2026 00:33:00 +0530",
+    "summary": "The Black Lotus Labs team at Lumen Technologies said it null-routed traffic to more than 550 command-and-control (C2) nodes associated with the AISURU/Kimwolf botnet since early October 2025.\nAISURU and its Android counterpart, Kimwolf, have emerged as some of the biggest botnets in recent times, capable of directing enslaved devices to participate in distributed denial-of-service (DDoS)"
+  },
+  {
+    "title": "AI Agents Are Becoming Authorization Bypass Paths",
+    "link": "https://thehackernews.com/2026/01/ai-agents-are-becoming-privilege.html",
+    "published": "Wed, 14 Jan 2026 20:37:00 +0530",
+    "summary": "Not long ago, AI agents were harmless. They wrote snippets of code. They answered questions. They helped individuals move a little faster.\nThen organizations got ambitious.\nInstead of personal copilots, companies started deploying shared organizational AI agents - agents embedded into HR, IT, engineering, customer support, and operations. Agents that don&rsquo;t just suggest, but act. Agents"
+  }
+]
