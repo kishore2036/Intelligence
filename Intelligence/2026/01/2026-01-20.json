@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Google Gemini Prompt Injection Flaw Exposed Private Calendar Data via Malicious Invites",
+    "link": "https://thehackernews.com/2026/01/google-gemini-prompt-injection-flaw.html",
+    "published": "Mon, 19 Jan 2026 22:51:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a security flaw that leverages indirect prompt injection targeting Google Gemini as a way to bypass authorization guardrails and use Google Calendar as a data extraction mechanism.\nThe vulnerability, Miggo Security's Head of Research, Liad Eliyahu, said, made it possible to circumvent Google Calendar's privacy controls by hiding a dormant"
+  },
+  {
+    "title": "⚡ Weekly Recap: Fortinet Exploits, RedLine Clipjack, NTLM Crack, Copilot Attack & More",
+    "link": "https://thehackernews.com/2026/01/weekly-recap-fortinet-exploits-redline.html",
+    "published": "Mon, 19 Jan 2026 18:47:00 +0530",
+    "summary": "In cybersecurity, the line between a normal update and a serious incident keeps getting thinner. Systems that once felt reliable are now under pressure from constant change. New AI tools, connected devices, and automated systems quietly create more ways in, often faster than security teams can react. This week’s stories show how easily a small mistake or hidden service can turn into a real"
+  },
+  {
+    "title": "DevOps & SaaS Downtime: The High (and Hidden) Costs for Cloud-First Businesses",
+    "link": "https://thehackernews.com/2026/01/high-costs-of-devops-saas-downtime.html",
+    "published": "Mon, 19 Jan 2026 17:25:00 +0530",
+    "summary": "Just a few years ago, the cloud was touted as the “magic pill” for any cyber threat or performance issue. Many were lured by the “always-on” dream, trading granular control for the convenience of managed services.\nIn recent years, many of us have learned (often the hard way) that public cloud service providers are not immune to attacks and SaaS downtime, hiding behind the Shared Responsibility"
+  },
+  {
+    "title": "New StackWarp Hardware Flaw Breaks AMD SEV-SNP Protections on Zen 1–5 CPUs",
+    "link": "https://thehackernews.com/2026/01/new-stackwarp-hardware-flaw-breaks-amd.html",
+    "published": "Mon, 19 Jan 2026 17:01:00 +0530",
+    "summary": "A team of academics from the CISPA Helmholtz Center for Information Security in Germany has disclosed the details of a new hardware vulnerability affecting AMD processors.\nThe security flaw, codenamed StackWarp, can allow bad actors with privileged control over a host server to run malicious code within confidential virtual machines (CVMs), undermining the integrity guarantees provided by AMD"
+  },
+  {
+    "title": "CrashFix Chrome Extension Delivers ModeloRAT Using ClickFix-Style Browser Crash Lures",
+    "link": "https://thehackernews.com/2026/01/crashfix-chrome-extension-delivers.html",
+    "published": "Mon, 19 Jan 2026 14:39:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of an ongoing campaign dubbed KongTuke that used a malicious Google Chrome extension masquerading as an ad blocker to deliberately crash the web browser and trick victims into running arbitrary commands using ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) dubbed ModeloRAT.\nThis new escalation of ClickFix has"
+  },
+  {
+    "title": "Security Bug in StealC Malware Panel Let Researchers Spy on Threat Actor Operations",
+    "link": "https://thehackernews.com/2026/01/security-bug-in-stealc-malware-panel.html",
+    "published": "Mon, 19 Jan 2026 12:23:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed a cross-site scripting (XSS) vulnerability in the web-based control panel used by operators of the StealC information stealer, allowing them to gather crucial insights on one of the threat actors using the malware in their operations.\n\"By exploiting it, we were able to collect system fingerprints, monitor active sessions, and – in a twist that will"
+  },
+  {
+    "title": "Black Basta Ransomware Leader Added to EU Most Wanted and INTERPOL Red Notice",
+    "link": "https://thehackernews.com/2026/01/black-basta-ransomware-hacker-leader.html",
+    "published": "Sat, 17 Jan 2026 21:56:00 +0530",
+    "summary": "Ukrainian and German law enforcement authorities have identified two Ukrainians suspected of working for the Russia-linked ransomware-as-a-service (RaaS) group Black Basta.\nIn addition, the group's alleged leader, a 35-year-old Russian national named Oleg Evgenievich Nefedov (Нефедов Олег Евгеньевич), has been added to the European Union's Most Wanted and INTERPOL's Red Notice lists, authorities"
+  },
+  {
+    "title": "OpenAI to Show Ads in ChatGPT for Logged-In U.S. Adults on Free and Go Plans",
+    "link": "https://thehackernews.com/2026/01/openai-to-show-ads-in-chatgpt-for.html",
+    "published": "Sat, 17 Jan 2026 14:04:00 +0530",
+    "summary": "OpenAI on Friday said it would start showing ads in ChatGPT to logged-in adult U.S. users in both the free and ChatGPT Go tiers in the coming weeks, as the artificial intelligence (AI) company expanded access to its low-cost subscription globally.\n\"You need to know that your data and conversations are protected and never sold to advertisers,\" OpenAI said. \"And we need to keep a high bar and give"
+  },
+  {
+    "title": "GootLoader Malware Uses 500–1,000 Concatenated ZIP Archives to Evade Detection",
+    "link": "https://thehackernews.com/2026/01/gootloader-malware-uses-5001000.html",
+    "published": "Fri, 16 Jan 2026 23:29:00 +0530",
+    "summary": "The JavaScript (aka JScript) malware loader called GootLoader has been observed using a malformed ZIP archive that's designed to sidestep detection efforts by concatenating anywhere from 500 to 1,000 archives.\n\"The actor creates a malformed archive as an anti-analysis technique,\" Expel security researcher Aaron Walton said in a report shared with The Hacker News. \"That is, many unarchiving tools"
+  },
+  {
+    "title": "Five Malicious Chrome Extensions Impersonate Workday and NetSuite to Hijack Accounts",
+    "link": "https://thehackernews.com/2026/01/five-malicious-chrome-extensions.html",
+    "published": "Fri, 16 Jan 2026 19:39:00 +0530",
+    "summary": "Cybersecurity researchers have discovered five new malicious Google Chrome web browser extensions that masquerade as human resources (HR) and enterprise resource planning (ERP) platforms like Workday, NetSuite, and SuccessFactors to take control of victim accounts.\n\"The extensions work in concert to steal authentication tokens, block incident response capabilities, and enable complete account"
+  }
+]
