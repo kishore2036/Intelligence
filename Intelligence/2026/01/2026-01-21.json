@@ -1,0 +1,62 @@
+[
+  {
+    "title": "North Korea-Linked Hackers Target Developers via Malicious VS Code Projects",
+    "link": "https://thehackernews.com/2026/01/north-korea-linked-hackers-target.html",
+    "published": "Wed, 21 Jan 2026 00:11:00 +0530",
+    "summary": "The North Korean threat actors associated with the long-running Contagious Interview campaign have been observed using malicious Microsoft Visual Studio Code (VS Code) projects as lures to deliver a backdoor on compromised endpoints.\nThe latest finding demonstrates continued evolution of the new tactic that was first discovered in December 2025, Jamf Threat Labs said.\n\"This activity involved"
+  },
+  {
+    "title": "Three Flaws in Anthropic MCP Git Server Enable File Access and Code Execution",
+    "link": "https://thehackernews.com/2026/01/three-flaws-in-anthropic-mcp-git-server.html",
+    "published": "Tue, 20 Jan 2026 19:25:00 +0530",
+    "summary": "A set of three security vulnerabilities has been disclosed in mcp-server-git, the official Git Model Context Protocol (MCP) server maintained by Anthropic, that could be exploited to read or delete arbitrary files and execute code under certain conditions.\n\"These flaws can be exploited through prompt injection, meaning an attacker who can influence what an AI assistant reads (a malicious README,"
+  },
+  {
+    "title": "Hackers Use LinkedIn Messages to Spread RAT Malware Through DLL Sideloading",
+    "link": "https://thehackernews.com/2026/01/hackers-use-linkedin-messages-to-spread.html",
+    "published": "Tue, 20 Jan 2026 19:16:00 +0530",
+    "summary": "Cybersecurity researchers have uncovered a new phishing campaign that exploits social media private messages to propagate malicious payloads, likely with the intent to deploy a remote access trojan (RAT).\nThe activity delivers \"weaponized files via Dynamic Link Library (DLL) sideloading, combined with a legitimate, open-source Python pen-testing script,\" ReliaQuest said in a report shared with"
+  },
+  {
+    "title": "The Hidden Risk of Orphan Accounts",
+    "link": "https://thehackernews.com/2026/01/the-hidden-risk-of-orphan-accounts.html",
+    "published": "Tue, 20 Jan 2026 17:28:00 +0530",
+    "summary": "The Problem: The Identities Left Behind\nAs organizations grow and evolve, employees, contractors, services, and systems come and go - but their accounts often remain. These abandoned or “orphan” accounts sit dormant across applications, platforms, assets, and cloud consoles.\nThe reason they persist isn’t negligence - it’s fragmentation.&nbsp;\nTraditional IAM and IGA systems are designed"
+  },
+  {
+    "title": "Evelyn Stealer Malware Abuses VS Code Extensions to Steal Developer Credentials and Crypto",
+    "link": "https://thehackernews.com/2026/01/evelyn-stealer-malware-abuses-vs-code.html",
+    "published": "Tue, 20 Jan 2026 17:18:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a malware campaign that's targeting software developers with a new information stealer called Evelyn Stealer by weaponizing the Microsoft Visual Studio Code (VS Code) extension ecosystem.\n\"The malware is designed to exfiltrate sensitive information, including developer credentials and cryptocurrency-related data. Compromised developer"
+  },
+  {
+    "title": "Cloudflare Fixes ACME Validation Bug Allowing WAF Bypass to Origin Servers",
+    "link": "https://thehackernews.com/2026/01/cloudflare-fixes-acme-validation-bug.html",
+    "published": "Tue, 20 Jan 2026 16:42:00 +0530",
+    "summary": "Cloudflare has addressed a security vulnerability impacting its Automatic Certificate Management Environment (ACME) validation logic that made it possible to bypass security controls and access origin servers.&nbsp;\n\"The vulnerability was rooted in how our edge network processed requests destined for the ACME HTTP-01 challenge path (/.well-known/acme-challenge/*),\" the web infrastructure"
+  },
+  {
+    "title": "Why Secrets in JavaScript Bundles are Still Being Missed",
+    "link": "https://thehackernews.com/2026/01/why-secrets-in-javascript-bundles-are.html",
+    "published": "Tue, 20 Jan 2026 16:15:00 +0530",
+    "summary": "Leaked API keys are no longer unusual, nor are the breaches that follow. So why are sensitive tokens still being so easily exposed?\nTo find out, Intruder’s research team looked at what traditional vulnerability scanners actually cover and built a new secrets detection method to address gaps in existing approaches.&nbsp;\nApplying this at scale by scanning 5 million applications revealed over"
+  },
+  {
+    "title": "Tudou Guarantee Marketplace Halts Telegram Transactions After Processing Over $12 Billion",
+    "link": "https://thehackernews.com/2026/01/tudou-guarantee-marketplace-halts.html",
+    "published": "Tue, 20 Jan 2026 13:10:00 +0530",
+    "summary": "A Telegram-based guarantee marketplace known for advertising a broad range of illicit services appears to be winding down its operations, according to new findings from Elliptic.\nThe blockchain intelligence company said Tudou Guarantee has effectively ceased transactions through its public Telegram groups following a period of significant growth. The marketplace is estimated to have processed"
+  },
+  {
+    "title": "Google Gemini Prompt Injection Flaw Exposed Private Calendar Data via Malicious Invites",
+    "link": "https://thehackernews.com/2026/01/google-gemini-prompt-injection-flaw.html",
+    "published": "Mon, 19 Jan 2026 22:51:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a security flaw that leverages indirect prompt injection targeting Google Gemini as a way to bypass authorization guardrails and use Google Calendar as a data extraction mechanism.\nThe vulnerability, Miggo Security's Head of Research, Liad Eliyahu, said, made it possible to circumvent Google Calendar's privacy controls by hiding a dormant"
+  },
+  {
+    "title": "⚡ Weekly Recap: Fortinet Exploits, RedLine Clipjack, NTLM Crack, Copilot Attack & More",
+    "link": "https://thehackernews.com/2026/01/weekly-recap-fortinet-exploits-redline.html",
+    "published": "Mon, 19 Jan 2026 18:47:00 +0530",
+    "summary": "In cybersecurity, the line between a normal update and a serious incident keeps getting thinner. Systems that once felt reliable are now under pressure from constant change. New AI tools, connected devices, and automated systems quietly create more ways in, often faster than security teams can react. This week’s stories show how easily a small mistake or hidden service can turn into a real"
+  }
+]
