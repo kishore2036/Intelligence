@@ -1,0 +1,62 @@
+[
+  {
+    "title": "CISA Updates KEV Catalog with Four Actively Exploited Software Vulnerabilities",
+    "link": "https://thehackernews.com/2026/01/cisa-updates-kev-catalog-with-four.html",
+    "published": "Fri, 23 Jan 2026 20:54:00 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.\nThe list of vulnerabilities is as follows -\n\nCVE-2025-68645 (CVSS score: 8.8) - A PHP remote file inclusion vulnerability in Synacor Zimbra Collaboration Suite (ZCS) that could allow a"
+  },
+  {
+    "title": "Fortinet Confirms Active FortiCloud SSO Bypass on Fully Patched FortiGate Firewalls",
+    "link": "https://thehackernews.com/2026/01/fortinet-confirms-active-forticloud-sso.html",
+    "published": "Fri, 23 Jan 2026 18:00:00 +0530",
+    "summary": "Fortinet has officially confirmed that it's working to completely plug a FortiCloud SSO authentication bypass vulnerability following reports of fresh exploitation activity on fully-patched firewalls.\n\"In the last 24 hours, we have identified a number of cases where the exploit was to a device that had been fully upgraded to the latest release at the time of the attack, which suggested a new"
+  },
+  {
+    "title": "TikTok Forms U.S. Joint Venture to Continue Operations Under 2025 Executive Order",
+    "link": "https://thehackernews.com/2026/01/tiktok-forms-us-joint-venture-to.html",
+    "published": "Fri, 23 Jan 2026 17:00:00 +0530",
+    "summary": "TikTok on Friday officially announced that it formed a joint venture that will allow the hugely popular video-sharing application to continue operating in the U.S.\nThe new venture, named TikTok USDS Joint Venture LLC, has been established in compliance with the Executive Order signed by U.S. President Donald Trump in September 2025, the platform said. The new deal will see TikTok's Chinese"
+  },
+  {
+    "title": "Phishing Attack Uses Stolen Credentials to Install LogMeIn RMM for Persistent Access",
+    "link": "https://thehackernews.com/2026/01/phishing-attack-uses-stolen-credentials.html",
+    "published": "Fri, 23 Jan 2026 16:48:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new dual-vector campaign that leverages stolen credentials to deploy legitimate Remote Monitoring and Management (RMM) software for persistent remote access to compromised hosts.\n\"Instead of deploying custom viruses, attackers are bypassing security perimeters by weaponizing the necessary IT tools that administrators trust,\" KnowBe4 Threat"
+  },
+  {
+    "title": "Microsoft Flags Multi-Stage AitM Phishing and BEC Attacks Targeting Energy Firms",
+    "link": "https://thehackernews.com/2026/01/microsoft-flags-multi-stage-aitm.html",
+    "published": "Fri, 23 Jan 2026 13:55:00 +0530",
+    "summary": "Microsoft has warned of a multi‑stage adversary‑in‑the‑middle (AitM) phishing and business email compromise (BEC) campaign targeting multiple organizations in the energy sector.\n\"The campaign abused SharePoint file‑sharing services to deliver phishing payloads and relied on inbox rule creation to maintain persistence and evade user awareness,\" the Microsoft Defender Security Research Team said."
+  },
+  {
+    "title": "New Osiris Ransomware Emerges as New Strain Using POORTRY Driver in BYOVD Attack",
+    "link": "https://thehackernews.com/2026/01/new-osiris-ransomware-emerges-as-new.html",
+    "published": "Thu, 22 Jan 2026 23:30:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new ransomware family called Osiris that targeted a major food service franchisee operator in Southeast Asia in November 2025.\nThe attack leveraged a malicious driver called POORTRY as part of a known technique referred to as bring your own vulnerable driver (BYOVD) to disarm security software, the Symantec and Carbon Black Threat Hunter"
+  },
+  {
+    "title": "Critical GNU InetUtils telnetd Flaw Lets Attackers Bypass Login and Gain Root Access",
+    "link": "https://thehackernews.com/2026/01/critical-gnu-inetutils-telnetd-flaw.html",
+    "published": "Thu, 22 Jan 2026 22:00:00 +0530",
+    "summary": "A critical security flaw has been disclosed in the GNU InetUtils telnet daemon (telnetd) that went unnoticed for nearly 11 years.\nThe vulnerability, tracked as CVE-2026-24061, is rated 9.8 out of 10.0 on the CVSS scoring system. It affects all versions of GNU InetUtils from version 1.9.3 up to and including version 2.7.\n\"Telnetd in GNU Inetutils through 2.7 allows remote authentication bypass"
+  },
+  {
+    "title": "ThreatsDay Bulletin: Pixel Zero-Click, Redis RCE, China C2s, RAT Ads, Crypto Scams & 15+ Stories",
+    "link": "https://thehackernews.com/2026/01/threatsday-bulletin-pixel-zero-click.html",
+    "published": "Thu, 22 Jan 2026 19:53:00 +0530",
+    "summary": "Most of this week’s threats didn’t rely on new tricks. They relied on familiar systems behaving exactly as designed, just in the wrong hands. Ordinary files, routine services, and trusted workflows were enough to open doors without forcing them.\nWhat stands out is how little friction attackers now need. Some activity focused on quiet reach and coverage, others on timing and reuse. The emphasis"
+  },
+  {
+    "title": "Filling the Most Common Gaps in Google Workspace Security",
+    "link": "https://thehackernews.com/2026/01/filling-most-common-gaps-in-google.html",
+    "published": "Thu, 22 Jan 2026 17:00:00 +0530",
+    "summary": "Security teams at agile, fast-growing companies often have the same mandate: secure the business without slowing it down. Most teams inherit a tech stack optimized for breakneck growth, not resilience. In these environments, the security team is the helpdesk, the compliance expert, and the incident response team all rolled into one.\nSecuring the cloud office in this scenario is all about"
+  },
+  {
+    "title": "Malicious PyPI Package Impersonates SymPy, Deploys XMRig Miner on Linux Hosts",
+    "link": "https://thehackernews.com/2026/01/malicious-pypi-package-impersonates.html",
+    "published": "Thu, 22 Jan 2026 15:34:00 +0530",
+    "summary": "A new malicious package discovered in the Python Package Index (PyPI) has been found to impersonate a popular library for symbolic mathematics to deploy malicious payloads, including a cryptocurrency miner, on Linux hosts.\nThe package, named sympy-dev, mimics SymPy, replicating the latter's project description verbatim in an attempt to deceive unsuspecting users into thinking that they are"
+  }
+]
