@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Indian Users Targeted in Tax Phishing Campaign Delivering Blackmoon Malware",
+    "link": "https://thehackernews.com/2026/01/indian-users-targeted-in-tax-phishing.html",
+    "published": "Mon, 26 Jan 2026 22:31:00 +0530",
+    "summary": "Cybersecurity researchers have discovered an ongoing campaign that's targeting Indian users with a multi-stage backdoor as part of a suspected cyber espionage campaign.\nThe activity, per the eSentire Threat Response Unit (TRU), involves using phishing emails impersonating the Income Tax Department of India to trick victims into downloading a malicious archive, ultimately granting the threat"
+  },
+  {
+    "title": "Malicious VS Code AI Extensions with 1.5 Million Installs Steal Developer Source Code",
+    "link": "https://thehackernews.com/2026/01/malicious-vs-code-ai-extensions-with-15.html",
+    "published": "Mon, 26 Jan 2026 21:13:00 +0530",
+    "summary": "Cybersecurity researchers have discovered two malicious Microsoft Visual Studio Code (VS Code) extensions that are advertised as artificial intelligence (AI)-powered coding assistants, but also harbor covert functionality to siphon developer data to China-based servers.\nThe extensions, which have 1.5 million combined installs and are still available for download from the official Visual Studio"
+  },
+  {
+    "title": "⚡ Weekly Recap: Firewall Flaws, AI-Built Malware, Browser Traps, Critical CVEs & More",
+    "link": "https://thehackernews.com/2026/01/weekly-recap-firewall-flaws-ai-built.html",
+    "published": "Mon, 26 Jan 2026 17:25:00 +0530",
+    "summary": "Security failures rarely arrive loudly. They slip in through trusted tools, half-fixed problems, and habits people stop questioning. This week’s recap shows that pattern clearly.\nAttackers are moving faster than defenses, mixing old tricks with new paths. “Patched” no longer means safe, and every day, software keeps becoming the entry point.\nWhat follows is a set of small but telling signals."
+  },
+  {
+    "title": "Winning Against AI-Based Attacks Requires a Combined Defensive Approach",
+    "link": "https://thehackernews.com/2026/01/winning-against-ai-based-attacks.html",
+    "published": "Mon, 26 Jan 2026 17:00:00 +0530",
+    "summary": "If there’s a constant in cybersecurity, it’s that adversaries are always innovating. The rise of offensive AI is transforming attack strategies and making them harder to detect. Google’s Threat Intelligence Group, recently reported on adversaries using Large Language Models (LLMs) to both conceal code and generate malicious scripts on the fly, letting malware shape-shift in real-time to evade"
+  },
+  {
+    "title": "Konni Hackers Deploy AI-Generated PowerShell Backdoor Against Blockchain Developers",
+    "link": "https://thehackernews.com/2026/01/konni-hackers-deploy-ai-generated.html",
+    "published": "Mon, 26 Jan 2026 14:24:00 +0530",
+    "summary": "The North Korean threat actor known as Konni has been observed using PowerShell malware generated using artificial intelligence (AI) tools to target developers and engineering teams in the blockchain sector.\nThe phishing campaign has targeted Japan, Australia, and India, highlighting the adversary's expansion of the targeting scope beyond South Korea, Russia, Ukraine, and European nations, Check"
+  },
+  {
+    "title": "Multi-Stage Phishing Campaign Targets Russia with Amnesia RAT and Ransomware",
+    "link": "https://thehackernews.com/2026/01/multi-stage-phishing-campaign-targets.html",
+    "published": "Sat, 24 Jan 2026 16:39:00 +0530",
+    "summary": "A new multi-stage phishing campaign has been observed targeting users in Russia with ransomware and a remote access trojan called Amnesia RAT.\n\"The attack begins with social engineering lures delivered via business-themed documents crafted to appear routine and benign,\" Fortinet FortiGuard Labs researcher Cara Lin said in a technical breakdown published this week. \"These documents and"
+  },
+  {
+    "title": "New DynoWiper Malware Used in Attempted Sandworm Attack on Polish Power Sector",
+    "link": "https://thehackernews.com/2026/01/new-dynowiper-malware-used-in-attempted.html",
+    "published": "Sat, 24 Jan 2026 13:51:00 +0530",
+    "summary": "The Russian nation-state hacking group known as Sandworm has been attributed to what has been described as the \"largest cyber attack\" targeting Poland's power system in the last week of December 2025.\nThe attack was unsuccessful, the country's energy minister, Milosz Motyka, said last week.\n\"The command of the cyberspace forces has diagnosed in the last days of the year the strongest attack on"
+  },
+  {
+    "title": "Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents",
+    "link": "https://thehackernews.com/2026/01/who-approved-this-agent-rethinking.html",
+    "published": "Sat, 24 Jan 2026 13:50:00 +0530",
+    "summary": "AI agents are accelerating how work gets done. They schedule meetings, access data, trigger workflows, write code, and take action in real time, pushing productivity beyond human speed across the enterprise.\nThen comes the moment every security team eventually hits:\n&ldquo;Wait&hellip; who approved this?&rdquo;\nUnlike users or applications, AI agents are often deployed quickly, shared broadly,"
+  },
+  {
+    "title": "CISA Adds Actively Exploited VMware vCenter Flaw CVE-2024-37079 to KEV Catalog",
+    "link": "https://thehackernews.com/2026/01/cisa-adds-actively-exploited-vmware.html",
+    "published": "Sat, 24 Jan 2026 13:39:00 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw affecting Broadcom VMware vCenter Server that was patched in June 2024 to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.\nThe vulnerability in question is CVE-2024-37079 (CVSS score: 9.8), which refers to a heap overflow in the"
+  },
+  {
+    "title": "CISA Updates KEV Catalog with Four Actively Exploited Software Vulnerabilities",
+    "link": "https://thehackernews.com/2026/01/cisa-updates-kev-catalog-with-four.html",
+    "published": "Fri, 23 Jan 2026 20:54:00 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.\nThe list of vulnerabilities is as follows -\n\nCVE-2025-68645 (CVSS score: 8.8) - A PHP remote file inclusion vulnerability in Synacor Zimbra Collaboration Suite (ZCS) that could allow a"
+  }
+]
