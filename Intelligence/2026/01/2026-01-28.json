@@ -1,0 +1,62 @@
+[
+  {
+    "title": "WhatsApp Rolls Out Lockdown-Style Security Mode to Protect Targeted Users From Spyware",
+    "link": "https://thehackernews.com/2026/01/whatsapp-rolls-out-lockdown-style.html",
+    "published": "Tue, 27 Jan 2026 22:24:00 +0530",
+    "summary": "Meta on Tuesday announced it's adding Strict Account Settings on WhatsApp to secure certain users against advanced cyber attacks because of who they are and what they do.\nThe feature, similar to Lockdown Mode in Apple iOS and Advanced Protection in Android, aims to protect individuals, such as journalists or public-facing figures, from sophisticated spyware by trading some functionality for"
+  },
+  {
+    "title": "Experts Detect Pakistan-Linked Cyber Campaigns Aimed at Indian Government Entities",
+    "link": "https://thehackernews.com/2026/01/experts-detect-pakistan-linked-cyber.html",
+    "published": "Tue, 27 Jan 2026 22:15:00 +0530",
+    "summary": "Indian government entities have been targeted in two campaigns undertaken by a threat actor that operates in Pakistan using previously undocumented tradecraft.\nThe campaigns have been codenamed Gopher Strike and Sheet Attack by Zscaler ThreatLabz, which identified them in September 2025.\n\"While these campaigns share some similarities with the Pakistan-linked Advanced Persistent Threat (APT)"
+  },
+  {
+    "title": "ClickFix Attacks Expand Using Fake CAPTCHAs, Microsoft Scripts, and Trusted Web Services",
+    "link": "https://thehackernews.com/2026/01/clickfix-attacks-expand-using-fake.html",
+    "published": "Tue, 27 Jan 2026 20:08:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new campaign that combines ClickFix-style fake CAPTCHAs with a signed Microsoft Application Virtualization (App-V) script to distribute an information stealer called Amatera.\n\"Instead of launching PowerShell directly, the attacker uses this script to control how execution begins and to avoid more common, easily recognized execution paths,\""
+  },
+  {
+    "title": "CTEM in Practice: Prioritization, Validation, and Outcomes That Matter",
+    "link": "https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html",
+    "published": "Tue, 27 Jan 2026 17:20:00 +0530",
+    "summary": "Cybersecurity teams increasingly want to move beyond looking at threats and vulnerabilities in isolation. It’s not only about what could go wrong (vulnerabilities) or who might attack (threats), but where they intersect in your actual environment to create real, exploitable exposure.\nWhich exposures truly matter? Can attackers exploit them? Are our defenses effective?\nContinuous Threat Exposure"
+  },
+  {
+    "title": "Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation",
+    "link": "https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html",
+    "published": "Tue, 27 Jan 2026 16:07:00 +0530",
+    "summary": "Microsoft on Monday issued out-of-band security patches for a high-severity Microsoft Office zero-day vulnerability exploited in attacks.\nThe vulnerability, tracked as CVE-2026-21509, carries a CVSS score of 7.8 out of 10.0. It has been described as a security feature bypass in Microsoft Office.\n\"Reliance on untrusted inputs in a security decision in Microsoft Office allows an unauthorized"
+  },
+  {
+    "title": "Critical Grist-Core Vulnerability Allows RCE Attacks via Spreadsheet Formulas",
+    "link": "https://thehackernews.com/2026/01/critical-grist-core-vulnerability.html",
+    "published": "Tue, 27 Jan 2026 16:06:00 +0530",
+    "summary": "A critical security flaw has been disclosed in Grist‑Core, an open-source, self-hosted version of the Grist relational spreadsheet-database, that could result in remote code execution.\nThe vulnerability, tracked as CVE-2026-24002 (CVSS score: 9.1), has been codenamed Cellbreak by Cyera Research Labs.\n\"One malicious formula can turn a spreadsheet into a Remote Code Execution (RCE) beachhead,\""
+  },
+  {
+    "title": "China-Linked Hackers Have Used the PeckBirdy JavaScript C2 Framework Since 2023",
+    "link": "https://thehackernews.com/2026/01/china-linked-hackers-have-used.html",
+    "published": "Tue, 27 Jan 2026 14:31:00 +0530",
+    "summary": "Cybersecurity researchers have discovered a JScript-based command-and-control (C2) framework called PeckBirdy that has been put to use by China-aligned APT actors since 2023 to target multiple environments.\nThe flexible framework has been put to use against Chinese gambling industries and malicious activities targeting Asian government entities and private organizations, according to Trend Micro"
+  },
+  {
+    "title": "Indian Users Targeted in Tax Phishing Campaign Delivering Blackmoon Malware",
+    "link": "https://thehackernews.com/2026/01/indian-users-targeted-in-tax-phishing.html",
+    "published": "Mon, 26 Jan 2026 22:31:00 +0530",
+    "summary": "Cybersecurity researchers have discovered an ongoing campaign that's targeting Indian users with a multi-stage backdoor as part of a suspected cyber espionage campaign.\nThe activity, per the eSentire Threat Response Unit (TRU), involves using phishing emails impersonating the Income Tax Department of India to trick victims into downloading a malicious archive, ultimately granting the threat"
+  },
+  {
+    "title": "Malicious VS Code AI Extensions with 1.5 Million Installs Steal Developer Source Code",
+    "link": "https://thehackernews.com/2026/01/malicious-vs-code-ai-extensions-with-15.html",
+    "published": "Mon, 26 Jan 2026 21:13:00 +0530",
+    "summary": "Cybersecurity researchers have discovered two malicious Microsoft Visual Studio Code (VS Code) extensions that are advertised as artificial intelligence (AI)-powered coding assistants, but also harbor covert functionality to siphon developer data to China-based servers.\nThe extensions, which have 1.5 million combined installs and are still available for download from the official Visual Studio"
+  },
+  {
+    "title": "⚡ Weekly Recap: Firewall Flaws, AI-Built Malware, Browser Traps, Critical CVEs & More",
+    "link": "https://thehackernews.com/2026/01/weekly-recap-firewall-flaws-ai-built.html",
+    "published": "Mon, 26 Jan 2026 17:25:00 +0530",
+    "summary": "Security failures rarely arrive loudly. They slip in through trusted tools, half-fixed problems, and habits people stop questioning. This week’s recap shows that pattern clearly.\nAttackers are moving faster than defenses, mixing old tricks with new paths. “Patched” no longer means safe, and every day, software keeps becoming the entry point.\nWhat follows is a set of small but telling signals."
+  }
+]
