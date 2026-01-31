@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Researchers Uncover Chrome Extensions Abusing Affiliate Links and Stealing ChatGPT Access",
+    "link": "https://thehackernews.com/2026/01/researchers-uncover-chrome-extensions.html",
+    "published": "Fri, 30 Jan 2026 19:12:00 +0530",
+    "summary": "Cybersecurity researchers have discovered malicious Google Chrome extensions that come with capabilities to hijack affiliate links, steal data, and collect OpenAI ChatGPT authentication tokens.\nOne of the extensions in question is Amazon Ads Blocker (ID: pnpchphmplpdimbllknjoiopmfphellj), which claims to be a tool to browse Amazon without any sponsored content. It was uploaded to the Chrome"
+  },
+  {
+    "title": "China-Linked UAT-8099 Targets IIS Servers in Asia with BadIIS SEO Malware",
+    "link": "https://thehackernews.com/2026/01/china-linked-uat-8099-targets-iis.html",
+    "published": "Fri, 30 Jan 2026 17:38:00 +0530",
+    "summary": "Cybersecurity researchers have discovered a new campaign attributed to a China-linked threat actor known as UAT-8099 that took place between late 2025 and early 2026.\nThe activity, discovered by Cisco Talos, has targeted vulnerable Internet Information Services (IIS) servers located across Asia, but with a specific focus on targets in Thailand and Vietnam. The scale of the campaign is currently"
+  },
+  {
+    "title": "Badges, Bytes and Blackmail",
+    "link": "https://thehackernews.com/2026/01/badges-bytes-and-blackmail.html",
+    "published": "Fri, 30 Jan 2026 17:00:00 +0530",
+    "summary": "Behind the scenes of law enforcement in cyber: what do we know about caught cybercriminals? What brought them in, where do they come from and what was their function in the crimescape?\n\nIntroduction: One view on the scattered fight against cybercrime\nThe growing sophistication and diversification of cybercrime have compelled law enforcement agencies worldwide to respond through increasingly"
+  },
+  {
+    "title": "Ex-Google Engineer Convicted for Stealing 2,000 AI Trade Secrets for China Startup",
+    "link": "https://thehackernews.com/2026/01/ex-google-engineer-convicted-for.html",
+    "published": "Fri, 30 Jan 2026 13:05:00 +0530",
+    "summary": "A former Google engineer accused of stealing thousands of the company's confidential documents to build a startup in China has been convicted in the U.S., the Department of Justice (DoJ) announced Thursday.\nLinwei Ding (aka Leon Ding), 38, was convicted by a federal jury on seven counts of economic espionage and seven counts of theft of trade secrets for taking over 2,000 documents containing"
+  },
+  {
+    "title": "SmarterMail Fixes Critical Unauthenticated RCE Flaw with CVSS 9.3 Score",
+    "link": "https://thehackernews.com/2026/01/smartermail-fixes-critical.html",
+    "published": "Fri, 30 Jan 2026 12:39:00 +0530",
+    "summary": "SmarterTools has addressed two more security flaws in SmarterMail email software, including one critical security flaw that could result in arbitrary code execution.\nThe vulnerability, tracked as CVE-2026-24423, carries a CVSS score of 9.3 out of 10.0.\n\"SmarterTools SmarterMail versions prior to build 9511 contain an unauthenticated remote code execution vulnerability in the ConnectToHub API"
+  },
+  {
+    "title": "Two Ivanti EPMM Zero-Day RCE Flaws Actively Exploited, Security Updates Released",
+    "link": "https://thehackernews.com/2026/01/two-ivanti-epmm-zero-day-rce-flaws.html",
+    "published": "Fri, 30 Jan 2026 10:13:00 +0530",
+    "summary": "Ivanti has rolled out security updates to address two security flaws impacting Ivanti Endpoint Manager Mobile (EPMM) that have been exploited in zero-day attacks, one of which has been added by the U.S. Cybersecurity and Infrastructure Security Agency (CISA) to its Known Exploited Vulnerabilities (KEV) catalog.\nThe critical-severity vulnerabilities are listed below -\n\nCVE-2026-1281 (CVSS score:"
+  },
+  {
+    "title": "Researchers Find 175,000 Publicly Exposed Ollama AI Servers Across 130 Countries",
+    "link": "https://thehackernews.com/2026/01/researchers-find-175000-publicly.html",
+    "published": "Fri, 30 Jan 2026 00:07:00 +0530",
+    "summary": "A new joint investigation by SentinelOne SentinelLABS, and Censys has revealed that the open-source artificial intelligence (AI) deployment has created a vast \"unmanaged, publicly accessible layer of AI compute infrastructure\" that spans 175,000 unique Ollama hosts across 130 countries.\nThese systems, which span both cloud and residential networks across the world, operate outside the"
+  },
+  {
+    "title": "ThreatsDay Bulletin: New RCEs, Darknet Busts, Kernel Bugs & 25+ More Stories",
+    "link": "https://thehackernews.com/2026/01/threatsday-bulletin-new-rces-darknet.html",
+    "published": "Thu, 29 Jan 2026 18:31:00 +0530",
+    "summary": "This week’s updates show how small changes can create real problems. Not loud incidents, but quiet shifts that are easy to miss until they add up. The kind that affects systems people rely on every day.\nMany of the stories point to the same trend: familiar tools being used in unexpected ways. Security controls are being worked on. Trusted platforms turning into weak spots. What looks routine on"
+  },
+  {
+    "title": "Survey of 100+ Energy Systems Reveals Critical OT Cybersecurity Gaps",
+    "link": "https://thehackernews.com/2026/01/survey-of-100-energy-systems-reveals.html",
+    "published": "Thu, 29 Jan 2026 17:25:00 +0530",
+    "summary": "A study by OMICRON has revealed widespread cybersecurity gaps in the operational technology (OT) networks of substations, power plants, and control centers worldwide. Drawing on data from more than 100 installations, the analysis highlights recurring technical, organizational, and functional issues that leave critical energy infrastructure vulnerable to cyber threats.\nThe findings are based on"
+  },
+  {
+    "title": "3 Decisions CISOs Need to Make to Prevent Downtime Risk in 2026",
+    "link": "https://thehackernews.com/2026/01/3-decisions-cisos-need-to-make-to.html",
+    "published": "Thu, 29 Jan 2026 16:00:00 +0530",
+    "summary": "Beyond the direct impact of cyberattacks, enterprises suffer from a secondary but potentially even more costly risk: operational downtime, any amount of which translates into very real damage. That’s why for CISOs, it’s key to prioritize decisions that reduce dwell time and protect their company from risk.&nbsp;\nThree strategic steps you can take this year for better results:\n1. Focus on today's"
+  }
+]
