@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata",
+    "link": "https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html",
+    "published": "Tue, 03 Feb 2026 22:11:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a now-patched security flaw impacting Ask Gordon, an artificial intelligence (AI) assistant built into Docker Desktop and the Docker Command-Line Interface (CLI), that could be exploited to execute code and exfiltrate sensitive data.\nThe critical vulnerability has been codenamed DockerDash by cybersecurity company Noma Labs. It was addressed by"
+  },
+  {
+    "title": "[Webinar] The Smarter SOC Blueprint: Learn What to Build, Buy, and Automate",
+    "link": "https://thehackernews.com/2026/02/webinar-smarter-soc-blueprint-learn.html",
+    "published": "Tue, 03 Feb 2026 19:44:00 +0530",
+    "summary": "Most security teams today are buried under tools. Too many dashboards. Too much noise. Not enough real progress.\nEvery vendor promises “complete coverage” or “AI-powered automation,” but inside most SOCs, teams are still overwhelmed, stretched thin, and unsure which tools are truly pulling their weight. The result? Bloated stacks, missed signals, and mounting pressure to do more with less.\nThis"
+  },
+  {
+    "title": "Hackers Exploit Metro4Shell RCE Flaw in React Native CLI npm Package",
+    "link": "https://thehackernews.com/2026/02/hackers-exploit-metro4shell-rce-flaw-in.html",
+    "published": "Tue, 03 Feb 2026 19:30:00 +0530",
+    "summary": "Threat actors have been observed exploiting a critical security flaw impacting the Metro Development Server in the popular \"@react-native-community/cli\" npm package.\nCybersecurity company VulnCheck said it first observed exploitation of CVE-2025-11953 (aka Metro4Shell) on December 21, 2025. With a CVSS score of 9.8, the vulnerability allows remote unauthenticated attackers to execute arbitrary"
+  },
+  {
+    "title": "When Cloud Outages Ripple Across the Internet",
+    "link": "https://thehackernews.com/2026/02/when-cloud-outages-ripple-across.html",
+    "published": "Tue, 03 Feb 2026 16:30:00 +0530",
+    "summary": "Recent major cloud service outages have been hard to miss. High-profile incidents affecting providers such as AWS, Azure, and Cloudflare have disrupted large parts of the internet, taking down websites and services that many other systems depend on. The resulting ripple effects have halted applications and workflows that many organizations rely on every day.\nFor consumers, these outages are"
+  },
+  {
+    "title": "APT28 Uses Microsoft Office CVE-2026-21509 in Espionage-Focused Malware Attacks",
+    "link": "https://thehackernews.com/2026/02/apt28-uses-microsoft-office-cve-2026.html",
+    "published": "Tue, 03 Feb 2026 14:42:00 +0530",
+    "summary": "The Russia-linked state-sponsored threat actor known as APT28 (aka UAC-0001) has been attributed to attacks exploiting a newly disclosed security flaw in Microsoft Office as part of a campaign codenamed Operation Neusploit.\nZscaler ThreatLabz said it observed the hacking group weaponizing the shortcoming on January 29, 2026, in attacks targeting users in Ukraine, Slovakia, and Romania, three"
+  },
+  {
+    "title": "Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox",
+    "link": "https://thehackernews.com/2026/02/mozilla-adds-one-click-option-to.html",
+    "published": "Tue, 03 Feb 2026 11:09:00 +0530",
+    "summary": "Mozilla on Monday announced a new controls section in its Firefox desktop browser settings that allows users to completely turn off generative artificial intelligence (GenAI) features.\n\"It provides a single place to block current and future generative AI features in Firefox,\" Ajit Varma, head of Firefox, said. \"You can also review and manage individual AI features if you choose to use them. This"
+  },
+  {
+    "title": "Notepad++ Hosting Breach Attributed to China-Linked Lotus Blossom Hacking Group",
+    "link": "https://thehackernews.com/2026/02/notepad-hosting-breach-attributed-to.html",
+    "published": "Tue, 03 Feb 2026 10:25:00 +0530",
+    "summary": "A China-linked threat actor known as Lotus Blossom has been attributed with medium confidence to the recently discovered compromise of the infrastructure hosting Notepad++.\nThe attack enabled the state-sponsored hacking group to deliver a previously undocumented backdoor codenamed Chrysalis to users of the open-source editor, according to new findings from Rapid7.\nThe development comes shortly"
+  },
+  {
+    "title": "Researchers Find 341 Malicious ClawHub Skills Stealing Data from OpenClaw Users",
+    "link": "https://thehackernews.com/2026/02/researchers-find-341-malicious-clawhub.html",
+    "published": "Mon, 02 Feb 2026 23:19:00 +0530",
+    "summary": "A security audit of 2,857 skills on ClawHub has found 341 malicious skills across multiple campaigns, according to new findings from Koi Security, exposing users to new supply chain risks.\nClawHub is a marketplace designed to make it easy for OpenClaw users to find and install third-party skills. It's an extension to the OpenClaw project, a self-hosted artificial intelligence (AI) assistant"
+  },
+  {
+    "title": "OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link",
+    "link": "https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html",
+    "published": "Mon, 02 Feb 2026 21:58:00 +0530",
+    "summary": "A high-severity security flaw has been disclosed in OpenClaw (formerly referred to as Clawdbot and Moltbot) that could allow remote code execution (RCE) through a crafted malicious link.\nThe issue, which is tracked as CVE-2026-25253 (CVSS score: 8.8), has been addressed in version 2026.1.29 released on January 30, 2026. It has been described as a token exfiltration vulnerability that leads to"
+  },
+  {
+    "title": "Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos",
+    "link": "https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html",
+    "published": "Mon, 02 Feb 2026 21:29:00 +0530",
+    "summary": "Microsoft has announced a three-phase approach to phase out New Technology LAN Manager (NTLM) as part of its efforts to shift Windows environments toward stronger, Kerberos-based options.\nThe development comes more than two years after the tech giant revealed its plans to deprecate the legacy technology, citing its susceptibility to weaknesses that could facilitate relay attacks and allow bad"
+  }
+]
