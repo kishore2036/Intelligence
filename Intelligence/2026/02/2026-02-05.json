@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models",
+    "link": "https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html",
+    "published": "Wed, 04 Feb 2026 23:22:00 +0530",
+    "summary": "Microsoft on Wednesday said it built a lightweight scanner that it said can detect backdoors in open-weight large language models (LLMs) and improve the overall trust in artificial intelligence (AI) systems.\nThe tech giant's AI Security team said the scanner leverages three observable signals that can be used to reliably flag the presence of backdoors while maintaining a low false positive"
+  },
+  {
+    "title": "DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files",
+    "link": "https://thehackernews.com/2026/02/deadvax-malware-campaign-deploys.html",
+    "published": "Wed, 04 Feb 2026 22:54:00 +0530",
+    "summary": "Threat hunters have disclosed details of a new, stealthy malware campaign dubbed DEAD#VAX that employs a mix of \"disciplined tradecraft and clever abuse of legitimate system features\" to bypass traditional detection mechanisms and deploy a remote access trojan (RAT) known as AsyncRAT.\n\"The attack leverages IPFS-hosted VHD files, extreme script obfuscation, runtime decryption, and in-memory"
+  },
+  {
+    "title": "China-Linked Amaranth-Dragon Exploits WinRAR Flaw in Espionage Campaigns",
+    "link": "https://thehackernews.com/2026/02/china-linked-amaranth-dragon-exploits.html",
+    "published": "Wed, 04 Feb 2026 19:39:00 +0530",
+    "summary": "Threat actors affiliated with China have been attributed to a fresh set of cyber espionage campaigns targeting government and law enforcement agencies across Southeast Asia throughout 2025.\nCheck Point Research is tracking the previously undocumented activity cluster under the moniker Amaranth-Dragon, which it said shares links to the APT 41 ecosystem. Targeted countries include Cambodia,"
+  },
+  {
+    "title": "Orchid Security Introduces Continuous Identity Observability for Enterprise Applications",
+    "link": "https://thehackernews.com/2026/02/orchid-security-introduces-continuous.html",
+    "published": "Wed, 04 Feb 2026 17:28:00 +0530",
+    "summary": "An innovative approach to discovering, analyzing, and governing identity usage beyond traditional IAM controls.\nThe Challenge: Identity Lives Outside the Identity Stack\nIdentity and access management tools were built to govern users and directories.\nModern enterprises run on applications. Over time, identity logic has moved into application code, APIs, service accounts, and custom authentication"
+  },
+  {
+    "title": "The First 90 Seconds: How Early Decisions Shape Incident Response Investigations",
+    "link": "https://thehackernews.com/2026/02/the-first-90-seconds-how-early.html",
+    "published": "Wed, 04 Feb 2026 15:30:00 +0530",
+    "summary": "Many incident response failures do not come from a lack of tools, intelligence, or technical skills. They come from what happens immediately after detection, when pressure is high, and information is incomplete.\nI have seen IR teams recover from sophisticated intrusions with limited telemetry. I have also seen teams lose control of investigations they should have been able to handle. The"
+  },
+  {
+    "title": "Microsoft Warns Python Infostealers Target macOS via Fake Ads and Installers",
+    "link": "https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html",
+    "published": "Wed, 04 Feb 2026 13:12:00 +0530",
+    "summary": "Microsoft has warned that information-stealing attacks are \"rapidly expanding\" beyond Windows to target Apple macOS environments by leveraging cross-platform languages like Python and abusing trusted platforms for distribution at scale.\nThe tech giant's Defender Security Research Team said it observed macOS-targeted infostealer campaigns using social engineering techniques such as ClickFix since"
+  },
+  {
+    "title": "Eclipse Foundation Mandates Pre-Publish Security Checks for Open VSX Extensions",
+    "link": "https://thehackernews.com/2026/02/eclipse-foundation-mandates-pre-publish.html",
+    "published": "Wed, 04 Feb 2026 11:56:00 +0530",
+    "summary": "The Eclipse Foundation, which maintains the Open VSX Registry, has announced plans to enforce security checks before Microsoft Visual Studio Code (VS Code) extensions are published to the open-source repository to combat supply chain threats.\nThe move marks a shift from a reactive to a proactive approach to ensure that malicious extensions don't end up getting published on the Open VSX Registry."
+  },
+  {
+    "title": "CISA Adds Actively Exploited SolarWinds Web Help Desk RCE to KEV Catalog",
+    "link": "https://thehackernews.com/2026/02/cisa-adds-actively-exploited-solarwinds.html",
+    "published": "Wed, 04 Feb 2026 11:20:00 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting SolarWinds Web Help Desk (WHD) to its Known Exploited Vulnerabilities (KEV) catalog, flagging it as actively exploited in attacks.\nThe vulnerability, tracked as CVE-2025-40551 (CVSS score: 9.8), is a untrusted data deserialization vulnerability that could pave the way for remote"
+  },
+  {
+    "title": "Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata",
+    "link": "https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html",
+    "published": "Tue, 03 Feb 2026 22:11:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a now-patched security flaw impacting Ask Gordon, an artificial intelligence (AI) assistant built into Docker Desktop and the Docker Command-Line Interface (CLI), that could be exploited to execute code and exfiltrate sensitive data.\nThe critical vulnerability has been codenamed DockerDash by cybersecurity company Noma Labs. It was addressed by"
+  },
+  {
+    "title": "[Webinar] The Smarter SOC Blueprint: Learn What to Build, Buy, and Automate",
+    "link": "https://thehackernews.com/2026/02/webinar-smarter-soc-blueprint-learn.html",
+    "published": "Tue, 03 Feb 2026 19:44:00 +0530",
+    "summary": "Most security teams today are buried under tools. Too many dashboards. Too much noise. Not enough real progress.\nEvery vendor promises “complete coverage” or “AI-powered automation,” but inside most SOCs, teams are still overwhelmed, stretched thin, and unsure which tools are truly pulling their weight. The result? Bloated stacks, missed signals, and mounting pressure to do more with less.\nThis"
+  }
+]
