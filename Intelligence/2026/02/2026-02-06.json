@@ -1,0 +1,62 @@
+[
+  {
+    "title": "AISURU/Kimwolf Botnet Launches Record-Setting 31.4 Tbps DDoS Attack",
+    "link": "https://thehackernews.com/2026/02/aisurukimwolf-botnet-launches-record.html",
+    "published": "Thu, 05 Feb 2026 22:55:00 +0530",
+    "summary": "The distributed denial-of-service (DDoS) botnet known as AISURU/Kimwolf has been attributed to a record-setting attack that peaked at 31.4 Terabits per second (Tbps) and lasted only 35 seconds.\nCloudflare, which automatically detected and mitigated the activity, said it's part of a growing number of hyper-volumetric HTTP DDoS attacks mounted by the botnet in the fourth quarter of 2025. The"
+  },
+  {
+    "title": "ThreatsDay Bulletin: Codespaces RCE, AsyncRAT C2, BYOVD Abuse, AI Cloud Intrusions & 15+ Stories",
+    "link": "https://thehackernews.com/2026/02/threatsday-bulletin-codespaces-rce.html",
+    "published": "Thu, 05 Feb 2026 18:27:00 +0530",
+    "summary": "This week didn’t produce one big headline. It produced many small signals — the kind that quietly shape what attacks will look like next.\nResearchers tracked intrusions that start in ordinary places: developer workflows, remote tools, cloud access, identity paths, and even routine user actions. Nothing looked dramatic on the surface. That’s the point. Entry is becoming less visible while impact"
+  },
+  {
+    "title": "The Buyer’s Guide to AI Usage Control",
+    "link": "https://thehackernews.com/2026/02/the-buyers-guide-to-ai-usage-control.html",
+    "published": "Thu, 05 Feb 2026 17:00:00 +0530",
+    "summary": "Today’s “AI everywhere” reality is woven into everyday workflows across the enterprise, embedded in SaaS platforms, browsers, copilots, extensions, and a rapidly expanding universe of shadow tools that appear faster than security teams can track. Yet most organizations still rely on legacy controls that operate far away from where AI interactions actually occur. The result is a widening"
+  },
+  {
+    "title": "Infy Hackers Resume Operations with New C2 Servers After Iran Internet Blackout Ends",
+    "link": "https://thehackernews.com/2026/02/infy-hackers-resume-operations-with-new.html",
+    "published": "Thu, 05 Feb 2026 15:55:00 +0530",
+    "summary": "The elusive Iranian threat group known as Infy (aka Prince of Persia) has evolved its tactics as part of efforts to hide its tracks, even as it readied new command-and-control (C2) infrastructure coinciding with the end of the widespread internet blackout the regime imposed at the start of January 2026.\n\"The threat actor stopped maintaining its C2 servers on January 8 for the first time since we"
+  },
+  {
+    "title": "Critical n8n Flaw CVE-2026-25049 Enables System Command Execution via Malicious Workflows",
+    "link": "https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html",
+    "published": "Thu, 05 Feb 2026 11:46:00 +0530",
+    "summary": "A new, critical security vulnerability has been disclosed in the n8n workflow automation platform that, if successfully exploited, could result in the execution of arbitrary system commands.\nThe flaw, tracked as CVE-2026-25049 (CVSS score: 9.4), is the result of inadequate sanitization that bypasses safeguards put in place to address CVE-2025-68613 (CVSS score: 9.9), another critical defect that"
+  },
+  {
+    "title": "Malicious NGINX Configurations Enable Large-Scale Web Traffic Hijacking Campaign",
+    "link": "https://thehackernews.com/2026/02/hackers-exploit-react2shell-to-hijack.html",
+    "published": "Thu, 05 Feb 2026 10:26:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of an active web traffic hijacking campaign that has targeted NGINX installations and management panels like Baota (BT) in an attempt to route it through the attacker's infrastructure.\nDatadog Security Labs said it observed threat actors associated with the recent React2Shell (CVE-2025-55182, CVSS score: 10.0) exploitation using malicious NGINX"
+  },
+  {
+    "title": "Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models",
+    "link": "https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html",
+    "published": "Wed, 04 Feb 2026 23:22:00 +0530",
+    "summary": "Microsoft on Wednesday said it built a lightweight scanner that it said can detect backdoors in open-weight large language models (LLMs) and improve the overall trust in artificial intelligence (AI) systems.\nThe tech giant's AI Security team said the scanner leverages three observable signals that can be used to reliably flag the presence of backdoors while maintaining a low false positive"
+  },
+  {
+    "title": "DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files",
+    "link": "https://thehackernews.com/2026/02/deadvax-malware-campaign-deploys.html",
+    "published": "Wed, 04 Feb 2026 22:54:00 +0530",
+    "summary": "Threat hunters have disclosed details of a new, stealthy malware campaign dubbed DEAD#VAX that employs a mix of \"disciplined tradecraft and clever abuse of legitimate system features\" to bypass traditional detection mechanisms and deploy a remote access trojan (RAT) known as AsyncRAT.\n\"The attack leverages IPFS-hosted VHD files, extreme script obfuscation, runtime decryption, and in-memory"
+  },
+  {
+    "title": "China-Linked Amaranth-Dragon Exploits WinRAR Flaw in Espionage Campaigns",
+    "link": "https://thehackernews.com/2026/02/china-linked-amaranth-dragon-exploits.html",
+    "published": "Wed, 04 Feb 2026 19:39:00 +0530",
+    "summary": "Threat actors affiliated with China have been attributed to a fresh set of cyber espionage campaigns targeting government and law enforcement agencies across Southeast Asia throughout 2025.\nCheck Point Research is tracking the previously undocumented activity cluster under the moniker Amaranth-Dragon, which it said shares links to the APT 41 ecosystem. Targeted countries include Cambodia,"
+  },
+  {
+    "title": "Orchid Security Introduces Continuous Identity Observability for Enterprise Applications",
+    "link": "https://thehackernews.com/2026/02/orchid-security-introduces-continuous.html",
+    "published": "Wed, 04 Feb 2026 17:28:00 +0530",
+    "summary": "An innovative approach to discovering, analyzing, and governing identity usage beyond traditional IAM controls.\nThe Challenge: Identity Lives Outside the Identity Stack\nIdentity and access management tools were built to govern users and directories.\nModern enterprises run on applications. Over time, identity logic has moved into application code, APIs, service accounts, and custom authentication"
+  }
+]
