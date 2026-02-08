@@ -1,0 +1,62 @@
+[
+  {
+    "title": "German Agencies Warn of Signal Phishing Targeting Politicians, Military, Journalists",
+    "link": "https://thehackernews.com/2026/02/german-agencies-warn-of-signal-phishing.html",
+    "published": "Sat, 07 Feb 2026 16:45:00 +0530",
+    "summary": "Germany's Federal Office for the Protection of the Constitution (aka Bundesamt für Verfassungsschutz or BfV) and Federal Office for Information Security (BSI) have issued a joint advisory warning of a malicious cyber campaign undertaken by a likely state-sponsored threat actor that involves carrying out phishing attacks over the Signal messaging app.\n\"The focus is on high-ranking targets in"
+  },
+  {
+    "title": "China-Linked DKnife AitM Framework Targets Routers for Traffic Hijacking, Malware Delivery",
+    "link": "https://thehackernews.com/2026/02/china-linked-dknife-aitm-framework.html",
+    "published": "Fri, 06 Feb 2026 20:26:00 +0530",
+    "summary": "Cybersecurity researchers have taken the wraps off a gateway-monitoring and adversary-in-the-middle (AitM) framework dubbed DKnife that's operated by China-nexus threat actors since at least 2019.\nThe framework comprises seven Linux-based implants that are designed to perform deep packet inspection, manipulate traffic, and deliver malware via routers and edge devices. Its primary targets seem to"
+  },
+  {
+    "title": "CISA Orders Removal of Unsupported Edge Devices to Reduce Federal Network Risk",
+    "link": "https://thehackernews.com/2026/02/cisa-orders-removal-of-unsupported-edge.html",
+    "published": "Fri, 06 Feb 2026 19:13:00 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered Federal Civilian Executive Branch (FCEB) agencies to strengthen asset lifecycle management for edge network devices and remove those that no longer receive security updates from original equipment manufacturers (OEMs) over the next 12 to 18 months.\nThe agency said the move is to drive down technical debt and minimize"
+  },
+  {
+    "title": "Asian State-Backed Group TGR-STA-1030 Breaches 70 Government, Infrastructure Entities",
+    "link": "https://thehackernews.com/2026/02/asian-state-backed-group-tgr-sta-1030.html",
+    "published": "Fri, 06 Feb 2026 17:37:00 +0530",
+    "summary": "A previously undocumented cyber espionage group operating from Asia broke into the networks of at least 70 government and critical infrastructure organizations across 37 countries over the past year, according to new findings from Palo Alto Networks Unit 42.\nIn addition, the hacking crew has been observed conducting active reconnaissance against government infrastructure associated with 155"
+  },
+  {
+    "title": "How Samsung Knox Helps Stop Your Network Security Breach",
+    "link": "https://thehackernews.com/2026/02/how-samsung-knox-helps-stop-your-network-security-breach.html",
+    "published": "Fri, 06 Feb 2026 16:00:00 +0530",
+    "summary": "As you know, enterprise network security has undergone significant evolution over the past decade. Firewalls have become more intelligent, threat detection methods have advanced, and access controls are now more detailed. However (and it&rsquo;s a big &ldquo;however&rdquo;), the increasing use of mobile devices in business operations necessitates network security measures that are specifically"
+  },
+  {
+    "title": "Compromised dYdX npm and PyPI Packages Deliver Wallet Stealers and RAT Malware",
+    "link": "https://thehackernews.com/2026/02/compromised-dydx-npm-and-pypi-packages.html",
+    "published": "Fri, 06 Feb 2026 14:10:00 +0530",
+    "summary": "Cybersecurity researchers have discovered a new supply chain attack in which legitimate packages on npm and the Python Package Index (PyPI) repository have been compromised to push malicious versions to facilitate wallet credential theft and remote code execution.\nThe compromised versions of the two packages are listed below -\n\n@dydxprotocol/v4-client-js (npm) - 3.4.1, 1.22.1, 1.15.2, 1.0.31&"
+  },
+  {
+    "title": "Claude Opus 4.6 Finds 500+ High-Severity Flaws Across Major Open-Source Libraries",
+    "link": "https://thehackernews.com/2026/02/claude-opus-46-finds-500-high-severity.html",
+    "published": "Fri, 06 Feb 2026 11:19:00 +0530",
+    "summary": "Artificial intelligence (AI) company Anthropic revealed that its latest large language model (LLM), Claude Opus 4.6, has found more than 500 previously unknown high-severity security flaws in open-source libraries, including Ghostscript, OpenSC, and CGIF.\nClaude Opus 4.6, which was launched Thursday, comes with improved coding skills, including code review and debugging capabilities, along with"
+  },
+  {
+    "title": "AISURU/Kimwolf Botnet Launches Record-Setting 31.4 Tbps DDoS Attack",
+    "link": "https://thehackernews.com/2026/02/aisurukimwolf-botnet-launches-record.html",
+    "published": "Thu, 05 Feb 2026 22:55:00 +0530",
+    "summary": "The distributed denial-of-service (DDoS) botnet known as AISURU/Kimwolf has been attributed to a record-setting attack that peaked at 31.4 Terabits per second (Tbps) and lasted only 35 seconds.\nCloudflare, which automatically detected and mitigated the activity, said it's part of a growing number of hyper-volumetric HTTP DDoS attacks mounted by the botnet in the fourth quarter of 2025. The"
+  },
+  {
+    "title": "ThreatsDay Bulletin: Codespaces RCE, AsyncRAT C2, BYOVD Abuse, AI Cloud Intrusions & 15+ Stories",
+    "link": "https://thehackernews.com/2026/02/threatsday-bulletin-codespaces-rce.html",
+    "published": "Thu, 05 Feb 2026 18:27:00 +0530",
+    "summary": "This week didn’t produce one big headline. It produced many small signals — the kind that quietly shape what attacks will look like next.\nResearchers tracked intrusions that start in ordinary places: developer workflows, remote tools, cloud access, identity paths, and even routine user actions. Nothing looked dramatic on the surface. That’s the point. Entry is becoming less visible while impact"
+  },
+  {
+    "title": "The Buyer’s Guide to AI Usage Control",
+    "link": "https://thehackernews.com/2026/02/the-buyers-guide-to-ai-usage-control.html",
+    "published": "Thu, 05 Feb 2026 17:00:00 +0530",
+    "summary": "Today’s “AI everywhere” reality is woven into everyday workflows across the enterprise, embedded in SaaS platforms, browsers, copilots, extensions, and a rapidly expanding universe of shadow tools that appear faster than security teams can track. Yet most organizations still rely on legacy controls that operate far away from where AI interactions actually occur. The result is a widening"
+  }
+]
