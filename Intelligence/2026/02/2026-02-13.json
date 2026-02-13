@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Google Reports State-Backed Hackers Using Gemini AI for Recon and Attack Support",
+    "link": "https://thehackernews.com/2026/02/google-reports-state-backed-hackers.html",
+    "published": "Thu, 12 Feb 2026 23:27:00 +0530",
+    "summary": "Google on Thursday said it observed the North Korea-linked threat actor known as UNC2970 using its generative artificial intelligence (AI) model Gemini to conduct reconnaissance on its targets, as various hacking groups continue to weaponize the tool for accelerating various phases of the cyber attack life cycle, enabling information operations, and even conducting model extraction attacks.\n\"The"
+  },
+  {
+    "title": "Lazarus Campaign Plants Malicious Packages in npm and PyPI Ecosystems",
+    "link": "https://thehackernews.com/2026/02/lazarus-campaign-plants-malicious.html",
+    "published": "Thu, 12 Feb 2026 22:25:00 +0530",
+    "summary": "Cybersecurity researchers have discovered a fresh set of malicious packages across npm and the Python Package Index (PyPI) repository linked to a fake recruitment-themed campaign orchestrated by the North Korea-linked Lazarus Group.\nThe coordinated campaign has been codenamed graphalgo in reference to the first package published in the npm registry. It's assessed to be active since May 2025.\n\""
+  },
+  {
+    "title": "ThreatsDay Bulletin: AI Prompt RCE, Claude 0-Click, RenEngine Loader, Auto 0-Days & 25+ Stories",
+    "link": "https://thehackernews.com/2026/02/threatsday-bulletin-ai-prompt-rce.html",
+    "published": "Thu, 12 Feb 2026 17:21:00 +0530",
+    "summary": "Threat activity this week shows one consistent signal — attackers are leaning harder on what already works. Instead of flashy new exploits, many operations are built around quiet misuse of trusted tools, familiar workflows, and overlooked exposures that sit in plain sight.\nAnother shift is how access is gained versus how it’s used. Initial entry points are getting simpler, while post-compromise"
+  },
+  {
+    "title": "The CTEM Divide: Why 84% of Security Programs Are Falling Behind",
+    "link": "https://thehackernews.com/2026/02/the-ctem-divide-why-84-of-security.html",
+    "published": "Thu, 12 Feb 2026 16:00:00 +0530",
+    "summary": "A new 2026 market intelligence study of 128 enterprise security decision-makers (available here) reveals a stark divide forming between organizations – one that has nothing to do with budget size or industry and everything to do with a single framework decision. Organizations implementing Continuous Threat Exposure Management (CTEM) demonstrate 50% better attack surface visibility, 23-point"
+  },
+  {
+    "title": "83% of Ivanti EPMM Exploits Linked to Single IP on Bulletproof Hosting Infrastructure",
+    "link": "https://thehackernews.com/2026/02/83-of-ivanti-epmm-exploits-linked-to.html",
+    "published": "Thu, 12 Feb 2026 13:02:00 +0530",
+    "summary": "A significant chunk of the exploitation attempts targeting a newly disclosed security flaw in Ivanti Endpoint Manager Mobile (EPMM) can be traced back to a single IP address on bulletproof hosting infrastructure offered by PROSPERO.\nThreat intelligence firm GreyNoise said it recorded 417 exploitation sessions from 8 unique source IP addresses between February 1 and 9, 2026. An estimated 346"
+  },
+  {
+    "title": "Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Other Devices",
+    "link": "https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html",
+    "published": "Thu, 12 Feb 2026 11:09:00 +0530",
+    "summary": "Apple on Wednesday released iOS, iPadOS, macOS Tahoe, tvOS, watchOS, and visionOS updates to address a zero-day flaw that it said has been exploited in sophisticated cyber attacks.\nThe vulnerability, tracked as CVE-2026-20700 (CVSS score: N/A), has been described as a memory corruption issue in dyld, Apple's Dynamic Link Editor. Successful exploitation of the vulnerability could allow an"
+  },
+  {
+    "title": "First Malicious Outlook Add-In Found Stealing 4,000+ Microsoft Credentials",
+    "link": "https://thehackernews.com/2026/02/first-malicious-outlook-add-in-found.html",
+    "published": "Wed, 11 Feb 2026 23:15:00 +0530",
+    "summary": "Cybersecurity researchers have discovered what they said is the first known malicious Microsoft Outlook add-in detected in the wild.\nIn this unusual supply chain attack detailed by Koi Security, an unknown attacker claimed the domain associated with a now-abandoned legitimate add-in to serve a fake Microsoft login page, stealing over 4,000 credentials in the process. The activity has been"
+  },
+  {
+    "title": "APT36 and SideCopy Launch Cross-Platform RAT Campaigns Against Indian Entities",
+    "link": "https://thehackernews.com/2026/02/apt36-and-sidecopy-launch-cross.html",
+    "published": "Wed, 11 Feb 2026 20:22:00 +0530",
+    "summary": "Indian defense sector and government-aligned organizations have been targeted by multiple campaigns that are designed to compromise Windows and Linux environments with remote access trojans capable of stealing sensitive data and ensuring continued access to infected machines.\nThe campaigns are characterized by the use of malware families like Geta RAT, Ares RAT, and DeskRAT, which are often"
+  },
+  {
+    "title": "Over 60 Software Vendors Issue Security Fixes Across OS, Cloud, and Network Platforms",
+    "link": "https://thehackernews.com/2026/02/over-60-software-vendors-issue-security.html",
+    "published": "Wed, 11 Feb 2026 18:58:00 +0530",
+    "summary": "It's Patch Tuesday, which means a number of software vendors have released patches for various security vulnerabilities impacting their products and services.\nMicrosoft issued fixes for 59 flaws, including six actively exploited zero-days in various Windows components that could be abused to bypass security features, escalate privileges, and trigger a denial-of-service (DoS) condition.\nElsewhere"
+  },
+  {
+    "title": "Exposed Training Open the Door for Crypto-Mining in Fortune 500 Cloud Environments",
+    "link": "https://thehackernews.com/2026/02/exposed-training-open-door-for-crypto.html",
+    "published": "Wed, 11 Feb 2026 17:00:00 +0530",
+    "summary": "Intentionally vulnerable training applications are widely used for security education, internal testing, and product demonstrations. Tools such as OWASP Juice Shop, DVWA, Hackazon, and bWAPP are designed to be insecure by default, making them useful for learning how common attack techniques work in controlled environments.\nThe issue is not the applications themselves, but how they are often"
+  }
+]
