@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster",
+    "link": "https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html",
+    "published": "Wed, 18 Feb 2026 00:38:00 +0530",
+    "summary": "Cloud attacks move fast — faster than most incident response teams.\nIn data centers, investigations had time. Teams could collect disk images, review logs, and build timelines over days. In the cloud, infrastructure is short-lived. A compromised instance can disappear in minutes. Identities rotate. Logs expire. Evidence can vanish before analysis even begins.\nCloud forensics is fundamentally"
+  },
+  {
+    "title": "Researchers Show Copilot and Grok Can Be Abused as Malware C2 Proxies",
+    "link": "https://thehackernews.com/2026/02/researchers-show-copilot-and-grok-can.html",
+    "published": "Tue, 17 Feb 2026 23:38:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed that artificial intelligence (AI) assistants that support web browsing or URL fetching capabilities can be turned into stealthy command-and-control (C2) relays, a technique that could allow attackers to blend into legitimate enterprise communications and evade detection.\nThe attack method, which has been demonstrated against Microsoft Copilot and xAI Grok"
+  },
+  {
+    "title": "Keenadu Firmware Backdoor Infects Android Tablets via Signed OTA Updates",
+    "link": "https://thehackernews.com/2026/02/keenadu-firmware-backdoor-infects.html",
+    "published": "Tue, 17 Feb 2026 22:11:00 +0530",
+    "summary": "A new Android backdoor that's embedded deep into the device firmware can silently harvest data and remotely control its behavior, according to new findings from Kaspersky.\nThe Russian cybersecurity vendor said it discovered the backdoor, dubbed Keenadu, in the firmware of devices associated with various brands, including Alldocube, with the compromise occurring during the firmware build phase."
+  },
+  {
+    "title": "SmartLoader Attack Uses Trojanized Oura MCP Server to Deploy StealC Infostealer",
+    "link": "https://thehackernews.com/2026/02/smartloader-attack-uses-trojanized-oura.html",
+    "published": "Tue, 17 Feb 2026 18:12:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new SmartLoader campaign that involves distributing a trojanized version of a Model Context Protocol (MCP) server associated with Oura Health to deliver an information stealer known as StealC.\n\"The threat actors cloned a legitimate Oura MCP Server – a tool that connects AI assistants to Oura Ring health data – and built a deceptive"
+  },
+  {
+    "title": "My Day Getting My Hands Dirty with an NDR System",
+    "link": "https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html",
+    "published": "Tue, 17 Feb 2026 17:00:00 +0530",
+    "summary": "My objectiveThe role of NDR in SOC workflowsStarting up the NDR systemHow AI complements the human responseWhat else did I try out?What could I see with NDR that I wouldn’t otherwise?Am I ready to be a network security analyst now?\n\n\n\n\n\n\nMy objective\nAs someone relatively inexperienced with network threat hunting, I wanted to get some hands-on experience using a network detection and response ("
+  },
+  {
+    "title": "Microsoft Finds “Summarize with AI” Prompts Manipulating Chatbot Recommendations",
+    "link": "https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html",
+    "published": "Tue, 17 Feb 2026 15:01:00 +0530",
+    "summary": "New research from Microsoft has revealed that legitimate businesses are gaming artificial intelligence (AI) chatbots via the \"Summarize with AI\" button that's being increasingly placed on websites in ways that mirror classic search engine poisoning (SEO).\nThe new AI hijacking technique has been codenamed AI Recommendation Poisoning by the Microsoft Defender Security Research Team. The tech giant"
+  },
+  {
+    "title": "Apple Tests End-to-End Encrypted RCS Messaging in iOS 26.4 Developer Beta",
+    "link": "https://thehackernews.com/2026/02/apple-tests-end-to-end-encrypted-rcs.html",
+    "published": "Tue, 17 Feb 2026 12:14:00 +0530",
+    "summary": "Apple on Monday released a new developer beta of iOS and iPadOS with support for end-to-end encryption (E2EE) in Rich Communications Services (RCS) messages.\nThe feature is currently available for testing in iOS and iPadOS 26.4 Beta, and is expected to be shipped to customers in a future update for iOS, iPadOS, macOS, and watchOS.\n\"End-to-end encryption is in beta and is not available for all"
+  },
+  {
+    "title": "Infostealer Steals OpenClaw AI Agent Configuration Files and Gateway Tokens",
+    "link": "https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html",
+    "published": "Tue, 17 Feb 2026 00:13:00 +0530",
+    "summary": "Cybersecurity researchers disclosed they have detected a case of an information stealer infection successfully exfiltrating a victim's OpenClaw (formerly Clawdbot and Moltbot) configuration environment.\n\"This finding marks a significant milestone in the evolution of infostealer behavior: the transition from stealing browser credentials to harvesting the 'souls' and identities of personal AI ["
+  },
+  {
+    "title": "Study Uncovers 25 Password Recovery Attacks in Major Cloud Password Managers",
+    "link": "https://thehackernews.com/2026/02/study-uncovers-25-password-recovery.html",
+    "published": "Mon, 16 Feb 2026 23:36:00 +0530",
+    "summary": "A new study has found that multiple cloud-based password managers, including Bitwarden, Dashlane, and LastPass, are susceptible to password recovery attacks under certain conditions.\n\"The attacks range in severity from integrity violations to the complete compromise of all vaults in an organization,\" researchers Matteo Scarlata, Giovanni Torrisi, Matilda Backendal, and Kenneth G. Paterson said."
+  },
+  {
+    "title": "Weekly Recap: Outlook Add-Ins Hijack, 0-Day Patches, Wormable Botnet & AI Malware",
+    "link": "https://thehackernews.com/2026/02/weekly-recap-outlook-add-ins-hijack-0.html",
+    "published": "Mon, 16 Feb 2026 18:25:00 +0530",
+    "summary": "This week’s recap shows how small gaps are turning into big entry points. Not always through new exploits, often through tools, add-ons, cloud setups, or workflows that people already trust and rarely question.\nAnother signal: attackers are mixing old and new methods. Legacy botnet tactics, modern cloud abuse, AI assistance, and supply-chain exposure are being used side by side, whichever path"
+  }
+]
