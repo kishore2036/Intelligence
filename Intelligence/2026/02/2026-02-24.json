@@ -1,0 +1,62 @@
+[
+  {
+    "title": "APT28 Targeted European Entities Using Webhook-Based Macro Malware",
+    "link": "https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html",
+    "published": "Tue, 24 Feb 2026 01:11:00 +0530",
+    "summary": "The Russia-linked state-sponsored threat actor tracked as APT28 has been attributed to a new campaign targeting specific entities in Western and Central Europe.\nThe activity, per S2 Grupo's LAB52 threat intelligence team, was active between September 2025 and January 2026. It has been codenamed Operation MacroMaze. \"The campaign relies on basic tooling and the exploitation of legitimate services"
+  },
+  {
+    "title": "Wormable XMRig Campaign Uses BYOVD Exploit and Time-Based Logic Bomb",
+    "link": "https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html",
+    "published": "Mon, 23 Feb 2026 23:29:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new cryptojacking campaign that uses pirated software bundles as lures to deploy a bespoke XMRig miner program on compromised hosts.\n\"Analysis of the recovered dropper, persistence triggers, and mining payload reveals a sophisticated, multi-stage infection prioritizing maximum cryptocurrency mining hashrate, often destabilizing the victim"
+  },
+  {
+    "title": "⚡ Weekly Recap: Double-Tap Skimmers, PromptSpy AI, 30Tbps DDoS, Docker Malware & More",
+    "link": "https://thehackernews.com/2026/02/weekly-recap-double-tap-skimmers.html",
+    "published": "Mon, 23 Feb 2026 18:30:00 +0530",
+    "summary": "Security news rarely moves in a straight line. This week, it feels more like a series of sharp turns, some happening quietly in the background, others playing out in public view. The details are different, but the pressure points are familiar.\nAcross devices, cloud services, research labs, and even everyday apps, the line between normal behavior and hidden risk keeps getting thinner. Tools"
+  },
+  {
+    "title": "How Exposed Endpoints Increase Risk Across LLM Infrastructure",
+    "link": "https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html",
+    "published": "Mon, 23 Feb 2026 17:28:00 +0530",
+    "summary": "As more organizations run their own Large Language Models (LLMs), they are also deploying more internal services and Application Programming Interfaces (APIs) to support those models. Modern security risks are being introduced less from the models themselves and more from the infrastructure that serves, connects and automates the model. Each new LLM endpoint expands the attack surface, often in"
+  },
+  {
+    "title": "Malicious npm Packages Harvest Crypto Keys, CI Secrets, and API Tokens",
+    "link": "https://thehackernews.com/2026/02/malicious-npm-packages-harvest-crypto.html",
+    "published": "Mon, 23 Feb 2026 15:50:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed what they say is an active \"Shai-Hulud-like\" supply chain worm campaign that has leveraged a cluster of at least 19 malicious npm packages to enable credential harvesting and cryptocurrency key theft.\nThe campaign has been codenamed SANDWORM_MODE by supply chain security company Socket. As with prior Shai-Hulud attack waves, the malicious code embedded"
+  },
+  {
+    "title": "MuddyWater Targets MENA Organizations with GhostFetch, CHAR, and HTTP_VIP",
+    "link": "https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html",
+    "published": "Mon, 23 Feb 2026 12:55:00 +0530",
+    "summary": "The Iranian hacking group known as MuddyWater (aka Earth Vetala, Mango Sandstorm, and MUDDYCOAST) has targeted several organizations and individuals mainly located across the Middle East and North Africa (MENA) region as part of a new campaign codenamed Operation Olalampo.\nThe activity, first observed on January 26, 2026, has resulted in the deployment of new malware families that share"
+  },
+  {
+    "title": "AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries",
+    "link": "https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html",
+    "published": "Sat, 21 Feb 2026 20:19:00 +0530",
+    "summary": "A Russian-speaking, financially motivated threat actor has been observed taking advantage of commercial generative artificial intelligence (AI) services to compromise over 600 FortiGate devices located in 55 countries.\nThat's according to new findings from Amazon Threat Intelligence, which said it observed the activity between January 11 and February 18, 2026.\n\"No exploitation of FortiGate"
+  },
+  {
+    "title": "Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning",
+    "link": "https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html",
+    "published": "Sat, 21 Feb 2026 13:28:00 +0530",
+    "summary": "Artificial intelligence (AI) company Anthropic has begun to roll out a new security feature for Claude Code that can scan a user's software codebase for vulnerabilities and suggest patches.\nThe capability, called Claude Code Security, is currently available in a limited research preview to Enterprise and Team customers.\n\"It scans codebases for security vulnerabilities and suggests targeted"
+  },
+  {
+    "title": "CISA Adds Two Actively Exploited Roundcube Flaws to KEV Catalog",
+    "link": "https://thehackernews.com/2026/02/cisa-adds-two-actively-exploited.html",
+    "published": "Sat, 21 Feb 2026 12:51:00 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Roundcube webmail software to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerabilities in question are listed below -\n\nCVE-2025-49113 (CVSS score: 9.9) - A deserialization of untrusted data vulnerability that allows remote code"
+  },
+  {
+    "title": "EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security",
+    "link": "https://thehackernews.com/2026/02/ec-council-expands-ai-certification.html",
+    "published": "Sat, 21 Feb 2026 10:00:00 +0530",
+    "summary": "With $5.5 trillion in global AI risk exposure and 700,000 U.S. workers needing reskilling, four new AI certifications and Certified CISO v4 help close the gap between AI adoption and workforce readiness.\nEC-Council, creator of the world-renowned Certified Ethical Hacker (CEH) credential and a global leader in applied cybersecurity education, today launched its Enterprise AI Credential Suite,"
+  }
+]
