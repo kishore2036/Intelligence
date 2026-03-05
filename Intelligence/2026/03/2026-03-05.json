@@ -1,0 +1,62 @@
+[
+  {
+    "title": "149 Hacktivist DDoS Attacks Hit 110 Organizations in 16 Countries After Middle East Conflict",
+    "link": "https://thehackernews.com/2026/03/149-hacktivist-ddos-attacks-hit-110.html",
+    "published": "Wed, 04 Mar 2026 22:51:00 +0530",
+    "summary": "Cybersecurity researchers have warned of a surge in retaliatory hacktivist activity following the U.S.-Israel coordinated military campaign against Iran, codenamed Epic Fury and Roaring Lion.\n\"The hacktivist threat in the Middle East is highly lopsided, with two groups, Keymous+ and DieNet, driving nearly 70% of all attack activity between February 28 and March 2,\" Radware said in a Tuesday"
+  },
+  {
+    "title": "Coruna iOS Exploit Kit Uses 23 Exploits Across Five Chains Targeting iOS 13–17.2.1",
+    "link": "https://thehackernews.com/2026/03/coruna-ios-exploit-kit-uses-23-exploits.html",
+    "published": "Wed, 04 Mar 2026 18:58:00 +0530",
+    "summary": "Google said it identified a \"new and powerful\" exploit kit dubbed Coruna (aka CryptoWaters) targeting Apple iPhone models running iOS versions between 13.0 and 17.2.1.\nThe exploit kit featured five full iOS exploit chains and a total of 23 exploits, Google Threat Intelligence Group (GTIG) said. It's not effective against the latest version of iOS. The findings were first reported by WIRED.\n\"The"
+  },
+  {
+    "title": "New RFP Template for AI Usage Control and AI Governance",
+    "link": "https://thehackernews.com/2026/03/new-rfp-template-for-ai-usage-control.html",
+    "published": "Wed, 04 Mar 2026 17:00:00 +0530",
+    "summary": "As AI becomes the central engine for enterprise productivity, security leaders are finally getting the green light — and the budget — to secure it. But there’s a quiet crisis unfolding in the boardroom: many organizations know they need \"AI Governance,\" but they have no idea what they are actually looking for.\nThe CISO’s Dilemma: You Have the AI Budget, but Do You Have the Requirements?\nAs AI"
+  },
+  {
+    "title": "Fake Laravel Packages on Packagist Deploy RAT on Windows, macOS, and Linux",
+    "link": "https://thehackernews.com/2026/03/fake-laravel-packages-on-packagist.html",
+    "published": "Wed, 04 Mar 2026 15:07:00 +0530",
+    "summary": "Cybersecurity researchers have flagged malicious Packagist PHP packages masquerading as Laravel utilities that act as a conduit for a cross-platform remote access trojan (RAT) that's functional on Windows, macOS, and Linux systems.\nThe names of the packages are listed below -\n\nnhattuanbl/lara-helper (37 Downloads)\nnhattuanbl/simple-queue (29 Downloads)\nnhattuanbl/lara-swagger (49 Downloads)"
+  },
+  {
+    "title": "APT41-Linked Silver Dragon Targets Governments Using Cobalt Strike and Google Drive C2",
+    "link": "https://thehackernews.com/2026/03/apt41-linked-silver-dragon-targets.html",
+    "published": "Wed, 04 Mar 2026 13:44:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) group dubbed Silver Dragon that has been linked to cyber attacks targeting entities in Europe and Southeast Asia since at least mid-2024.\n\"Silver Dragon gains its initial access by exploiting public-facing internet servers and by delivering phishing emails that contain malicious attachments,\" Check Point said"
+  },
+  {
+    "title": "CISA Adds Actively Exploited VMware Aria Operations Flaw CVE-2026-22719 to KEV Catalog",
+    "link": "https://thehackernews.com/2026/03/cisa-adds-actively-exploited-vmware.html",
+    "published": "Wed, 04 Mar 2026 10:05:00 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a recently disclosed security flaw impacting Broadcom VMware Aria Operations to its Known Exploited Vulnerabilities (KEV) catalog, citing active exploitation in the wild.\nThe high-severity vulnerability, CVE-2026-22719 (CVSS score: 8.1), has been described as a case of command injection that could allow an"
+  },
+  {
+    "title": "Fake Tech Support Spam Deploys Customized Havoc C2 Across Organizations",
+    "link": "https://thehackernews.com/2026/03/fake-tech-support-spam-deploys.html",
+    "published": "Tue, 03 Mar 2026 22:45:00 +0530",
+    "summary": "Threat hunters have called attention to a new campaign as part of which bad actors masqueraded as fake IT support to deliver the Havoc command-and-control (C2) framework as a precursor to data exfiltration or ransomware attack.\nThe intrusions, identified by Huntress last month across five partner organizations, involved the threat actors using email spam as lures, followed by a phone call from"
+  },
+  {
+    "title": "Building a High-Impact Tier 1: The 3 Steps CISOs Must Follow",
+    "link": "https://thehackernews.com/2026/03/building-high-impact-tier-1-3-steps.html",
+    "published": "Tue, 03 Mar 2026 20:00:00 +0530",
+    "summary": "Every CISO knows the uncomfortable truth about their Security Operations Center: the people most responsible for catching threats in real time are the people with the least experience. Tier 1 analysts sit at the front line of detection, and yet they are also the most vulnerable to the cognitive and organizational pressures that quietly erode SOC performance over time.\nThe Paradox at the Gate:"
+  },
+  {
+    "title": "Open-Source CyberStrikeAI Deployed in AI-Driven FortiGate Attacks Across 55 Countries",
+    "link": "https://thehackernews.com/2026/03/open-source-cyberstrikeai-deployed-in.html",
+    "published": "Tue, 03 Mar 2026 19:59:00 +0530",
+    "summary": "The threat actor behind the recently disclosed artificial intelligence (AI)-assisted campaign targeting Fortinet FortiGate appliances leveraged an open-source, AI-native security testing platform called CyberStrikeAI to execute the attacks.\nThe new findings come from Team Cymru, which detected its use following an analysis of the IP address (\"212.11.64[.]250\") that was used by the suspected"
+  },
+  {
+    "title": "AI Agents: The Next Wave Identity Dark Matter - Powerful, Invisible, and Unmanaged",
+    "link": "https://thehackernews.com/2026/03/ai-agents-next-wave-identity-dark.html",
+    "published": "Tue, 03 Mar 2026 17:00:00 +0530",
+    "summary": "The Rise of MCPs in the Enterprise\nThe Model Context Protocol (MCP) is quickly becoming a practical way to push LLMs from “chat” into real work. By providing structured access to applications, APIs, and data, MCP enables prompt-driven AI agents that can retrieve information, take action, and automate end-to-end business workflows across the enterprise. This is already showing up in production"
+  }
+]
