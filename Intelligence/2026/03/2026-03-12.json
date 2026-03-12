@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Researchers Trick Perplexity's Comet AI Browser Into Phishing Scam in Under Four Minutes",
+    "link": "https://thehackernews.com/2026/03/researchers-trick-perplexitys-comet-ai.html",
+    "published": "Wed, 11 Mar 2026 22:08:00 +0530",
+    "summary": "Agentic web browsers that leverage artificial intelligence (AI) capabilities to autonomously execute actions across multiple websites on behalf of a user could be trained and tricked into falling prey to phishing and scam traps.\nThe attack, at its core, takes advantage of AI browsers' tendency to reason their actions and use it against the model itself to lower their security guardrails, Guardio"
+  },
+  {
+    "title": "Critical n8n Flaws Allow Remote Code Execution and Exposure of Stored Credentials",
+    "link": "https://thehackernews.com/2026/03/critical-n8n-flaws-allow-remote-code.html",
+    "published": "Wed, 11 Mar 2026 20:21:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of two now-patched security flaws in the n8n workflow automation platform, including two critical bugs that could result in arbitrary command execution.\nThe vulnerabilities are listed below -\n\nCVE-2026-27577 (CVSS score: 9.4) - Expression sandbox escape leading to remote code execution (RCE)\nCVE-2026-27493 (CVSS score: 9.5) - Unauthenticated"
+  },
+  {
+    "title": "Meta Disables 150K Accounts Linked to Southeast Asia Scam Centers in Global Crackdown",
+    "link": "https://thehackernews.com/2026/03/meta-disables-150k-accounts-linked-to.html",
+    "published": "Wed, 11 Mar 2026 18:45:00 +0530",
+    "summary": "Meta on Wednesday said it disabled over 150,000 accounts associated with scam centers in Southeast Asia as part of a coordinated effort in partnership with authorities from Thailand, the U.S., the U.K., Canada, Korea, Japan, Singapore, the Philippines, Australia, New Zealand, and Indonesia.\nThe effort also led to 21 arrests made by the Royal Thai Police, the company said. The action builds upon"
+  },
+  {
+    "title": "Dozens of Vendors Patch Security Flaws Across Enterprise Software and Network Devices",
+    "link": "https://thehackernews.com/2026/03/dozens-of-vendors-patch-security-flaws.html",
+    "published": "Wed, 11 Mar 2026 17:56:00 +0530",
+    "summary": "SAP has released security updates to address two critical security flaws that could be exploited to achieve arbitrary code execution on affected systems.\nThe vulnerabilities in question listed below -\n\nCVE-2019-17571 (CVSS score: 9.8) - A code injection vulnerability in SAP Quotation Management Insurance application (FS-QUO)\nCVE-2026-27685 (CVSS score: 9.1) - An insecure deserialization"
+  },
+  {
+    "title": "What Boards Must Demand in the Age of AI-Automated Exploitation",
+    "link": "https://thehackernews.com/2026/03/what-boards-must-demand-in-age-of-ai.html",
+    "published": "Wed, 11 Mar 2026 17:00:00 +0530",
+    "summary": "“You knew, and you could have acted. Why didn’t you?”&nbsp;\nThis is the question you do not want to be asked. And increasingly, it’s the question leaders are forced to answer after an incident.\nFor years, many executive teams and boards have treated a large vulnerability backlog as an uncomfortable but tolerable fact of life: “we’ve accepted the risk.” If you’ve ever seen a report showing"
+  },
+  {
+    "title": "Microsoft Patches 84 Flaws in March Patch Tuesday, Including Two Public Zero-Days",
+    "link": "https://thehackernews.com/2026/03/microsoft-patches-84-flaws-in-march.html",
+    "published": "Wed, 11 Mar 2026 14:45:00 +0530",
+    "summary": "Microsoft on Tuesday released patches for a set of 84 new security vulnerabilities affecting various software components, including two that have been listed as publicly known.\nOf these, eight are rated Critical, and 76 are rated Important in severity. Forty-six of the patched vulnerabilities relate to privilege escalation, followed by 18 remote code execution, 10 information disclosure, four"
+  },
+  {
+    "title": "UNC6426 Exploits nx npm Supply-Chain Attack to Gain AWS Admin Access in 72 Hours",
+    "link": "https://thehackernews.com/2026/03/unc6426-exploits-nx-npm-supply-chain.html",
+    "published": "Wed, 11 Mar 2026 13:01:00 +0530",
+    "summary": "A threat actor known as UNC6426 leveraged keys stolen following the supply chain compromise of the nx npm package last year to completely breach a victim's cloud environment within a span of 72 hours.\nThe attack started with the theft of a developer's GitHub token, which the threat actor then used to gain unauthorized access to the cloud and steal data.\n\"The threat actor, UNC6426, then used this"
+  },
+  {
+    "title": "Five Malicious Rust Crates and AI Bot Exploit CI/CD Pipelines to Steal Developer Secrets",
+    "link": "https://thehackernews.com/2026/03/five-malicious-rust-crates-and-ai-bot.html",
+    "published": "Wed, 11 Mar 2026 10:42:00 +0530",
+    "summary": "Cybersecurity researchers have discovered five malicious Rust crates that masquerade as time-related utilities to transmit .env file data to the threat actors.\nThe Rust packages, published to crates.io, are listed below -\n\nchrono_anchor\ndnp3times\ntime_calibrator\ntime_calibrators\ntime-sync\n\nThe crates, per Socket, impersonate timeapi.io and were published between late February and early March"
+  },
+  {
+    "title": "FortiGate Devices Exploited to Breach Networks and Steal Service Account Credentials",
+    "link": "https://thehackernews.com/2026/03/fortigate-devices-exploited-to-breach.html",
+    "published": "Tue, 10 Mar 2026 21:51:00 +0530",
+    "summary": "Cybersecurity researchers are calling attention to a new campaign where threat actors are abusing FortiGate Next-Generation Firewall (NGFW) appliances as entry points to breach victim networks.&nbsp;\nThe activity involves the exploitation of recently disclosed security vulnerabilities or weak credentials to extract configuration files containing service account credentials and network topology"
+  },
+  {
+    "title": "How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows",
+    "link": "https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html",
+    "published": "Tue, 10 Mar 2026 21:51:00 +0530",
+    "summary": "Artificial Intelligence (AI) is no longer just a tool we talk to; it is a tool that does things for us. These are called AI Agents. They can send emails, move data, and even manage software on their own.\nBut there is a problem. While these agents make work faster, they also open a new \"back door\" for hackers.\nThe Problem: \"The Invisible Employee\"\nThink of an AI Agent like a new employee who has"
+  }
+]
