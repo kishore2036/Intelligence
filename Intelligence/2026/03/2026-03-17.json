@@ -1,0 +1,62 @@
+[
+  {
+    "title": "GlassWorm Attack Uses Stolen GitHub Tokens to Force-Push Malware Into Python Repos",
+    "link": "https://thehackernews.com/2026/03/glassworm-attack-uses-stolen-github.html",
+    "published": "Tue, 17 Mar 2026 01:07:00 +0530",
+    "summary": "The GlassWorm malware campaign is being used to fuel an ongoing attack that leverages the stolen GitHub tokens to inject malware into hundreds of Python repositories.\n\"The attack targets Python projects — including Django apps, ML research code, Streamlit dashboards, and PyPI packages — by appending obfuscated code to files like setup.py, main.py, and app.py,\" StepSecurity said. \"Anyone who runs"
+  },
+  {
+    "title": "⚡ Weekly Recap: Chrome 0-Days, Router Botnets, AWS Breach, Rogue AI Agents & More",
+    "link": "https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html",
+    "published": "Mon, 16 Mar 2026 19:47:00 +0530",
+    "summary": "Some weeks in security feel normal. Then you read a few tabs and get that immediate “ah, great, we’re doing this now” feeling.\nThis week has that energy. Fresh messes, old problems getting sharper, and research that stops feeling theoretical real fast. A few bits hit a little too close to real life, too. There’s a good mix here: weird abuse of trusted stuff, quiet infrastructure ugliness,"
+  },
+  {
+    "title": "Why Security Validation Is Becoming Agentic",
+    "link": "https://thehackernews.com/2026/03/why-security-validation-is-becoming.html",
+    "published": "Mon, 16 Mar 2026 17:28:00 +0530",
+    "summary": "If you run security at any reasonably complex organization, your validation stack probably looks something like this: a BAS tool in one corner. A pentest engagement, or maybe an automated pentesting product, in another. A vulnerability scanner feeding an attack surface management platform somewhere else. Each tool gives you a slice of the picture. None of them talks to each other in any"
+  },
+  {
+    "title": "ClickFix Campaigns Spread MacSync macOS Infostealer via Fake AI Tool Installers",
+    "link": "https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html",
+    "published": "Mon, 16 Mar 2026 17:11:00 +0530",
+    "summary": "Three different ClickFix campaigns have been found to act as a delivery vector for the deployment of a macOS information stealer called MacSync.\n\"Unlike traditional exploit-based attacks, this method relies entirely on user interaction – usually in the form of copying and executing commands – making it particularly effective against users who may not appreciate the implications of running"
+  },
+  {
+    "title": "DRILLAPP Backdoor Targets Ukraine, Abuses Microsoft Edge Debugging for Stealth Espionage",
+    "link": "https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html",
+    "published": "Mon, 16 Mar 2026 14:37:00 +0530",
+    "summary": "Ukrainian entities have emerged as the target of a new campaign likely orchestrated by threat actors linked to Russia, according to a report from S2 Grupo's LAB52 threat intelligence team.\nThe campaign, observed in February 2026, has been assessed to share overlaps with a prior campaign mounted by Laundry Bear (aka UAC-0190 or Void Blizzard) aimed at Ukrainian defense forces with a malware"
+  },
+  {
+    "title": "Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse",
+    "link": "https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html",
+    "published": "Mon, 16 Mar 2026 11:13:00 +0530",
+    "summary": "Google is testing a new security feature as part of Android Advanced Protection Mode (AAPM) that prevents certain kinds of apps from using the accessibility services API.\nThe change, incorporated in Android 17 Beta 2, was first reported by Android Authority last week.\nAAPM was introduced by Google in Android 16, released last year. When enabled, it causes the device to enter a heightened"
+  },
+  {
+    "title": "OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration",
+    "link": "https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html",
+    "published": "Sat, 14 Mar 2026 21:47:00 +0530",
+    "summary": "China's National Computer Network Emergency Response Technical Team (CNCERT) has issued a warning about the security stemming from the use of OpenClaw (formerly Clawdbot and Moltbot), an open-source and self-hosted autonomous artificial intelligence (AI) agent.\nIn a post shared on WeChat, CNCERT noted that the platform's \"inherently weak default security configurations,\" coupled with its"
+  },
+  {
+    "title": "GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers",
+    "link": "https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html",
+    "published": "Sat, 14 Mar 2026 18:25:00 +0530",
+    "summary": "Cybersecurity researchers have flagged a new iteration of the GlassWorm campaign that they say represents a \"significant escalation\" in how it propagates through the Open VSX registry.\n\"Instead of requiring every malicious listing to embed the loader directly, the threat actor is now abusing extensionPack and extensionDependencies to turn initially standalone-looking extensions into transitive"
+  },
+  {
+    "title": "Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware",
+    "link": "https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html",
+    "published": "Fri, 13 Mar 2026 23:03:00 +0530",
+    "summary": "A suspected China-based cyber espionage operation has targeted Southeast Asian military organizations as part of a state-sponsored campaign that dates back to at least 2020.\nPalo Alto Networks Unit 42 is tracking the threat activity under the moniker CL-STA-1087, where CL refers to cluster, and STA stands for state-backed motivation.\n\"The activity demonstrated strategic operational patience and"
+  },
+  {
+    "title": "Meta to Shut Down Instagram End-to-End Encrypted Chat Support Starting May 2026",
+    "link": "https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html",
+    "published": "Fri, 13 Mar 2026 22:39:00 +0530",
+    "summary": "Meta has announced plans to discontinue support for end-to-end encryption (E2EE) for chats on Instagram after May 8, 2026.\n\"If you have chats that are impacted by this change, you will see instructions on how you can download any media or messages you may want to keep,\" the social media giant said in a help document. \"If you're on an older version of Instagram, you may also need to update the"
+  }
+]
