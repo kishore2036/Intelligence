@@ -1,0 +1,62 @@
+[
+  {
+    "title": "AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE",
+    "link": "https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html",
+    "published": "Tue, 17 Mar 2026 22:09:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new method for exfiltrating sensitive data from artificial intelligence (AI) code execution environments using domain name system (DNS) queries.\nIn a report published Monday, BeyondTrust revealed that Amazon Bedrock AgentCore Code Interpreter's sandbox mode permits outbound DNS queries that an attacker can exploit to enable interactive shells"
+  },
+  {
+    "title": "LeakNet Ransomware Uses ClickFix via Hacked Sites, Deploys Deno In-Memory Loader",
+    "link": "https://thehackernews.com/2026/03/leaknet-ransomware-uses-clickfix-via.html",
+    "published": "Tue, 17 Mar 2026 20:04:00 +0530",
+    "summary": "The ransomware operation known as LeakNet has adopted the ClickFix social engineering tactic delivered through compromised websites as an initial access method.\nThe use of ClickFix, where users are tricked into manually running malicious commands to address non-existent errors, is a departure from relying on traditional methods for obtaining initial access, such as through stolen credentials"
+  },
+  {
+    "title": "AI is Everywhere, But CISOs are Still Securing It with Yesterday's Skills and Tools, Study Finds",
+    "link": "https://thehackernews.com/2026/03/ai-is-everywhere-but-cisos-are-still.html",
+    "published": "Tue, 17 Mar 2026 17:00:00 +0530",
+    "summary": "A majority of security leaders are struggling to defend AI systems with tools and skills that are not fit for the challenge, according to the AI and Adversarial Testing Benchmark Report 2026 from Pentera.\nThe report, based on a survey of 300 US CISOs and senior security leaders, examines how organizations are securing AI infrastructure and highlights critical gaps tied to skills shortages and"
+  },
+  {
+    "title": "Konni Deploys EndRAT Through Phishing, Uses KakaoTalk to Propagate Malware",
+    "link": "https://thehackernews.com/2026/03/konni-deploys-endrat-through-spear.html",
+    "published": "Tue, 17 Mar 2026 15:23:00 +0530",
+    "summary": "North Korean threat actors have been observed sending phishing to compromise targets and obtain access to a victim's KakaoTalk desktop application to distribute malicious payloads to certain contacts.\nThe activity has been attributed by South Korean threat intelligence firm Genians to a hacking group referred to as Konni.\n\"Initial access was achieved through a spear-phishing email disguised as a"
+  },
+  {
+    "title": "CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths",
+    "link": "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html",
+    "published": "Tue, 17 Mar 2026 10:53:00 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a medium-severity security flaw impacting Wing FTP to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerability, CVE-2025-47813 (CVSS score: 4.3), is an information disclosure vulnerability that leaks the installation path of the application under certain conditions"
+  },
+  {
+    "title": "GlassWorm Attack Uses Stolen GitHub Tokens to Force-Push Malware Into Python Repos",
+    "link": "https://thehackernews.com/2026/03/glassworm-attack-uses-stolen-github.html",
+    "published": "Tue, 17 Mar 2026 01:07:00 +0530",
+    "summary": "The GlassWorm malware campaign is being used to fuel an ongoing attack that leverages the stolen GitHub tokens to inject malware into hundreds of Python repositories.\n\"The attack targets Python projects — including Django apps, ML research code, Streamlit dashboards, and PyPI packages — by appending obfuscated code to files like setup.py, main.py, and app.py,\" StepSecurity said. \"Anyone who runs"
+  },
+  {
+    "title": "⚡ Weekly Recap: Chrome 0-Days, Router Botnets, AWS Breach, Rogue AI Agents & More",
+    "link": "https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html",
+    "published": "Mon, 16 Mar 2026 19:47:00 +0530",
+    "summary": "Some weeks in security feel normal. Then you read a few tabs and get that immediate “ah, great, we’re doing this now” feeling.\nThis week has that energy. Fresh messes, old problems getting sharper, and research that stops feeling theoretical real fast. A few bits hit a little too close to real life, too. There’s a good mix here: weird abuse of trusted stuff, quiet infrastructure ugliness,"
+  },
+  {
+    "title": "Why Security Validation Is Becoming Agentic",
+    "link": "https://thehackernews.com/2026/03/why-security-validation-is-becoming.html",
+    "published": "Mon, 16 Mar 2026 17:28:00 +0530",
+    "summary": "If you run security at any reasonably complex organization, your validation stack probably looks something like this: a BAS tool in one corner. A pentest engagement, or maybe an automated pentesting product, in another. A vulnerability scanner feeding an attack surface management platform somewhere else. Each tool gives you a slice of the picture. None of them talks to each other in any"
+  },
+  {
+    "title": "ClickFix Campaigns Spread MacSync macOS Infostealer via Fake AI Tool Installers",
+    "link": "https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html",
+    "published": "Mon, 16 Mar 2026 17:11:00 +0530",
+    "summary": "Three different ClickFix campaigns have been found to act as a delivery vector for the deployment of a macOS information stealer called MacSync.\n\"Unlike traditional exploit-based attacks, this method relies entirely on user interaction – usually in the form of copying and executing commands – making it particularly effective against users who may not appreciate the implications of running"
+  },
+  {
+    "title": "DRILLAPP Backdoor Targets Ukraine, Abuses Microsoft Edge Debugging for Stealth Espionage",
+    "link": "https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html",
+    "published": "Mon, 16 Mar 2026 14:37:00 +0530",
+    "summary": "Ukrainian entities have emerged as the target of a new campaign likely orchestrated by threat actors linked to Russia, according to a report from S2 Grupo's LAB52 threat intelligence team.\nThe campaign, observed in February 2026, has been assessed to share overlaps with a prior campaign mounted by Laundry Bear (aka UAC-0190 or Void Blizzard) aimed at Ukrainian defense forces with a malware"
+  }
+]
