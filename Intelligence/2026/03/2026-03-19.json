@@ -1,0 +1,62 @@
+[
+  {
+    "title": "OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs",
+    "link": "https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html",
+    "published": "Wed, 18 Mar 2026 22:56:00 +0530",
+    "summary": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) has sanctioned six individuals and two entities for their involvement in the Democratic People's Republic of Korea (DPRK) information technology (IT) worker scheme with an aim to defraud U.S. businesses and generate illicit revenue for the regime to fund its weapons of mass destruction (WMD) programs.\n\"The North Korean"
+  },
+  {
+    "title": "Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access",
+    "link": "https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html",
+    "published": "Wed, 18 Mar 2026 21:30:00 +0530",
+    "summary": "Amazon Threat Intelligence is warning of an active Interlock ransomware campaign that's exploiting a recently disclosed critical security flaw in Cisco Secure Firewall Management Center (FMC) Software.\nThe vulnerability in question is CVE-2026-20131 (CVSS score: 10.0), a case of insecure deserialization of user-supplied Java byte stream, which could allow an unauthenticated, remote attacker to"
+  },
+  {
+    "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE",
+    "link": "https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html",
+    "published": "Wed, 18 Mar 2026 18:00:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed a critical security flaw impacting the GNU InetUtils telnet daemon (telnetd) that could be exploited by an unauthenticated remote attacker to execute arbitrary code with elevated privileges.\nThe vulnerability, tracked as CVE-2026-32746, carries a CVSS score of 9.8 out of 10.0. It has been described as a case of out-of-bounds write in the LINEMODE Set"
+  },
+  {
+    "title": "Claude Code Security and Magecart: Getting the Threat Model Right",
+    "link": "https://thehackernews.com/2026/03/claude-code-security-and-magecart.html",
+    "published": "Wed, 18 Mar 2026 17:28:00 +0530",
+    "summary": "When a Magecart payload hides inside the EXIF data of a dynamically loaded third-party favicon, no repository scanner will catch it – because the malicious code never actually touches your repo. As teams adopt Claude Code Security for static analysis, this is the exact technical boundary where AI code scanning stops and client-side runtime execution begins.\nA detailed analysis of where Claude"
+  },
+  {
+    "title": "9 Critical IP KVM Flaws Enable Unauthenticated Root Access Across Four Vendors",
+    "link": "https://thehackernews.com/2026/03/9-critical-ip-kvm-flaws-enable.html",
+    "published": "Wed, 18 Mar 2026 17:12:00 +0530",
+    "summary": "Cybersecurity researchers have warned about the risks posed by low-cost IP KVM (Keyboard, Video, Mouse over Internet Protocol) devices, which can grant attackers extensive control over compromised hosts.\nThe nine vulnerabilities, discovered by Eclypsium, span four different products from GL-iNet Comet RM-1, Angeet/Yeeso ES3 KVM, Sipeed NanoKVM, and JetKVM. The most severe of them allow"
+  },
+  {
+    "title": "Product Walkthrough: How Mesh CSMA Reveals and Breaks Attack Paths to Crown Jewels",
+    "link": "https://thehackernews.com/2026/03/product-walkthrough-how-mesh-csma.html",
+    "published": "Wed, 18 Mar 2026 16:00:00 +0530",
+    "summary": "Security teams today are not short on tools or data. They are overwhelmed by both.&nbsp;\nYet within the terabytes of alerts, exposures, and misconfigurations – security teams still struggle to understand context:&nbsp;\nQ: Which exposures, misconfigurations, and vulnerabilities chain together to create viable attack paths to crown jewels?\nEven the most mature security teams can’t answer that"
+  },
+  {
+    "title": "Ubuntu CVE-2026-3888 Bug Lets Attackers Gain Root via systemd Cleanup Timing Exploit",
+    "link": "https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html",
+    "published": "Wed, 18 Mar 2026 13:38:00 +0530",
+    "summary": "A high-severity security flaw affecting default installations of Ubuntu Desktop versions 24.04 and later could be exploited to escalate privileges to the root level.\nTracked as CVE-2026-3888 (CVSS score: 7.8), the issue could allow an attacker to seize control of a susceptible system.\n\"This flaw (CVE-2026-3888) allows an unprivileged local attacker to escalate privileges to full root access"
+  },
+  {
+    "title": "Apple Fixes WebKit Vulnerability Enabling Same-Origin Policy Bypass on iOS and macOS",
+    "link": "https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html",
+    "published": "Wed, 18 Mar 2026 12:01:00 +0530",
+    "summary": "Apple on Tuesday released its first round of Background Security Improvements to address a security flaw in WebKit that affects iOS, iPadOS, and macOS.\nThe vulnerability, tracked as CVE-2026-20643 (CVSS score: N/A), has been described as a cross-origin issue in WebKit's Navigation API that could be exploited to bypass the same-origin policy when processing maliciously crafted web content.\nThe"
+  },
+  {
+    "title": "AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE",
+    "link": "https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html",
+    "published": "Tue, 17 Mar 2026 22:09:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new method for exfiltrating sensitive data from artificial intelligence (AI) code execution environments using domain name system (DNS) queries.\nIn a report published Monday, BeyondTrust revealed that Amazon Bedrock AgentCore Code Interpreter's sandbox mode permits outbound DNS queries that an attacker can exploit to enable interactive shells"
+  },
+  {
+    "title": "LeakNet Ransomware Uses ClickFix via Hacked Sites, Deploys Deno In-Memory Loader",
+    "link": "https://thehackernews.com/2026/03/leaknet-ransomware-uses-clickfix-via.html",
+    "published": "Tue, 17 Mar 2026 20:04:00 +0530",
+    "summary": "The ransomware operation known as LeakNet has adopted the ClickFix social engineering tactic delivered through compromised websites as an initial access method.\nThe use of ClickFix, where users are tricked into manually running malicious commands to address non-existent errors, is a departure from relying on traditional methods for obtaining initial access, such as through stolen credentials"
+  }
+]
