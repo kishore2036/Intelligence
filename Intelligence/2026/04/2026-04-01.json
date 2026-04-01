@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Android Developer Verification Rollout Begins Ahead of September Enforcement",
+    "link": "https://thehackernews.com/2026/03/android-developer-verification-rollout.html",
+    "published": "Tue, 31 Mar 2026 23:58:00 +0530",
+    "summary": "Google on Monday said it's officially rolling out Android developer verification to all developers to combat the problem of bad actors distributing harmful apps while \"hiding behind anonymity.\"\nThe development comes ahead of a planned verification mandate that goes into effect in Brazil, Indonesia, Singapore, and Thailand this September, before it expands globally next year.\nAs part of this"
+  },
+  {
+    "title": "TrueConf Zero-Day Exploited in Attacks on Southeast Asian Government Networks",
+    "link": "https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html",
+    "published": "Tue, 31 Mar 2026 21:33:00 +0530",
+    "summary": "A high-severity security flaw in the TrueConf client video conferencing software has been exploited in the wild as a zero-day as part of a campaign targeting government entities in Southeast Asia dubbed TrueChaos.\nThe vulnerability in question is CVE-2026-3502 (CVSS score: 7.8), a lack of integrity check when fetching application update code, allowing an attacker to distribute a tampered update,"
+  },
+  {
+    "title": "Vertex AI Vulnerability Exposes Google Cloud Data and Private Artifacts",
+    "link": "https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html",
+    "published": "Tue, 31 Mar 2026 18:39:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed a security \"blind spot\" in Google Cloud's Vertex AI platform that could allow artificial intelligence (AI) agents to be weaponized by an attacker to gain unauthorized access to sensitive data and compromise an organization's cloud environment.\nAccording to Palo Alto Networks Unit 42, the issue relates to how the Vertex AI permission model can be misused"
+  },
+  {
+    "title": "The AI Arms Race – Why Unified Exposure Management Is Becoming a Boardroom Priority",
+    "link": "https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html",
+    "published": "Tue, 31 Mar 2026 17:20:00 +0530",
+    "summary": "The cybersecurity landscape is accelerating at an unprecedented rate. What is emerging is not simply a rise in the number of vulnerabilities or tools, but a dramatic increase in speed. Speed of attack, speed of exploitation, and speed of change across modern environments.\nThis is the defining challenge of the new era of digital warfare: the weaponization of Artificial Intelligence. Threat actors"
+  },
+  {
+    "title": "Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains",
+    "link": "https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html",
+    "published": "Tue, 31 Mar 2026 17:16:00 +0530",
+    "summary": "Chinese-speaking users are the target of an active campaign that uses typosquatted domains impersonating trusted software brands to deliver a previously undocumented remote access trojan named AtlasCross RAT.\n\"The operation covers VPN clients, encrypted messengers, video conferencing tools, cryptocurrency trackers, and e-commerce applications, with eleven confirmed delivery domains impersonating"
+  },
+  {
+    "title": "Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account",
+    "link": "https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html",
+    "published": "Tue, 31 Mar 2026 11:38:00 +0530",
+    "summary": "The popular HTTP client known as Axios has suffered a supply chain attack after two newly published versions of the npm package introduced a malicious dependency that delivers a trojan capable of targeting Windows, macOS, and Linux systems.\nVersions 1.14.1 and 0.30.4 of Axios have been found to inject \"plain-crypto-js\" version 4.2.1 as a fake dependency.\nAccording to StepSecurity, the two"
+  },
+  {
+    "title": "OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability",
+    "link": "https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html",
+    "published": "Mon, 30 Mar 2026 23:35:00 +0530",
+    "summary": "A previously unknown vulnerability in OpenAI ChatGPT allowed sensitive conversation data to be exfiltrated without user knowledge or consent, according to new findings from Check Point.\n\"A single malicious prompt could turn an otherwise ordinary conversation into a covert exfiltration channel, leaking user messages, uploaded files, and other sensitive content,\" the cybersecurity company said in"
+  },
+  {
+    "title": "DeepLoad Malware Uses ClickFix and WMI Persistence to Steal Browser Credentials",
+    "link": "https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html",
+    "published": "Mon, 30 Mar 2026 21:17:00 +0530",
+    "summary": "A new campaign has leveraged the ClickFix social engineering tactic as a way to distribute a previously undocumented malware loader referred to as DeepLoad.\n\"It likely uses AI-assisted obfuscation and process injection to evade static scanning, while credential theft starts immediately and captures passwords and sessions even if the primary loader is blocked,\" ReliaQuest researchers Thassanai"
+  },
+  {
+    "title": "⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More",
+    "link": "https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html",
+    "published": "Mon, 30 Mar 2026 19:26:00 +0530",
+    "summary": "Some weeks are loud. This one was quieter but not in a good way. Long-running operations are finally hitting courtrooms, old attack methods are showing up in new places, and research that stopped being theoretical right around the time defenders stopped paying attention.\nThere's a bit of everything this week. Persistence plays, legal wins, influence ops, and at least one thing that looks boring"
+  },
+  {
+    "title": "3 SOC Process Fixes That Unlock Tier 1 Productivity",
+    "link": "https://thehackernews.com/2026/03/3-soc-process-fixes-that-unlock-tier-1.html",
+    "published": "Mon, 30 Mar 2026 18:30:00 +0530",
+    "summary": "What is really slowing Tier 1 down: the threat itself or the process around it? In many SOCs, the biggest delays do not come from the threat alone. They come from fragmented workflows, manual triage steps, and limited visibility early in the investigation. Fixing those process gaps can help Tier 1 move faster, reduce unnecessary escalations, and improve how the entire SOC responds under pressure"
+  }
+]
