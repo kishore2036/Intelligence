@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials",
+    "link": "https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html",
+    "published": "Fri, 03 Apr 2026 01:00:00 +0530",
+    "summary": "A&nbsp;large-scale credential harvesting operation&nbsp;has been&nbsp;observed exploiting the React2Shell vulnerability as an initial infection vector to steal database credentials, SSH private keys, Amazon Web Services (AWS) secrets, shell command history, Stripe API keys, and GitHub tokens at&nbsp;scale.\nCisco&nbsp;Talos has attributed the operation to a threat cluster it tracks&nbsp;as"
+  },
+  {
+    "title": "Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise",
+    "link": "https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html",
+    "published": "Thu, 02 Apr 2026 20:51:00 +0530",
+    "summary": "Cisco&nbsp;has released updates to address a critical security flaw in the Integrated Management Controller (IMC) that, if successfully exploited, could allow an unauthenticated, remote attacker to bypass authentication and gain access to the system with elevated privileges.\nThe&nbsp;vulnerability, tracked as CVE-2026-20093, carries a CVSS score of 9.8&nbsp;out of a maximum of&nbsp;10.0.\n\"This"
+  },
+  {
+    "title": "ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories",
+    "link": "https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html",
+    "published": "Thu, 02 Apr 2026 18:15:00 +0530",
+    "summary": "The&nbsp;latest ThreatsDay Bulletin is basically a cheat sheet for everything breaking on the internet right now. No&nbsp;corporate fluff or boring lectures here, just a quick and honest look at the messy reality of keeping systems safe this&nbsp;week.\nThings&nbsp;are moving fast. The&nbsp;list includes researchers chaining small bugs together to create massive backdoors, old software flaws"
+  },
+  {
+    "title": "Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners",
+    "link": "https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html",
+    "published": "Thu, 02 Apr 2026 17:12:00 +0530",
+    "summary": "A&nbsp;financially motivated operation&nbsp;codenamed REF1695&nbsp;has been&nbsp;observed leveraging fake installers to deploy remote access trojans (RATs) and cryptocurrency miners since November&nbsp;2023.\n\"Beyond cryptomining, the threat actor monetizes infections through CPA (Cost Per Action) fraud, directing victims to content locker pages under the guise of software registration,\" Elastic"
+  },
+  {
+    "title": "The State of Trusted Open Source Report",
+    "link": "https://thehackernews.com/2026/04/the-state-of-trusted-open-source-report.html",
+    "published": "Thu, 02 Apr 2026 17:00:00 +0530",
+    "summary": "In December&nbsp;2025, we shared the first-ever The State of Trusted Open&nbsp;Source report, featuring insights from our product data and customer base on open source consumption across our catalog of container image projects, versions, images, language libraries, and builds. These&nbsp;insights shed light on what teams pull, deploy, and maintain day to day, alongside the vulnerabilities and"
+  },
+  {
+    "title": "WhatsApp Alerts 200 Users After Fake iOS App Installed Spyware; Italian Firm Faces Action",
+    "link": "https://thehackernews.com/2026/04/whatsapp-alerts-200-users-after-fake.html",
+    "published": "Thu, 02 Apr 2026 15:21:00 +0530",
+    "summary": "Meta-owned messaging platform WhatsApp said it alerted about 200 users who were tricked into installing a bogus version of its iOS app that was infected with&nbsp;spyware.\nAccording to reports from Italian&nbsp;newspaper La Repubblica and news&nbsp;agency ANSA, the vast majority of the targets are located in Italy. It's assessed that the threat actors behind the activity used social engineering"
+  },
+  {
+    "title": "Apple Expands iOS 18.7.7 Update to More Devices to Block DarkSword Exploit",
+    "link": "https://thehackernews.com/2026/04/apple-expands-ios-1877-update-to-more.html",
+    "published": "Thu, 02 Apr 2026 12:39:00 +0530",
+    "summary": "Apple&nbsp;on&nbsp;Wednesday expanded the availability of iOS 18.7.7&nbsp;and iPadOS 18.7.7&nbsp;to a broader range of devices to protect users from the risk posed by a recently disclosed exploit kit known&nbsp;as DarkSword.\n\"We enabled the availability of iOS 18.7.7&nbsp;for more devices on April 1, 2026, so users with Automatic Updates turned on can automatically receive important security"
+  },
+  {
+    "title": "CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails",
+    "link": "https://thehackernews.com/2026/04/cert-ua-impersonation-campaign-spread.html",
+    "published": "Wed, 01 Apr 2026 21:40:00 +0530",
+    "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new phishing campaign in which the cybersecurity agency itself was impersonated to distribute a remote administration tool known as AGEWHEEZE.\nAs part of the attacks, the threat actors, tracked as UAC-0255, sent emails on March 26 and 27, 2026, posing as CERT-UA to distribute a password-protected ZIP archive"
+  },
+  {
+    "title": "Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass",
+    "link": "https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html",
+    "published": "Wed, 01 Apr 2026 19:40:00 +0530",
+    "summary": "Microsoft is calling attention to a new campaign that has leveraged WhatsApp messages to distribute malicious Visual Basic Script (VBS) files.\nThe activity, beginning in late February 2026, leverages these scripts to initiate a multi-stage infection chain for establishing persistence and enabling remote access. It's currently not known what lures the threat actors use to trick users into"
+  },
+  {
+    "title": "Block the Prompt, Not the Work: The End of \"Doctor No\"",
+    "link": "https://thehackernews.com/2026/04/block-prompt-not-work-end-of-doctor-no.html",
+    "published": "Wed, 01 Apr 2026 18:16:00 +0530",
+    "summary": "There is a character that keeps appearing in enterprise security departments, and most CISOs know exactly who that is. It doesn&rsquo;t build. It doesn&rsquo;t enable. Its entire function is to say \"No.\"\nNo to ChatGPT.\nNo to DeepSeek.\nNo to the file-sharing tool the product team swears by.\nFor years, this looked like security. But in 2026, \"Doctor No\" is no longer just a management headache &"
+  }
+]
