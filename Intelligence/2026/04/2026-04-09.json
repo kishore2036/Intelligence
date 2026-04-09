@@ -1,0 +1,62 @@
+[
+  {
+    "title": "New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy",
+    "link": "https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html",
+    "published": "Wed, 08 Apr 2026 23:21:00 +0530",
+    "summary": "Cybersecurity researchers have flagged a new variant&nbsp;ofmalware&nbsp;called Chaosthat'scapable of&nbsp;hitting misconfigured cloud deployments, marking an expansion of the botnet's targeting infrastructure.\n\"Chaos malware is increasingly targeting misconfigured cloud deployments, expanding beyond its traditional focus on routers and edge devices,\"&nbsp;Darktrace said in a new&nbsp;report."
+  },
+  {
+    "title": "Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices",
+    "link": "https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html",
+    "published": "Wed, 08 Apr 2026 22:00:00 +0530",
+    "summary": "Cybersecurity researchers have lifted the curtain on a stealthy botnet that's designed for distributed denial-of-service (DDoS)&nbsp;attacks.\nCalled Masjesu, the botnet has been advertised via Telegram as a DDoS-for-hire service since it first surfaced in 2023. It's capable of targeting a wide range of IoT devices, such as routers and gateways, spanning multiple architectures.\n\"Built for"
+  },
+  {
+    "title": "APT28 Deploys PRISMEX Malware in Campaign Targeting Ukraine and NATO Allies",
+    "link": "https://thehackernews.com/2026/04/apt28-deploys-prismex-malware-in.html",
+    "published": "Wed, 08 Apr 2026 19:20:00 +0530",
+    "summary": "The Russian threat actor known&nbsp;as APT28 (aka Forest Blizzard and Pawn Storm) has been linked to a fresh spear-phishing campaign targeting Ukraine and its allies to deploy a previously undocumented malware suite&nbsp;codenamed PRISMEX.\n\"PRISMEX combines advanced steganography, component object model (COM) hijacking, and legitimate cloud service abuse for command-and-control,\" Trend Micro"
+  },
+  {
+    "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
+    "link": "https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html",
+    "published": "Wed, 08 Apr 2026 17:00:00 +0530",
+    "summary": "The Fragmented State of Modern Enterprise&nbsp;Identity\nEnterprise IAM is approaching a breaking point. As&nbsp;organizations scale, identity becomes increasingly fragmented across thousands of applications, decentralized teams, machine identities, and autonomous&nbsp;systems.&nbsp;\nThe result is Identity Dark Matter: identity activity that sits outside the visibility of centralized IAM and"
+  },
+  {
+    "title": "Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems",
+    "link": "https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html",
+    "published": "Wed, 08 Apr 2026 14:46:00 +0530",
+    "summary": "Artificial Intelligence (AI) company Anthropic announced a new cybersecurity initiative&nbsp;called Project&nbsp;Glasswing&nbsp;that&nbsp;will use a preview version of its new frontier model, Claude Mythos,&nbsp;to find and address security vulnerabilities.\nThe model will&nbsp;be used by&nbsp;a small&nbsp;set of organizations, including Amazon Web Services, Apple, Broadcom, Cisco, CrowdStrike,&"
+  },
+  {
+    "title": "N. Korean Hackers Spread 1,700 Malicious Packages Across npm, PyPI, Go, Rust",
+    "link": "https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html",
+    "published": "Wed, 08 Apr 2026 13:17:00 +0530",
+    "summary": "The North Korea-linked persistent campaign known&nbsp;as Contagious&nbsp;Interview has spread its tentacles by publishing malicious packages targeting the Go, Rust, and PHP ecosystems.\n\"The threat actor's packages were designed to impersonate legitimate developer tooling [...], while quietly functioning as malware loaders, extending Contagious Interview’s established playbook into a coordinated"
+  },
+  {
+    "title": "Iran-Linked Hackers Disrupt U.S. Critical Infrastructure by Targeting Internet-Exposed PLCs",
+    "link": "https://thehackernews.com/2026/04/iran-linked-hackers-disrupt-us-critical.html",
+    "published": "Wed, 08 Apr 2026 09:53:00 +0530",
+    "summary": "Iran-affiliated cyber actors are targeting internet-facing operational technology (OT) devices across critical infrastructures in the U.S., including programmable logic controllers (PLCs), cybersecurity and intelligence&nbsp;agencies warned&nbsp;Tuesday.\n\"These attacks have led to diminished PLC functionality, manipulation of display data and, in some cases, operational disruption and financial"
+  },
+  {
+    "title": "Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign",
+    "link": "https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html",
+    "published": "Tue, 07 Apr 2026 22:18:00 +0530",
+    "summary": "The Russia-linked threat actor known&nbsp;as APT28 (aka Forest Blizzard) has been linked to a new campaign that has compromised insecure MikroTik and TP-Link routers and modified their settings to turn them into malicious infrastructure under their control as part of a cyber espionage campaign since at least May&nbsp;2025.\nThe large-scale exploitation campaign has&nbsp;been codenamed&nbsp;"
+  },
+  {
+    "title": "[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk",
+    "link": "https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html",
+    "published": "Tue, 07 Apr 2026 21:59:00 +0530",
+    "summary": "In&nbsp;the rapid evolution of&nbsp;the 2026 threat landscape, a frustrating paradox has emerged for CISOs and security&nbsp;leaders: Identity programs are maturing, yet the risk is actually increasing.\nAccording to new research from&nbsp;the Ponemon&nbsp;Institute, hundreds of applications within the typical enterprise remain disconnected from centralized identity systems.&nbsp;These&nbsp;\"dark"
+  },
+  {
+    "title": "Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access",
+    "link": "https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html",
+    "published": "Tue, 07 Apr 2026 20:45:00 +0530",
+    "summary": "A high-severity security vulnerability has been disclosed in Docker Engine that could permit an attacker to bypass authorization plugins&nbsp;(AuthZ) under specific circumstances.\nThe vulnerability, tracked&nbsp;as CVE-2026-34040 (CVSS score: 8.8), stems from an incomplete fix&nbsp;for CVE-2024-41110, a maximum-severity vulnerability in the same component that came to light in July&nbsp;2024.\n\""
+  }
+]
