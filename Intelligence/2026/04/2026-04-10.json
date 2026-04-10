@@ -1,0 +1,62 @@
+[
+  {
+    "title": "EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallets",
+    "link": "https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html",
+    "published": "Thu, 09 Apr 2026 22:56:00 +0530",
+    "summary": "Details have emerged about a now-patched security vulnerability in a widely used third-party Android software development kit&nbsp;(SDK) called&nbsp;EngageLab&nbsp;SDK that could have put millions of cryptocurrency wallet users at&nbsp;risk.\n\"This flaw allows apps on the same device to bypass Android security sandbox and gain unauthorized access to private&nbsp;data,\" the Microsoft Defender"
+  },
+  {
+    "title": "UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns",
+    "link": "https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html",
+    "published": "Thu, 09 Apr 2026 21:53:00 +0530",
+    "summary": "A previously undocumented threat cluster&nbsp;dubbed UAT-10362 has been attributed to spear-phishing campaigns targeting Taiwanese non-governmental organizations (NGOs) and suspected universities to deploy a new Lua-based malware called LucidRook.\n\"LucidRook is a sophisticated stager that embeds a Lua interpreter and Rust-compiled libraries within a dynamic-link library (DLL) to download and"
+  },
+  {
+    "title": "ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories",
+    "link": "https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html",
+    "published": "Thu, 09 Apr 2026 18:27:00 +0530",
+    "summary": "Thursday. Another week, another batch of things that probably should've been caught sooner but&nbsp;weren't.\nThis&nbsp;one's got some range — old vulnerabilities getting new life, a few \"why was that even possible\" moments, attackers leaning on platforms and tools you'd normally trust without thinking twice. Quiet&nbsp;escalations more than loud zero-days, but the kind that matter more in"
+  },
+  {
+    "title": "The Hidden Security Risks of Shadow AI in Enterprises",
+    "link": "https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html",
+    "published": "Thu, 09 Apr 2026 17:01:00 +0530",
+    "summary": "As&nbsp;AI tools become more accessible, employees are adopting them without formal approval from IT and security teams. While&nbsp;these tools may boost productivity, automate tasks, or fill gaps in existing workflows, they also operate outside the visibility of security teams, bypassing controls and creating new blind spots in what is known as shadow AI. While&nbsp;similar to the phenomenon of"
+  },
+  {
+    "title": "Adobe Reader Zero-Day Exploited via Malicious PDFs Since December 2025",
+    "link": "https://thehackernews.com/2026/04/adobe-reader-zero-day-exploited-via.html",
+    "published": "Thu, 09 Apr 2026 16:45:00 +0530",
+    "summary": "Threat actors have been exploiting a previously unknown zero-day vulnerability in Adobe Reader using maliciously crafted PDF documents since at least December&nbsp;2025.\nThe finding, detailed by EXPMON's Haifei Li, has&nbsp;been described as a highly-sophisticated PDF exploit.&nbsp;The artifact (\"Invoice540.pdf\") first appeared on the VirusTotal platform on November 28, 2025.&nbsp;A second&nbsp;"
+  },
+  {
+    "title": "Bitter-Linked Hack-for-Hire Campaign Targets Journalists Across MENA Region",
+    "link": "https://thehackernews.com/2026/04/bitter-linked-hack-for-hire-campaign.html",
+    "published": "Thu, 09 Apr 2026 16:10:00 +0530",
+    "summary": "An&nbsp;apparent hack-for-hire campaign likely orchestrated by a threat actor with suspected ties to the Indian government targeted journalists, activists, and government officials across the Middle East and North Africa (MENA), according to findings&nbsp;from Access&nbsp;Now, Lookout,&nbsp;and SMEX.\nTwo&nbsp;of the targets included prominent Egyptian journalists and government critics, Mostafa"
+  },
+  {
+    "title": "New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy",
+    "link": "https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html",
+    "published": "Wed, 08 Apr 2026 23:21:00 +0530",
+    "summary": "Cybersecurity researchers have flagged a new variant&nbsp;ofmalware&nbsp;called Chaosthat'scapable of&nbsp;hitting misconfigured cloud deployments, marking an expansion of the botnet's targeting infrastructure.\n\"Chaos malware is increasingly targeting misconfigured cloud deployments, expanding beyond its traditional focus on routers and edge devices,\"&nbsp;Darktrace said in a new&nbsp;report."
+  },
+  {
+    "title": "Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices",
+    "link": "https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html",
+    "published": "Wed, 08 Apr 2026 22:00:00 +0530",
+    "summary": "Cybersecurity researchers have lifted the curtain on a stealthy botnet that's designed for distributed denial-of-service (DDoS)&nbsp;attacks.\nCalled Masjesu, the botnet has been advertised via Telegram as a DDoS-for-hire service since it first surfaced in 2023. It's capable of targeting a wide range of IoT devices, such as routers and gateways, spanning multiple architectures.\n\"Built for"
+  },
+  {
+    "title": "APT28 Deploys PRISMEX Malware in Campaign Targeting Ukraine and NATO Allies",
+    "link": "https://thehackernews.com/2026/04/apt28-deploys-prismex-malware-in.html",
+    "published": "Wed, 08 Apr 2026 19:20:00 +0530",
+    "summary": "The Russian threat actor known&nbsp;as APT28 (aka Forest Blizzard and Pawn Storm) has been linked to a fresh spear-phishing campaign targeting Ukraine and its allies to deploy a previously undocumented malware suite&nbsp;codenamed PRISMEX.\n\"PRISMEX combines advanced steganography, component object model (COM) hijacking, and legitimate cloud service abuse for command-and-control,\" Trend Micro"
+  },
+  {
+    "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
+    "link": "https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html",
+    "published": "Wed, 08 Apr 2026 17:00:00 +0530",
+    "summary": "The Fragmented State of Modern Enterprise&nbsp;Identity\nEnterprise IAM is approaching a breaking point. As&nbsp;organizations scale, identity becomes increasingly fragmented across thousands of applications, decentralized teams, machine identities, and autonomous&nbsp;systems.&nbsp;\nThe result is Identity Dark Matter: identity activity that sits outside the visibility of centralized IAM and"
+  }
+]
