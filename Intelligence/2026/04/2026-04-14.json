@@ -1,0 +1,62 @@
+[
+  {
+    "title": "JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025",
+    "link": "https://thehackernews.com/2026/04/janelarat-malware-targets-latin.html",
+    "published": "Mon, 13 Apr 2026 22:45:00 +0530",
+    "summary": "Banks and financial institutions in Latin American countries like Brazil and Mexico have continued to be the target of a malware family called JanelaRAT.\nA modified version of BX RAT, JanelaRAT is known to steal financial and cryptocurrency data associated with specific financial entities, as well as track mouse inputs, log keystrokes, take screenshots, and collect system metadata.\n\"One of the"
+  },
+  {
+    "title": "FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts",
+    "link": "https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html",
+    "published": "Mon, 13 Apr 2026 20:16:00 +0530",
+    "summary": "The U.S. Federal Bureau of Investigation (FBI), in partnership with the Indonesian National Police, has dismantled the infrastructure associated with a global phishing operation that leveraged an off-the-shelf toolkit&nbsp;called W3LL to steal thousands of victims' account credentials and attempt more than $20 million in&nbsp;fraud.\nIn tandem, authorities detained the alleged developer, who has&"
+  },
+  {
+    "title": "⚡ Weekly Recap: Fiber Optic Spying, Windows Rootkit, AI Vulnerability Hunting and More",
+    "link": "https://thehackernews.com/2026/04/weekly-recap-fiber-optic-spying-windows.html",
+    "published": "Mon, 13 Apr 2026 18:31:00 +0530",
+    "summary": "Monday&nbsp;is back, and the weekend’s backlog of chaos is officially hitting the fan. We&nbsp;are tracking a critical zero-day that has been quietly living in your PDFs for months, plus some aggressive state-sponsored meddling in infrastructure that is finally coming to light. It&nbsp;is one of those mornings where the gap between a quiet shift and a full-blown incident response is basically"
+  },
+  {
+    "title": "Your MTTD Looks Great. Your Post-Alert Gap Doesn't",
+    "link": "https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html",
+    "published": "Mon, 13 Apr 2026 17:11:00 +0530",
+    "summary": "Anthropic restricted its Mythos Preview model last week after it autonomously found and exploited zero-day vulnerabilities in every major operating system and browser. Palo&nbsp;Alto Networks' Wendi&nbsp;Whitmore warned that similar capabilities are weeks or months from proliferation. CrowdStrike's 2026 Global Threat Report puts average eCrime breakout time at 29 minutes. Mandiant's M-Trends"
+  },
+  {
+    "title": "North Korea's APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware",
+    "link": "https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html",
+    "published": "Mon, 13 Apr 2026 14:45:00 +0530",
+    "summary": "The North Korean hacking group tracked&nbsp;as APT37 (aka ScarCruft) has been attributed to a fresh multi-stage, social engineering campaign in which threat actors approached targets on Facebook and added them as friends on the social media platform, turning the trust-building exercise into a delivery channel for a remote access trojan&nbsp;called RokRAT.\n\"The threat actor used two Facebook"
+  },
+  {
+    "title": "OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident",
+    "link": "https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html",
+    "published": "Mon, 13 Apr 2026 12:20:00 +0530",
+    "summary": "OpenAI revealed a GitHub Actions workflow used to sign its macOS apps led to the download of the malicious Axios library on March 31, but noted that no user data or internal system was compromised.\n\"Out of an abundance of caution, we are taking steps to protect the process that certifies our macOS applications are legitimate OpenAI apps,\"&nbsp;OpenAI said in a post last week. \"We found no"
+  },
+  {
+    "title": "CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads",
+    "link": "https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html",
+    "published": "Sun, 12 Apr 2026 11:24:00 +0530",
+    "summary": "Unknown threat actors compromised CPUID (\"cpuid[.]com\"), a website&nbsp;that hosts popular hardware monitoring tools like CPU-Z, HWMonitor, HWMonitor Pro, and PerfMonitor, for less than 24 hours to serve malicious executables for the software and deploy a remote access trojan called STX&nbsp;RAT.\nThe incident lasted from approximately April 9, 15:00 UTC, to about April 10, 10:00&nbsp;UTC, with"
+  },
+  {
+    "title": "Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621",
+    "link": "https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html",
+    "published": "Sun, 12 Apr 2026 09:55:00 +0530",
+    "summary": "Adobe has released emergency updates to fix a critical security flaw in Acrobat Reader that&nbsp;has come under active exploitation in the&nbsp;wild.\nThe vulnerability, assigned the CVE identifier CVE-2026-34621, carries a CVSS score of 8.6 out of 10.0. Successful exploitation of the flaw could allow an attacker to run malicious code on affected installations.\nIt&nbsp;has been&nbsp;described as"
+  },
+  {
+    "title": "Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data",
+    "link": "https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html",
+    "published": "Sat, 11 Apr 2026 11:32:00 +0530",
+    "summary": "Hungarian domestic intelligence, the national police in El Salvador, and several U.S. law&nbsp;enforcement and police departments have been attributed to the use of an advertising-based global geolocation surveillance system called&nbsp;Webloc.\nThe tool was developed by Israeli company Cobwebs Technologies and is now sold by its successor Penlink after&nbsp;the two firms merged in July&nbsp;2023"
+  },
+  {
+    "title": "GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs",
+    "link": "https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html",
+    "published": "Fri, 10 Apr 2026 18:53:00 +0530",
+    "summary": "Cybersecurity researchers have flagged yet another evolution of the&nbsp;ongoing GlassWorm campaign, which employs a new Zig dropper that's designed to stealthily infect all integrated development environments (IDEs) on a developer's&nbsp;machine.\nThe technique has been discovered in an Open VSX extension named&nbsp;\"specstudio.code-wakatime-activity-tracker,\" which masquerades as WakaTime, a"
+  }
+]
