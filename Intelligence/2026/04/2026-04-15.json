@@ -1,0 +1,62 @@
+[
+  {
+    "title": "New PHP Composer Flaws Enable Arbitrary Command Execution — Patches Released",
+    "link": "https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html",
+    "published": "Tue, 14 Apr 2026 21:27:00 +0530",
+    "summary": "Two high-severity security vulnerabilities&nbsp;have been disclosed in Composer, a package&nbsp;manager for&nbsp;PHP, that, if successfully exploited, could result in arbitrary command execution.\nThe vulnerabilities&nbsp;have been&nbsp;described as command injection flaws affecting the Perforce VCS (version control software) driver. Details of the two flaws are below&nbsp;-\n\nCVE-2026-40176 (CVSS"
+  },
+  {
+    "title": "Google Adds Rust-Based DNS Parser into Pixel 10 Modem to Enhance Security",
+    "link": "https://thehackernews.com/2026/04/google-adds-rust-based-dns-parser-into.html",
+    "published": "Tue, 14 Apr 2026 20:26:00 +0530",
+    "summary": "Google has announced the integration of a Rust-based Domain Name System (DNS) parser into the modem firmware as part of its ongoing efforts to beef up the security of Pixel devices and push memory-safe code at a more foundational&nbsp;level.\n\"The new Rust-based DNS parser significantly reduces our security risk by mitigating an entire class of vulnerabilities in a risky area, while also laying"
+  },
+  {
+    "title": "AI-Driven Pushpaganda Scam Exploits Google Discover to Spread Scareware and Ad Fraud",
+    "link": "https://thehackernews.com/2026/04/ai-driven-pushpaganda-scam-exploits.html",
+    "published": "Tue, 14 Apr 2026 20:00:00 +0530",
+    "summary": "Cybersecurity researchers have unmasked a novel ad fraud scheme that has been found to leverage search engine poisoning (SEO) techniques and artificial intelligence (AI)-generated content to push deceptive news stories into&nbsp;Google's Discover&nbsp;feed and trick users into enabling persistent browser notifications that lead to scareware and financial&nbsp;scams.\nThe campaign, which has been"
+  },
+  {
+    "title": "Mirax Android RAT Turns Devices into SOCKS5 Proxies, Reaching 220,000 via Meta Ads",
+    "link": "https://thehackernews.com/2026/04/mirax-android-rat-turns-devices-into.html",
+    "published": "Tue, 14 Apr 2026 15:50:00 +0530",
+    "summary": "A nascent Android remote access trojan&nbsp;called Mirax has been observed actively targeting Spanish-speaking countries, with campaigns reaching more than 220,000 accounts on Facebook, Instagram, Messenger, and Threads through advertisements on&nbsp;Meta.\n\"Mirax integrates advanced Remote Access Trojan (RAT) capabilities, allowing threat actors to fully interact with compromised devices in real"
+  },
+  {
+    "title": "Analysis of 216M Security Findings Shows a 4x Increase In Critical Risk (2026 Report)",
+    "link": "https://thehackernews.com/2026/04/analysis-of-216m-security-findings.html",
+    "published": "Tue, 14 Apr 2026 15:30:00 +0530",
+    "summary": "OX Security recently analyzed 216 million security findings across 250 organizations over a 90-day period. The&nbsp;primary takeaway: while raw alert volume grew by 52% year-over-year, prioritized critical risk grew by nearly&nbsp;400%.\nThe surge in AI-assisted development is creating a \"velocity&nbsp;gap\" where the density of high-impact vulnerabilities&nbsp;is scaling faster&nbsp;than"
+  },
+  {
+    "title": "108 Malicious Chrome Extensions Steal Google and Telegram Data, Affecting 20,000 Users",
+    "link": "https://thehackernews.com/2026/04/108-malicious-chrome-extensions-steal.html",
+    "published": "Tue, 14 Apr 2026 14:05:00 +0530",
+    "summary": "Cybersecurity researchers have discovered a new campaign in which a cluster of 108 Google Chrome extensions has been found to communicate with the same command-and-control (C2) infrastructure with the goal of collecting user data and enabling browser-level abuse by injecting ads and arbitrary JavaScript code into every web page&nbsp;visited.\nAccording to Socket, the extensions (complete list"
+  },
+  {
+    "title": "ShowDoc RCE Flaw CVE-2025-0520 Actively Exploited on Unpatched Servers",
+    "link": "https://thehackernews.com/2026/04/showdoc-rce-flaw-cve-2025-0520-actively.html",
+    "published": "Tue, 14 Apr 2026 11:20:00 +0530",
+    "summary": "A critical security vulnerability&nbsp;impacting ShowDoc, a document management and collaboration service popular in China, has come under active exploitation in the&nbsp;wild.\nThe vulnerability in question&nbsp;is CVE-2025-0520 (aka CNVD-2020-26585), which carries a CVSS score of 9.4&nbsp;out of&nbsp;10.0.\nIt relates to a case of unrestricted file upload that stems from improper validation of"
+  },
+  {
+    "title": "CISA Adds 6 Known Exploited Flaws in Fortinet, Microsoft, and Adobe Software",
+    "link": "https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html",
+    "published": "Tue, 14 Apr 2026 11:09:00 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on&nbsp;Monday added half a dozen security flaws to its Known Exploited Vulnerabilities&nbsp;(KEV) catalog, citing evidence of active exploitation.\nThe list of vulnerabilities is as follows&nbsp;-\n\nCVE-2026-21643 (CVSS score: 9.1) -&nbsp; An SQL injection vulnerability in&nbsp; Fortinet FortiClient EMS that could allow an"
+  },
+  {
+    "title": "JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025",
+    "link": "https://thehackernews.com/2026/04/janelarat-malware-targets-latin.html",
+    "published": "Mon, 13 Apr 2026 22:45:00 +0530",
+    "summary": "Banks and financial institutions in Latin American countries like Brazil and Mexico have continued to be the target of a malware family called JanelaRAT.\nA modified version of BX RAT, JanelaRAT is known to steal financial and cryptocurrency data associated with specific financial entities, as well as track mouse inputs, log keystrokes, take screenshots, and collect system metadata.\n\"One of the"
+  },
+  {
+    "title": "FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts",
+    "link": "https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html",
+    "published": "Mon, 13 Apr 2026 20:16:00 +0530",
+    "summary": "The U.S. Federal Bureau of Investigation (FBI), in partnership with the Indonesian National Police, has dismantled the infrastructure associated with a global phishing operation that leveraged an off-the-shelf toolkit&nbsp;called W3LL to steal thousands of victims' account credentials and attempt more than $20 million in&nbsp;fraud.\nIn tandem, authorities detained the alleged developer, who has&"
+  }
+]
