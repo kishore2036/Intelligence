@@ -1,0 +1,62 @@
+[
+  {
+    "title": "n8n Webhooks Abused Since October 2025 to Deliver Malware via Phishing Emails",
+    "link": "https://thehackernews.com/2026/04/n8n-webhooks-abused-since-october-2025.html",
+    "published": "Wed, 15 Apr 2026 22:39:00 +0530",
+    "summary": "Threat actors&nbsp;have been&nbsp;observed weaponizing n8n, a popular artificial intelligence (AI) workflow automation platform, to facilitate sophisticated phishing campaigns and deliver malicious payloads or fingerprint devices by sending automated&nbsp;emails.\n\"By leveraging trusted infrastructure, these attackers bypass traditional security filters, turning productivity tools into delivery"
+  },
+  {
+    "title": "Actively Exploited nginx-ui Flaw (CVE-2026-33032) Enables Full Nginx Server Takeover",
+    "link": "https://thehackernews.com/2026/04/critical-nginx-ui-vulnerability-cve.html",
+    "published": "Wed, 15 Apr 2026 18:26:00 +0530",
+    "summary": "A recently disclosed critical security flaw impacting nginx-ui, an open-source, web-based Nginx management tool, has come under active exploitation in the&nbsp;wild.\nThe vulnerability in question is CVE-2026-33032 (CVSS score: 9.8), an authentication bypass vulnerability that enables threat actors to seize control of the Nginx service. It&nbsp;has been codenamed MCPwn by Pluto&nbsp;Security.\n\""
+  },
+  {
+    "title": "April Patch Tuesday Fixes Critical Flaws Across SAP, Adobe, Microsoft, Fortinet, and More",
+    "link": "https://thehackernews.com/2026/04/april-patch-tuesday-fixes-critical.html",
+    "published": "Wed, 15 Apr 2026 18:07:00 +0530",
+    "summary": "A number&nbsp;of critical vulnerabilities impacting products from Adobe, Fortinet, Microsoft, and SAP have taken center stage in April's Patch Tuesday&nbsp;releases.\nTopping the list is an SQL injection vulnerability impacting SAP Business Planning and Consolidation and SAP Business Warehouse&nbsp;(CVE-2026-27681, CVSS score: 9.9) that could result in the execution of arbitrary database&nbsp;"
+  },
+  {
+    "title": "Deterministic + Agentic AI: The Architecture Exposure Validation Requires",
+    "link": "https://thehackernews.com/2026/04/deterministic-agentic-ai-architecture.html",
+    "published": "Wed, 15 Apr 2026 17:00:00 +0530",
+    "summary": "Few technologies have moved from experimentation to boardroom mandate as quickly as AI. Across&nbsp;industries, leadership teams have embraced its broader potential, and boards, investors, and executives are already pushing organizations to adopt it across operational and security functions.&nbsp;Pentera’s AI Security and Exposure Report&nbsp;2026 reflects that&nbsp;momentum: every CISO surveyed"
+  },
+  {
+    "title": "Microsoft Issues Patches for SharePoint Zero-Day and 168 Other New Vulnerabilities",
+    "link": "https://thehackernews.com/2026/04/microsoft-issues-patches-for-sharepoint.html",
+    "published": "Wed, 15 Apr 2026 14:10:00 +0530",
+    "summary": "Microsoft on Tuesday released updates to address a&nbsp;record 169 security&nbsp;flaws across its product portfolio, including one vulnerability that&nbsp;has been actively&nbsp;exploited in the&nbsp;wild.\nOf these 169 vulnerabilities, 157 are rated Important, eight are rated&nbsp;Critical, three are rated Moderate,&nbsp;and one is rated Low in&nbsp;severity. Ninety-three of the flaws are"
+  },
+  {
+    "title": "OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams",
+    "link": "https://thehackernews.com/2026/04/openai-launches-gpt-54-cyber-with.html",
+    "published": "Wed, 15 Apr 2026 10:00:00 +0530",
+    "summary": "OpenAI on Tuesday&nbsp;unveiled GPT-5.4-Cyber, a variant of its latest flagship&nbsp;model, GPT‑5.4, that's specifically optimized for defensive cybersecurity use cases, days after rival Anthropic unveiled its own frontier&nbsp;model, Mythos.\n\"The progressive use of AI accelerates defenders – those responsible for keeping systems, data, and users safe – enabling them to find and fix problems"
+  },
+  {
+    "title": "New PHP Composer Flaws Enable Arbitrary Command Execution — Patches Released",
+    "link": "https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html",
+    "published": "Tue, 14 Apr 2026 21:27:00 +0530",
+    "summary": "Two high-severity security vulnerabilities&nbsp;have been disclosed in Composer, a package&nbsp;manager for&nbsp;PHP, that, if successfully exploited, could result in arbitrary command execution.\nThe vulnerabilities&nbsp;have been&nbsp;described as command injection flaws affecting the Perforce VCS (version control software) driver. Details of the two flaws are below&nbsp;-\n\nCVE-2026-40176 (CVSS"
+  },
+  {
+    "title": "Google Adds Rust-Based DNS Parser into Pixel 10 Modem to Enhance Security",
+    "link": "https://thehackernews.com/2026/04/google-adds-rust-based-dns-parser-into.html",
+    "published": "Tue, 14 Apr 2026 20:26:00 +0530",
+    "summary": "Google has announced the integration of a Rust-based Domain Name System (DNS) parser into the modem firmware as part of its ongoing efforts to beef up the security of Pixel devices and push memory-safe code at a more foundational&nbsp;level.\n\"The new Rust-based DNS parser significantly reduces our security risk by mitigating an entire class of vulnerabilities in a risky area, while also laying"
+  },
+  {
+    "title": "AI-Driven Pushpaganda Scam Exploits Google Discover to Spread Scareware and Ad Fraud",
+    "link": "https://thehackernews.com/2026/04/ai-driven-pushpaganda-scam-exploits.html",
+    "published": "Tue, 14 Apr 2026 20:00:00 +0530",
+    "summary": "Cybersecurity researchers have unmasked a novel ad fraud scheme that has been found to leverage search engine poisoning (SEO) techniques and artificial intelligence (AI)-generated content to push deceptive news stories into&nbsp;Google's Discover&nbsp;feed and trick users into enabling persistent browser notifications that lead to scareware and financial&nbsp;scams.\nThe campaign, which has been"
+  },
+  {
+    "title": "Mirax Android RAT Turns Devices into SOCKS5 Proxies, Reaching 220,000 via Meta Ads",
+    "link": "https://thehackernews.com/2026/04/mirax-android-rat-turns-devices-into.html",
+    "published": "Tue, 14 Apr 2026 15:50:00 +0530",
+    "summary": "A nascent Android remote access trojan&nbsp;called Mirax has been observed actively targeting Spanish-speaking countries, with campaigns reaching more than 220,000 accounts on Facebook, Instagram, Messenger, and Threads through advertisements on&nbsp;Meta.\n\"Mirax integrates advanced Remote Access Trojan (RAT) capabilities, allowing threat actors to fully interact with compromised devices in real"
+  }
+]
