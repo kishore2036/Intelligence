@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Three Microsoft Defender Zero-Days Actively Exploited; Two Still Unpatched",
+    "link": "https://thehackernews.com/2026/04/three-microsoft-defender-zero-days.html",
+    "published": "Fri, 17 Apr 2026 18:51:00 +0530",
+    "summary": "Huntress is warning that threat actors are exploiting three recently disclosed security flaws in Microsoft Defender to gain elevated privileges in compromised systems.\nThe activity involves&nbsp;the exploitation of three vulnerabilities that are codenamed BlueHammer (requires GitHub sign-in), RedSun, and UnDefend, all of which were released as zero-days by a researcher known as Chaotic Eclipse ("
+  },
+  {
+    "title": "Google Blocks 8.3B Policy-Violating Ads in 2025, Launches Android 17 Privacy Overhaul",
+    "link": "https://thehackernews.com/2026/04/google-blocks-83b-policy-violating-ads.html",
+    "published": "Fri, 17 Apr 2026 16:17:00 +0530",
+    "summary": "Google this week announced a new set of Play policy updates to strengthen user privacy and protect businesses against fraud, even as it revealed it blocked or removed over 8.3 billion ads globally and suspended 24.9 million accounts in 2025.\nThe new policy updates relate to contact and location permissions in Android, allowing third-party apps to access the contact lists and a user's location in"
+  },
+  {
+    "title": "NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions",
+    "link": "https://thehackernews.com/2026/04/nist-limits-cve-enrichment-after-263.html",
+    "published": "Fri, 17 Apr 2026 12:44:00 +0530",
+    "summary": "The National Institute of Standards and Technology (NIST) has announced changes to the way it handles cybersecurity vulnerabilities and exposures (CVEs) listed in its National Vulnerability Database (NVD), stating it will only enrich those that fulfil certain conditions owing to an explosion in CVE submissions.\n\"CVEs that do not meet those criteria will still be listed in the NVD but will not"
+  },
+  {
+    "title": "Operation PowerOFF Seizes 53 DDoS Domains, Exposes 3 Million Criminal Accounts",
+    "link": "https://thehackernews.com/2026/04/operation-poweroff-seizes-53-ddos.html",
+    "published": "Fri, 17 Apr 2026 11:16:00 +0530",
+    "summary": "An international law enforcement operation has taken down 53 domains and arrested four people in connection with commercial distributed denial-of-service (DDoS) operations that were used by more than 75,000 cybercriminals.\nThe ongoing effort, dubbed Operation PowerOFF, disrupted access to the DDoS-for-hire services, took down the technical infrastructure supporting them, and obtained access to"
+  },
+  {
+    "title": "Apache ActiveMQ CVE-2026-34197 Added to CISA KEV Amid Active Exploitation",
+    "link": "https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html",
+    "published": "Fri, 17 Apr 2026 08:52:00 +0530",
+    "summary": "A recently disclosed high-severity security flaw in Apache ActiveMQ&nbsp;Classic has come under active exploitation in the wild, per the U.S. Cybersecurity and Infrastructure Security Agency&nbsp;(CISA).\nTo that end, the agency&nbsp;has added the vulnerability, tracked&nbsp;as CVE-2026-34197 (CVSS score: 8.8), to its Known Exploited Vulnerabilities&nbsp;(KEV) catalog, requiring Federal Civilian"
+  },
+  {
+    "title": "Newly Discovered PowMix Botnet Hits Czech Workers Using Randomized C2 Traffic",
+    "link": "https://thehackernews.com/2026/04/newly-discovered-powmix-botnet-hits.html",
+    "published": "Thu, 16 Apr 2026 23:22:00 +0530",
+    "summary": "Cybersecurity researchers have warned of an active malicious campaign that's targeting the workforce in the Czech Republic with a previously undocumented botnet&nbsp;dubbed PowMix since at least December&nbsp;2025.\n\"PowMix employs randomized command-and-control (C2) beaconing intervals, rather than persistent connection to the C2 server, to evade the network signature detections,\" Cisco Talos"
+  },
+  {
+    "title": "ThreatsDay Bulletin: Defender 0-Day, SonicWall Brute-Force, 17-Year-Old Excel RCE and 15 More Stories",
+    "link": "https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html",
+    "published": "Thu, 16 Apr 2026 18:35:00 +0530",
+    "summary": "You&nbsp;know that feeling when you open your feed on a Thursday morning and it's just... a&nbsp;lot? Yeah. This&nbsp;week delivered. We've got hackers getting creative in ways that are almost impressive if you ignore the whole \"crime\" part, ancient vulnerabilities somehow still ruining people's days, and enough supply chain drama to fill a season of television nobody asked&nbsp;for.\nNot&nbsp;"
+  },
+  {
+    "title": "[Webinar] Find and Eliminate Orphaned Non-Human Identities in Your Environment",
+    "link": "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html",
+    "published": "Thu, 16 Apr 2026 17:25:00 +0530",
+    "summary": "In 2024, compromised service accounts and forgotten API keys were behind 68% of cloud breaches. Not&nbsp;phishing. Not&nbsp;weak passwords. Unmanaged non-human identities that nobody was&nbsp;watching.\nFor every employee in your org, there are 40 to 50 automated credentials: service accounts, API tokens, AI agent connections,&nbsp;andOAuth grants. When&nbsp;projects end or employees leave, most"
+  },
+  {
+    "title": "Cisco Patches Four Critical Identity Services, Webex Flaws Enabling Code Execution",
+    "link": "https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html",
+    "published": "Thu, 16 Apr 2026 16:57:00 +0530",
+    "summary": "Cisco has announced patches to address four critical security flaws impacting Identity Services and Webex Services that could result in arbitrary code execution and allow an attacker to impersonate any user within the&nbsp;service.\nThe details of the vulnerabilities are below&nbsp;-\n\nCVE-2026-20184 (CVSS score: 9.8) - An improper certificate validation in the integration of single sign-on (SSO)"
+  },
+  {
+    "title": "Obsidian Plugin Abuse Delivers PHANTOMPULSE RAT in Targeted Finance, Crypto Attacks",
+    "link": "https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html",
+    "published": "Thu, 16 Apr 2026 15:50:00 +0530",
+    "summary": "A \"novel\" social engineering campaign has been observed abusing Obsidian, a cross-platform note-taking application, as an initial access vector to distribute a previously undocumented Windows remote access trojan called PHANTOMPULSE in attacks targeting individuals in the financial and cryptocurrency&nbsp;sectors.\nDubbed REF6598 by Elastic Security Labs, the activity has been found to leverage"
+  }
+]
