@@ -1,0 +1,62 @@
+[
+  {
+    "title": "SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files",
+    "link": "https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html",
+    "published": "Mon, 20 Apr 2026 22:44:00 +0530",
+    "summary": "A critical security vulnerability has been disclosed in SGLang that, if successfully exploited, could result in remote code execution on susceptible systems.\nThe vulnerability, tracked as CVE-2026-5760, carries a CVSS score of 9.8 out of 10.0. It has been described as a case of command injection leading to the execution of arbitrary code.\nSGLang is a high-performance, open-source serving"
+  },
+  {
+    "title": "⚡ Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More",
+    "link": "https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html",
+    "published": "Mon, 20 Apr 2026 19:11:00 +0530",
+    "summary": "Monday’s recap shows the same pattern in different places. A third-party tool becomes a way in, then leads to internal access. A trusted download path is briefly swapped to deliver malware. Browser extensions act normally while pulling data and running code. Even update channels are used to push payloads. It’s not breaking systems—it’s bending trust.\nThere’s also a shift in how attacks run."
+  },
+  {
+    "title": "Why Most AI Deployments Stall After the Demo",
+    "link": "https://thehackernews.com/2026/04/why-most-ai-deployments-stall-after-demo.html",
+    "published": "Mon, 20 Apr 2026 17:00:00 +0530",
+    "summary": "The fastest way to fall in love with an AI tool is to watch the demo.\nEverything moves quickly. Prompts land cleanly. The system produces impressive outputs in seconds. It feels like the beginning of a new era for your team.\nBut most AI initiatives don't fail because of bad technology. They stall because what worked in the demo doesn't survive contact with real operations. The gap between a"
+  },
+  {
+    "title": "Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain",
+    "link": "https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html",
+    "published": "Mon, 20 Apr 2026 16:12:00 +0530",
+    "summary": "Cybersecurity researchers have discovered a critical \"by design\" weakness in the Model Context Protocol's (MCP) architecture that could pave the way for remote code execution and have a cascading effect on the artificial intelligence (AI) supply chain.\n\"This flaw enables Arbitrary Command Execution (RCE) on any system running a vulnerable MCP implementation, granting attackers direct access to"
+  },
+  {
+    "title": "Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems",
+    "link": "https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html",
+    "published": "Mon, 20 Apr 2026 13:04:00 +0530",
+    "summary": "Cybersecurity researchers have flagged a new malware called ZionSiphon that appears to be specifically designed to target Israeli water treatment and desalination systems.\nThe malware has been codenamed ZionSiphon by Darktrace, highlighting its ability to set up persistence, tamper with local configuration files, and scan for operational technology (OT)-relevant services on the local subnet."
+  },
+  {
+    "title": "Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials",
+    "link": "https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html",
+    "published": "Mon, 20 Apr 2026 09:05:00 +0530",
+    "summary": "Web infrastructure provider Vercel has disclosed a security breach that allows bad actors to gain unauthorized access to \"certain\" internal Vercel systems.\nThe incident stemmed from the compromise of Context.ai, a third-party artificial intelligence (AI) tool, that was used by an employee at the company.\n\"The attacker used that access to take over the employee's Vercel Google Workspace account,"
+  },
+  {
+    "title": "[Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data",
+    "link": "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html",
+    "published": "Sat, 18 Apr 2026 13:37:00 +0530",
+    "summary": "In 2024, compromised service accounts and forgotten API keys were behind 68% of cloud breaches. Not&nbsp;phishing. Not&nbsp;weak passwords. Unmanaged non-human identities that nobody was&nbsp;watching.\nFor every employee in your org, there are 40 to 50 automated credentials: service accounts, API tokens, AI agent connections,&nbsp;and OAuth grants. When&nbsp;projects end or employees leave, most"
+  },
+  {
+    "title": "$13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims",
+    "link": "https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html",
+    "published": "Sat, 18 Apr 2026 13:29:00 +0530",
+    "summary": "Grinex, a Kyrgyzstan-incorporated cryptocurrency exchange sanctioned by the U.K. and the U.S. last year, said it's suspending operations after it blamed Western intelligence agencies for a $13.74 million hack.\nThe exchange said it fell victim to what it described as a large-scale cyber attack that bore hallmarks of foreign intelligence agency involvement. This attack led to the theft of over 1"
+  },
+  {
+    "title": "Mirai Variant Nexcorium Exploits CVE-2024-3721 to Hijack TBK DVRs for DDoS Botnet",
+    "link": "https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html",
+    "published": "Sat, 18 Apr 2026 11:31:00 +0530",
+    "summary": "Threat actors are exploiting security flaws in TBK DVR and end‑of‑life (EoL) TP-Link Wi-Fi routers to deploy Mirai-botnet variants on compromised devices, according to findings from Fortinet FortiGuard Labs and Palo Alto Networks Unit 42.\nThe attack targeting TBK DVR devices has been found to exploit CVE-2024-3721 (CVSS score: 6.3), a medium-severity command injection vulnerability affecting"
+  },
+  {
+    "title": "Three Microsoft Defender Zero-Days Actively Exploited; Two Still Unpatched",
+    "link": "https://thehackernews.com/2026/04/three-microsoft-defender-zero-days.html",
+    "published": "Fri, 17 Apr 2026 18:51:00 +0530",
+    "summary": "Huntress is warning that threat actors are exploiting three recently disclosed security flaws in Microsoft Defender to gain elevated privileges in compromised systems.\nThe activity involves&nbsp;the exploitation of three vulnerabilities that are codenamed BlueHammer (requires GitHub sign-in), RedSun, and UnDefend, all of which were released as zero-days by a researcher known as Chaotic Eclipse ("
+  }
+]
