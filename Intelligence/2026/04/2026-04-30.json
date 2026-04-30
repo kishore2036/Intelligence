@@ -1,0 +1,62 @@
+[
+  {
+    "title": "SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack",
+    "link": "https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html",
+    "published": "Wed, 29 Apr 2026 21:56:00 +0530",
+    "summary": "Cybersecurity researchers are sounding the alarm about a new supply chain attack campaign targeting SAP-related npm Packages with credential-stealing malware.\nAccording to reports from Aikido Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz, the campaign – calling itself the mini Shai-Hulud – has affected the following packages associated with SAP's JavaScript and cloud application"
+  },
+  {
+    "title": "New Wave of DPRK Attacks Uses AI-Inserted npm Malware, Fake Firms, and RATs",
+    "link": "https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html",
+    "published": "Wed, 29 Apr 2026 20:13:00 +0530",
+    "summary": "Cybersecurity researchers have discovered malicious code in an npm package after a malicious package as a dependency to the project by Anthropic's Claude Opus large language model (LLM).\nThe package in question is \"@validate-sdk/v2,\" which is listed on npm as a utility software development kit (SDK) for hashing, validation, encoding/decoding, and secure random generation. However, its real"
+  },
+  {
+    "title": "Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks",
+    "link": "https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html",
+    "published": "Wed, 29 Apr 2026 17:32:00 +0530",
+    "summary": "In February 2026, researchers uncovered a shift that completely changed the game: threat actors are now using custom AI setups to automate attacks directly into the kill chain.\nWe aren't just talking about AI writing better phishing emails anymore. We’re talking about autonomous agents mapping Active Directory and seizing Domain Admin credentials in minutes.\nThe problem? Most defensive workflows"
+  },
+  {
+    "title": "What to Look for in an Exposure Management Platform (And What Most of Them Get Wrong)",
+    "link": "https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html",
+    "published": "Wed, 29 Apr 2026 17:00:00 +0530",
+    "summary": "Every security team has a version of the same story. The quarter ends with hundreds of vulnerabilities closed. The dashboards are bursting with green. Then someone in a leadership meeting asks: \"So, are we actually safer now?\"\nCrickets.\nThe room goes quiet because an honest answer requires context – which is something that patch counts and CVSS scores were never designed to provide. Exposure"
+  },
+  {
+    "title": "Critical cPanel Authentication Vulnerability Identified — Update Your Server Immediately",
+    "link": "https://thehackernews.com/2026/04/critical-cpanel-authentication.html",
+    "published": "Wed, 29 Apr 2026 15:07:00 +0530",
+    "summary": "cPanel has released security updates to address a security issue impacting various authentication paths that could allow an attacker to obtain access to the control panel software.\nThe problem affects all currently supported versions, according to an alert released by cPanel on Tuesday. The issue has been addressed in the following versions -\n\n11.110.0.97\n11.118.0.63\n11.126.0.54\n11.132.0.29"
+  },
+  {
+    "title": "CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV",
+    "link": "https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html",
+    "published": "Wed, 29 Apr 2026 14:16:00 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two security flaws impacting ConnectWise ScreenConnect and Microsoft Windows to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe vulnerabilities are listed below -\n\nCVE-2024-1708 (CVSS score: 8.4) - A path traversal vulnerability in&nbsp; ConnectWise ScreenConnect"
+  },
+  {
+    "title": "LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure",
+    "link": "https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html",
+    "published": "Wed, 29 Apr 2026 11:04:00 +0530",
+    "summary": "In yet another instance of threat actors quickly jumping on the exploitation bandwagon, a newly disclosed critical security flaw in BerriAI's LiteLLM Python package has come under active exploitation in the wild within 36 hours of the bug becoming public knowledge.\nThe vulnerability, tracked as CVE-2026-42208 (CVSS score: 9.3), is an SQL injection that could be exploited to modify the underlying"
+  },
+  {
+    "title": "Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push",
+    "link": "https://thehackernews.com/2026/04/researchers-discover-critical-github.html",
+    "published": "Tue, 28 Apr 2026 23:49:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a critical security vulnerability impacting GitHub.com and GitHub Enterprise Server that could allow an authenticated user to obtain remote code execution with a single \"git push\" command.\nThe flaw, tracked as CVE-2026-3854 (CVSS score: 8.7), is a case of command injection that could allow an attacker with push access to a repository to achieve"
+  },
+  {
+    "title": "Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign",
+    "link": "https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html",
+    "published": "Tue, 28 Apr 2026 23:09:00 +0530",
+    "summary": "A cybercrime group of Brazilian origin has resurfaced after more than three years to orchestrate a campaign that targets Minecraft players with a new stealer called LofyStealer (aka GrabBot).\n\"The malware disguises itself as a Minecraft hack called 'Slinky,'\" Brazil-based cybersecurity company ZenoX said in a technical report. \"It uses the official game icon to induce voluntary execution,"
+  },
+  {
+    "title": "VECT 2.0 Ransomware Irreversibly Destroys Files Over 131KB on Windows, Linux, ESXi",
+    "link": "https://thehackernews.com/2026/04/vect-20-ransomware-irreversibly.html",
+    "published": "Tue, 28 Apr 2026 19:31:00 +0530",
+    "summary": "Threat hunters are warning that the cybercriminal operation known as VECT 2.0 acts more like a wiper than a ransomware due to a critical flaw in its encryption implementation across Windows, Linux, and ESXi variants that renders recovery impossible even for the threat actors.\nThe fact that VECT's locker permanently destroys large files rather than encrypting them means even victims who opt to"
+  }
+]
