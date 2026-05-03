@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Trellix Confirms Source Code Breach With Unauthorized Repository Access",
+    "link": "https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html",
+    "published": "Sat, 02 May 2026 12:11:00 +0530",
+    "summary": "Cybersecurity company Trellix has announced that it suffered a breach that enabled unauthorized access to a \"portion\" of its source code.\nIt said it \"recently identified\" the compromise of its source code repository and that it began working with \"leading forensic experts\" to resolve the matter immediately. It also said it has notified law enforcement of the matter.\nTrellix did not disclose the"
+  },
+  {
+    "title": "30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign",
+    "link": "https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html",
+    "published": "Fri, 01 May 2026 23:39:00 +0530",
+    "summary": "A newly discovered Vietnamese-linked operation has been observed using a Google AppSheet as a \"phishing relay\" to distribute phishing emails with an aim to compromise Facebook accounts.\nThe activity has been codenamed AccountDumpling by Guardio, with the scheme selling the stolen accounts back through an illicit storefront run by the threat actors. In all, roughly 30,000 Facebook accounts are"
+  },
+  {
+    "title": "Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks",
+    "link": "https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html",
+    "published": "Fri, 01 May 2026 19:56:00 +0530",
+    "summary": "Cybersecurity researchers are warning of two cybercrime groups that are carrying out \"rapid, high-impact attacks\" operating almost within the confines of SaaS environments, while leaving minimal traces of their actions.\nThe clusters, Cordial Spider (aka BlackFile, CL-CRI-1116, O-UNC-045, and UNC6671) and Snarky Spider (aka O-UNC-025 and UNC6661), have been attributed to high-speed data theft and"
+  },
+  {
+    "title": "China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists",
+    "link": "https://thehackernews.com/2026/05/china-linked-hackers-target-asian.html",
+    "published": "Fri, 01 May 2026 19:32:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new China-aligned espionage campaign targeting government and defense sectors across South, East, and Southeast Asia, along with one European government belonging to NATO.\nTrend Micro has attributed the activity to a threat activity cluster it tracks under the temporary designation SHADOW-EARTH-053. The adversarial collective is assessed to"
+  },
+  {
+    "title": "Top Five Sales Challenges Costing MSPs Cybersecurity Revenue",
+    "link": "https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html",
+    "published": "Fri, 01 May 2026 16:00:00 +0530",
+    "summary": "The managed security services market is projected to grow from $38.31 billion in 2025 to $69.16 billion by 2030[1], with cybersecurity being the fastest-growing sector[2]. Despite this opportunity, many MSPs leave revenue on the table because their go-to-market strategy fails to connect technical expertise with business needs.\nThis execution gap is where most deals stall. MSPs often focus on"
+  },
+  {
+    "title": "Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks",
+    "link": "https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html",
+    "published": "Fri, 01 May 2026 15:26:00 +0530",
+    "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the sentencing of two cybersecurity professionals to four years each in prison for their role in facilitating BlackCat ransomware attacks in 2023.\nRyan Goldberg, 40, of Georgia, and Kevin Martin, 36, of Texas, were accused of deploying the ransomware against multiple victims located throughout the U.S. between April and December 2023."
+  },
+  {
+    "title": "Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft",
+    "link": "https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html",
+    "published": "Fri, 01 May 2026 15:13:00 +0530",
+    "summary": "A new software supply chain attack campaign has been observed using sleeper packages as a conduit to subsequently push malicious payloads that enabled credential theft, GitHub Actions tampering, and SSH persistence.\nThe activity has been attributed to the GitHub account \"BufferZoneCorp,\" which has published a set of repositories that are associated with malicious Ruby gems and Go modules. As of"
+  },
+  {
+    "title": "PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials",
+    "link": "https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html",
+    "published": "Thu, 30 Apr 2026 22:01:00 +0530",
+    "summary": "In yet another software supply chain attack, threat actors have managed to compromise the popular Python package Lightning to push two malicious versions to conduct credential theft.\nAccording to Aikido Security, OX Security, Socket, and StepSecurity, the two malicious versions are versions 2.6.2 and 2.6.3, both of which were published on April 30, 2026. The campaign is assessed to be an"
+  },
+  {
+    "title": "ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories",
+    "link": "https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html",
+    "published": "Thu, 30 Apr 2026 19:25:00 +0530",
+    "summary": "The internet is noisy this week. We are seeing some wild new tactics, like people using fake cell towers to send scam texts, while some developers are accidentally downloading tools that peek into their private files during a simple install. It is definitely a busy time to be online.\nSecurity is always a moving target. Millions of servers are currently sitting online without any passwords, and"
+  },
+  {
+    "title": "New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials",
+    "link": "https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html",
+    "published": "Thu, 30 Apr 2026 18:06:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a stealthy Python-based backdoor framework called DEEP#DOOR that comes with capabilities to establish persistent access and harvest a wide range of sensitive information from compromised hosts.\n\"The intrusion chain begins with execution of a batch script ('install_obf.bat') that disables Windows security controls, dynamically extracts an"
+  }
+]
