@@ -1,0 +1,62 @@
+[
+  {
+    "title": "TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack",
+    "link": "https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html",
+    "published": "Tue, 12 May 2026 00:00:00 +0530",
+    "summary": "Checkmarx has confirmed that a modified version of the Jenkins AST plugin was published to the Jenkins Marketplace.\n\"If you are using Checkmarx Jenkins AST plugin, you need to ensure that you are using the version 2.0.13-829.vc72453fa_1c16 that was published on December 17, 2025 or previously,\" the cybersecurity company said in a statement over the weekend.\nAs of writing, Checkmarx has released"
+  },
+  {
+    "title": "cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor",
+    "link": "https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html",
+    "published": "Mon, 11 May 2026 23:24:00 +0530",
+    "summary": "A threat actor named Mr_Rot13 has been attributed to the exploitation of a recently disclosed critical cPanel flaw to deploy a backdoor codenamed Filemanager on compromised environments.\nThe attack exploits CVE-2026-41940, a vulnerability impacting cPanel and WebHost Manager (WHM) that could result in an authentication bypass and allow remote attackers to gain elevated control of the control"
+  },
+  {
+    "title": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation",
+    "link": "https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html",
+    "published": "Mon, 11 May 2026 21:15:00 +0530",
+    "summary": "Google on Monday disclosed that it identified an unknown threat actor using a zero-day exploit that it said was likely developed with an artificial intelligence (AI) system, marking the first time the technology has been put to use in the wild in a malicious context for vulnerability discovery and exploit generation.\nThe activity is said to be the work of cybercrime threat actors who appear to"
+  },
+  {
+    "title": "⚡ Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More",
+    "link": "https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html",
+    "published": "Mon, 11 May 2026 18:06:00 +0530",
+    "summary": "Rough Monday.\nSomebody poisoned a trusted download again, somebody else turned cloud servers into public housing, and a few crews are still getting into boxes with bugs that should’ve died years ago — the same old holes, same lazy access paths, same “how the hell is this still open” feeling. One report this week basically reads like a guy tripped over root access by accident and decided to stay"
+  },
+  {
+    "title": "Your Purple Team Isn't Purple — It's Just Red and Blue in the Same Room",
+    "link": "https://thehackernews.com/2026/05/your-purple-team-isnt-purple-its-just.html",
+    "published": "Mon, 11 May 2026 17:00:00 +0530",
+    "summary": "Defending a network at 2 am looks a lot like this: an analyst copy-pasting a hash from a PDF into a SIEM query. A red team script is being rewritten by hand so the blue team can use it. A patch waiting on a change-approval window that's longer than the exploitation window itself.\nNobody in that chain is incompetent. Every human is doing their job correctly. The problem is the system, its"
+  },
+  {
+    "title": "Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads",
+    "link": "https://thehackernews.com/2026/05/fake-openai-privacy-filter-repo-hits-1.html",
+    "published": "Mon, 11 May 2026 12:35:00 +0530",
+    "summary": "A malicious Hugging Face repository managed to take a spot in the platform's trending list by impersonating OpenAI's Privacy Filter open-weight model to deliver a Rust-based information stealer to Windows users.\nThe project, named Open-OSS/privacy-filter, masqueraded as its legitimate counterpart released by OpenAI late last month (openai/privacy-filter), including copying the entire description"
+  },
+  {
+    "title": "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak",
+    "link": "https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html",
+    "published": "Sun, 10 May 2026 18:11:00 +0530",
+    "summary": "Cybersecurity researchers have disclosed a critical security vulnerability in Ollama that, if successfully exploited, could allow a remote, unauthenticated attacker to leak its entire process memory.\nThe out-of-bounds read flaw, which likely impacts over 300,000 servers globally, is tracked as CVE-2026-7482 (CVSS score: 9.1). It has been codenamed&nbsp;Bleeding Llama by Cyera.\nOllama is a"
+  },
+  {
+    "title": "cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now",
+    "link": "https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html",
+    "published": "Sat, 09 May 2026 12:46:00 +0530",
+    "summary": "cPanel has released updates to address three vulnerabilities in cPanel and Web Host Manager (WHM) that could be exploited to achieve privilege escalation, code execution, and denial-of-service.\nThe list of vulnerabilities is as follows -\n\nCVE-2026-29201 (CVSS score: 4.3) - An insufficient input validation of the feature file name in the \"feature::LOADFEATUREFILE\" adminbin call that could result"
+  },
+  {
+    "title": "TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms",
+    "link": "https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html",
+    "published": "Fri, 08 May 2026 23:42:00 +0530",
+    "summary": "Threat hunters have flagged a previously undocumented Brazilian banking trojan dubbed TCLBANKER that's capable of targeting 59 banking, fintech, and cryptocurrency platforms.\nThe activity is being tracked by Elastic Security Labs under the moniker REF3076. The malware family is assessed to be a major update of the Maverick&nbsp;family, which is known to leverage a worm called SORVEPOTEL to"
+  },
+  {
+    "title": "Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads",
+    "link": "https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html",
+    "published": "Fri, 08 May 2026 20:38:00 +0530",
+    "summary": "Cybersecurity researchers have discovered fraudulent apps on the official Google Play Store for Android that falsely claimed to offer access to call histories for any phone number, only to trick users into joining a subscription that provided fake data and incurred financial loss.\nThe 28 apps have collectively racked up more than 7.3 million downloads, with one of them alone accounting for over"
+  }
+]
