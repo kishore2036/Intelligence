@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday",
+    "link": "https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html",
+    "published": "Wed, 13 May 2026 19:16:02 +0530",
+    "summary": "Microsoft has unveiled a new multi-model artificial intelligence (AI)-driven system called MDASH to facilitate vulnerability discovery and remediation at scale, adding that it's being tested by some customers as part of a limited private preview.\nMDASH, short for multi-model agentic scanning harness, is designed as a model-agnostic system that uses bespoke AI agents for different vulnerability"
+  },
+  {
+    "title": "Azerbaijani Energy Firm Hit by Repeated Microsoft Exchange Exploitation",
+    "link": "https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html",
+    "published": "Wed, 13 May 2026 18:30:00 +0530",
+    "summary": "A threat actor with affiliations to China has been linked to a \"multi-wave intrusion\" targeting an unnamed Azerbaijani oil and gas company between late December 2025 and late February 2026, marking an expansion of its targeting.\nThe activity has been attributed by Bitdefender with moderate-to-high confidence to a hacking group known as FamousSparrow (aka UAT-9244), which shares some level of"
+  },
+  {
+    "title": "[Webinar] How Modern Attack Paths Cross Code, Pipelines, and Cloud",
+    "link": "https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html",
+    "published": "Wed, 13 May 2026 17:22:43 +0530",
+    "summary": "TL;DR: Stop chasing thousands of \"toast\" alerts. Join experts from Wiz to learn how hackers connect tiny flaws to build a \"Lethal Chain\" to your data—and how to break it. Register for the Strategic Briefing Here.\nMost security tools work like a smoke alarm that goes off every time you burn a piece of toast. You get so many alerts that you eventually start to ignore them.\nThe real danger? While"
+  },
+  {
+    "title": "Most Remediation Programs Never Confirm the Fix Actually Worked",
+    "link": "https://thehackernews.com/2026/05/most-remediation-programs-never-confirm.html",
+    "published": "Wed, 13 May 2026 17:00:00 +0530",
+    "summary": "Security teams have never had better visibility into their environments and never been worse at confirming what they fix stays fixed.\nMandiant's M-Trends 2026 report puts the mean time to exploit at an estimated negative seven days. The Verizon 2025 DBIR puts median time to remediate edge device vulnerabilities at 32 days. These numbers have understandably driven the industry toward a clear"
+  },
+  {
+    "title": "Microsoft Patches 138 Vulnerabilities, Including DNS and Netlogon RCE Flaws",
+    "link": "https://thehackernews.com/2026/05/microsoft-patches-138-vulnerabilities.html",
+    "published": "Wed, 13 May 2026 16:06:10 +0530",
+    "summary": "Microsoft on Tuesday released patches for 138 security vulnerabilities spanning its product portfolio, although none of them have been listed as publicly known or under active attack.\nOf the 138 flaws, 30 are rated Critical, 104 are rated Important, three are rated Moderate, and one is rated Low in severity. As many as 61 vulnerabilities are classified as privilege escalation bugs, followed by"
+  },
+  {
+    "title": "GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data",
+    "link": "https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html",
+    "published": "Wed, 13 May 2026 13:38:54 +0530",
+    "summary": "Cybersecurity researchers are calling attention to a new campaign dubbed GemStuffer that has targeted the RubyGems repository with more than 150 gems that use the registry as a data exfiltration channel rather than for malware distribution.\n\"The packages do not appear designed for mass developer compromise,\" Socket said. \"Many have little or no download activity, and the payloads are repetitive,"
+  },
+  {
+    "title": "Android Adds Intrusion Logging for Sophisticated Spyware Forensics",
+    "link": "https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html",
+    "published": "Wed, 13 May 2026 12:25:42 +0530",
+    "summary": "Google on Tuesday unveiled a new opt-in Android feature called Intrusion Logging for storing forensic logs to better analyze sophisticated spyware attacks.\nIntrusion Logging, available as part of Advanced Protection Mode, enables \"persistent and privacy-preserving forensics logging to allow for investigation of devices in the event of a suspected compromise,\" the company said.\nThe feature, it"
+  },
+  {
+    "title": "New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution",
+    "link": "https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html",
+    "published": "Tue, 12 May 2026 22:14:00 +0530",
+    "summary": "Exim has released security updates to address a severe security issue affecting certain configurations that could enable memory corruption and potential code execution.\nExim is an open-source Mail Transfer Agent (MTA) designed for Unix-like systems to receive, route, and deliver email.\nThe vulnerability, tracked as CVE-2026-45185, aka Dead.Letter, has been described as a use-after-free"
+  },
+  {
+    "title": "RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded",
+    "link": "https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html",
+    "published": "Tue, 12 May 2026 20:17:00 +0530",
+    "summary": "RubyGems, the standard package manager for the Ruby programming language, has temporarily paused account sign ups following what has been described as a \"major malicious attack.\"\n\"We're dealing with a major malicious attack on RubyGems right now,\" Maciej Mensfeld, senior product manager for software supply chain security at Mend.io, said in a post on X. \"Signups are paused for the time being."
+  },
+  {
+    "title": "New TrickMo Variant Uses TON C2 and SOCKS5 to Create Android Network Pivots",
+    "link": "https://thehackernews.com/2026/05/new-trickmo-variant-uses-ton-c2-and.html",
+    "published": "Tue, 12 May 2026 18:20:00 +0530",
+    "summary": "Cybersecurity researchers have flagged a new version of the TrickMo Android banking trojan that uses The Open Network (TON) for command-and-control (C2).\nThe new variant, observed by ThreatFabric between January and February 2026, has been observed actively targeting banking and cryptocurrency wallet users in France, Italy, and Austria.\n\"TrickMo relies on a runtime-loaded APK&nbsp; (dex.module),"
+  }
+]
