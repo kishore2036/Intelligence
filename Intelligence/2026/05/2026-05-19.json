@@ -1,0 +1,62 @@
+[
+  {
+    "title": "INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests",
+    "link": "https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html",
+    "published": "Mon, 18 May 2026 22:51:18 +0530",
+    "summary": "INTERPOL has coordinated a first-of-its-kind cybercrime crackdown across the Middle East and North Africa (MENA) that led to 201 arrests and the identification of an additional 382 suspects.\nThe initiative involved the efforts of 13 countries from the region between October 2025 and February 2026, aiming to investigate and neutralize malicious infrastructure, arrest perpetrators behind these"
+  },
+  {
+    "title": "⚡ Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More",
+    "link": "https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html",
+    "published": "Mon, 18 May 2026 19:20:17 +0530",
+    "summary": "Monday opens with a trust problem. A mail server flaw is under active use. A network control system was targeted. Trusted packages were poisoned. A fake model page pushed a stealer. Then came the familiar ransom claim: the data was returned and deleted.\nThe pattern is clear. One weak dependency can leak keys. One leaked key can open cloud access. One cloud foothold can become a production"
+  },
+  {
+    "title": "How to Reduce Phishing Exposure Before It Turns into Business Disruption",
+    "link": "https://thehackernews.com/2026/05/how-to-reduce-phishing-exposure-before.html",
+    "published": "Mon, 18 May 2026 18:30:00 +0530",
+    "summary": "What happens when a phishing email looks clean enough to pass through security, but dangerous enough to expose the business after one click? That is the gap many SOCs still struggle with: the attacks that leave teams unsure what was exposed, who else was targeted, and how far the risk has spread.\nEarly phishing detection closes that gap. It helps teams move from uncertainty to evidence faster,"
+  },
+  {
+    "title": "Developer Workstations Are Now Part of the Software Supply Chain",
+    "link": "https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html",
+    "published": "Mon, 18 May 2026 16:53:41 +0530",
+    "summary": "Supply chain attackers are not only trying to slip malicious code into trusted software. They are trying to steal the access that makes trusted software possible. Recently, three separate campaigns hit npm, PyPI, and Docker Hub in a 48-hour window, and all three targeted secrets from developer environments and CI/CD pipelines, including API keys, cloud credentials, SSH keys, and tokens. This is"
+  },
+  {
+    "title": "Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws",
+    "link": "https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html",
+    "published": "Mon, 18 May 2026 16:24:05 +0530",
+    "summary": "Ivanti, Fortinet, n8n, SAP, and VMware have released security fixes for various vulnerabilities that could be exploited by bad actors to bypass authentication and execute arbitrary code.\nTopping the list is a critical flaw impacting Ivanti Xtraction (CVE-2026-8043, CVSS score: 9.6) that could be exploited to achieve information disclosure or client-side attacks.\n\"External control of a file name"
+  },
+  {
+    "title": "MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems",
+    "link": "https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html",
+    "published": "Mon, 18 May 2026 14:27:34 +0530",
+    "summary": "Chaotic Eclipse, the security researcher behind the recently disclosed Windows flaws, YellowKey and GreenPlasma, has released a proof-of-concept (PoC) for a Windows privilege escalation zero-day flaw that grants attackers SYSTEM privileges on fully patched Windows systems.\nCodenamed MiniPlasma, the vulnerability impacts \"cldflt.sys,\" which refers to the Windows Cloud Files Mini Filter Driver,"
+  },
+  {
+    "title": "Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware",
+    "link": "https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html",
+    "published": "Mon, 18 May 2026 14:27:26 +0530",
+    "summary": "Cybersecurity researchers have discovered four new npm packages containing information-stealing malware, one of which is a clone of the Shai-Hulud worm open-sourced by TeamPCP.\nThe list of identified packages is below -\n\nchalk-tempalte (825 Downloads)\n@deadcode09284814/axios-util (284 Downloads)\naxois-utils (963 Downloads)\ncolor-style-utils (934 Downloads)\n\n\"One of the packages (chalk-tempalte)"
+  },
+  {
+    "title": "Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations",
+    "link": "https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html",
+    "published": "Mon, 18 May 2026 12:16:37 +0530",
+    "summary": "A new analysis of the Lua-based fast16 malware has confirmed that it was a cyber sabotage tool designed to tamper with nuclear weapons testing simulations.\nAccording to Broadcom-owned Symantec and Carbon Black teams, the pre-Stuxnet tool was engineered to corrupt uranium-compression simulations that are central to nuclear weapon design.\n\"Fast16's hook engine is selectively interested in"
+  },
+  {
+    "title": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE",
+    "link": "https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html",
+    "published": "Sun, 17 May 2026 17:27:53 +0530",
+    "summary": "A newly disclosed security flaw impacting NGINX Plus and NGINX Open has come under active exploitation in the wild, days after its public disclosure, according to VulnCheck.\nThe vulnerability, tracked as CVE-2026-42945 (CVSS score: 9.2), is a heap buffer overflow in ngx_http_rewrite_module affecting NGINX versions 0.6.27 through 1.30.0. According to AI-native security company depthfirst, the"
+  },
+  {
+    "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
+    "link": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html",
+    "published": "Sun, 17 May 2026 12:43:33 +0530",
+    "summary": "Grafana has disclosed that an \"unauthorized party\" obtained a token that granted them the ability to access the company's GitHub environment and download its codebase.\n\n\n  \"Our investigation has determined that no customer data or personal information was accessed during this incident, and we have found no evidence of impact to customer systems or operations,\" Grafana\n  said\n  in a series of"
+  }
+]
