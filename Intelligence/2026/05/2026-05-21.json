@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development",
+    "link": "https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html",
+    "published": "Wed, 20 May 2026 22:36:54 +0530",
+    "summary": "Microsoft has unveiled two new open-source tools called RAMPART and Clarity to assist developers in better testing the security of artificial intelligence (AI) agents.\n\nRAMPART, short for Risk Assessment and Measurement Platform for Agentic Red Teaming, functions as a Pytest-native safety and security testing framework for writing and running safety and security tests for AI agents, covering"
+  },
+  {
+    "title": "Microsoft Takes Down Malware-Signing Service Behind Ransomware Attacks",
+    "link": "https://thehackernews.com/2026/05/microsoft-takes-down-malware-signing.html",
+    "published": "Wed, 20 May 2026 20:06:44 +0530",
+    "summary": "Microsoft on Tuesday said it disrupted a malware-signing-as-a-service (MSaaS) operation that weaponized the company's Artifact Signing system to deliver malicious code and conduct ransomware and other attacks, compromising thousands of machines and networks across the world.\n\nThe tech giant attributed the activity to a threat actor it calls Fox Tempest, which it said offered the MSaaS scheme"
+  },
+  {
+    "title": "Webworm Deploys EchoCreep and GraphWorm Backdoors Using Discord and MS Graph API",
+    "link": "https://thehackernews.com/2026/05/webworm-deploys-echocreep-and-graphworm.html",
+    "published": "Wed, 20 May 2026 18:21:43 +0530",
+    "summary": "Cybersecurity researchers have flagged fresh activity from a China-aligned threat actor known as Webworm in 2025, deploying custom backdoors that employ Discord and Microsoft Graph API for command-and-control (C2 or C&amp;C) communications.\n\nWebworm, first publicly documented by Broadcom-owned Symantec in September 2022, is assessed to be active since at least 2022, targeting government agencies"
+  },
+  {
+    "title": "Agent AI is Coming. Are You Ready?",
+    "link": "https://thehackernews.com/2026/05/agent-ai-is-coming-are-you-ready.html",
+    "published": "Wed, 20 May 2026 17:28:00 +0530",
+    "summary": "New Industry Data Just Released Suggests Not.\n\nOn May 19th, 2026, Orchid Security released the results of our Identity Gap: Snapshot 2026. Among the findings, \"identity dark matter\" (the unseen, unmanaged elements of identity) now overshadows the visible elements 57% vs. 43%. And it couldn't have occurred at a worse time, with enterprises embracing Agent AI with both arms (and unfortunately, as"
+  },
+  {
+    "title": "GitHub Breached — Employee Device Hack Led to Exfiltration of 3,800+ Internal Repos",
+    "link": "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html",
+    "published": "Wed, 20 May 2026 17:08:43 +0530",
+    "summary": "GitHub on Tuesday said it's investigating unauthorized access to its internal repositories after the notorious threat actor known as TeamPCP listed the platform's source code and internal organizations for sale on a cybercrime forum.\n\n\"While we currently have no evidence of impact to customer information stored outside of GitHub's internal repositories (such as our customers' enterprises,"
+  },
+  {
+    "title": "Typosquatting Is No Longer a User Problem. It's a Supply Chain Problem",
+    "link": "https://thehackernews.com/2026/05/typosquatting-is-no-longer-user-problem.html",
+    "published": "Wed, 20 May 2026 16:00:00 +0530",
+    "summary": "AI-generated lookalike domains are now embedded inside the third-party scripts running on your web properties. Here's why your current stack can't see them, and what detection actually requires.\nDownload the CISO Expert Guide to Typosquatting in the AI Era →\n\n\nTL;DR&nbsp;\n\n\n  Typosquatting is no longer a user problem. Attackers now embed lookalike domains inside legitimate third-party scripts."
+  },
+  {
+    "title": "Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit",
+    "link": "https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html",
+    "published": "Wed, 20 May 2026 13:58:26 +0530",
+    "summary": "Microsoft on Tuesday released a mitigation for a BitLocker bypass vulnerability named YellowKey following its public disclosure last week.\n\nThe zero-day flaw, now tracked as CVE-2026-45585, carries a CVSS score of 6.8. It has been described as a BitLocker security feature bypass.\n\n\"Microsoft is aware of a security feature bypass vulnerability in Windows publicly referred to as 'YellowKey,'\" the"
+  },
+  {
+    "title": "Grafana GitHub Breach Exposes Source Code via TanStack npm Attack",
+    "link": "https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html",
+    "published": "Wed, 20 May 2026 10:42:06 +0530",
+    "summary": "Grafana Labs, on May 19, 2026, said an investigation into its recent breach found no evidence of customer production systems or operations being compromised.\n\nIt said the scope of the incident is limited to the Grafana Labs GitHub environment, which includes public and private source code along with internal GitHub repositories.\n\n\"After the initial assessment, we found that in addition to source"
+  },
+  {
+    "title": "Trapdoor Android Ad Fraud Scheme Hit 659 Million Daily Bid Requests Using 455 Apps",
+    "link": "https://thehackernews.com/2026/05/trapdoor-android-ad-fraud-scheme-hit.html",
+    "published": "Tue, 19 May 2026 22:08:12 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new ad fraud and malvertising operation dubbed Trapdoor targeting Android device users.\n\nThe activity, per HUMAN's Satori Threat Intelligence and Research Team, encompassed 455 malicious Android apps and 183 threat actor-owned command-and-control (C2) domains, turning the infrastructure into a pipeline for multi-stage fraud.\n\n\"Users"
+  },
+  {
+    "title": "DirtyDecrypt PoC Released for Linux Kernel CVE-2026-31635 LPE Vulnerability",
+    "link": "https://thehackernews.com/2026/05/dirtydecrypt-poc-released-for-linux.html",
+    "published": "Tue, 19 May 2026 20:26:26 +0530",
+    "summary": "Proof-of-concept (PoC) exploit code has now been released for a recently patched security flaw in the Linux kernel that could allow for local privilege escalation (LPE).\nDubbed DirtyDecrypt (aka DirtyCBC), the vulnerability was discovered and reported by the Zellic and V12 security team on May 9, 2026, only to be informed by the maintainers that it was a duplicate of a vulnerability that had"
+  }
+]
