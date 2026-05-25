@@ -1,0 +1,62 @@
+[
+  {
+    "title": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
+    "link": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html",
+    "published": "Sat, 23 May 2026 22:05:10 +0530",
+    "summary": "GitHub has rolled out new controls for npm to improve the security of the software supply chain, giving maintainers the ability to explicitly approve a release prior to the packages becoming publicly available for installation.\n\nCalled staged publishing, the feature is now generally available on npm. It mandates that a human maintainer pass a two-factor authentication (2FA) challenge to approve"
+  },
+  {
+    "title": "Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware",
+    "link": "https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html",
+    "published": "Sat, 23 May 2026 21:37:51 +0530",
+    "summary": "A new \"coordinated\" supply chain attack campaign has impacted eight packages on Packagist including malicious code designed to run a Linux binary retrieved from a GitHub Releases URL.\n\n\"Although the affected packages were all Composer packages, the malicious code was not added to composer.json,\" Socket said. \"Instead, it was inserted into package.json, targeting projects that ship JavaScript"
+  },
+  {
+    "title": "Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software",
+    "link": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html",
+    "published": "Sat, 23 May 2026 17:25:35 +0530",
+    "summary": "Anthropic on Friday disclosed that Project Glasswing has helped uncover more than 10,000 high- or critical-severity vulnerabilities across some of the most \"systemically\" important software across the world since the cybersecurity initiative went live last month.\n\n Project Glasswing  is a defensive effort launched by the artificial intelligence (AI) company to secure critical global software"
+  },
+  {
+    "title": "Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer",
+    "link": "https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html",
+    "published": "Sat, 23 May 2026 15:21:13 +0530",
+    "summary": "Cybersecurity researchers have flagged a fresh software supply chain attack campaign that has targeted multiple PHP packages belonging to  Laravel-Lang to deliver a comprehensive credential-stealing framework.\n\nThe affected packages include -\n\n\n  laravel-lang/lang\n  laravel-lang/http-statuses\n  laravel-lang/attributes\n  laravel-lang/actions\n\n\"The timing and pattern of the newly published tags"
+  },
+  {
+    "title": "LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root",
+    "link": "https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html",
+    "published": "Sat, 23 May 2026 13:05:13 +0530",
+    "summary": "A maximum-severity security vulnerability impacting LiteSpeed User-End cPanel Plugin has come under active exploitation in the wild.\n\nThe flaw, tracked as CVE-2026-48172 (CVSS score: 10.0), relates to an instance of incorrect privilege assignment that an attacker could abuse to run arbitrary scripts with elevated permissions.\n\n\"Any cPanel user (including an attacker or a compromised account) may"
+  },
+  {
+    "title": "Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV",
+    "link": "https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html",
+    "published": "Sat, 23 May 2026 12:53:48 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a recently patched critical security flaw impacting Drupal Core to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\n\nThe vulnerability in question is CVE-2026-9082 (CVSS score: 6.5), an SQL injection vulnerability affecting all supported versions of Drupal Core.\n\n\"Drupal Core"
+  },
+  {
+    "title": "First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups",
+    "link": "https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html",
+    "published": "Fri, 22 May 2026 23:05:02 +0530",
+    "summary": "Authorities in Europe and North America have announced the dismantling of a criminal virtual private network (VPN) service used by criminal actors to obscure the origins of ransomware attacks, data theft, scanning, and denial-of-service attacks.\n\nCodenamed Operation Saffron, the  disruption  of First VPN Service was led by France and the Netherlands, with several other nations supporting the"
+  },
+  {
+    "title": "Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware",
+    "link": "https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html",
+    "published": "Fri, 22 May 2026 21:50:32 +0530",
+    "summary": "The Belarus-aligned threat actor known as Ghostwriter (aka UAC-0057 and UNC1151) has been observed using lures related to Prometheus, a Ukrainian online learning platform, to target government organizations in the country.\n\nThe activity, per the Computer Emergency Response Team of Ukraine (CERT-UA), involves sending phishing emails to government entities using compromised accounts. It's been"
+  },
+  {
+    "title": "Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows",
+    "link": "https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html",
+    "published": "Fri, 22 May 2026 17:25:24 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new automated campaign called Megalodon that has pushed 5,718 malicious commits to 5,561 GitHub repositories within a six-hour window.\n\n\"Using throwaway accounts and forged author identities (build-bot, auto-ci, ci-bot, pipeline-bot), the attacker injected GitHub Actions workflows containing base64-encoded bash payloads that exfiltrate CI"
+  },
+  {
+    "title": "Making Vulnerable Drivers Exploitable Without Hardware - The BYOVD Perspective",
+    "link": "https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html",
+    "published": "Fri, 22 May 2026 17:08:12 +0530",
+    "summary": "1 Introduction\n\nThis article provides a technical analysis of how many Windows kernel mode drivers can be interacted with from user mode without the hardware they were developed for. This work was motivated by driver-oriented vulnerability research and the need to evaluate the exploitability of individual findings, which frequently affect code whose reachability is hardware-gated. The"
+  }
+]
