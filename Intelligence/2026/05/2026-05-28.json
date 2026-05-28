@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Grandoreiro Malware and BTMOB RAT Campaigns Target Windows and Android Users",
+    "link": "https://thehackernews.com/2026/05/grandoreiro-malware-and-btmob-rat.html",
+    "published": "Wed, 27 May 2026 21:40:21 +0530",
+    "summary": "Latin America and Europe become the target of two banking trojan campaigns that are designed to infect Windows and Android devices with Grandoreiro and BTMOB malware, respectively.\n\nThat's according to new findings from WatchGuard and ESET, which have observed the two malware families being used to single out companies in Spain, Portugal, and Mexico, as well as mobile users in Brazil.\n\nThe"
+  },
+  {
+    "title": "Malicious npm Package Stole Files From Claude AI User Directory via GitHub",
+    "link": "https://thehackernews.com/2026/05/malicious-npm-package-stole-files-from.html",
+    "published": "Wed, 27 May 2026 21:14:29 +0530",
+    "summary": "Cybersecurity researchers have discovered a new malicious package on the npm registry that comes with information stealing capabilities.\n\nAccording to OX Security, the package, named \"mouse5212-super-formatter,\" is designed to upload files from \"/mnt/user-data,\" a dedicated directory used by Anthropic's Claude artificial intelligence (AI) tool to handle uploads and outputs in the background. The"
+  },
+  {
+    "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
+    "link": "https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html",
+    "published": "Wed, 27 May 2026 18:58:48 +0530",
+    "summary": "When an employee installs an AI writing assistant, connects a coding copilot to their IDE, or starts summarizing meetings with a new browser tool, they are doing exactly what a productive employee should do: finding faster ways to work.\n\nAcross most organizations today, employees are running three to five AI tools on any given day. Most were never reviewed by IT. A significant portion connects"
+  },
+  {
+    "title": "GlassWorm Malware Takedown Disrupts Developer Supply Chain Attack Infrastructure",
+    "link": "https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html",
+    "published": "Wed, 27 May 2026 17:18:37 +0530",
+    "summary": "CrowdStrike, in partnership with Google and the Shadowserver Foundation, has announced the simultaneous disruption of all command-and-control (C2) channels associated with GlassWorm, a persistent software chain campaign targeting software developers through malicious packages and extensions.\n\n\"Since at least early 2025, GlassWorm operators have systematically targeted software developers, a"
+  },
+  {
+    "title": "3 SOC Steps that Shut Down Incident Risks Early",
+    "link": "https://thehackernews.com/2026/05/3-soc-steps-that-shut-down-incident.html",
+    "published": "Wed, 27 May 2026 17:15:00 +0530",
+    "summary": "Most organizations still picture cyber defense as a fortress problem: build stronger walls, add more guards, buy another detection engine. But modern incidents rarely crash through the front gate. They drift in disguised as routine activity, hide inside legitimate processes, and quietly accumulate risk long before anyone labels them an \"incident.\"\n\nThat changes the role of the SOC entirely.\n\nThe"
+  },
+  {
+    "title": "Gitea Vulnerability Exposes Private Container Images without Authentication",
+    "link": "https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html",
+    "published": "Wed, 27 May 2026 15:36:32 +0530",
+    "summary": "Cybersecurity researchers have disclosed a security flaw in Gitea, an open-source, self-hosted platform for version control, that allows unauthenticated remote attackers to pull private container images from Gitea deployments without requiring an account, password, or other credentials.\n\nThe vulnerability, tracked as CVE-2026-27771 (CVSS score: N/A), affects all versions of Gitea prior to 1.26.2"
+  },
+  {
+    "title": "AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites",
+    "link": "https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html",
+    "published": "Wed, 27 May 2026 13:15:52 +0530",
+    "summary": "Microsoft has warned of an active cryptojacking campaign that makes use of artificial intelligence (AI) chatbot interactions as a mechanism for surfacing malicious download sites.\n\n\"This emerging delivery technique extends social engineering beyond conventional search results and increases the visibility of malicious software recommendations,\" Microsoft Defender Experts and the Microsoft"
+  },
+  {
+    "title": "MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries",
+    "link": "https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html",
+    "published": "Tue, 26 May 2026 21:18:41 +0530",
+    "summary": "The Iranian hacking group known as MuddyWater has been linked to a new campaign affecting at least nine organizations across nine countries on four continents in the first quarter of 2026.\n\nThe activity targeted industrial and electronics manufacturing, education and public-sector bodies, financial services, and professional services, per the Threat Hunter Team from Symantec and Carbon Black."
+  },
+  {
+    "title": "[THN Webinar] New AI DDoS Attacks Are Smarter. Learn How to Fight Back",
+    "link": "https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html",
+    "published": "Tue, 26 May 2026 17:28:00 +0530",
+    "summary": "Every single day, hackers are finding new ways to crash websites and steal data.\n\nBut right now, something has changed. Hackers are no longer working alone. They are now using powerful Artificial Intelligence (AI) tools to make their attacks faster, stronger, and much harder to stop.\n\nAccording to recent updates from The Hacker News, bad actors are using AI to find weak spots in systems and"
+  },
+  {
+    "title": "Microsoft Patches SharePoint RCE Flaw CVE-2026-45659 Across Server Versions",
+    "link": "https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html",
+    "published": "Tue, 26 May 2026 17:19:53 +0530",
+    "summary": "Microsoft has rolled out updates to fix a remote code execution vulnerability impacting SharePoint that could be exploited by bad actors in attacks without requiring any specialized conditions to be met.\n\nThe vulnerability, tracked as CVE-2026-45659, carries a CVSS score of 8.8. It has been assigned an important severity.\n\n\"Deserialization of untrusted data in Microsoft Office SharePoint allows"
+  }
+]
