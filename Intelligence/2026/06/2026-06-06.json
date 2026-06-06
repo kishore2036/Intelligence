@@ -1,0 +1,62 @@
+[
+  {
+    "title": "IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks",
+    "link": "https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html",
+    "published": "Fri, 05 Jun 2026 23:35:30 +0530",
+    "summary": "Multiple software supply chain attacks have hit the npm ecosystem, with threat actors using both malicious and poisoned versions of over 50 legitimate packages to distribute a Rust-based information stealer and a self-spreading worm, respectively.\n\nAccording to JFrog, the information stealer \"scrapes every secret it can find on a developer's machine, hides behind an eBPF kernel rootkit, and"
+  },
+  {
+    "title": "Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps",
+    "link": "https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html",
+    "published": "Fri, 05 Jun 2026 20:23:40 +0530",
+    "summary": "Arabic-speaking users have emerged as the target of a new Android spyware codenamed Asin, according to findings from ESET.\n\nThe Slovakian cybersecurity company said it first detected the malware spread via multiple campaigns in early 2025, with each attack wave making use of distinct websites mimicking utilities, war-related updates, and a government news source:\n\n\n  govlens[.]net, which"
+  },
+  {
+    "title": "New Threat Cluster OP-512 Targets Microsoft IIS Servers with Custom Web Shell Framework",
+    "link": "https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html",
+    "published": "Fri, 05 Jun 2026 18:03:38 +0530",
+    "summary": "Cybersecurity researchers have discovered a previously unreported threat cluster dubbed OP-512 (where \"OP\" stands for \"opponent\") that has been observed&nbsp;targeting Microsoft Internet Information Services (IIS) servers to deploy a bespoke web shell framework.\n\nReliaQuest has assessed with moderate to high confidence that the espionage-focused activity is linked to China.\n\n\"OP-512 was highly"
+  },
+  {
+    "title": "Only 10% of SOCs Say They’re Getting Excellent Value From AI. Here’s What the Second Wave Has to Deliver",
+    "link": "https://thehackernews.com/2026/06/only-10-of-socs-say-theyre-getting.html",
+    "published": "Fri, 05 Jun 2026 16:50:00 +0530",
+    "summary": "Eighteen months ago, the AI SOC was a marketing line. Today it's a budget item. The category has crossed over from interesting to inevitable, with billions of dollars now flowing into AI-powered security operations platforms, agentic SOC tools, and AI co-pilots built into every layer of the security stack. The data shows SOCs are buying, deploying, and standing up AI capabilities at the fastest"
+  },
+  {
+    "title": "Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites",
+    "link": "https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html",
+    "published": "Fri, 05 Jun 2026 14:08:59 +0530",
+    "summary": "Threat actors are actively exploiting a critical security flaw in Everest Forms Pro, a WordPress plugin with about 4,000 active installations, to execute arbitrary code, leading to a complete site compromise.\n\nThe vulnerability in question is CVE-2026-3300 (CVSS score: 9.8), a remote code execution bug impacting all versions of the plugin up to, and including, 1.9.12. A patch for the flaw was"
+  },
+  {
+    "title": "FIFA World Cup 2026 Scams Are Already Live: Fake Sites, Banking Malware, and Stolen Logins",
+    "link": "https://thehackernews.com/2026/06/fifa-world-cup-2026-scams-are-already.html",
+    "published": "Fri, 05 Jun 2026 12:31:41 +0530",
+    "summary": "Security researchers and the FBI are warning that a wave of FIFA-themed fraud is already hitting World Cup 2026 fans, days before the June 11 kickoff.\n\nRecent reports describe thousands of lookalike FIFA domains, banking malware hidden inside pirate streaming apps, and at least one operation that copies FIFA's login page well enough to take over real accounts.\n\nIt is an obvious target. More than"
+  },
+  {
+    "title": "PCPJack Hijacks 230 AWS, Google Cloud, and Azure Servers for Covert SMTP Relay Network",
+    "link": "https://thehackernews.com/2026/06/pcpjack-hijacks-230-aws-google-cloud.html",
+    "published": "Fri, 05 Jun 2026 11:04:19 +0530",
+    "summary": "The threat actor known as PCPJack has hijacked cloud servers associated with Amazon Web Services (AWS), Google Cloud, and Microsoft Azure to create a covert SMTP email relay network.\n\n\"Compromised business servers across the U.S., Europe, and Asia were quietly converted into SMTP proxies, verified for mail relay capability, and synced to a downstream consumer every five minutes,\" Hunt.io said in"
+  },
+  {
+    "title": "Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public",
+    "link": "https://thehackernews.com/2026/06/cisco-patches-cve-2026-20230-in-unified.html",
+    "published": "Thu, 04 Jun 2026 22:25:51 +0530",
+    "summary": "Cisco has patched a bug in Unified Communications Manager that lets an unauthenticated attacker on the network write files to the box and, from there, climb to root.\n\nIt is tracked as CVE-2026-20230, and proof-of-concept exploit code is already public. Cisco's PSIRT says it has not seen the flaw used in attacks yet. The PoC shortens that runway.\n\nThe flaw is a server-side request forgery."
+  },
+  {
+    "title": "Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories",
+    "link": "https://thehackernews.com/2026/06/claude-code-github-action-flaw-let-one.html",
+    "published": "Thu, 04 Jun 2026 20:45:26 +0530",
+    "summary": "A security researcher found a flaw in Anthropic's Claude Code GitHub Action that let an attacker take over vulnerable public repositories running it, with nothing more than a single opened GitHub issue. Because Anthropic's own action repo used the same workflow, a working attack could have pushed malicious code into the action itself and onto the projects downstream that pull it.\n\nRyotaK of GMO"
+  },
+  {
+    "title": "Agentic AI Is Transforming Defense, But Only Secure IT Infrastructure Will Maximize It",
+    "link": "https://thehackernews.com/2026/06/agentic-ai-is-transforming-defense-but.html",
+    "published": "Thu, 04 Jun 2026 20:40:00 +0530",
+    "summary": "Over the past several weeks, the cybersecurity community has been reminded how quickly frontier and agentic AI in defense networks can challenge our assumptions. When Anthropic's Claude Mythos model was made available to a limited set of organizations as a technical preview, it was reported that an unauthorized group claimed that it had gained access within hours. The incident, if true, was"
+  }
+]
