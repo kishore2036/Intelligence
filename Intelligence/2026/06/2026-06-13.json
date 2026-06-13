@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit",
+    "link": "https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html",
+    "published": "Sat, 13 Jun 2026 01:03:25 +0530",
+    "summary": "Attackers took over more than 400 packages in the Arch User Repository (AUR) this week and rewrote their build scripts to install a credential stealer on any machine that built them.\n\nThe malware is a Rust binary built to harvest developer secrets. When it lands with root, it can also load an eBPF rootkit to hide itself. The AUR is Arch Linux's community package collection, and it is separate"
+  },
+  {
+    "title": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing",
+    "link": "https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html",
+    "published": "Sat, 13 Jun 2026 00:29:32 +0530",
+    "summary": "Google on Friday said it's pursuing legal action against a Chinese cybercrime network, accusing it of using its Gemini artificial intelligence (AI) agent to send phishing text messages targeting Americans.\n\nThe network is said to be behind the development and management of a phishing-as-a-service (PhaaS) software kit called Outsider, per the tech giant.\n\n\"The operation weaponized Gemini to help"
+  },
+  {
+    "title": "China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade",
+    "link": "https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html",
+    "published": "Fri, 12 Jun 2026 23:47:55 +0530",
+    "summary": "Instead of hiding on the laptops and servers defenders watch most closely, a China-nexus group spent close to a decade hidden inside the Linux login system itself.\n\nSygnia, which tracks the group as Velvet Ant, says it backdoored the PAM and OpenSSH components that decide who is allowed to sign in, planting its access where ordinary cleanup could not reach it. The network it targeted had no"
+  },
+  {
+    "title": "Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code",
+    "link": "https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html",
+    "published": "Fri, 12 Jun 2026 17:34:33 +0530",
+    "summary": "Cybersecurity researchers have described what they say is a new class of attack that can trick artificial intelligence (AI) coding agents into running arbitrary code on developer machines.\n\nCalled Agentjacking by Tenet Security, the attack can be triggered by means of a fake error report crafted using Sentry, an open-source error-tracking and performance-monitoring platform.\n\n\"The attack"
+  },
+  {
+    "title": "Rethinking MDR as Attackers and Defenders Embrace AI",
+    "link": "https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html",
+    "published": "Fri, 12 Jun 2026 16:30:00 +0530",
+    "summary": "For most of the past decade, managed detection and response was the answer to a real problem. Security teams couldn't staff around the clock, couldn't hire enough analysts, and needed someone else to handle the alert queue. MDR stepped in. It worked well enough. Until now.\n\nThe threat landscape has changed faster than the MDR model can adapt. Attackers are using AI to move faster, generate more"
+  },
+  {
+    "title": "LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution",
+    "link": "https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html",
+    "published": "Fri, 12 Jun 2026 15:20:36 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of three now-patched security flaws impacting LangGraph, including a critical vulnerability chain that could result in remote code execution.\n\nLangGraph is an open-source framework created by LangChain to build complex, stateful, and multi-agent artificial intelligence (AI) agentic applications.\n\n\"An SQL injection in LangGraph's function could"
+  },
+  {
+    "title": "INTERPOL Operation Takes Down Sniper Dz Phishing Platform, Arrests Administrator",
+    "link": "https://thehackernews.com/2026/06/interpol-takes-down-sniper-dz-phishing.html",
+    "published": "Fri, 12 Jun 2026 14:22:55 +0530",
+    "summary": "An INTERPOL-led operation last month resulted in the disruption of Sniper Dz, a decade-long phishing-as-a-service (PhaaS) platform, Group-IB said Thursday.\n\nThe effort, codenamed Operation Ramz, took place between October 2025 and February 2026, and saw authorities from 13 countries in the Middle East and North Africa (MENA) region making 201 arrests.\n\nIncluded among them was Guedz, the primary"
+  },
+  {
+    "title": "Europol Disrupts AudiA6 Crypto Laundering Service Used by Ransomware Gangs",
+    "link": "https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html",
+    "published": "Fri, 12 Jun 2026 12:08:41 +0530",
+    "summary": "Authorities in Europe have disrupted AudiA6, a cryptocurrency laundering service used by ransomware gangs and cybercriminal networks.\n\nEuropol, in a statement issued Thursday, said the dismantling of AudiA6 cut off a \"key financial pipeline used to wash hundreds of millions in illicit profits.\" The service is estimated to have been used to launder more than €336 million (~$389 million) since the"
+  },
+  {
+    "title": "ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities",
+    "link": "https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html",
+    "published": "Fri, 12 Jun 2026 01:59:23 +0530",
+    "summary": "The ShinyHunters extortion crew exploited an unpatched flaw in Oracle PeopleSoft to break into enterprise systems, steal data, and demand payment to keep it private. The campaign hit universities hardest.\n\nGoogle's Mandiant attributes it to the group it tracks as UNC6240, and dates the activity between May 27 and June 9. Oracle did not publish its advisory until June 10, so the bug was a"
+  },
+  {
+    "title": "New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets",
+    "link": "https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html",
+    "published": "Thu, 11 Jun 2026 23:16:32 +0530",
+    "summary": "Two security teams have shown, in separate research published this week, that OpenClaw, the popular self-hosted AI agent, can be driven to run attacker-controlled code or hand over sensitive data through ordinary-looking inputs.\n\nImperva buried instructions inside shared contacts, vCards, and location pins that the agent executed without the victim ever seeing them. Varonis built a test agent on"
+  }
+]
