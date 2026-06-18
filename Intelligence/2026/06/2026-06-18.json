@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments",
+    "link": "https://thehackernews.com/2026/06/crypto-clipper-campaign-abuses-fake.html",
+    "published": "Wed, 17 Jun 2026 23:44:24 +0530",
+    "summary": "An unknown threat actor has been observed leveraging paid or promoted posts on legitimate news websites to drum up buzz for their warez, according to new findings from Check Point Research.\n\nThe threat actor also has at their disposal a dedicated WordPress phishing page that acts as the central hub, alongside GitHub and SourceForge projects promoted by fake accounts, a YouTube channel, and a"
+  },
+  {
+    "title": "Microsoft Confirms RoguePlanet Defender Zero-Day, Says Patch is in Development",
+    "link": "https://thehackernews.com/2026/06/microsoft-confirms-rogueplanet-defender_02022423645.html",
+    "published": "Wed, 17 Jun 2026 23:06:28 +0530",
+    "summary": "Microsoft has formally disclosed that it's working to release a patch to address a Defender zero-day codenamed RoguePlanet.\n\nThe vulnerability has now been assigned the CVE identifier CVE-2026-50656 (CVSS score: 7.8), with the tech giant describing it as a privilege escalation flaw.\n\n\"Microsoft is aware of an elevation of privilege in the Microsoft Malware Protection Engine in Microsoft Defender"
+  },
+  {
+    "title": "Junior Hacker Used Tailscale and OpenSSH to Keep Access After His C2 Went Offline",
+    "link": "https://thehackernews.com/2026/06/junior-hacker-used-tailscale-and.html",
+    "published": "Wed, 17 Jun 2026 21:30:56 +0530",
+    "summary": "A French-speaking attacker broke into a small French automotive business, planted a keylogger, and stole banking and email credentials.\n\nOrdinary stuff, until one move near the end.\n\nBefore his command-and-control server went dark, he installed OpenSSH and Tailscale on a victim's machine, building a way back in that did not run through the C2 at all. When the Havoc server went offline the next"
+  },
+  {
+    "title": "Adversarial Exposure Validation Turns Security Visibility into Confident Prioritization",
+    "link": "https://thehackernews.com/2026/06/adversarial-exposure-validation-turns.html",
+    "published": "Wed, 17 Jun 2026 20:28:00 +0530",
+    "summary": "For security teams, the findings never stop, but confidence in knowing which ones matter is becoming harder to maintain.\n\nThe problem is no longer visibility. It's validation. Security teams must decide which findings warrant action while operating under constant pressure and incomplete information. Increasingly, the challenge is not discovering potential risks. It is determining which risks"
+  },
+  {
+    "title": "Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats",
+    "link": "https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html",
+    "published": "Wed, 17 Jun 2026 19:21:58 +0530",
+    "summary": "Cybersecurity researchers have flagged a \"coordinated malware campaign\" on the JetBrains Marketplace that has published no less than 15 malicious plugins capable of exfiltrating artificial intelligence (AI) provider keys.\n\n\"Every plugin poses as an AI coding assistant built on DeepSeek and other large language models, offering chat, commit messages, code review, bug finding, and unit tests,\""
+  },
+  {
+    "title": "The Top 10 Attack Surface Exposures in 2026",
+    "link": "https://thehackernews.com/2026/06/the-top-10-attack-surface-exposures-in.html",
+    "published": "Wed, 17 Jun 2026 16:00:00 +0530",
+    "summary": "Breaches don't always start with a zero-day. An exposed admin panel can get brute-forced, or credentials reused from a previous attack. But when a vulnerability does drop — like MongoBleed earlier this year, which let attackers pull credentials and session tokens from server memory without authentication — anything internet-facing is immediately at risk.\n\nWith time-to-exploit now down to a"
+  },
+  {
+    "title": "144 Mastra npm Packages Compromised via Hijacked Contributor Account",
+    "link": "https://thehackernews.com/2026/06/144-mastra-npm-packages-compromised-via.html",
+    "published": "Wed, 17 Jun 2026 13:08:24 +0530",
+    "summary": "As many as 144 npm packages associated with the Mastra namespace (\"@mastra/*\"), a popular open-source JavaScript and TypeScript framework for building artificial intelligence (AI) applications, have been compromised as part of a software supply chain attack codenamed easy-day-js, per findings from Endor Labs, JFrog, SafeDep, Socket, and StepSecurity.\n\n\"A single npm account (ehindero)"
+  },
+  {
+    "title": "CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution",
+    "link": "https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html",
+    "published": "Wed, 17 Jun 2026 11:20:46 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting Widget Factory Joomla Content Editor (JCE) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nThe vulnerability, tracked as CVE-2026-48907 (CVSS score: 10.0), is a case of improper access control that could facilitate arbitrary"
+  },
+  {
+    "title": "Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting",
+    "link": "https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html",
+    "published": "Wed, 17 Jun 2026 00:35:41 +0530",
+    "summary": "A flaw in the Google Cloud Vertex AI SDK for Python let an attacker with no access to a victim's project hijack the victim's machine learning model upload and run code inside Google's serving infrastructure.\n\nPalo Alto Networks Unit 42, which found and reported the bug through Google's bug bounty program, calls the technique \"Pickle in the Middle\" and said it saw no exploitation in the wild."
+  },
+  {
+    "title": "ClickFix Campaigns Expand Malware Delivery With New Loaders and Fake Update Lures",
+    "link": "https://thehackernews.com/2026/06/clickfix-campaigns-expand-malware.html",
+    "published": "Tue, 16 Jun 2026 23:11:28 +0530",
+    "summary": "Cybersecurity researchers have flagged multiple ClickFix campaigns that deliver three malware loaders called BabaDeda Loader, Lorem Ipsum Loader, and Potemkin, per independent reports from Morphisec, BlueVoyant, and Huntress, respectively.\n\nAttacks involving BabaDeda Loader, observed in April 2026, have targeted education and financial organizations.\n\n\"Earlier BabaDeda activity was known for"
+  }
+]
