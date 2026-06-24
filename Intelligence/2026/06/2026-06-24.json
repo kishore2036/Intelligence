@@ -1,0 +1,62 @@
+[
+  {
+    "title": "FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation",
+    "link": "https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html",
+    "published": "Tue, 23 Jun 2026 23:50:49 +0530",
+    "summary": "A Russian-speaking initial access broker (IAB) driven by financial gain is assessed to be behind a large-scale credential-harvesting operation known as FortiBleed that has targeted over 430,000 FortiGate firewalls globally.\n\nThe campaign, active since February 2026, involves collecting credential lists, searching for exposed services, brute-forcing accessible systems, and deploying bespoke"
+  },
+  {
+    "title": "Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents",
+    "link": "https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html",
+    "published": "Tue, 23 Jun 2026 20:46:43 +0530",
+    "summary": "Security firm&nbsp;AIR&nbsp;built a fake AI agent skill, pushed it through a popular skill marketplace and an Instagram ad, and says it reached roughly 26,000 agents, including some on corporate accounts.\n\nEvery skill security scanner the firm tested it against marked it safe. The payload was harmless by design: it collected the user's email address and did nothing else.\n\nThe point was to show"
+  },
+  {
+    "title": "Trump Order Sets 2030 Deadline for Federal Post-Quantum Crypto Migration",
+    "link": "https://thehackernews.com/2026/06/trump-order-sets-2030-deadline-for.html",
+    "published": "Tue, 23 Jun 2026 20:46:40 +0530",
+    "summary": "President Trump signed an&nbsp;executive order on June 22&nbsp;setting hard deadlines for federal agencies to move high-value assets and high-impact systems to post-quantum cryptography.\n\nKey establishment must move by December 31, 2030; digital signatures by December 31, 2031. EO 14409 leaves national security systems on a separate track.\n\nThe deadlines matter because of a threat that does not"
+  },
+  {
+    "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns",
+    "link": "https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html",
+    "published": "Tue, 23 Jun 2026 19:52:03 +0530",
+    "summary": "GitHub is moving to strengthen software supply chain security by updating \"actions/checkout\" to block pwn request attacks that exploit the risky use of the \"pull_request_target workflow\" trigger to run malicious code with the workflow's full privileges.\n\nEffective June 18, 2026, the latest version of \"actions/checkout,\" the official GitHub action for checking out a repository into the"
+  },
+  {
+    "title": "Agentic AI: The Weapon That No Longer Needs a Warrior",
+    "link": "https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html",
+    "published": "Tue, 23 Jun 2026 17:00:00 +0530",
+    "summary": "Every weapon begins as an extension of the hand that holds it. The spear lengthened the reach of the arm. The bow sent the point flying without the throw. The rifle placed a man's death a quarter mile beyond his sight, and the aircraft carried that death across oceans. At each turn, the distance between the warrior and the wound grew wider, and yet one thing never moved: a human chose the target"
+  },
+  {
+    "title": "Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT",
+    "link": "https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html",
+    "published": "Tue, 23 Jun 2026 14:24:32 +0530",
+    "summary": "Cybersecurity researchers have discovered a set of malicious npm packages that are designed to deliver a Windows-based remote access trojan (RAT).\n\nThe list of identified packages, is below -\n\n\n  aes-decode-runner-pro (145 downloads)\n  postcss-minify-selector (256 downloads)\n  postcss-minify-selector-parser (615 downloads)\n\nAll the packages were published over the past month by an npm user named"
+  },
+  {
+    "title": "WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool",
+    "link": "https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html",
+    "published": "Tue, 23 Jun 2026 11:08:40 +0530",
+    "summary": "Direct messages sent via WhatsApp are being used to distribute malicious Visual Basic Script (VBScript) files that lead to the installation of legitimate Remote Monitoring and Management (RMM) software.\n\nPer findings from Kaspersky, the active campaign is targeting users of WhatsApp Desktop and WhatsApp Web across Malaysia, Brazil, India, Mexico, Singapore, the U.K., Spain, Taiwan, Australia,"
+  },
+  {
+    "title": "OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws",
+    "link": "https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html",
+    "published": "Tue, 23 Jun 2026 09:26:58 +0530",
+    "summary": "OpenAI on Monday said it's releasing an improved version of its GPT‑5.5‑Cyber model to trusted defenders as part of the Daybreak initiative&nbsp;the artificial intelligence (AI) company announced last month.\n\nCalling GPT‑5.5‑Cyber its \"strongest model yet for finding and helping patch software vulnerabilities,\" OpenAI said the model can \"sustain deeper analysis across large codebases\" to"
+  },
+  {
+    "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
+    "link": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html",
+    "published": "Mon, 22 Jun 2026 23:30:48 +0530",
+    "summary": "Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack after unknown threat actors managed to tamper with the official release channels and push backdoor code.\n\n\"Attackers compromised the vendor's build and distribution pipeline, injecting backdoor code into Pro plugin releases distributed through official licensed update channels,\" Wordfence said in an analysis"
+  },
+  {
+    "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
+    "link": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
+    "published": "Mon, 22 Jun 2026 21:59:00 +0530",
+    "summary": "A heap over-read in the Squid web proxy can leak another user's cleartext HTTP request, including any credentials or session tokens it carries, to anyone already allowed to send traffic through the same proxy.\n\nThe bug traces to a 1997 FTP-parsing change and is still live in Squid's default configuration. Researchers at Calif.io&nbsp;disclosed it in June&nbsp;and named it Squidbleed ("
+  }
+]
