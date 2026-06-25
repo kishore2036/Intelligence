@@ -1,0 +1,62 @@
+[
+  {
+    "title": "CISA Warns Critical Lantronix EDS5000 Flaw Is Being Actively Exploited",
+    "link": "https://thehackernews.com/2026/06/cisa-warns-critical-lantronix-eds5000.html",
+    "published": "Wed, 24 Jun 2026 22:49:18 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation of a critical security flaw impacting Lantronix EDS5000 Series devices, urging Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by June 26, 2026.\n\nThe vulnerability in question is CVE-2025-67038 (CVSS score: 9.8), a code injection flaw that could result in the execution"
+  },
+  {
+    "title": "Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered",
+    "link": "https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html",
+    "published": "Wed, 24 Jun 2026 21:29:50 +0530",
+    "summary": "A coordinated law enforcement operation, in partnership with private sector companies, including Bitdefender, Bitsight, ESET, and Microsoft, has resulted in the takedown of criminal infrastructure powering Amadey and StealC.\n\n\"The main common goal was to disrupt the 'assembly lines' cybercriminals use to launch ransomware, financial fraud, and attacks on critical infrastructure,\" Europol said in"
+  },
+  {
+    "title": "Cordyceps CI/CD Flaws Expose 300+ GitHub Repositories to Supply-Chain Attacks",
+    "link": "https://thehackernews.com/2026/06/cordyceps-cicd-flaws-expose-300-github.html",
+    "published": "Wed, 24 Jun 2026 18:18:11 +0530",
+    "summary": "Cybersecurity researchers have flagged a new class of CI/CD workflow weakness that allows attackers to hijack workflows and compromise open-source supply chains.\n\nThe \"critical exploitable pattern\" has been codenamed Cordyceps by Novee Security. The issue can allow full attacker control of repositories at dozens of the largest organizations worldwide, including Microsoft, Google, Apache, and"
+  },
+  {
+    "title": "Dawn of the Apex Agentic Adversary",
+    "link": "https://thehackernews.com/2026/06/dawn-of-apex-agentic-adversary.html",
+    "published": "Wed, 24 Jun 2026 17:00:00 +0530",
+    "summary": "We are standing at the end of an era we never thought to mourn: the era of human-speed threats.\n\nFor years, cybersecurity moved to a rhythm organizations could follow. A researcher found a bug, a CVE was cataloged, a vendor navigated a patch cycle, and weeks or even months later, a fix was deployed. In this era, dwell time was measured in days, sometimes weeks. We are now approaching an"
+  },
+  {
+    "title": "DoJ Seizes Huione Cloud Account Tied to Cyber Scam Money Laundering",
+    "link": "https://thehackernews.com/2026/06/doj-seizes-huione-cloud-account-tied-to.html",
+    "published": "Wed, 24 Jun 2026 14:25:12 +0530",
+    "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a cloud computing account put to use by subsidiaries of Cambodia-based corporate conglomerate HuiOne Group, as the Treasury unveiled fresh sanctions against nine individuals and 26 entities linked to Prince Group.\n\n\"These subsidiaries are alleged to have assisted individuals and organizations in transferring proceeds of"
+  },
+  {
+    "title": "Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root",
+    "link": "https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html",
+    "published": "Wed, 24 Jun 2026 12:20:38 +0530",
+    "summary": "Threat actors have begun to exploit a recently disclosed critical security flaw impacting Cisco Unified Communications Manager (Unified CM) and Unified Communications Manager Session Management Edition (Unified CM SME).\n\nThe vulnerability, tracked as CVE-2026-20230 (CVSS score: 8.6), is a case of improper input validation for specific HTTP requests that could allow an unauthenticated, remote"
+  },
+  {
+    "title": "FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation",
+    "link": "https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html",
+    "published": "Tue, 23 Jun 2026 23:50:49 +0530",
+    "summary": "A Russian-speaking initial access broker (IAB) driven by financial gain is assessed to be behind a large-scale credential-harvesting operation known as FortiBleed that has targeted over 430,000 FortiGate firewalls globally.\n\nThe campaign, active since February 2026, involves collecting credential lists, searching for exposed services, brute-forcing accessible systems, and deploying bespoke"
+  },
+  {
+    "title": "Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents",
+    "link": "https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html",
+    "published": "Tue, 23 Jun 2026 20:46:43 +0530",
+    "summary": "Security firm&nbsp;AIR&nbsp;built a fake AI agent skill, pushed it through a popular skill marketplace and an Instagram ad, and says it reached roughly 26,000 agents, including some on corporate accounts.\n\nEvery skill security scanner the firm tested it against marked it safe. The payload was harmless by design: it collected the user's email address and did nothing else.\n\nThe point was to show"
+  },
+  {
+    "title": "Trump Order Sets 2030 Deadline for Federal Post-Quantum Crypto Migration",
+    "link": "https://thehackernews.com/2026/06/trump-order-sets-2030-deadline-for.html",
+    "published": "Tue, 23 Jun 2026 20:46:40 +0530",
+    "summary": "President Trump signed an&nbsp;executive order on June 22&nbsp;setting hard deadlines for federal agencies to move high-value assets and high-impact systems to post-quantum cryptography.\n\nKey establishment must move by December 31, 2030; digital signatures by December 31, 2031. EO 14409 leaves national security systems on a separate track.\n\nThe deadlines matter because of a threat that does not"
+  },
+  {
+    "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns",
+    "link": "https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html",
+    "published": "Tue, 23 Jun 2026 19:52:03 +0530",
+    "summary": "GitHub is moving to strengthen software supply chain security by updating \"actions/checkout\" to block pwn request attacks that exploit the risky use of the \"pull_request_target workflow\" trigger to run malicious code with the workflow's full privileges.\n\nEffective June 18, 2026, the latest version of \"actions/checkout,\" the official GitHub action for checking out a repository into the"
+  }
+]
