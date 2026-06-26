@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability",
+    "link": "https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html",
+    "published": "Thu, 25 Jun 2026 19:42:52 +0530",
+    "summary": "An analysis of a popular Google Chrome ad block extension for YouTube has uncovered the ability to execute arbitrary JavaScript code.\n\nAccording to Island, the extension, named Adblock for YouTube (ID: cmedhionkhpnakcndndgjdbohmhepckk), has more than 10 million installs and carries a Featured badge on the Chrome Web Store.\n\nThe extension description states that it allows users to prevent web"
+  },
+  {
+    "title": "ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories",
+    "link": "https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html",
+    "published": "Thu, 25 Jun 2026 17:54:43 +0530",
+    "summary": "It’s dumb out there again.\n\nThis week has the usual smell of prod on fire and nobody wanting to admit who left the door open — old creds still working, trusted apps doing sketchy crap, browser tricks jumping the fence, and “normal” workflows turning into phishing pipes because apparently email was not enough hell already.\n\nThe worst part is how cheap some of it feels. Not elite. Not cinematic."
+  },
+  {
+    "title": "Surviving the Mythos Era: Richard Bejtlich on the Case for NDR",
+    "link": "https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html",
+    "published": "Thu, 25 Jun 2026 16:47:31 +0530",
+    "summary": "Despite the abundance of telemetry at analysts’ disposal, many security operations teams struggle to answer a few basic questions during incident investigation: What happened? What evidence do we have? How do we know we’re seeing it all, in context?\n\nAnswering these questions requires teams to go beyond alerts, the most common basis for initial triage. But investigations (and their outcomes)"
+  },
+  {
+    "title": "New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis",
+    "link": "https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html",
+    "published": "Thu, 25 Jun 2026 14:53:03 +0530",
+    "summary": "A previously undocumented Rust-based macOS implant and information stealer has been found to embed a prompt injection payload designed to trick a malware analyst's artificial intelligence (AI) tools and trick it into aborting or refusing an analysis of the artifact.\n\nThe malware has been codenamed Gaslight owing to this deceptive behavior. It's been assessed with high confidence that the tool is"
+  },
+  {
+    "title": "New Mistic Backdoor Linked to KongTuke in ClickFix and ModeloRAT Campaigns",
+    "link": "https://thehackernews.com/2026/06/new-mistic-backdoor-linked-to-kongtuke.html",
+    "published": "Thu, 25 Jun 2026 14:24:37 +0530",
+    "summary": "A new, stealthy backdoor named Mistic has been deployed as part of suspected financially motivated attacks aimed at multiple organizations spanning insurance, education, IT, and professional services sectors since April 2026.\n\nAccording to Symantec and Carbon Black's Threat Hunter Team, the backdoor, also tracked as MLTBackdoor, is said to be linked to an initial access broker (IAB) named"
+  },
+  {
+    "title": "Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 Exploited to Gain Root Access",
+    "link": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-zero-day-cve-2026.html",
+    "published": "Thu, 25 Jun 2026 11:16:54 +0530",
+    "summary": "An unknown threat actor exploited a recently disclosed high-severity security flaw impacting Cisco Catalyst SD-WAN as a zero-day at least two months before it was publicly disclosed, according to new findings from Google-owned Mandiant.\n\nThe vulnerability, tracked as CVE-2026-20245 (CVSS score: 7.8), allows an authenticated, local attacker to execute arbitrary commands with elevated privileges"
+  },
+  {
+    "title": "CISA Warns Critical Lantronix EDS5000 Flaw Is Being Actively Exploited",
+    "link": "https://thehackernews.com/2026/06/cisa-warns-critical-lantronix-eds5000.html",
+    "published": "Wed, 24 Jun 2026 22:49:18 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation of a critical security flaw impacting Lantronix EDS5000 Series devices, urging Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by June 26, 2026.\n\nThe vulnerability in question is CVE-2025-67038 (CVSS score: 9.8), a code injection flaw that could result in the execution"
+  },
+  {
+    "title": "Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered",
+    "link": "https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html",
+    "published": "Wed, 24 Jun 2026 21:29:50 +0530",
+    "summary": "A coordinated law enforcement operation, in partnership with private sector companies, including Bitdefender, Bitsight, ESET, and Microsoft, has resulted in the takedown of criminal infrastructure powering Amadey and StealC.\n\n\"The main common goal was to disrupt the 'assembly lines' cybercriminals use to launch ransomware, financial fraud, and attacks on critical infrastructure,\" Europol said in"
+  },
+  {
+    "title": "Cordyceps CI/CD Flaws Expose 300+ GitHub Repositories to Supply-Chain Attacks",
+    "link": "https://thehackernews.com/2026/06/cordyceps-cicd-flaws-expose-300-github.html",
+    "published": "Wed, 24 Jun 2026 18:18:11 +0530",
+    "summary": "Cybersecurity researchers have flagged a new class of CI/CD workflow weakness that allows attackers to hijack workflows and compromise open-source supply chains.\n\nThe \"critical exploitable pattern\" has been codenamed Cordyceps by Novee Security. The issue can allow full attacker control of repositories at dozens of the largest organizations worldwide, including Microsoft, Google, Apache, and"
+  },
+  {
+    "title": "Dawn of the Apex Agentic Adversary",
+    "link": "https://thehackernews.com/2026/06/dawn-of-apex-agentic-adversary.html",
+    "published": "Wed, 24 Jun 2026 17:00:00 +0530",
+    "summary": "We are standing at the end of an era we never thought to mourn: the era of human-speed threats.\n\nFor years, cybersecurity moved to a rhythm organizations could follow. A researcher found a bug, a CVE was cataloged, a vendor navigated a patch cycle, and weeks or even months later, a fix was deployed. In this era, dwell time was measured in days, sometimes weeks. We are now approaching an"
+  }
+]
