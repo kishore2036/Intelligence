@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters",
+    "link": "https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html",
+    "published": "Thu, 02 Jul 2026 01:10:06 +0530",
+    "summary": "Argo CD, a widely used tool for deploying software to Kubernetes, has an unpatched flaw in its repo-server component that lets an unauthenticated attacker run code, provided they can reach the component's internal network port.\n\nSynacktiv, which found the bug, says it can lead to a full cluster takeover. There is no fix and no CVE. The firm says it reported the flaw to Argo CD's maintainers in"
+  },
+  {
+    "title": "19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges",
+    "link": "https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html",
+    "published": "Thu, 02 Jul 2026 00:58:07 +0530",
+    "summary": "A teenager accused of belonging to the hacking group Scattered Spider has been extradited from Finland to face U.S. charges of conspiracy, computer intrusion, and fraud, the U.S. Department of Justice&nbsp;announced&nbsp;on July 1.\n\nPeter Stokes, 19, a dual U.S. and Estonian citizen, appeared in a Chicago federal court on June 30, where a judge ordered him held in custody.\n\nFinnish police"
+  },
+  {
+    "title": "SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT",
+    "link": "https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html",
+    "published": "Wed, 01 Jul 2026 23:23:06 +0530",
+    "summary": "Unknown threat actors are leveraging the ScreenConnect remote access tool as a way to deploy and execute AsyncRAT.\n\nKaspersky said the activity is part of a \"massive, multi-domain, multi-language\" campaign that distributes malicious installer archives hosted on spoofed websites.\n\nThese installers masquerade as popular software like OBS Studio, DNS Jumper, DS4Windows, and Bandicam, among others."
+  },
+  {
+    "title": "VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer",
+    "link": "https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html",
+    "published": "Wed, 01 Jul 2026 22:48:50 +0530",
+    "summary": "Cybersecurity researchers have flagged a new multi-stage malware delivery attack chain that uses social engineering and Blogger pages to deliver an information stealer called PureLogs.\n\nThe activity has been codenamed VEIL#DROP by Securonix. It's suspected that the initial payloads are distributed either via spear-phishing or a drive-by compromise, which occurs when an unsuspecting user lands on"
+  },
+  {
+    "title": "Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures",
+    "link": "https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html",
+    "published": "Wed, 01 Jul 2026 20:56:55 +0530",
+    "summary": "A Brazilian banking trojan called Ousaban is going after Windows users who bank in Spain and Portugal.&nbsp;Fortinet's FortiGuard Labs&nbsp;identified the campaign in May 2026.\n\nIt opens with a phishing PDF disguised as a corrupted file, checks that the visitor is really in Spain or Portugal, and hides its real payload inside an image.\n\nThe goal is the usual one: steal banking logins and take"
+  },
+  {
+    "title": "Adobe Patches 7 CVSS 10.0 Flaws in ColdFusion and Campaign Classic",
+    "link": "https://thehackernews.com/2026/07/adobe-patches-7-cvss-100-flaws-in.html",
+    "published": "Wed, 01 Jul 2026 20:55:46 +0530",
+    "summary": "Adobe has released patches for multiple maximum-severity security flaws impacting Adobe ColdFusion and Adobe Campaign Classic.\n\nThe ColdFusion updates \"resolves critical and important vulnerabilities that could lead to arbitrary code execution, privilege escalation, arbitrary file system read, and security feature bypass,\" Adobe said in an alert released Tuesday.\n\nThe vulnerabilities are listed"
+  },
+  {
+    "title": "Critical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands",
+    "link": "https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html",
+    "published": "Wed, 01 Jul 2026 20:12:54 +0530",
+    "summary": "Two flaws in Cursor, an AI code editor, could let a single, ordinary-looking prompt break out of the editor's safety sandbox and run any command on a developer's computer. There is no click to fall for and no approval box to ignore.\n\nCato AI Labs&nbsp;found the pair and named them DuneSlide. They are tracked as&nbsp;CVE-2026-50548&nbsp;and&nbsp;CVE-2026-50549, both rated 9.8 out of 10 (or 9.3"
+  },
+  {
+    "title": "Progress Kemp LoadMaster Pre-Auth RCE Flaw Faces Active Exploitation Attempts",
+    "link": "https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html",
+    "published": "Wed, 01 Jul 2026 19:26:18 +0530",
+    "summary": "A recently disclosed critical security flaw impacting Progress Kemp LoadMaster is seeing active exploitation attempts, according to an advisory from eSentire's Threat Response Unit (TRU).\n\nThe Canadian cybersecurity company said it identified exploitation attempts targeting CVE-2026-8037 (CVSS score: 9.6), an operating system (OS) command injection flaw that could be exploited to achieve"
+  },
+  {
+    "title": "AI-Generated Browser Ransomware Abuses Chromium API on Windows and Android",
+    "link": "https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html",
+    "published": "Wed, 01 Jul 2026 18:29:19 +0530",
+    "summary": "Cybersecurity researchers have flagged a new malware artifact generated using DeepSeek that constructed a novel attack path combining \"unrealistic browser-malware concepts with a real browser capability\" to turn it into a working ransomware technique that runs entirely inside the browser on both Windows and Android devices.\n\n\"This is the first documented case where a frontier AI model"
+  },
+  {
+    "title": "2026 Cybersecurity Assessment: The Gap Between Awareness and Resilience",
+    "link": "https://thehackernews.com/2026/07/2026-cybersecurity-assessment-gap.html",
+    "published": "Wed, 01 Jul 2026 17:00:00 +0530",
+    "summary": "Organizations have never had greater awareness of cyber risk. Yet turning that awareness into operational resilience has never been more challenging. The 2026 Bitdefender Cybersecurity Assessment confirms this is the case, as this year's findings reveal a series of surprising contradictions.\n\nHere are a few examples, based on the independent survey of 1,200 IT and cybersecurity professionals"
+  }
+]
