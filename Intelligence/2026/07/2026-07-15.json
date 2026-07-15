@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack",
+    "link": "https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html",
+    "published": "Wed, 15 Jul 2026 01:55:47 +0530",
+    "summary": "Microsoft shipped its largest Patch Tuesday on record today, and two of the fixes close holes that attackers are already exploiting. The release covers 622 of Microsoft's own CVEs by its&nbsp;Security Update Guide&nbsp;count, more than triple&nbsp;June's previous high of around 200.\n\nThose two live bugs are the ones to grab first. Microsoft credits incident responders for both. Both are"
+  },
+  {
+    "title": "SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data",
+    "link": "https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html",
+    "published": "Tue, 14 Jul 2026 23:47:57 +0530",
+    "summary": "SAP has rolled out updates to address multiple vulnerabilities as part of its July 2026 security updates, including a critical flaw in SAP NetWeaver Application Server ABAP.\n\nThe vulnerability in question is CVE-2026-44747 (CVSS score: 9.9), an out-of-bounds write flaw that allows an authenticated attacker to leverage logical errors in memory management to cause a memory corruption that could"
+  },
+  {
+    "title": "Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads",
+    "link": "https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html",
+    "published": "Tue, 14 Jul 2026 22:57:23 +0530",
+    "summary": "Any other browser extension that can run a script on claude.ai can still trigger Claude for Chrome tasks aimed at your Gmail, your latest Google Doc and its comments, and your Calendar.\n\nBoth this and ClaudeBleed need a rogue extension that can already run a script on claude.ai; the difference is scope. Anthropic restricted the arbitrary-prompt path in May as part of its response to the&nbsp;"
+  },
+  {
+    "title": "LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts",
+    "link": "https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html",
+    "published": "Tue, 14 Jul 2026 22:22:37 +0530",
+    "summary": "Cybersecurity researchers have flagged a previously undocumented Rust-based remote access trojan (RAT) codenamed LabubaRAT that masquerades as NVIDIA software to blend into target environments.\n\n\"LabubaRAT creates a reusable foothold for hands-on activity,\" Blackpoint Cyber researchers Sam Decker and Nevan Beal said in an analysis published today. \"Once deployed, it can profile the host,"
+  },
+  {
+    "title": "RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata",
+    "link": "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html",
+    "published": "Tue, 14 Jul 2026 19:18:07 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of two access control-related flaws impacting the RabbitMQ message broker service that could allow attackers to leak OAuth client secrets, expose enterprise messaging infrastructure to takeover risks, and bypass tenant boundaries.\n\nMiggo's security team, which discovered and reported the flaws, said one \"leaks the broker's confidential OAuth"
+  },
+  {
+    "title": "11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot",
+    "link": "https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html",
+    "published": "Tue, 14 Jul 2026 18:16:18 +0530",
+    "summary": "Cybersecurity researchers have discovered 11 old, Microsoft-signed, Unified Extensible Firmware Interface (UEFI) applications that could be abused to bypass Secure Boot on most systems using the modern firmware standard.\n\n\"An attacker exploiting one of these vulnerable applications can execute untrusted code during system boot, enabling deployment of malicious UEFI bootkits or other malware,\""
+  },
+  {
+    "title": "Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks",
+    "link": "https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html",
+    "published": "Tue, 14 Jul 2026 17:25:00 +0530",
+    "summary": "Researchers at KU Leuven tested 85 of the most popular crypto wallets that run as browser extensions and found that the wallets themselves leak enough to link and track the people using them.\n\nThe way these wallets talk to websites and blockchain servers can tie a person's separate addresses together and let outsiders follow them from site to site. And on a site that already holds a name or"
+  },
+  {
+    "title": "How Pentera Turns AI Security Workflows into Validation Engines",
+    "link": "https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html",
+    "published": "Tue, 14 Jul 2026 17:00:00 +0530",
+    "summary": "AI security agents are starting to influence real security decisions. They summarize findings, prioritize remediation, recommend next steps, and help teams move faster. But most still rely on fragmented risk signals: scanner output, severity scores, threat intelligence, configuration findings, and exposure data.\n\nThat fragmentation matters because attackers do not move through environments one"
+  },
+  {
+    "title": "OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials",
+    "link": "https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html",
+    "published": "Tue, 14 Jul 2026 16:51:35 +0530",
+    "summary": "At least two distinct threat actors are weaponizing a novel evasion technique called OAuth client ID spoofing in cloud campaigns, while slipping past telemetry.\n\nThe activity allows users to enumerate user accounts and validate stolen credentials in Microsoft Entra ID environments, without ever generating a successful sign-in event that would otherwise alert defenders. And bad actors have begun"
+  },
+  {
+    "title": "Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read",
+    "link": "https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html",
+    "published": "Tue, 14 Jul 2026 14:32:48 +0530",
+    "summary": "xAI's Grok Build coding CLI was uploading entire Git repositories, full commit history and all, to a Google Cloud Storage bucket run by xAI, not just the files a coding task needed.\n\nA researcher publishing as cereblab, testing version 0.2.93, captured one of those uploads, cloned the git bundle out of the intercepted request, and pulled back a file the agent had been told in plain terms not"
+  }
+]
