@@ -1,0 +1,62 @@
+[
+  {
+    "title": "TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development",
+    "link": "https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html",
+    "published": "Thu, 16 Jul 2026 00:13:08 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a previously unreported Internet-of-Things (IoT) botnet framework dubbed TuxBot v3 Evolution that shows signs of being developed with assistance from a large language model (LLM), albeit with not so successful results.\n\n\"While the AI complied with their request to generate botnet code, it included a safety disclaimer that the developer failed"
+  },
+  {
+    "title": "OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps",
+    "link": "https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html",
+    "published": "Wed, 15 Jul 2026 21:00:30 +0530",
+    "summary": "A malware framework called OkoBot has been running on Windows machines since April 2025, and one of its modules is built to con hardware wallet owners out of their recovery phrase.\n\nOn an infected PC, the request comes from inside the wallet's own desktop software. Sometimes it waits until you plug the device in first. The page is malicious. The app around it is the real one you installed, and"
+  },
+  {
+    "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
+    "link": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html",
+    "published": "Wed, 15 Jul 2026 18:48:53 +0530",
+    "summary": "Mozilla has released updates to address two critical flaws in Firefox for which it warned that exploit code has been published.\n\nThe vulnerabilities are listed below -\n\n\n  CVE-2026-15718, an invalid pointer in the JavaScript: WebAssembly component\n  CVE-2026-15719, a site isolation in the DOM: Navigation component\n\n\"We are aware that exploit code for this is public, however we are not aware of"
+  },
+  {
+    "title": "SASE Has An AI Blind Spot. Inspecting Packets Is No Longer Enough.",
+    "link": "https://thehackernews.com/2026/07/sase-has-ai-blind-spot-inspecting.html",
+    "published": "Wed, 15 Jul 2026 17:20:01 +0530",
+    "summary": "For years, routing traffic through cloud proxies was good enough. Then work moved to the browser, AI entered the workflow, and the inspection model stopped keeping up.\n\nEnterprise workflows now live across SaaS applications, browsers, and an expanding ecosystem of generative AI tools, unsanctioned browser extensions, and autonomous agents. Employees routinely paste intellectual property into"
+  },
+  {
+    "title": "Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday",
+    "link": "https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html",
+    "published": "Wed, 15 Jul 2026 16:37:07 +0530",
+    "summary": "Security researcher Chaotic Eclipse (aka Nightmare-Eclipse) has released a new proof-of-concept (PoC) exploit called LegacyHive.\n\nIt has been described as a Windows User Profile Service arbitrary hive load elevation of privileges vulnerability. The Windows User Profile Service, also referred to as ProfSvc, is a core system component that manages user accounts and environments.\n\n\"The PoC requires"
+  },
+  {
+    "title": "New Webinar: Closing the Approval Gap in AI-Era Ad Tech",
+    "link": "https://thehackernews.com/2026/07/new-webinar-closing-approval-gap-in-ai.html",
+    "published": "Wed, 15 Jul 2026 16:36:57 +0530",
+    "summary": "A single approved marketing tag can quietly load fourth-party code your security team has never seen, granting full access to your forms, customer data, and checkout pages.\n\nThis on-demand webinar reveals how this Approval Gap forms, and gives your team the blueprint to close it before an auditor, regulator, or attacker finds it first.\n\nThe Reality of the Approval Gap\n\nIt's a pattern every"
+  },
+  {
+    "title": "Cursor Flaw Lets Malicious Cloned Repositories Trigger Windows Code Execution",
+    "link": "https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html",
+    "published": "Wed, 15 Jul 2026 16:25:22 +0530",
+    "summary": "Open a repository in Cursor&nbsp;on Windows and, if a file named&nbsp;git.exe&nbsp;is sitting in the project root, Cursor runs it. No click, no approval dialog, no warning that anything in the folder is about to execute.\n\nWhatever that binary does, it does as you, with your source, your SSH keys and your cloud tokens. Cursor keeps re-running it for as long as the project stays open.\n\nNo prompt"
+  },
+  {
+    "title": "Compromised AsyncAPI npm Packages Deliver Multi-Stage Botnet Malware",
+    "link": "https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html",
+    "published": "Wed, 15 Jul 2026 14:46:13 +0530",
+    "summary": "Four compromised npm packages in the @asyncapi namespace have been observed distributing a multi-stage botnet loader, according to findings from OX Security, SafeDep, Socket, and StepSecurity.\n\nThe affected packages are listed below -\n\n\n  @asyncapi/generator-helpers@1.1.1\n  @asyncapi/generator-components@0.7.1\n  @asyncapi/generator@3.3.1\n  @asyncapi/specs(v6.11.2, v6.11.2-alpha.1)\n\n\"The"
+  },
+  {
+    "title": "Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands",
+    "link": "https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html",
+    "published": "Wed, 15 Jul 2026 11:00:21 +0530",
+    "summary": "SonicWall has warned of active exploitation of two zero-day vulnerabilities impacting Secure Mobile Access (SMA) 1000 series appliances, one of which could be exploited to achieve arbitrary command execution.\n\nThe vulnerabilities are listed below -\n\n\n  CVE-2026-15409 (CVSS score: 10.0) - A Server-side request forgery (SSRF) vulnerability that a remote unauthenticated attacker could exploit to"
+  },
+  {
+    "title": "Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack",
+    "link": "https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html",
+    "published": "Wed, 15 Jul 2026 01:55:47 +0530",
+    "summary": "Microsoft shipped its largest Patch Tuesday on record today, and two of the fixes close holes that attackers are already exploiting. The release covers 622 of Microsoft's own CVEs by its&nbsp;Security Update Guide&nbsp;count, more than triple&nbsp;June's previous high of around 200.\n\nThose two live bugs are the ones to grab first. Microsoft credits incident responders for both. Both are"
+  }
+]
