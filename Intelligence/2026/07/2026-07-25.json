@@ -1,0 +1,62 @@
+[
+  {
+    "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
+    "link": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html",
+    "published": "Fri, 24 Jul 2026 20:42:35 +0530",
+    "summary": "The North Korean threat actors behind the ClickFix-style campaigns that employ typosquatted Zoom and Microsoft Teams domains have been found to operate an active phishing kit to impersonate the videoconferencing platforms in social engineering campaigns designed to deliver malware.\n\n\"BlueNoroff has operationalised trust abuse by combining compromised industry contacts, social engineering, wallet"
+  },
+  {
+    "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
+    "link": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html",
+    "published": "Fri, 24 Jul 2026 19:45:21 +0530",
+    "summary": "Researchers H0j3n and Aniq Fakhrul published a working exploit on July 24 that lets a low-privileged Active Directory user obtain a certificate for a Domain Controller and authenticate as that machine.\n\nThey codenamed the flaw Certighost. Because Domain Controller accounts carry directory replication rights, the resulting Kerberos credential can retrieve the krbtgt secret through DCSync."
+  },
+  {
+    "title": "ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link",
+    "link": "https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html",
+    "published": "Fri, 24 Jul 2026 17:23:55 +0530",
+    "summary": "Cybersecurity researchers have disclosed a critical vulnerability in OpenAI's ChatGPT Workspace Agents that could have allowed a single phishing link to stealthily build, authorize, and deploy an autonomous artificial intelligence (AI) agent inside a victim's organization.\n\nThe vulnerability has been codenamed AgentForger by Zenity Labs. The issue has since been addressed by OpenAI as of June 8,"
+  },
+  {
+    "title": "Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers",
+    "link": "https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html",
+    "published": "Fri, 24 Jul 2026 17:15:17 +0530",
+    "summary": "A crafted SVG submitted to Bing's image search ran commands as NT AUTHORITY\\SYSTEM on Microsoft's production image-processing workers, and as root on the Linux machines in the same fleet.\n\nXBOW's testing got the same result on workers across different hosts and network ranges, so the problem sat in Bing's image tier, not on one bad machine. Microsoft issued two critical CVEs, CVE-2026-32194 and"
+  },
+  {
+    "title": "Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do",
+    "link": "https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html",
+    "published": "Fri, 24 Jul 2026 17:00:00 +0530",
+    "summary": "AI agent security is moving through a familiar maturity curve: adoption, then visibility, and finally, control. But what we've collectively discovered is that enforcing least privilege for AI agents is harder than we ever imagined. This is why there are so many approaches, from prompt filtering to identity-layer access controls. Where we've collectively landed is that understanding the intent of"
+  },
+  {
+    "title": "Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry",
+    "link": "https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html",
+    "published": "Fri, 24 Jul 2026 15:45:29 +0530",
+    "summary": "Someone installed a popular AI assistant on a rented server, switched off the setting that makes it ask permission before running risky commands, and pointed it at Thailand's Ministry of Finance, which runs the country's treasury and tax collection.\n\nThe agent then worked through the ministry's network on its own, checking hosts for ways to gain root access, hunting through file systems, and"
+  },
+  {
+    "title": "Golden Chickens Resurfaces With Four New Malware Families and Modular Implants",
+    "link": "https://thehackernews.com/2026/07/golden-chickens-resurfaces-with-four.html",
+    "published": "Fri, 24 Jul 2026 15:39:24 +0530",
+    "summary": "The threat actors behind the Golden Chickens malware-as-a-service (MaaS) ecosystem have resurfaced with four new malware families, indicating that the operators are showing no signs of stopping despite extensive public disclosures into their inner workings.\n\nThe malware families in question are: TinyEgg, ChonkyChicken, a modularized variant of ChonkyChicken, and a modified web browser credential"
+  },
+  {
+    "title": "NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats",
+    "link": "https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html",
+    "published": "Fri, 24 Jul 2026 13:11:06 +0530",
+    "summary": "Eight security flaws in NodeBB went public on Wednesday, along with the code to exploit them. Aikido Security rates all eight as high severity and says its AI pentest agents found them in a six-hour review of the forum software's source code.\n\nEvery version before 4.14.0 is affected. NodeBB has fixed them all, and administrators should be on 4.14.2.\n\nThe simplest one takes a settings change. A"
+  },
+  {
+    "title": "Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say",
+    "link": "https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html",
+    "published": "Fri, 24 Jul 2026 12:28:27 +0530",
+    "summary": "Redis shipped seven security releases on July 23 after researchers published authenticated RCE PoCs for stock Redis 6.2.22, 7.4.9, 8.6.4, and 8.8.0.\n\nAll four chains require RESTORE. The Streams chains also need EVAL and XGROUP; the 8.8.0 chain needs EVAL and the bundled RedisBloom module. Redis says the underlying memory flaws may lead to remote code execution.\n\nRedis 6.2.23, 7.2.15, and 7.4.10"
+  },
+  {
+    "title": "Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks",
+    "link": "https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html",
+    "published": "Fri, 24 Jul 2026 12:20:57 +0530",
+    "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of a new campaign that involves the use of a malicious program that's dressed up as a Notepad++ plugin to compromise Windows systems.\n\nThe activity has been attributed by the agency to a threat cluster it tracks as UAC-0099, a Russia-aligned group that has previously observed weaponizing security flaws in WinRAR software to"
+  }
+]
