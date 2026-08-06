@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
+    "link": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
+    "published": "Thu, 06 Aug 2026 00:14:31 +0530",
+    "summary": "A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence tracked on infrastructure it had been watching for weeks.\n\nThe server-side gate hides the malicious page from crawlers and sandboxes while presenting selected Mac users with a fake software download. Microsoft"
+  },
+  {
+    "title": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes",
+    "link": "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html",
+    "published": "Thu, 06 Aug 2026 00:03:47 +0530",
+    "summary": "OpenAI said it disrupted a Cambodia-based scam operation that used its generative artificial intelligence (AI) chatbot ChatGPT to facilitate a wide range of investment, romance, gambling, and law enforcement impersonation schemes.\n\nTo that end, it banned a coordinated network of ChatGPT accounts likely originating from Southeast Asia and operating from the city of Poipet, a region with extensive"
+  },
+  {
+    "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
+    "link": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html",
+    "published": "Wed, 05 Aug 2026 21:06:03 +0530",
+    "summary": "Cybersecurity researchers have discovered more than half-a-dozen services advertisements for illegal access to artificial intelligence (AI) models on underground cybercrime forums and messaging platforms.\n\nOne such service, Poison Claude, claims to offer access to Anthropic's large language models (LLMs), including Opus 4.8, Opus 4.7, Opus 4.6, and Sonnet 4.6.\n\n\"Advertisements for Poison Claude"
+  },
+  {
+    "title": "Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports",
+    "link": "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html",
+    "published": "Wed, 05 Aug 2026 20:44:05 +0530",
+    "summary": "Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer. Paperclip is an open-source control plane for teams of artificial intelligence (AI) agents, and both paths rely on importing a malicious agent and starting it.\n\nA third flaw could expose sensitive data and control-plane details through application programming interface (API) routes"
+  },
+  {
+    "title": "Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug",
+    "link": "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html",
+    "published": "Wed, 05 Aug 2026 19:57:30 +0530",
+    "summary": "HashiCorp, Veeam, and the Django Software Foundation have patched 11 vulnerabilities across Terraform MCP Server, Veeam Service Provider Console, and Django.\n\nThe three most serious:\n\n\n  An unauthenticated flaw in Veeam's console that hands over a managed agent's credentials, rated 9.5\n  A cross-tenant flaw in HashiCorp's MCP server that lets one user's Terraform token be reused for later users'"
+  },
+  {
+    "title": "Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain",
+    "link": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
+    "published": "Wed, 05 Aug 2026 19:11:27 +0530",
+    "summary": "Cybersecurity researchers have flagged an evolution of the EtherHiding blockchain-based command-and-control (C2) technique that conceals the C2 server IP address inside a made-up destination address of a completely empty Ethereum transfer.\n\nThe new dead drop resolver approach, observed in two trojanized npm packages \"bianira-ui\" and \"fluid-type-ui,\" has been codenamed NullReceiver by"
+  },
+  {
+    "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
+    "link": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
+    "published": "Wed, 05 Aug 2026 17:13:27 +0530",
+    "summary": "A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured distributions, and a public exploit ships with pre-built records for roughly 800 kernel builds.\n\nThe vulnerability, tracked as CVE-2026-64531 (CVSS score: 7.8) and codenamed OVSwrap by its discoverer, was disclosed by security researcher Asim"
+  },
+  {
+    "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk",
+    "link": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
+    "published": "Wed, 05 Aug 2026 17:13:19 +0530",
+    "summary": "Kali365 is turning a legitimate Microsoft login into a gateway to corporate data.\n\nThe phishing kit targets US organizations with attacker-controlled device codes that victims approve on Microsoft's real authentication page. Once access and refresh tokens are issued, attackers may retain access to email, documents, and cloud resources, creating a direct path to data exposure, financial fraud,"
+  },
+  {
+    "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
+    "link": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
+    "published": "Wed, 05 Aug 2026 16:34:23 +0530",
+    "summary": "An unauthenticated attacker can read any file the service account can access on Gitea, the self-hosted Git platform, in versions 1.22.1 through 1.27.0. No login, no repository write access. A public repository and crafted Org-mode markup are enough. The flaw is fixed in Gitea 1.27.1.\n\nThe file-read flaw is tracked as CVE-2026-59774, rated Critical with a CVSS score of 9.8, and received its"
+  },
+  {
+    "title": "Leaked n8n API Tokens Exposed Live Instances to Credential Theft",
+    "link": "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html",
+    "published": "Wed, 05 Aug 2026 16:05:29 +0530",
+    "summary": "GitGuardian researchers found 321 n8n instances accepting API tokens exposed in public GitHub commits and demonstrated four ways attackers could use them to access sensitive data and downstream credentials without exploiting a software vulnerability.\n\nWe scanned public GitHub commits for exposed n8n API tokens and identified 4,576 unique credentials associated with 1,255 hostnames. Of the 896"
+  }
+]
