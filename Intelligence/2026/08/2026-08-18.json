@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
+    "link": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
+    "published": "Tue, 18 Aug 2026 02:33:04 +0530",
+    "summary": "GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauthenticated attacker to remotely modify or delete public projects and user data.\n\nThe flaw, tracked as CVE-2026-19478, has been rated Critical by GitLab and assigned a CVSS score of 9.4.\n\nReleased on"
+  },
+  {
+    "title": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection",
+    "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
+    "published": "Tue, 18 Aug 2026 00:14:17 +0530",
+    "summary": "Cybersecurity researchers at Wiz&nbsp;have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public&nbsp;snowflakedb/snowflake-connector-net repository that it said could be exploited through a crafted GitHub issue to execute commands in a workflow containing internal Jira credentials.\n\nThe issue was present in&nbsp;.github/workflows/jira_issue.yml, which ran when a"
+  },
+  {
+    "title": "Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads",
+    "link": "https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html",
+    "published": "Mon, 17 Aug 2026 23:52:09 +0530",
+    "summary": "A critical security flaw has been disclosed in Forminator Forms, a WordPress plugin with more than 600,000 active installations, that could be exploited to achieve arbitrary code execution on susceptible sites.\n\nThe vulnerability, tracked as CVE-2026-15748, is rated 9.8 out of 10.0 on the CVSS scoring system. It was discovered and reported by a security researcher who goes by the online alias \""
+  },
+  {
+    "title": "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic",
+    "link": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
+    "published": "Mon, 17 Aug 2026 23:11:06 +0530",
+    "summary": "Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel.\n\nRussian cybersecurity company Kaspersky said its ongoing monitoring of the threat activity cluster since December 2025 has led to the discovery of previously unreported components that expand the"
+  },
+  {
+    "title": "⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
+    "link": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
+    "published": "Mon, 17 Aug 2026 18:53:51 +0530",
+    "summary": "The expensive attacks are not always the clever ones.\n\nThis week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problems kept spreading farther than the original compromise. A lot of it came down to access that was already there and defenses that assumed nobody would look too closely.\n\nSo, nothing magical. Just a"
+  },
+  {
+    "title": "How MCP Servers Can Expose Enterprise Secrets",
+    "link": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
+    "published": "Mon, 17 Aug 2026 17:28:00 +0530",
+    "summary": "MCP servers can expose enterprise secrets through plaintext configuration files, over-permissioned access and prompt injection, often before security teams even know the server is running. As more organizations adopt AI agents into their systems, that exposure can silently become a major gap in MCP server security. The Model Context Protocol (MCP) allows AI agents to reach the tools and data,"
+  },
+  {
+    "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
+    "link": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
+    "published": "Mon, 17 Aug 2026 16:22:34 +0530",
+    "summary": "Security researchers at SSD Secure Disclosure have published a two-stage exploit chain that achieves full Android kernel access on devices running Unisoc modem firmware through a VoLTE video call, with no fix from the chipset maker.\n\nThe&nbsp;advisory, published August 17, 2026, is the second stage of a chain that began in March 2026, when SSD disclosed&nbsp;remote code execution&nbsp;in the"
+  },
+  {
+    "title": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
+    "link": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
+    "published": "Mon, 17 Aug 2026 14:59:55 +0530",
+    "summary": "Cybersecurity researchers have flagged a previously undocumented Linux botnet family dubbed Evooo1Bot that derives its core functionality from the Mirai botnet source code and is equipped to turn internet-facing devices into SOCKS proxies.\n\n\"While the malware reuses the DDoS engine from the publicly leaked Mirai source code, it extends the original framework with numerous capabilities, including"
+  },
+  {
+    "title": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware",
+    "link": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
+    "published": "Mon, 17 Aug 2026 13:06:19 +0530",
+    "summary": "Cybersecurity researchers have attributed the exploitation of a newly patched security flaw in Broadcom VMware vCenter to a suspected China-nexus advanced persistent threat (APT).\n\nThe attacks involve the exploitation of CVE-2026-59310 (CVSS score: 9.8), a severe directory-traversal vulnerability in the VMware vCenter server that could be weaponized by a malicious actor to execute arbitrary code"
+  },
+  {
+    "title": "SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch",
+    "link": "https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html",
+    "published": "Sat, 15 Aug 2026 14:08:46 +0530",
+    "summary": "A maximum-severity security vulnerability impacting SAP Commerce Cloud is witnessing active exploitation efforts.\n\nThe vulnerability, tracked as CVE-2026-58231, is rated 10.0 on the CVSS scoring system. It relates to an instance of insufficient authorization checks and input validation.\n\n\"SAP Commerce Cloud allows an unauthenticated attacker to abuse a default authentication client and submit"
+  }
+]
