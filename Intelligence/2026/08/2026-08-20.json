@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
+    "link": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
+    "published": "Thu, 20 Aug 2026 00:32:40 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a&nbsp;remote Spectre attack&nbsp;against Cloudflare Workers that leaked a JSON Web Token (JWT) from a co-located Worker in the production environment at up to 12 bits per second, 360 times the rate of an earlier attack demonstrated in 2021.\n\nThe end-to-end experiment used an attacker Worker and a victim Worker controlled by the researchers,"
+  },
+  {
+    "title": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
+    "link": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html",
+    "published": "Wed, 19 Aug 2026 23:36:44 +0530",
+    "summary": "OpenAI on Tuesday revealed that it paused reinforcement learning (RL) training for its latest artificial intelligence (AI) models for two weeks while it shored up additional defenses and increased the scope of its monitoring to avert another Hugging Face-like incident.\n\n\"As models become more capable, the risks associated with developing and testing them internally also grow,\" the AI company"
+  },
+  {
+    "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
+    "link": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
+    "published": "Wed, 19 Aug 2026 18:42:17 +0530",
+    "summary": "A previously unreported cyber espionage operation dubbed SilkParasite has been observed targeting government bodies in Central Asia.\n\nThe intrusion set makes use of seven remote access tool (RAT) families, five of which have never been previously documented: DriveSilkRAT, CookiETagRAT, NomadRAT, GoginRAT, and NodeEdgeRAT. SilkParasite, first discovered in late 2025, is assessed to be a"
+  },
+  {
+    "title": "Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P",
+    "link": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html",
+    "published": "Wed, 19 Aug 2026 17:04:28 +0530",
+    "summary": "Cybersecurity researchers at Hunt.io have disclosed details of a campaign that they say compromised more than 14,530 Dahua devices between June 17 and July 22, 2026, using credential attacks, two authentication-bypass flaws, and a peer-to-peer (P2P) relay technique.\n\nThe activity, codenamed Operation CameraSwarm, was reconstructed from a 407 MB exposed working directory containing 2,616 files"
+  },
+  {
+    "title": "Phishing 3.0: The Fight Moves to Agent Versus Agent",
+    "link": "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html",
+    "published": "Wed, 19 Aug 2026 17:00:00 +0530",
+    "summary": "Most email defenses still do the job they did a decade ago. Scan the message, look for something malicious, block it. That worked when the danger sat in the payload, a bad link or an attachment. It stopped working when the danger moved into the message's intent, and it is failing now that the sender is no longer a person.\n\nFrom Bad Content to Bad Intent to AI on Both Sides\n\nPhishing 1.0 was bad"
+  },
+  {
+    "title": "StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data",
+    "link": "https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html",
+    "published": "Wed, 19 Aug 2026 16:55:28 +0530",
+    "summary": "Cybersecurity researchers have flagged a global cybercrime operation that abuses thousands of hacked WordPress websites as infrastructure to disseminate malware, commandeer infected hosts, store stolen documents, screenshots, and activity logs created to track the status of the activity.\n\n\"The operation doesn't rely on a single piece of malware, but on a whole toolkit of criminal software"
+  },
+  {
+    "title": "Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation",
+    "link": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html",
+    "published": "Wed, 19 Aug 2026 16:31:48 +0530",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four critical vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, stating they are being exploited in the wild.\n\nThe shortcomings added to the KEV catalog are listed below -\n\n\n  CVE-2026-65400 (CVSS score: 9.8) - An improper authentication vulnerability impacting Apple macOS that could allow an"
+  },
+  {
+    "title": "Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure",
+    "link": "https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html",
+    "published": "Wed, 19 Aug 2026 11:31:53 +0530",
+    "summary": "Microsoft Defender Experts have linked more than 30 web domains to MacSync Stealer, a macOS-focused information stealer, after correlating recurring endpoint and network behaviors across changing infrastructure, tracing the malware from payload retrieval through data collection, staging, and exfiltration.\n\nThe tech giant said it required multiple endpoint and network behaviors to align before"
+  },
+  {
+    "title": "Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data",
+    "link": "https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html",
+    "published": "Wed, 19 Aug 2026 11:09:25 +0530",
+    "summary": "A JavaServer Pages (JSP) web shell deployed following the exploitation of a critical security flaw in PTC Windchill and FlexPLM servers is specifically designed for the enterprise Product Lifecycle Management (PLM) software, according to new findings from ReliaQuest.\n\nThe cybersecurity company characterized the web shell as a fully equipped extortion platform capable of mapping sensitive vault"
+  },
+  {
+    "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
+    "link": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html",
+    "published": "Tue, 18 Aug 2026 23:17:22 +0530",
+    "summary": "Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps and other information available to the victim's Copilot session.\n\nThe flaws, which the researchers collectively named CoSnitch, turn in part on an undocumented URL parameter that the assistant itself surfaced"
+  }
+]
