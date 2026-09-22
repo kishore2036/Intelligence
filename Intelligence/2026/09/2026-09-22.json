@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
+    "link": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
+    "published": "Mon, 21 Sep 2026 23:01:01 +0530",
+    "summary": "A fake LastPass Authenticator installer offered on GitHub installs a Windows kernel driver that shuts off antivirus and other security software before a password stealer runs if a victim downloads and runs it, researchers at LastPass and Delphos Labs said on September 17.\n\nMicrosoft's own hardware-compatibility program signs the driver, scored zero detections on VirusTotal when researchers"
+  },
+  {
+    "title": "Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto",
+    "link": "https://thehackernews.com/2026/09/contagious-interview-campaign.html",
+    "published": "Mon, 21 Sep 2026 22:49:00 +0530",
+    "summary": "The North Korean threat actors behind the Contagious Interview campaign have compromised at least 30,000 devices located in more than 100 countries and siphoned funds or account credentials from over 7,000 cryptocurrency wallets, according to a new joint cybersecurity advisory.\n\nThe primary targets of the campaign are individual web designers, engineers, and specialists in cryptocurrency,"
+  },
+  {
+    "title": "Google Fined €403 Million Over GDPR Violations Tied to Location Data",
+    "link": "https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html",
+    "published": "Mon, 21 Sep 2026 22:27:31 +0530",
+    "summary": "Google has been&nbsp;fined €403 million&nbsp;for breaking the EU's data protection law, the GDPR, in the way three of its features handled people's location data from May 2018 to February 2020.\n\nIreland's Data Protection Commission (DPC), Google's lead regulator in the EU, also ordered the company to make its processing comply with the law within 6 months. The DPC has not said publicly which"
+  },
+  {
+    "title": "⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
+    "link": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html",
+    "published": "Mon, 21 Sep 2026 19:54:13 +0530",
+    "summary": "A browser. A plugin. A package. A login screen. Normal stuff. That is basically the problem this week.\n\nThe trouble keeps showing up inside things people already trust: code that takes a bad turn, old payloads coming back, exposed systems, weak checks, fake fixes, and attack paths that look almost too easy. Even the research side is getting messy, with more findings, more automation, and not"
+  },
+  {
+    "title": "TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data",
+    "link": "https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html",
+    "published": "Mon, 21 Sep 2026 19:45:40 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of a new campaign dubbed TASK#STOMP that delivers a PowerShell backdoor designed to harvest sensitive data from compromised hosts.\n\nThe backdoor \"automatically harvests and exfiltrates business documents, watches the filesystem for new files in real time, steals Wi-Fi passwords and clipboard contents, takes screenshots, and accepts arbitrary"
+  },
+  {
+    "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
+    "link": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
+    "published": "Mon, 21 Sep 2026 14:09:38 +0530",
+    "summary": "Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript.\n\n\"ChainScript has appeared under multiple build names, including ComponentTask33, UpdateDigital, HostShared, and OrchidViolet66, while presenting itself as Spotify, Zoom Workplace, and Microsoft Teams software,\" Blackpoint Adversary Pursuit Group (APG)"
+  },
+  {
+    "title": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors",
+    "link": "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html",
+    "published": "Mon, 21 Sep 2026 11:36:44 +0530",
+    "summary": "The North Korean threat actor known as Jade Sleet has been attributed to the compromise of an India-based \"much smaller organization\" in the information technology (IT) services industry, once again highlighting how the adversary continues to target developers to breach target networks.\n\nCybersecurity company SentinelOne, which disclosed details of the activity, said it involved the use of Apple"
+  },
+  {
+    "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+    "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
+    "published": "Sun, 20 Sep 2026 00:06:53 +0530",
+    "summary": "Three researchers at the security firm&nbsp;Hacktron&nbsp;used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository.\n\nThe chain began with a bug in the software that runs OpenAI's public help forum and moved through a weakness in OpenAI's own login system.\n\nThis was security research,"
+  },
+  {
+    "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
+    "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
+    "published": "Sat, 19 Sep 2026 18:58:48 +0530",
+    "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly.\n\nBut that still does not answer the question that matters: Can it actually be exploited in your environment?\n\nMythos-class AI is compressing the time between disclosure and working exploitation, while many security programs still validate risk on weekly or quarterly cycles. The dangerous gap is no longer just technical. It is"
+  },
+  {
+    "title": "Identity Visibility in 2026: The Foundation of Identity Security",
+    "link": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
+    "published": "Sat, 19 Sep 2026 18:58:41 +0530",
+    "summary": "Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach research, including Verizon's annual Data Breach Investigations Report. This article explains what identity visibility means in IAM, why cloud and multicloud environments complicate it, which capabilities matter in"
+  }
+]
