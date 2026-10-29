@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
+    "link": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
+    "published": "Wed, 28 Oct 2026 23:38:33 +0530",
+    "summary": "The China-nexus cyber espionage group known as Volt Typhoon has been attributed to a now-disrupted covert access network dubbed Silent Train that has been put to use for zero-day exploitation and strategic access.\n\n\"First identified in late 2023, Silent Train uses rotating chains of compromised SOHO, IoT, and enterprise infrastructure,\" Lumen Technologies Black Lotus Labs said in a report shared"
+  },
+  {
+    "title": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
+    "link": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
+    "published": "Wed, 28 Oct 2026 22:38:09 +0530",
+    "summary": "Third-party Android app stores can now apply to Google for permission to install apps with one tap, without Android's usual confirmation screens, and to update them in the background.\n\nTo qualify, a store must pass identity checks and send Google&nbsp;its full catalog, along with every new app and update, for ongoing malware scanning. Approved stores get the features from December 1, but only on"
+  },
+  {
+    "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
+    "link": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
+    "published": "Wed, 28 Oct 2026 21:53:34 +0530",
+    "summary": "A chain of logic flaws, with no memory corruption, can turn a malicious web page into code running on a Windows computer outside Microsoft Edge's sandbox, a security researcher has shown.\n\nOrange Tsai of DEVCORE published the full method on October 28, five months after the chain won $175,000 at the&nbsp;Pwn2Own Berlin contest&nbsp;in May. Microsoft fixed the Edge bugs the day after the contest,"
+  },
+  {
+    "title": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
+    "link": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
+    "published": "Wed, 28 Oct 2026 21:32:45 +0530",
+    "summary": "Cybersecurity researchers have disclosed details of what appears to be an artificial intelligence (AI)-assisted attack orchestrated by a suspected China-nexus threat actor that has leveraged the PHP2Shell vulnerabilities to breach exposed systems.\n\nThe activity, which was observed on October 25, 2026, involved an attacker combining PHP2Shell with a kernel privilege escalation exploit to root"
+  },
+  {
+    "title": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
+    "link": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
+    "published": "Wed, 28 Oct 2026 18:18:03 +0530",
+    "summary": "Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber.\n\nThe vulnerability in question is CVE-2026-101767 (CVSS score: 9.8) , a case of improper authentication in the Oracle Application Object Library of Oracle E-Business Suite. It was patched by Oracle last week as part of its Critical"
+  },
+  {
+    "title": "Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers",
+    "link": "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html",
+    "published": "Wed, 28 Oct 2026 17:20:00 +0530",
+    "summary": "A critical 16-year-old flaw in EDK II, the open-source code that most hardware makers use to build UEFI firmware, can allow an attacker to run code on a machine before its operating system loads, but only while the machine is booting over the network.\n\nUEFI firmware is the software that runs first when a computer is switched on, before the operating system. An attacker who can reach the machine"
+  },
+  {
+    "title": "Wazuh and AI for Enhanced SOC Workflows",
+    "link": "https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html",
+    "published": "Wed, 28 Oct 2026 17:00:00 +0530",
+    "summary": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden within large datasets, and support faster decision-making. Cybersecurity has experienced a similar transformation. While attackers employ AI to automate"
+  },
+  {
+    "title": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
+    "link": "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
+    "published": "Wed, 28 Oct 2026 16:45:51 +0530",
+    "summary": "Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary code execution, security feature bypass, and privilege escalation.\n\nThe list of eight vulnerabilities is as follows -\n\n\n  CVE-2026-104351 (CVSS score: 9.9) - A code injection vulnerability that could lead to arbitrary code execution."
+  },
+  {
+    "title": "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed",
+    "link": "https://thehackernews.com/2026/10/american-organizations-under-attack.html",
+    "published": "Wed, 28 Oct 2026 16:00:00 +0530",
+    "summary": "Modern phishing campaigns can compromise American businesses without relying on traditional credential theft. Attackers can abuse legitimate cloud services, authentication mechanisms, and trusted business workflows to gain access to corporate accounts while leaving fewer obvious signs behind.\n\nANY.RUN's analysis of Skyw4lker, a device code phishing campaign primarily targeting U.S. organizations"
+  },
+  {
+    "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
+    "link": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
+    "published": "Wed, 28 Oct 2026 13:45:07 +0530",
+    "summary": "An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, the company said in its latest report.\n\nThe exploits were built in the lab after the model was prompted, not seen in any real attack, and Anthropic reported every flaw to the vendor first, so all of them are already patched. One proof of"
+  }
+]
